@@ -1,0 +1,525 @@
+.nutraCase {
+	margin-top: -3px;
+}
+
+.mtmin6{
+	margin-top: -6px;
+}
+
+.nutraCase .techIcons {
+	min-width: 60px;
+	min-height: 60px;
+	max-width: 60px;
+	max-height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 30px;
+	background-color: #fff;
+	border: 1px solid #dfdfdf;
+	border-radius: 50%
+}
+
+.nutraCase .techRows li {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	color: #000;
+	margin-bottom: 26px
+}
+
+.nutraCase .techRows li div:first-child {
+	margin-right: 10px
+}
+
+.nutraCase .techRows li p {
+	padding-bottom: 0;
+	margin-bottom: 0;
+	font-weight: 300
+}
+
+.nutraCase .techRows li h3 {
+	font-size: 20px;
+	font-weight: 600
+}
+
+.nutraCase .fs22 {
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 1.5;
+	color: #000
+}
+
+@media(max-width:567px) {
+	.nutraCase .fs22 {
+		font-size: 16px!important
+	}
+}
+
+.nutraCase .fs18 {
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 1.5;
+	color: #000
+}
+
+@media(max-width:567px) {
+	.nutraCase .fs18 {
+		font-size: 16px
+	}
+}
+
+.nutraCase .featuresDiv ul {
+	padding-left: 20px;
+	padding-top: 0
+}
+
+.nutraCase .featuresDiv ul li {
+	list-style-type: disc;
+	font-size: 30px;
+	padding-bottom: 10px;
+	color: #000;
+	font-weight: 600;
+	line-height: 1.5
+}
+
+.nutraCase .relPos {
+	right: 0;
+	top: 80px
+}
+
+@media(max-width:991px) {
+	.nutraCase .relPos {
+		position: initial!important;
+		text-align: center
+	}
+}
+
+.nutraCase .relPos1 {
+	left: 0;
+	top: 80px
+}
+
+@media(max-width:991px) {
+	.nutraCase .relPos1 {
+		position: initial!important;
+		text-align: center
+	}
+}
+
+.nutraCase .techSpecs li {
+	display: flex;
+	align-items: flex-end;
+	color: #fff;
+	margin-bottom: 16px
+}
+
+.nutraCase .techSpecs li div:first-child {
+	margin-right: 10px
+}
+
+.nutraCase .techSpecs li p {
+	padding-bottom: 0;
+	font-weight: 400;
+	font-size: 18px
+}
+
+.nutraCase .techSpecs li h3 {
+	font-size: 24px;
+	font-weight: 700;
+	direction: ltr
+}
+
+@media(min-width:768px) and (max-width:991px) {
+	.nutraCase .container {
+		width: 730px
+	}
+}
+
+@media(max-width:991px) {
+	.nutraCase .hideSmall {
+		display: none
+	}
+}
+
+.nutraCase sup {
+	font-size: 11px
+}
+
+.nutraCase .techRows li {
+	flex-wrap: inherit
+}
+
+@media(min-width:767px) and (max-width:991px) {
+	.nutraCase .techRows li {
+		float: left;
+		width: 50%
+	}
+}
+
+.nutraCase .tech {
+	color: #fff;
+	padding: 0 30px
+}
+
+.nutraCase .tech .titleDiv {
+	margin-bottom: 40px
+}
+
+.nutraCase .tech h4 {
+	font-weight: 600;
+	margin-bottom: 10px
+}
+
+.nutraCase .tech p {
+	font-weight: 500;
+	padding-bottom: 10px
+}
+
+.nutraCase .tech ul {
+	list-style-type: disc!important;
+	padding-top: 0!important;
+	padding-bottom: 20px!important
+}
+
+.nutraCase .tech ul li {
+	list-style-type: disc!important
+}
+
+.nutraCase .tech .leftDiv {
+	padding-left: 50px
+}
+
+.nutraCase .row {
+	margin: 0!important
+}
+
+.nutraCase .titleDiv h1 {
+	font-size: 60px;
+	text-align: right;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	font-style: normal;
+	color: #000;
+	margin-top: 3rem
+}
+
+.nutraCase .appText {
+	padding-top: 20px;
+	color: #243638;
+	font-size: 19px;
+	line-height: 2
+}
+
+.nutraCase .disFlex {
+	display: flex
+}
+
+.nutraCase .nutra_bg {
+	background-image: url(../../assets/images/casestudy/nutranext/bg.png);
+	min-height: 800px;
+	background-size: cover;
+	background-position: bottom;
+	padding-top: 40px;
+	padding-bottom: 50px;
+	position: relative;
+	color: #000;
+	margin-top: -6px;
+}
+
+.nutraCase .nutra_bg .techRows li {
+	color: #000
+}
+
+.nutraCase .nutra_bg .tagText {
+	color: #000;
+	font-size: 19px
+}
+
+@media(max-width:567px) {
+	.nutraCase .nutra_bg .tagText {
+		font-size: 16px
+	}
+}
+
+@media(min-width:992px) {
+	.nutraCase .nutra_bg .leftMac {
+		margin-top: -20%
+	}
+}
+
+.nutraCase .nutra_bg .flPad {
+	padding: 40px 0 20px
+}
+
+@media(min-width:992px) {
+	.nutraCase .nutra_bg .flPad {
+		padding: 110px 0 20px
+	}
+}
+
+@media(min-width:992px) {
+	.nutraCase .screenDiv {
+		top: -280px
+	}
+}
+
+.nutraCase .curvyBg {
+	background-image: url(../../assets/images/casestudy/nutranext/gradBg.png);
+	min-height: 200px;
+	background-size: cover;
+	background-position: left top;
+	padding: 50px 0;
+	color: #000
+}
+
+.nutraCase .curvyBg .mw170 {
+	max-width: 170px;
+	width: 100%
+}
+
+.nutraCase .ssBg {
+	background-color: #9ad71c;
+	padding: 50px 0;
+	position: relative;
+	overflow: hidden
+}
+
+.nutraCase .ssBg .ssOne img {
+	max-width: 1400px;
+	width: 100%
+}
+
+@media(min-width:992px) {
+	.nutraCase .ssBg .ssTwo {
+		margin-top: -10%
+	}
+}
+
+.nutraCase .ssBg .ssTwo img {
+	max-width: 1200px;
+	width: 100%
+}
+
+@media(min-width:992px) {
+	.nutraCase .ssBg .ssThree {
+		margin-top: -10%
+	}
+}
+
+.nutraCase .ssBg .ssThree img {
+	max-width: 900px;
+	width: 100%;
+	position: relative;
+	z-index: 9
+}
+
+.nutraCase .ssBg .botLeaves {
+	position: absolute!important;
+	bottom: -50px;
+	margin: 0 auto;
+	width: 100%;
+	text-align: center
+}
+
+.nutraCase .ssBg .botLeaves img {
+	max-width: 1400px
+}
+
+.nutraCase .featuresDiv {
+	min-height: 700px;
+	padding: 50px 0;
+	// direction: rtl;
+	background: #41b4be;
+	overflow: hidden
+}
+
+.nutraCase .featuresDiv .row{
+	margin: 0 -15px !important;
+}
+
+.nutraCase .featuresDiv .backShad {
+	border-radius: 0 9px 9px 0;
+	position: relative;
+	overflow: hidden;
+	background-color: #fff;
+	box-shadow: 0 0 18px 0 rgba(0, 0, 0, .34)
+}
+
+.nutraCase .featuresDiv .backShad .fruitsBg {
+	background-size: cover;
+	position: relative;
+	min-height: 600px;
+	padding: 50px;
+	z-index: 9
+}
+
+@media(max-width:567px) {
+	.nutraCase .featuresDiv .backShad .fruitsBg {
+		padding: 20px
+	}
+}
+
+.nutraCase .featuresDiv .backShad .fruites .relPos1 {
+	top: -10px;
+	object-fit: cover;
+	height: 120%;
+	width: 100%;
+	position: absolute!important
+}
+
+.nutraCase .featuresDiv ul {
+	padding-top: 20px;
+	padding-right: 35px;
+	position: relative
+}
+
+.nutraCase .featuresDiv ul li {
+	list-style-type: disc;
+	padding-bottom: 10px;
+	color: #000;
+	font-weight: 500;
+	line-height: 1.5;
+	font-size: 18px
+}
+
+@media(max-width:567px) {
+	.nutraCase .featuresDiv ul li {
+		font-size: 16px
+	}
+}
+
+.nutraCase .featuresDiv .noDisc {
+	text-align: right
+}
+
+.nutraCase .featuresDiv .noDisc li {
+	list-style-type: none!important
+}
+
+.nutraCase .featuresDiv .noDisc li::before {
+	background-image: url(../../assets/images/casestudy/nutranext/discs.svg)!important;
+	background-size: 15px!important;
+	height: 15px!important;
+	width: 15px!important;
+	margin-left: 20px!important;
+	position: absolute!important;
+	right: -37px!important;
+	top: 7px!important
+}
+
+.nutraCase .featuresDiv ul {
+	list-style: none;
+	padding-left: 30px;
+	margin-bottom: 20px
+}
+
+.nutraCase .featuresDiv ul li {
+	padding-bottom: 15px;
+	position: relative
+}
+
+.nutraCase .featuresDiv ul li::before {
+	background-size: 15px;
+	height: 15px;
+	width: 15px;
+	margin-left: 20px;
+	position: absolute;
+	left: -45px;
+	top: 0;
+	background-image: url(../../assets/images/casestudy/nutranext/next.svg);
+	content: ""
+}
+
+.nutraCase .featuresDiv .withDisc li::before {
+	background-image: none!important
+}
+
+.nutraCase .techBlack {
+	background: #000;
+	padding: 50px 10px;
+	position: relative
+}
+
+.nutraCase .techBlack .titleDiv h1 {
+	color: #fff;
+	text-align: center;
+	margin-bottom: 3rem
+}
+
+.nutraCase .techBlack .slantDiv {
+	position: absolute;
+	right: 0;
+	top: 35%;
+	transform: rotate(90deg);
+	opacity: .2
+}
+
+.nutraCase .techBlack .muscleDiv img {
+	margin-top: 30px;
+	max-width: 300px;
+	width: 100%
+}
+
+@media(min-width:992px) {
+	.nutraCase .techBlack .muscleDiv img {
+		margin-top: 100px
+	}
+}
+
+.nutraCase .techBlack h3 {
+	margin: 25px 0 15px;
+	font-weight: 400!important;
+	position: relative;
+	font-size: 18px!important
+}
+
+@media(min-width:568px) {
+	.nutraCase .techBlack h3 {
+		font-size: 21px!important
+	}
+}
+
+.nutraCase .techBlack h3::before {
+	background-image: url(../../assets/images/casestudy/nutranext/yellowball.svg);
+	content: '';
+	background-size: 15px;
+	background-repeat: no-repeat;
+	height: 15px;
+	width: 15px;
+	margin-left: 20px;
+	position: absolute;
+	left: -45px;
+	top: 5px
+}
+
+.nutraCase .techBlack li {
+	display: block!important
+}
+
+.nutraCase .techBlack .propUl {
+	padding-left: 50px
+}
+
+.nutraCase .techBlack .propUl li {
+	position: relative;
+	line-height: 1.5
+}
+
+.nutraCase .techBlack .propUl li::before {
+	background-image: url(../../assets/images/casestudy/nutranext/greenball.svg);
+	content: '';
+	background-size: 15px;
+	background-repeat: no-repeat;
+	height: 15px;
+	width: 15px;
+	margin-left: 20px;
+	position: absolute;
+	left: -45px;
+	top: 5px
+}
+
+.nutraCase .techRows li {
+	flex-wrap: nowrap;
+	color: #fff
+}

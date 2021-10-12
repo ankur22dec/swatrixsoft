@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.165" height="69.292" viewBox="0 0 56.165 69.292">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.41" x2="0.5" y2="2.248" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.302"/>
+    </linearGradient>
+  </defs>
+  <g id="magento-stop" transform="translate(0.002 -0.167)">
+    <ellipse id="Ellipse_242" data-name="Ellipse 242" cx="2.808" cy="2.814" rx="2.808" ry="2.814" transform="translate(25.273 63.83)" fill="#f77c7c"/>
+    <path id="Path_1999" data-name="Path 1999" d="M23.6,70.279C10.218,69.335,0,64.226,0,58.068,0,51.238,12.573,45.7,28.081,45.7s28.081,5.538,28.081,12.367c0,6.14-10.162,11.232-23.485,12.2-3.894.8-4.6,2.64-4.6,2.64a7.949,7.949,0,0,0-4.48-2.629Z" transform="translate(0 -10.016)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Path_2000" data-name="Path 2000" d="M23.6,55.969a28.081,28.081,0,1,1,9.076-.019,8.707,8.707,0,0,0-4.6,6S26.307,56.919,23.6,55.969Z" fill="#f77c7c" fill-rule="evenodd"/>
+    <g id="magento" transform="translate(264.465 -329.593)">
+      <path id="Path_434" data-name="Path 434" d="M-237.018,381.127l-9.739-6.117a.7.7,0,0,1-.343-.612v-9.421l8.271-5.016a.708.708,0,0,1,.759,0l7.708,4.625a.73.73,0,0,1,.367.636v11.5a.7.7,0,0,1-.343.612l-5.9,3.793A.751.751,0,0,1-237.018,381.127Z" transform="translate(0 -9.894)" fill="#fff" opacity="0.5"/>
+      <g id="Group_289" data-name="Group 289" transform="translate(-247.1 346.75)">
+        <path id="Path_435" data-name="Path 435" d="M-246.513,364.748h0a.6.6,0,0,1-.587-.587V353.418a.769.769,0,0,1,.343-.636l9.764-5.922a.708.708,0,0,1,.759,0l9.763,5.922a.71.71,0,0,1,.343.636V364.16a.6.6,0,0,1-.587.587h0a.6.6,0,0,1-.587-.587V354.079a.769.769,0,0,0-.343-.636l-8.589-5.212a.708.708,0,0,0-.759,0l-8.589,5.212a.709.709,0,0,0-.343.636V364.16A.6.6,0,0,1-246.513,364.748Z" transform="translate(247.1 -346.75)" fill="#fff"/>
+      </g>
+      <g id="Group_290" data-name="Group 290" transform="translate(-240.909 356.673)">
+        <path id="Path_436" data-name="Path 436" d="M-217.909,401.86l-3.548-2.2a.7.7,0,0,1-.343-.612V387.887a.6.6,0,0,1,.587-.587h0a.6.6,0,0,1,.587.587v10.522a.761.761,0,0,0,.367.636l2.374,1.395a.708.708,0,0,0,.759,0l2.4-1.493a.7.7,0,0,0,.343-.612l.024-10.449a.6.6,0,0,1,.587-.587h0a.6.6,0,0,1,.587.587v11.158a.7.7,0,0,1-.343.612l-3.573,2.227A.742.742,0,0,1-217.909,401.86Z" transform="translate(221.8 -387.3)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

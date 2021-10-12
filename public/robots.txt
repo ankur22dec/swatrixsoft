@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /blog/518-cmrx-admn-protected-area-2oiq/
+Disallow: /thank-you.html
+
+Disallow: /success-application-portfolio.html
+Disallow: /couchshopr-success-story.html
+Disallow: /enterprise-application-portfolio.html
+Disallow: /mobile-application-portfolio.html
+Disallow: /web-application-portfolio.html
+Disallow: /idomoo-web-application.html
+Disallow: /checkin-mobile-application.html
+Disallow: /little-arrow-shopify-web-application.html
+Disallow: /bqual-web-application.html
+Disallow: /comivo-web-mobile-application.html
+Disallow: /brookaire-web-application.html
+Disallow: /festi-mobile-application.html
+Disallow: /mini-mcghee-web-application.html
+Disallow: /better-tools-web-application.html
+Disallow: /easydays-mobile-application.html
+
+Disallow: /dapper-mobile-application.html
+Disallow: /audiometry-mobile-application.html
+
+Sitemap: https://www.cmarix.com/sitemap.xml
+Sitemap: https://www.cmarix.com/blog/blogsitemap_index.xml

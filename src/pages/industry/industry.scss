@@ -1,0 +1,303 @@
+$color-pink-light: #FFE6E6;
+$color-pink-dark: #FFB4BC;
+$color-green-light: #d2f5ee;
+$color-green-dark: #A0E4D5;
+$color-yellow-light: #FFEFC6;
+$color-yellow-dark: #FFD45E;
+.cmr-expertise {
+    margin: 100px 0;
+    @media screen and (max-width: 992px) {
+        margin: 50px 0;
+    }
+    .flex-num-desc {
+        display: flex;
+        align-items: flex-start;
+        .plate-num {
+            background-image: url(../../assets/images/elements/num-one.svg);
+            font-family: Lato;
+            font-weight: 900;
+            font-size: 20px;
+            text-align: left;
+            color: #1d1e31;
+            min-width: 60px;
+            min-height: 60px;
+            background-size: 75px;
+            background-position: 12% 90%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 10px;
+        }
+        h4 {
+            font-family: 'Mont', sans-serif;
+            font-weight: 900;
+            font-size: 24px;
+            line-height: 1.5;
+            text-align: left;
+            color: #1d1e31;
+            padding-top: 12px;
+        }
+        p {
+            font-family: Lato;
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 30px;
+            text-align: left;
+            color: #001033;
+            margin: 10px 0 30px 0;
+        }
+    }
+}
+
+.cmr-line-button {
+    background: none;
+    border: none;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: .0611765em;
+    line-height: 1;
+    text-transform: uppercase;
+    cursor: pointer;
+    padding-left: 0;
+    position: relative;
+}
+
+.cmr-nm-projects {
+    margin: 100px 0;
+    position: relative;
+    overflow: hidden;
+    @media screen and (max-width: 992px) {
+        margin: 50px 0;
+    }
+    .swiper-slide {
+        width: auto;
+        @media screen and (max-width: 992px) {
+            max-width: 100%;
+        }
+    }
+    .slide-project.pr-type-1 {
+        background-color: #F4F7FF;
+    }
+    .slide-project {
+        margin-right: 30px;
+        background: aliceblue;
+        padding: 100px 15px 0px 15px;
+        max-width: 1040px;
+        min-width: 1040px;
+        border-radius: 20px;
+        position: relative;
+        @media screen and (max-width: 992px) {
+            min-width: 100%;
+            padding: 50px 15px 0px 15px;
+            .cmr-outline-btn {
+                height: 50px;
+            }
+        }
+        @media screen and (max-width: 992px) {
+            .cmr-outline-btn {
+                margin: 0 auto;
+            } 
+        }
+        &::before {
+            content: "";
+            width: 70%;
+            height: 15px;
+            border-radius: 5px;
+            background-image: url(../../assets/images/elements/grids.png);
+            position: absolute;
+            top: 0;
+            margin: 0 auto;
+            left: 0;
+            right: 0;
+        }
+        .nm-pic {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .slide-project-name {
+            font-weight: 900;
+            font-family: 'Mont', sans-serif;
+            font-size: 2.5rem;
+            @media screen and (max-width: 600px) {
+                font-size: 28px;
+            }
+        }
+        h5 {
+            font-family: Lato;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 1.5;
+            text-align: left;
+            color: #000;
+            @media screen and (max-width: 600px) {
+                font-size: 18px;
+            }
+        }
+        .pr-tags {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin: 20px 0;
+            @media screen and (max-width: 992px) {
+                padding: 10px;
+            }
+            @media screen and (max-width: 600px) {
+                flex-wrap: wrap;
+            }
+            .pr-tag-per {
+                width: 100%;
+                margin-right: 10px;
+                border-right: 1px solid #ddd;
+                padding: 0 10px;
+                text-align: center;
+                @media screen and (max-width: 600px) {
+                    border-bottom: 1px solid #ddd;
+                    border-right: none;
+                    padding: 5px 0;
+                }
+                &:last-child {
+                    border-right: 0px;
+                    margin-right: 0px;
+                    border-bottom: 0px;
+                }
+                h5 {
+                    font-family: 'Mont', sans-serif;
+                    font-weight: 900;
+                    font-size: 10px;
+                    line-height: 1.5;
+                    text-align: center;
+                    color: #000;
+                }
+                p {
+                    font-family: Lato;
+                    font-weight: normal;
+                    font-size: 14px;
+                    line-height: 1.5;
+                    text-align: center;
+                    margin-bottom: 0px;
+                    color: #000;
+                }
+            }
+            .pr-tag-per.sm-np {
+                // min-width: 100px;
+                // max-width: 100px;
+                // @media screen and (max-width: 992px) {
+                //     min-width: 70px;
+                //     max-width: 70px;
+                // }
+                // @media screen and (max-width: 600px) {
+                //     min-width: 100%;
+                //     max-width: 100%;
+                // }
+            }
+        }
+    }
+    .swiper_pagination {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 50px;
+        padding-right: 0;
+        position: absolute;
+        width: calc(100% + 30px);
+        top: 50%;
+        left: -15px;
+        z-index: 999;
+        padding-right: 0%;
+        @media screen and (max-width: 992px) {
+            width: 100%;
+            left: 0;
+            margin: 0;
+            transform: translateY(-50%);
+        }
+    }
+    .swiper-button-prev-unique,
+    .swiper-button-next-unique {
+        background: #fff;
+        width: 60px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        filter: drop-shadow(0px 3px 26px rgba(0, 0, 0, 0.04));
+        @media screen and (max-width: 767px) {
+            width: 40px;
+            height: 40px;
+        }
+    }
+    .swiper_navigation {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+    }
+}
+
+.cmr-emerging {
+    .emerge-plate {
+        margin-bottom: 40px;
+        .emerge-num {
+            width: 50px;
+            height: 50px;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: $color-yellow-light;
+            color: $color-yellow-dark;
+            font-family: 'Mont', sans-serif;
+            font-weight: 900;
+            font-size: 20px;
+            line-height: 23px;
+            text-align: left;
+            margin-bottom: 20px;
+        }
+        h4 {
+            font-family: 'Mont', sans-serif;
+            font-weight: 900;
+            font-size: 20px;
+            line-height: 1.6;
+            text-align: left;
+            color: #1d1e31;
+        }
+        p {
+            font-family: Lato;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 1.8;
+            text-align: left;
+            color: #000;
+        }
+    }
+}
+
+.cmr-nm-projects-swiper {
+    @media screen and (max-width: 992px) {
+        position: relative;
+    }
+    @media screen and (max-width:767px) {
+        .nm-p-details {
+            padding-top: 30px;
+            padding-bottom: 30px;
+        }
+    }
+}
+
+
+
+/*banner graphic change*/
+.bottom-align-banner .inner-top-header {
+    min-height: auto;
+}
+
+.bottom-align-banner .inner-right img {
+    max-width: 100%;
+}
+.industry-inner-banner-left {
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+}

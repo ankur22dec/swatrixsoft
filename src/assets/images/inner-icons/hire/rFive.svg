@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="147.168" height="149.827" viewBox="0 0 147.168 149.827">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.66" cy="0.233" r="0.955" gradientTransform="translate(3.919 -1.68) rotate(65.404)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.242" stop-color="#caddfc"/>
+      <stop offset="0.341" stop-color="#bfd7ff"/>
+      <stop offset="0.502" stop-color="#a8c8ff"/>
+      <stop offset="0.645" stop-color="#92baff"/>
+      <stop offset="1" stop-color="#75a7ff"/>
+    </radialGradient>
+  </defs>
+  <g id="rFive" transform="translate(-2995 -600.68)">
+    <circle id="Ellipse_547" data-name="Ellipse 547" cx="63.977" cy="63.977" r="63.977" transform="translate(2995 729.567) rotate(-80.581)" fill="url(#radial-gradient)"/>
+    <path id="Path_1958" data-name="Path 1958" d="M-21.06,1.8C-7.38,1.8,1.764-8.424,1.764-23.76S-7.38-49.32-21.06-49.32-43.884-39.1-43.884-23.76-34.74,1.8-21.06,1.8Zm0-12.816c-4.464,0-7.128-4.752-7.128-12.744S-25.524-36.5-21.06-36.5s7.128,4.752,7.128,12.744S-16.6-11.016-21.06-11.016ZM24.732-31.752H20.177l.413-3.888H40.427V-47.88H9.179L6.587-22.464,8.1-20.592h16.56a4.9,4.9,0,0,1,5.256,5.04A4.915,4.915,0,0,1,24.8-10.44a5.046,5.046,0,0,1-5.256-5.328H5.939C5.939-5.472,13.5,1.44,24.8,1.44c11.52,0,19.224-6.768,19.224-16.992,0-9.72-7.7-16.2-19.3-16.2Z" transform="translate(3069 650)"/>
+  </g>
+</svg>

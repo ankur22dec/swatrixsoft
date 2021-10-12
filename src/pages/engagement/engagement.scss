@@ -1,0 +1,215 @@
+$mont: 'Mont',
+sans-serif;
+// banner
+.engagment-page {
+    background: #e7e2ff;
+}
+
+.inner-top-header {
+    &.engagment-page {
+        .inner-left {
+            .inner-head-title {
+                span.label-angular {
+                    &::after {
+                        background: rgba(0, 0, 0, 0.10);
+                    }
+                }
+            }
+        }
+    }
+}
+
+.sec-description p.font-14 {
+    font-size: 16px;
+}
+
+//Engagment Models
+.engagement_model_list {
+    margin-bottom: 150px;
+    @media screen and (max-width: 767px) {
+        margin-bottom: 70px;
+    }
+    .model_row {
+        &:nth-child(even) {
+            .cmr-tw-adv {
+                float: left;
+            }
+        }
+        &:nth-child(odd) {
+            .row {
+                @media screen and (max-width: 767px) {
+                    flex-direction: column-reverse;
+                }
+            }
+        }
+        .cmr-tw-adv {
+            float: right;
+        }
+    }
+}
+
+.model_row {
+    background: #F4F7FF;
+    margin: 50px 0;
+    @media screen and (max-width: 767px) {
+        margin: 30px 0;
+    }
+    &+.model_row {
+        margin-top: 200px;
+        @media screen and (max-width: 767px) {
+            margin-top: 50px;
+            margin-bottom: 0;
+        }
+    }
+}
+
+.engagementmodel_image {
+    @media screen and (max-width: 767px) {
+        text-align: center;
+    }
+    img {
+        @media screen and (max-width: 767px) {
+            width: 80%;
+        }
+    }
+}
+
+.engagement_models {
+    .slide-detail {
+        p {
+            padding: 0;
+            font-size: 18px;
+            line-height: 30px;
+            @media screen and (max-width: 600px) {
+                font-size: 16px;
+                line-height: 25px;
+            }
+            &::before {
+                display: none;
+            }
+        }
+    }
+    .cmr-tw-adv {
+        width: 100%;
+        max-width: 400px;
+        margin: -30% auto -8%;
+        @media screen and (max-width: 767px) {
+            margin: 0;
+            margin-bottom: 20px;
+            max-width: 100%;
+            margin-top: 30px;
+        }
+        .tw-plate {
+            margin-bottom: 0;
+            &.tw-four {
+                .slide-plate {
+                    &::after {
+                        background-color: #bfc4fc;
+                    }
+                }
+            }
+            &.tw-three {
+                .slide-plate {
+                    &::after {
+                        background-color: #A9F3C0;
+                    }
+                }
+            }
+            &.tw-two {
+                .slide-plate {
+                    &::after {
+                        background-color: #FFC4C4;
+                    }
+                }
+            }
+        }
+        .slide-plate {
+            border-radius: 10px;
+        }
+        .cmr-tip-des {
+            .spriteOne {
+                top: -30px;
+                z-index: 1;
+            }
+        }
+    }
+}
+
+.model_characteristics {
+    margin-top: 30px;
+    li {
+        font-size: 14px;
+        font-weight: bold;
+        color: #373F54;
+        padding-left: 25px;
+        position: relative;
+        &+li {
+            margin-top: 15px;
+        }
+        &::before {
+            content: "";
+            min-width: 17px;
+            min-height: 17px;
+            border: 1px solid #777;
+            position: absolute;
+            left: 0px;
+            border-radius: 50%;
+            top: 3px;
+        }
+    }
+}
+
+.model_type {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    @media screen and (max-width: 767px) {
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+    h3 {
+        font-size: 36px;
+        font-weight: 900;
+        font-family: $mont;
+        margin: 0;
+        @media screen and (max-width: 767px) {
+            font-size: 24px;
+        }
+        span {
+            position: relative;
+            display: inline-block;
+            &::after {
+                content: '';
+                left: 0;
+                height: 10px;
+                width: 100%;
+                position: absolute;
+                bottom: 0;
+                background: rgba(0, 0, 0, 0.06);
+            }
+        }
+    }
+}
+
+@keyframes rotate {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+    50% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+    100% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+}
+
+@keyframes lineRight {
+    0% {
+        left: 0%;
+    }
+    100% {
+        left: 100%;
+    }
+}

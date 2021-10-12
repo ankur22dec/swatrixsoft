@@ -1,0 +1,582 @@
+.iceland_case_study {
+	background: #f1f1f1;
+	margin-bottom: -50px;
+}
+
+.iceland_case_study .techIcons {
+	min-width: 60px;
+	min-height: 60px;
+	max-width: 60px;
+	max-height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 30px;
+	background-color: #fff;
+	border: 1px solid #dfdfdf;
+	border-radius: 50%
+}
+
+.iceland_case_study .techRows li {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	color: #000;
+	margin-bottom: 26px
+}
+
+.iceland_case_study .techRows li div:first-child {
+	margin-right: 10px
+}
+
+.iceland_case_study .techRows li p {
+	padding-bottom: 0;
+	font-weight: 300;
+	margin-bottom: 0;
+}
+
+.iceland_case_study .techRows li h3 {
+	font-size: 20px;
+	font-weight: 600
+}
+
+.iceland_case_study .fs22 {
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 1.5;
+	color: #000
+}
+
+@media(max-width:567px) {
+	.iceland_case_study .fs22 {
+		font-size: 16px!important
+	}
+}
+
+.iceland_case_study .fs18 {
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 1.5;
+	color: #000
+}
+
+@media(max-width:567px) {
+	.iceland_case_study .fs18 {
+		font-size: 16px
+	}
+}
+
+.iceland_case_study .relPos {
+	right: 0;
+	top: 80px
+}
+
+@media(max-width:991px) {
+	.iceland_case_study .relPos {
+		position: initial!important;
+		text-align: center
+	}
+}
+
+.iceland_case_study .row {
+	margin: 0!important
+}
+
+@media(min-width:768px) and (max-width:991px) {
+	.iceland_case_study .container {
+		width: 100%
+	}
+}
+
+.iceland_case_study .iceland_desc {
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 600;
+	color: #092d55;
+	padding: 0;
+	margin: 45px 0
+}
+
+@media(max-width:567px) {
+	.iceland_case_study .iceland_desc {
+		font-size: 16px
+	}
+}
+
+.iceland_case_study .techRows li {
+	margin-right: -4px;
+	width: 25%;
+	display: inline-flex;
+	color: #222
+}
+
+@media(max-width:767px) {
+	.iceland_case_study .techRows li {
+		width: 100%
+	}
+}
+
+@media(min-width:768px) and (max-width:991px) {
+	.iceland_case_study .techRows li {
+		width: 50%;
+		float: left
+	}
+}
+
+.iceland_case_study .iceland_detail {
+	background: url(../../assets/images/casestudy/iceland/iceland_wave.png) no-repeat top center;
+	padding-top: 300px
+}
+
+.iceland_case_study .iceland_detail ul {
+	list-style: none;
+	padding-left: 30px;
+	margin-bottom: 20px
+}
+
+.iceland_case_study .iceland_detail ul li {
+	padding-bottom: 15px;
+	position: relative
+}
+
+.iceland_case_study .iceland_detail ul li::before {
+	background-size: 15px;
+	height: 15px;
+	width: 15px;
+	margin-left: 20px;
+	position: absolute;
+	left: -45px;
+	top: 0;
+	background-image: url(../../assets/images/casestudy/iceland/next.svg);
+	content: ""
+}
+
+.iceland_case_study .iceland_detail>ul,
+.iceland_case_study .iceland_detail p {
+	line-height: 34px;
+	font-size: 20px;
+	color: #fff
+}
+
+.iceland_case_study .iceland_detail .iceland_list {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	color: #fff
+}
+
+.iceland_case_study .iceland_detail .iceland_list li:before {
+	background-image: url(../../assets/images/casestudy/iceland/arrow_right.png);
+	width: 21px;
+	height: 16px;
+	background-repeat: no-repeat;
+	left: -50px
+}
+
+.iceland_case_study .iceland_detail .iceleand_img {
+	margin-bottom: -15px
+}
+
+.iceland_case_study .product_info {
+	padding: 30px 0;
+	width: 100%
+}
+
+.iceland_case_study .feature_section {
+	background: #6ca848;
+	color: #fff;
+	padding-top: 20px;
+}
+
+.iceland_case_study .feature_section .titleDiv h1 {
+	font-size: 60px;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	font-style: normal;
+	margin-top: 3rem
+}
+
+.iceland_case_study .feature_section ul {
+	list-style: none;
+	padding-left: 30px;
+	margin-bottom: 20px
+}
+
+.iceland_case_study .feature_section ul li {
+	padding-bottom: 15px;
+	position: relative
+}
+
+.iceland_case_study .feature_section ul li::before {
+	background-size: 15px;
+	height: 15px;
+	width: 15px;
+	margin-left: 20px;
+	position: absolute;
+	left: -45px;
+	top: 0;
+	background-image: url(../../assets/images/casestudy/iceland/next.svg);
+	content: ""
+}
+
+.iceland_case_study .feature_section .techSpecs li {
+	display: flex;
+	align-items: flex-end;
+	color: #fff;
+	margin-bottom: 16px
+}
+
+.iceland_case_study .feature_section .techSpecs li div:first-child {
+	margin-right: 10px
+}
+
+.iceland_case_study .feature_section .techSpecs li p {
+	padding-bottom: 0;
+	font-weight: 400;
+	font-size: 18px
+}
+
+.iceland_case_study .feature_section .techSpecs li h3 {
+	font-size: 24px;
+	font-weight: 700;
+	direction: ltr
+}
+
+.iceland_case_study .feature_section .titleDiv {
+	position: relative
+}
+
+.iceland_case_study .feature_section .titleDiv:after {
+	content: 'Features';
+	font-size: 120px;
+	line-height: 204px;
+	letter-spacing: 1.5px;
+	color: #fff;
+	position: absolute;
+	right: 91px;
+	opacity: .03;
+	top: -110px;
+	text-transform: uppercase;
+	font-family: bebas_neue_regular
+}
+
+.iceland_case_study .feature_section .iceland_list {
+	padding-left: 45px;
+	margin-top: 25px
+}
+
+.iceland_case_study .feature_section .iceland_list li {
+	font-size: 20px;
+	padding-bottom: 25px;
+	line-height: 1.2
+}
+
+.iceland_case_study .feature_section .iceland_list li:before {
+	background-image: url(../../assets/images/casestudy/iceland/arrow_right2.png);
+	width: 32px;
+	height: 24px;
+	background-repeat: no-repeat;
+	left: -65px;
+	background-size: 23px;
+	top: 2px
+}
+
+.iceland_case_study .advantageClub .skyLine {
+	background-image: url(../../assets/images/casestudy/iceland/skyline.png);
+	background-size: cover;
+	margin-top: 30px;
+	width: 100%
+}
+
+.iceland_case_study .advantageClub .titleDiv {
+	position: absolute!important;
+	right: 5%;
+	max-width: 85%;
+	top: 0;
+	font-size: 60px;
+	z-index: 9;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	font-style: normal
+}
+
+@media(max-width:991px) {
+	.iceland_case_study .advantageClub .titleDiv {
+		position: initial!important;
+		margin-top: 15px
+	}
+}
+
+@media(max-width:991px) {
+	.iceland_case_study .advantageClub .titleDiv {
+		max-width: 149px;
+		margin: 0 auto
+	}
+}
+
+.iceland_case_study .advantageClub .titleDiv:after {
+	display: none
+}
+
+.iceland_case_study .advantageClub .titleDiv h1 {
+	font-size: 5vw;
+	margin-top: 1vw;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	font-style: normal;
+	color: #203b45
+}
+
+.h15px{
+	height: 15px;
+	width: 100%;
+}
+
+@media(max-width:991px) {
+	.iceland_case_study .advantageClub .titleDiv h1 {
+		font-size: 38px;
+		margin-top: 30px
+	}
+}
+
+.iceland_case_study .advantageClub .titleDiv p {
+	color: #203b45;
+	font-weight: 500;
+	font-size: 2vw;
+	padding-left: 10px;
+	font-family: bebas_neuebold, trebuchet ms, sans-serif;
+	font-weight: 400;
+	font-style: normal
+}
+
+@media(max-width:991px) {
+	.iceland_case_study .advantageClub .titleDiv p {
+		font-size: 15px;
+		padding-bottom: 0;
+		text-align: center!important
+	}
+}
+
+.iceland_case_study .advantageClub .titleDiv .backText {
+	position: relative;
+	margin-top: 1vw;
+	top: 370px
+}
+
+@media(max-width:991px) {
+	.iceland_case_study .advantageClub .titleDiv .backText {
+		top: 0
+	}
+}
+
+.iceland_case_study .advantageClub .titleDiv .backText:before {
+	background-image: url(../../assets/images/casestudy/iceland/leftstick.svg);
+	background-repeat: no-repeat;
+	position: absolute;
+	position: absolute;
+	top: 105%;
+	left: 60%;
+	content: "";
+	background-size: 17vw;
+	height: 1vw;
+	width: 17vw;
+	z-index: 9
+}
+
+@media(max-width:991px) {
+	.iceland_case_study .advantageClub .titleDiv .backText:before {
+		display: none
+	}
+}
+
+@media(min-width:992px) {
+	.iceland_case_study .largeHide {
+		display: none
+	}
+}
+
+@media(max-width:991px) {
+	.iceland_case_study .smallHide {
+		display: none
+	}
+}
+
+.iceland_case_study .magento_screens {
+	position: relative;
+	width: 100%;
+	margin-bottom: 70px
+}
+
+.iceland_case_study .magento_screens .leftscreen {
+	float: left;
+	width: 74%
+}
+
+.iceland_case_study .magento_screens .leftscreen img {
+	width: 100%
+}
+
+.iceland_case_study .magento_screens .titleDiv {
+	position: absolute!important;
+	right: 5%;
+	max-width: 25%;
+	top: 0;
+	font-size: 60px;
+	z-index: 9;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	font-style: normal
+}
+
+.iceland_case_study .magento_screens .titleDiv:after {
+	display: none
+}
+
+.iceland_case_study .magento_screens .titleDiv h1 {
+	font-size: 5vw;
+	margin-top: 1vw;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	font-style: normal;
+	color: #000
+}
+
+.iceland_case_study .magento_screens .titleDiv p {
+	color: #000;
+	font-weight: 500;
+	font-size: 2vw;
+	padding-left: 10px;
+	font-family: bebas_neuebold, trebuchet ms, sans-serif;
+	font-weight: 400;
+	font-style: normal
+}
+
+.iceland_case_study .magento_screens .titleDiv .backText {
+	position: relative;
+	margin-top: 1vw
+}
+
+.iceland_case_study .magento_screens .titleDiv .backText:before {
+	background-image: url(../../assets/images/casestudy/iceland/title_arrow.png);
+	position: absolute;
+	position: absolute;
+	top: 15%;
+	left: -127%;
+	content: "";
+	background-size: 17vw;
+	height: 17vw;
+	width: 17vw;
+	z-index: 9
+}
+
+.iceland_case_study .magento_screens .rightscreen {
+	float: right;
+	position: absolute!important;
+	top: 36%;
+	right: 0;
+	width: 40%
+}
+
+.iceland_case_study .magento_screens .rightscreen img {
+	width: 100%
+}
+
+.iceland_case_study .techSpecs {
+	padding-top: 50px;
+	padding-bottom: 50px
+}
+
+.iceland_case_study .techSpecs .disBlc {
+	display: block
+}
+
+@media(max-width:991px) {
+	.iceland_case_study .techSpecs .disBlc {
+		display: inline-block
+	}
+}
+
+.iceland_case_study .techSpecs .titleDiv h1 {
+	font-size: 60px;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	font-style: normal;
+	margin-top: 3rem
+}
+
+.iceland_case_study .techSpecs .titleDiv h1 {
+	margin-top: 0
+}
+
+.iceland_case_study .techSpecs .mulTi h1 {
+	color: #355989
+}
+
+.iceland_case_study .techSpecs .mulTi h1 span {
+	color: #f7a001;
+	font-weight: 700
+}
+
+.iceland_case_study .techSpecs li {
+	align-items: flex-end;
+	color: #464646
+}
+
+.iceland_case_study .techSpecs li:first-child {
+	margin-bottom: 26px
+}
+
+.iceland_case_study .techSpecs li div:first-child {
+	margin-right: 10px
+}
+
+.iceland_case_study .techSpecs li p {
+	padding-bottom: 0;
+	font-weight: 400;
+	font-size: 18px
+}
+
+.iceland_case_study .techSpecs li h3 {
+	font-size: 18px;
+	font-weight: 700;
+	direction: ltr;
+	position: relative;
+	display: inline-block;
+	top: 5px;
+	left: 5px
+}
+
+.iceland_case_study .techSpecs .apiDiv {
+	background-color: #fff;
+	border: 5px solid #aaa;
+	padding: 20px
+}
+
+@media(min-width:992px) {
+	.iceland_case_study .techSpecs .apiDiv {
+		margin-top: -20px
+	}
+}
+
+.iceland_case_study .techSpecs .iconSpecs {
+	margin-bottom: 10px
+}
+
+.iceland_case_study .techSpecs .iconSpecs img {
+	min-width: 20px
+}
+
+.iceland_case_study .techSpecs .propUl {
+	margin-bottom: 10px
+}
+
+.iceland_case_study .techSpecs .propUl li {
+	margin: 0;
+	line-height: 1.5
+}
+
+.iceland_case_study .techSpecs .propUl li:before {
+	content: "î¦€";
+	font-family: icomoon!important;
+	width: 16px;
+	margin-right: 10px
+}

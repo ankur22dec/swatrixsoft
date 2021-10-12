@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.165" height="69.292" viewBox="0 0 56.165 69.292">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.41" x2="0.5" y2="2.248" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.302"/>
+    </linearGradient>
+  </defs>
+  <g id="kotlin-stop" transform="translate(0.002 -0.167)">
+    <ellipse id="Ellipse_242" data-name="Ellipse 242" cx="2.808" cy="2.814" rx="2.808" ry="2.814" transform="translate(25.273 63.83)" fill="#f77c7c"/>
+    <path id="Path_1999" data-name="Path 1999" d="M23.6,70.279C10.218,69.335,0,64.226,0,58.068,0,51.238,12.573,45.7,28.081,45.7s28.081,5.538,28.081,12.367c0,6.14-10.162,11.232-23.485,12.2-3.894.8-4.6,2.64-4.6,2.64a7.949,7.949,0,0,0-4.48-2.629Z" transform="translate(0 -10.016)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Path_2000" data-name="Path 2000" d="M23.6,55.969a28.081,28.081,0,1,1,9.076-.019,8.707,8.707,0,0,0-4.6,6S26.307,56.919,23.6,55.969Z" fill="#f77c7c" fill-rule="evenodd"/>
+    <g id="Group_362" data-name="Group 362" transform="translate(-1116.573 -160.405)">
+      <path id="Path_476" data-name="Path 476" d="M1136.7,2154.2l7.919-7.682h8.805l-16.724,16.842Z" transform="translate(-0.296 -1966.234)" fill="#fff" opacity="0.5"/>
+      <path id="Path_0" data-name="Path 0" d="M9.056.04c8.251,0,8.782,0,8.868.075a.612.612,0,0,1,.14.172.627.627,0,0,1,.048.237c0,.128-.358.5-8.431,8.571L13.9,13.31c3.858,3.858,4.216,4.228,4.216,4.356a.627.627,0,0,1-.048.237.612.612,0,0,1-.14.172c-.086.07-.617.075-8.868.075s-8.782,0-8.868-.075a.612.612,0,0,1-.14-.172C.013,17.833,0,15.424,0,9.095S.013.357.048.286A.612.612,0,0,1,.188.115C.275.045.806.04,9.056.04ZM.862,8.857l.022,7.784L16.625.9H8.819Zm0-1.251C6.043,2.426,7.547.918,7.547.912S6.043.9,4.2.9H.863Zm.625,9.682H16.625c-5.849-5.849-7.557-7.547-7.569-7.547s-1.72,1.7-3.8,3.774Z" transform="translate(1135.801 179.762)" fill="#fff" stroke="#fff" stroke-width="0.5" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.947" height="31.429" viewBox="0 0 33.947 31.429">
+  <g id="food" transform="translate(-556.973 -99.183)">
+    <g id="apple" transform="translate(516.223 99.183)">
+      <ellipse id="Ellipse_72" data-name="Ellipse 72" cx="8.5" cy="8" rx="8.5" ry="8" transform="translate(48.777 13.817)" fill="#f4a196"/>
+      <g id="Group_163" data-name="Group 163" transform="translate(42.777 7.187)">
+        <g id="Group_162" data-name="Group 162" transform="translate(0)">
+          <path id="Path_318" data-name="Path 318" d="M61.217,108.005a8.366,8.366,0,0,0-1.4.114v2.9a5.071,5.071,0,0,1,1.4-.178c1.862,0,4.274,2.5,4.274,5.693,0,8.229-2.922,12.688-9.9,12.688-7,0-9.98-4.5-9.98-12.688,0-3.15,2.486-5.693,4.32-5.693a5.666,5.666,0,0,1,2.266.479c.077.03.645.257.823.325A9.425,9.425,0,0,0,54.1,112a6.053,6.053,0,0,0,1.5.194,5.984,5.984,0,0,0,1.581-.217h-.2v-2.917a3.864,3.864,0,0,1-1.378.3c-1.582,0-2.835-1.345-5.66-1.345s-7.159,3.223-7.159,8.532c0,7.652,2.682,15.528,12.819,15.528s12.735-7.876,12.735-15.528C68.331,111.231,64.119,108.005,61.217,108.005Z" transform="translate(-42.777 -108.005)"/>
+        </g>
+      </g>
+      <g id="Group_165" data-name="Group 165" transform="translate(54.171)">
+        <g id="Group_164" data-name="Group 164">
+          <path id="Path_319" data-name="Path 319" d="M215.628,0a12.472,12.472,0,0,0-.786,1.374,9.56,9.56,0,0,0-.609,1.516A5.057,5.057,0,0,0,214,4.322V9.093h2.839V4.322a2.348,2.348,0,0,1,.113-.626,6.819,6.819,0,0,1,.431-1.062c.133-.268.277-.528.42-.766.084-.14.147-.238.177-.283Z" transform="translate(-214.004)"/>
+        </g>
+      </g>
+    </g>
+    <ellipse id="Ellipse_67" data-name="Ellipse 67" cx="1.819" cy="1.819" rx="1.819" ry="1.819" transform="translate(557 102)" fill="#f4a196"/>
+    <ellipse id="Ellipse_68" data-name="Ellipse 68" cx="0.651" cy="0.651" rx="0.651" ry="0.651" transform="translate(562.202 103.168)" fill="#f4a196"/>
+    <ellipse id="Ellipse_69" data-name="Ellipse 69" cx="1.208" cy="1.208" rx="1.208" ry="1.208" transform="translate(556.973 128.196)" fill="#f4a196"/>
+    <ellipse id="Ellipse_70" data-name="Ellipse 70" cx="1.973" cy="1.973" rx="1.973" ry="1.973" transform="translate(586.974 126.068)" fill="#f4a196"/>
+    <ellipse id="Ellipse_71" data-name="Ellipse 71" cx="0.98" cy="0.98" rx="0.98" ry="0.98" transform="translate(583.961 126.088)" fill="#f4a196"/>
+  </g>
+</svg>

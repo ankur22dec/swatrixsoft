@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58.585" height="70.843" viewBox="0 0 58.585 70.843">
+  <defs>
+    <filter id="seo-expert" x="0" y="0" width="58.585" height="70.843" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_4025" x="28.685" y="31.411" width="29.266" height="28.779" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="expert" transform="translate(-11630 -15282)">
+    <ellipse id="Ellipse_567" data-name="Ellipse 567" cx="10" cy="6" rx="10" ry="6" transform="translate(11643 15312)" fill="#ee9d92"/>
+    <ellipse id="Ellipse_568" data-name="Ellipse 568" cx="8.5" cy="9" rx="8.5" ry="9" transform="translate(11645 15289)" fill="#ee9d92"/>
+    <rect id="Rectangle_795" data-name="Rectangle 795" width="20" height="7" transform="translate(11657 15328)" fill="#ee9d92"/>
+    <g transform="matrix(1, 0, 0, 1, 11630, 15282)" filter="url(#seo-expert)">
+      <path id="seo-expert-2" data-name="seo-expert" d="M47.667,46.5a1.244,1.244,0,0,1-1.244,1.244H34.966a1.244,1.244,0,0,1-1.224-1.471l2.933-15.832c.833-4.5,4.777-7.644,10.048-8.011A13.24,13.24,0,0,1,53.7,23.808a9.355,9.355,0,0,1,4.69,5.352c.078.232.147.472.207.713a1.244,1.244,0,1,1-2.416.6c-.044-.177-.1-.354-.152-.523-1.28-3.832-5.506-5.292-9.129-5.04-3.115.217-7.02,1.914-7.774,5.982l-2.66,14.361h9.961A1.244,1.244,0,0,1,47.667,46.5ZM41.531,17.174c-1.415-1.469-3.065-4.184-2.893-8.779.2-5.228,4.24-7.93,8.193-8.375a16.083,16.083,0,0,1,1.791.01C52.546.5,56.534,3.206,56.728,8.4c.172,4.595-1.479,7.31-2.894,8.779a8.485,8.485,0,0,1-12.3,0Zm.886-12.3A15.451,15.451,0,0,0,47.683,5.9a15.449,15.449,0,0,0,5.265-1.025,6.935,6.935,0,0,0-10.53,0Zm.906,10.577a6,6,0,0,0,8.719,0,9.267,9.267,0,0,0,2.2-6.96,6.8,6.8,0,0,0-.19-1.38,17.9,17.9,0,0,1-6.337,1.276h-.062a17.9,17.9,0,0,1-6.337-1.276,6.8,6.8,0,0,0-.19,1.38A9.267,9.267,0,0,0,43.324,15.448ZM73.062,50.354H50.111a1.244,1.244,0,1,0,0,2.489H73.062a1.244,1.244,0,0,0,0-2.489ZM50.721,34.007V46.858a1.242,1.242,0,0,0,1.229,1.257H71.223A1.28,1.28,0,0,0,72.5,46.858V44.816a1.244,1.244,0,0,0-2.489,0v.81h-16.8V35.3h7.068a1.244,1.244,0,1,0,0-2.489H51.95A1.193,1.193,0,0,0,50.721,34.007Z" transform="translate(-24.72 6)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 11630, 15282)" filter="url(#Path_4025)">
+      <path id="Path_4025-2" data-name="Path 4025" d="M121.584,89.9a.663.663,0,0,0-.535-.451L117.96,89l-1.382-2.8a.663.663,0,0,0-1.189,0L114.008,89l-3.089.449a.663.663,0,0,0-.367,1.131l2.235,2.179-.528,3.077a.663.663,0,0,0,.962.7l2.763-1.453,2.763,1.453a.662.662,0,0,0,.308.076h0a.664.664,0,0,0,.645-.811l-.521-3.041,2.235-2.179A.663.663,0,0,0,121.584,89.9Zm-3.578,2.153a.663.663,0,0,0-.191.587l.36,2.1-1.883-.99a.663.663,0,0,0-.617,0l-1.883.99.36-2.1a.663.663,0,0,0-.191-.587l-1.523-1.485,2.1-.306a.663.663,0,0,0,.5-.363L115.983,88l.941,1.908a.663.663,0,0,0,.5.363l2.1.306Zm0,0" transform="translate(-72.67 -48.42)"/>
+    </g>
+    <ellipse id="Ellipse_127" cx="2.645" cy="2.645" rx="2.645" ry="2.645" transform="translate(11663.6 15306.005) rotate(-77)" fill="#f4a196"/>
+    <ellipse id="Ellipse_128" cx="1.067" cy="1.067" rx="1.067" ry="1.067" transform="translate(11662.906 15309.871) rotate(-77)" fill="#f4a196"/>
+  </g>
+</svg>

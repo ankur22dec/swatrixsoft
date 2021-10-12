@@ -1,0 +1,23 @@
+<svg id="iPhone_X_-_Light" data-name="iPhone X - Light" xmlns="http://www.w3.org/2000/svg" width="217.198" height="434.396" viewBox="0 0 217.198 434.396">
+  <path id="Case" d="M28.791,0H184.871a28.791,28.791,0,0,1,28.791,28.791V405.6A28.791,28.791,0,0,1,184.871,434.4H28.791A28.791,28.791,0,0,1,0,405.6V28.791A28.791,28.791,0,0,1,28.791,0Z" transform="translate(1.515 0)" fill="#fff"/>
+  <g id="Button" transform="translate(214.672 101.022)">
+    <g id="Group_39" data-name="Group 39">
+      <path id="Rectangle_21" data-name="Rectangle 21" d="M0,0H.526a2,2,0,0,1,2,2V46.491a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" fill="#fff"/>
+      <path id="Rectangle_101" data-name="Rectangle 101" d="M0,0H.526a2,2,0,0,1,2,2V46.491a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Button-2" data-name="Button" transform="translate(0 90.92)">
+    <path id="Rectangle_28" data-name="Rectangle 28" d="M2,0h.526a0,0,0,0,1,0,0V30.307a0,0,0,0,1,0,0H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(0)" fill="#fff"/>
+    <path id="Rectangle_103" data-name="Rectangle 103" d="M0,0H.526a2,2,0,0,1,2,2V28.307a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(2.526 30.307) rotate(180)" fill="#fff"/>
+  </g>
+  <g id="Button-3" data-name="Button" transform="translate(0 130.319)">
+    <path id="Rectangle_29" data-name="Rectangle 29" d="M2,0h.526a0,0,0,0,1,0,0V30.307a0,0,0,0,1,0,0H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(0)" fill="#fff"/>
+    <path id="Rectangle_104" data-name="Rectangle 104" d="M0,0H.526a2,2,0,0,1,2,2V28.307a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(2.526 30.307) rotate(180)" fill="#fff"/>
+  </g>
+  <g id="Button-4" data-name="Button" transform="translate(0 59.098)">
+    <path id="Rectangle_31" data-name="Rectangle 31" d="M1,0H2.526a0,0,0,0,1,0,0V16.164a0,0,0,0,1,0,0H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" transform="translate(0)" fill="#fff"/>
+    <path id="Rectangle_149" data-name="Rectangle 149" d="M0,0H1.526a1,1,0,0,1,1,1V15.164a1,1,0,0,1-1,1H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(2.526 16.164) rotate(180)" fill="#fff"/>
+  </g>
+  <path id="Home" d="M1.263,0H64.4a1.263,1.263,0,1,1,0,2.526H1.263A1.263,1.263,0,1,1,1.263,0Z" transform="translate(75.767 413.686)" fill="#e7e5ef"/>
+  <path id="Sensor-camera" d="M39.873,3.625A3.625,3.625,0,1,1,43.5,7.25,3.625,3.625,0,0,1,39.873,3.625ZM1.845,5.536a1.845,1.845,0,0,1,0-3.691H30.778a1.845,1.845,0,0,1,0,3.691Z" transform="translate(87.292 12.033)" fill="#e6e6e6"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="48" viewBox="0 0 49 48">
+  <g id="telephone" transform="translate(-11562 -17073)">
+    <g id="whatsapp" transform="translate(78)">
+      <ellipse id="Ellipse_104" data-name="Ellipse 104" cx="24.5" cy="24" rx="24.5" ry="24" transform="translate(11484 17073)" fill="#fff"/>
+    </g>
+    <g id="telephone-2" data-name="telephone" transform="translate(11570.828 17080.828)">
+      <circle id="Ellipse_328" data-name="Ellipse 328" cx="16" cy="16" r="16" transform="translate(0.172 0.172)" fill="#2196f3"/>
+      <path id="Path_1952" data-name="Path 1952" d="M129.144,124.413a11.135,11.135,0,0,1-4.932-1.128,1.01,1.01,0,0,0-1.351.468l-.726,1.5a14.2,14.2,0,0,1-5.238-5.238l1.5-.726a1.01,1.01,0,0,0,.468-1.351,11.1,11.1,0,0,1-1.13-4.932A1.009,1.009,0,0,0,116.732,112h-3.723A1.009,1.009,0,0,0,112,113.008a17.164,17.164,0,0,0,17.144,17.144,1.009,1.009,0,0,0,1.008-1.008v-3.723A1.009,1.009,0,0,0,129.144,124.413Z" transform="translate(-104.941 -104.941)" fill="#fafafa"/>
+    </g>
+  </g>
+</svg>

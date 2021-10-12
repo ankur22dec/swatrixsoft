@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.165" height="69.292" viewBox="0 0 56.165 69.292">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.41" x2="0.5" y2="2.248" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.302"/>
+    </linearGradient>
+  </defs>
+  <g id="responsive-stop" transform="translate(0.002 -0.167)">
+    <ellipse id="Ellipse_242" data-name="Ellipse 242" cx="2.808" cy="2.814" rx="2.808" ry="2.814" transform="translate(25.273 63.83)" fill="#07d4bf"/>
+    <path id="Path_1999" data-name="Path 1999" d="M23.6,70.279C10.218,69.335,0,64.226,0,58.068,0,51.238,12.573,45.7,28.081,45.7s28.081,5.538,28.081,12.367c0,6.14-10.162,11.232-23.485,12.2-3.894.8-4.6,2.64-4.6,2.64a7.949,7.949,0,0,0-4.48-2.629Z" transform="translate(0 -10.016)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Path_2000" data-name="Path 2000" d="M23.6,55.969a28.081,28.081,0,1,1,9.076-.019,8.707,8.707,0,0,0-4.6,6S26.307,56.919,23.6,55.969Z" fill="#07d4bf" fill-rule="evenodd"/>
+    <g id="website" transform="translate(16.945 18.114)">
+      <path id="Path_311" data-name="Path 311" d="M81.764,198.349a1.489,1.489,0,0,1-.38.9,1.442,1.442,0,0,1-.913.376H69.093a1.287,1.287,0,0,1-1.293-1.276V189.7H81.764v5.459A15.736,15.736,0,0,1,81.764,198.349Z" transform="translate(-64.935 -181.685)" fill="#a0e4d5"/>
+      <path id="Path_312" data-name="Path 312" d="M49.634,53H35.21A2.2,2.2,0,0,0,33,55.18V67.247a2.931,2.931,0,0,0,2.945,2.907H48.9a2.931,2.931,0,0,0,2.945-2.907.735.735,0,0,0-1.47,0A1.462,1.462,0,0,1,48.9,68.7H35.945a1.462,1.462,0,0,1-1.47-1.453V57.4h15.9v6.215a.735.735,0,0,0,1.47,0V55.18A2.2,2.2,0,0,0,49.634,53Zm-2.979,1.453a.727.727,0,1,1-.735.727A.731.731,0,0,1,46.655,54.453Zm3.68.727a.735.735,0,1,1-.735-.727A.731.731,0,0,1,50.335,55.18Zm-15.865,0a.731.731,0,0,1,.735-.727h9.363a2.157,2.157,0,0,0,.013,1.491H34.47Z" transform="translate(-31.606 -50.761)" fill="#fff"/>
+      <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(5.053 9.053)" fill="none" stroke="#fff" stroke-width="1">
+        <rect width="4" height="7" stroke="none"/>
+        <rect x="0.5" y="0.5" width="3" height="6" fill="none"/>
+      </g>
+      <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(10.053 10.053)" fill="none" stroke="#fff" stroke-width="1">
+        <rect width="4" height="6" stroke="none"/>
+        <rect x="0.5" y="0.5" width="3" height="5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

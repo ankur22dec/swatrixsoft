@@ -1,0 +1,134 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Untitled Document</title>
+        <style>
+            body{margin:0; padding:0; font-family:Arial;}
+        </style>
+    </head>
+    <body>
+        <table width="780" border="0" cellspacing="0" cellpadding="0" align="center">
+            <tr>
+                <td height="4" style="background:#d24d27;"></td>
+            </tr>
+            <tr>
+                <td>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td width="60">&nbsp;</td>
+                            <td>
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                        <td>
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td colspan="2" height="40">&nbsp;</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><img width="242" height="57" src="https://www.cmarix.com/blog/wp-content/uploads/2020/10/logo.png" alt=""></td>
+                                                    <td align="right" valign="middle" style="font-family:Arial; font-size:18px; color:#000; line-height:28px;">+1 631-206-6051<br><a href="mailto:biz@cmarix.com" style="font-family:Arial; color:#000; text-decoration:none;">biz@cmarix.com</a></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height="33">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="font-family:Arial; font-size:14px; color:#444; line-height:18px;">
+                                            Dear Sales Team,<br><br>
+                                            Please look into below inquiry.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height="35">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #ccc;">
+                                                <tr>
+                                                    <td width="143" style="border-right:1px solid #ccc; padding:8px; font-size:13px; color:#444;">Name</td>
+                                                    <td style="padding:8px; font-size:13px; color:#444;">{{firstName}} {{lastName}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="border-right:1px solid #ccc; border-top:1px solid #ccc; padding:8px; font-size:13px; color:#444;">Email</td>
+                                                    <td style="border-top:1px solid #ccc; padding:8px; font-size:13px; color:#444;">{{email}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="border-right:1px solid #ccc; border-top:1px solid #ccc; padding:8px; font-size:13px; color:#444;">Phone</td>
+                                                    <td style="border-top:1px solid #ccc; padding:8px; font-size:13px; color:#444;">{{phone}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="border-right:1px solid #ccc; border-top:1px solid #ccc; padding:8px; font-size:13px; color:#444;">Service Interested</td>
+                                                    <td style="border-top:1px solid #ccc; padding:8px; font-size:13px; color:#444;">{{services}}</td>
+                                                </tr>
+                                                <tr>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height="25">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #ccc;">
+                                                <tr>
+                                                </tr>
+                                                <tr>
+                                                    <td style="width:143px;border-right:1px solid #ccc; border-top:1px solid #ccc; padding:8px; font-size:13px; color:#444;">Project Description</td>
+                                                    <td style="border-top:1px solid #ccc; padding:8px; font-size:13px; color:#444;">{{description}}</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height="25"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                           User Tracking Information </br>
+                                           <table border="0" cellspacing="0" cellpadding="0" style="border:1px solid #ccc">
+                                              <tbody>
+                                                 <tr>
+                                                    <th style="border-right:1px solid #ccc;padding:8px">IP</th>
+                                                    <th style="border-right:1px solid #ccc;padding:8px">Resource</th>
+                                                    <th style="border-right:1px solid #ccc;padding:8px">Time</th>
+                                                 </tr>
+                                                 <tr>
+                                                    <td colspan="4" style="border:1px solid #ccc;border-left:none;padding:8px;font-size:13px;color:#444">Referrer: <a href="{{referrer}}" target="_blank" >{{referrer}}</a></td>
+                                                 </tr>
+                                                 <tr>
+                                                    <td colspan="4" style="border:1px solid #ccc;border-left:none;padding:8px;font-size:13px;color:#444">Country: {{country}}</td>
+                                                 </tr>
+                                                 {{#each logs}} 
+                                                 <tr>
+                                                    <td style="border-right:1px solid #ccc;border-bottom:1px solid #ccc;padding:8px;font-size:13px;color:#444">{{ip}}</td>
+                                                    <td style="border-bottom:1px solid #ccc;border-right:1px solid #ccc;padding:8px;font-size:13px;color:#444"><a href="{{routeName}}" target="_blank" >{{routeName}}</a></td>
+                                                    <td style="border-bottom:1px solid #ccc;border-right:1px solid #ccc;padding:8px;font-size:13px;color:#444">{{datetime}}</td>
+                                                 </tr>
+                                                 {{/each}}
+                                              </tbody>
+                                           </table>
+                                        </td>
+                                     </tr>
+                                    <tr>
+                                        <td valign="bottom" height="70" style="font-family:Arial; font-size:13px; color:#444; line-height:18px;">Regards,<br>{{firstName}} {{lastName}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td height="25">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td height="25">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td width="60">&nbsp;</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

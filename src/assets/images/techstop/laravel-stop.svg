@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.165" height="69.292" viewBox="0 0 56.165 69.292">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.41" x2="0.5" y2="2.248" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.302"/>
+    </linearGradient>
+  </defs>
+  <g id="laravel-stop" transform="translate(0.002 -0.167)">
+    <ellipse id="Ellipse_242" data-name="Ellipse 242" cx="2.808" cy="2.814" rx="2.808" ry="2.814" transform="translate(25.273 63.83)" fill="#f77c7c"/>
+    <path id="Path_1999" data-name="Path 1999" d="M23.6,70.279C10.218,69.335,0,64.226,0,58.068,0,51.238,12.573,45.7,28.081,45.7s28.081,5.538,28.081,12.367c0,6.14-10.162,11.232-23.485,12.2-3.894.8-4.6,2.64-4.6,2.64a7.949,7.949,0,0,0-4.48-2.629Z" transform="translate(0 -10.016)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Path_2000" data-name="Path 2000" d="M23.6,55.969a28.081,28.081,0,1,1,9.076-.019,8.707,8.707,0,0,0-4.6,6S26.307,56.919,23.6,55.969Z" fill="#f77c7c" fill-rule="evenodd"/>
+    <g id="laravel" transform="translate(265.719 -543.26)">
+      <path id="Path_430" data-name="Path 430" d="M-188.174,611.546l-2.465-3.846-8.061,2.021,2.514,4.462Z" transform="translate(-38.353 -34.811)" fill="#fff" opacity="0.4"/>
+      <path id="Path_431" data-name="Path 431" d="M-177.5,588.215l2.44,3.574,3.426-.961-2.317-3.328Z" transform="translate(-54.327 -19.591)" fill="#fff" opacity="0.4"/>
+      <path id="Path_432" data-name="Path 432" d="M-237.743,579.868-243.93,568.8l-5.67.222,6.434,12.2Z" transform="translate(0 -5.5)" fill="#fff" opacity="0.4"/>
+      <g id="comp_x5F_194-laravel" transform="translate(-248.589 563.201)">
+        <path id="Path_433" data-name="Path 433" d="M-245.5,568.4l6.434,12.325,17.477-4.289-2.687-3.747-3.747.542,5.892,8.554-8.036,2.687-9.441-16.072Z" transform="translate(245.5 -568.4)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

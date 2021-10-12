@@ -1,0 +1,381 @@
+.rogiCase {
+	margin-top: -1px;
+	font-weight: 400;
+	margin-bottom: -50px;
+	font-style: normal
+}
+
+.mtmin15{
+	margin-top: -15px;
+}
+
+.rogiCase .techIcons {
+	min-width: 60px;
+	min-height: 60px;
+	max-width: 60px;
+	max-height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 30px;
+	background-color: #fff;
+	border: 1px solid #dfdfdf;
+	border-radius: 50%
+}
+
+.rogiCase .techRows li {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	color: #000;
+	margin-bottom: 26px
+}
+
+.rogiCase .techRows li div:first-child {
+	margin-right: 10px
+}
+
+.rogiCase .techRows li p {
+	padding-bottom: 0;
+	font-weight: 300
+}
+
+.rogiCase .techRows li h3 {
+	font-size: 20px;
+	font-weight: 600
+}
+
+.rogiCase .fs22 {
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 1.5;
+	color: #000
+}
+
+@media(max-width:567px) {
+	.rogiCase .fs22 {
+		font-size: 16px!important
+	}
+}
+
+.rogiCase .featuresDiv ul {
+	padding-left: 20px;
+	padding-top: 0
+}
+
+.rogiCase .featuresDiv ul li {
+	list-style-type: disc;
+	font-size: 30px;
+	padding-bottom: 10px;
+	color: #000;
+	font-weight: 600;
+	line-height: 1.5
+}
+
+.rogiCase .relPos {
+	right: 0;
+	top: 80px
+}
+
+@media(max-width:991px) {
+	.rogiCase .relPos {
+		position: initial!important;
+		text-align: center
+	}
+}
+
+.rogiCase .techSpecs li {
+	display: flex;
+	align-items: flex-end;
+	color: #fff;
+	margin-bottom: 16px
+}
+
+.rogiCase .techSpecs li div:first-child {
+	margin-right: 10px
+}
+
+.rogiCase .techSpecs li p {
+	padding-bottom: 0;
+	font-weight: 400;
+	font-size: 18px
+}
+
+.rogiCase .techSpecs li h3 {
+	font-size: 24px;
+	font-weight: 700;
+	direction: ltr
+}
+
+.rogiCase .tech {
+	color: #fff;
+	padding: 0 30px
+}
+
+.rogiCase .tech .titleDiv {
+	margin-bottom: 40px
+}
+
+.rogiCase .tech h4 {
+	font-weight: 600;
+	margin-bottom: 10px
+}
+
+.rogiCase .tech p {
+	font-weight: 500;
+	padding-bottom: 10px
+}
+
+.rogiCase .tech ul {
+	list-style-type: disc!important;
+	padding-top: 0!important;
+	padding-bottom: 20px!important
+}
+
+.rogiCase .tech ul li {
+	list-style-type: disc!important
+}
+
+.rogiCase .tech .leftDiv {
+	padding-left: 50px
+}
+
+.rogiCase .row {
+	margin: 0!important
+}
+
+.rogiCase .titleDiv h1 {
+	font-size: 60px;
+	font-family: bebas_neue_regular, trebuchet ms, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #f16122;
+	margin-top: 3rem
+}
+
+.rogiCase .appText {
+	padding-top: 20px;
+	color: #243638;
+	font-size: 19px;
+	line-height: 2
+}
+
+.rogiCase .disFlex {
+	display: flex
+}
+
+.rogiCase .rogi_bg {
+	background-image: url(../../assets/images/casestudy/rogi/mainbg.png);
+	min-height: 800px;
+	background-size: cover;
+	background-position: bottom;
+	padding-top: 40px;
+	margin-bottom: 10%;
+	padding-bottom: 50px;
+	position: relative;
+	margin-top: -3px
+}
+
+.rogiCase .rogi_bg .tagText {
+	color: #fff;
+	font-size: 19px
+}
+
+.rogiCase .rogi_bg .leftMac {
+	margin-bottom: -10%
+}
+
+.rogiCase .rogi_bg .flPad {
+	padding: 80px 0
+}
+
+@media(min-width:992px) {
+	.rogiCase .screenDiv {
+		top: -280px
+	}
+}
+
+.rogiCase .curvyBg {
+	background-image: url(../../assets/images/casestudy/rogi/curvy.png);
+	min-height: 420px;
+	background-size: cover;
+	background-position: center;
+	padding-top: 30%;
+	margin-top: -40%;
+	padding-bottom: 50px;
+	color: #000
+}
+
+.rogiCase .wavesBg {
+	background-image: url(../../assets/images/casestudy/rogi/wavesBg.png);
+	min-height: 700px;
+	background-size: cover;
+	background-position: bottom;
+	padding-bottom: 50px;
+	position: relative;
+	color: #000
+}
+
+@media(min-width:992px) {
+	.rogiCase .wavesBg .mobile {
+		margin-top: -30%
+	}
+}
+
+@media(min-width:992px) {
+	.rogiCase .wavesBg .laptop {
+		margin-top: 10%
+	}
+}
+
+.rogiCase .featuresDiv ul {
+	padding-top: 20px;
+	position: relative
+}
+
+.rogiCase .featuresDiv ul li {
+	list-style-type: disc;
+	padding-bottom: 10px;
+	color: #fff;
+	font-weight: 500;
+	line-height: 1.5;
+	font-size: 18px
+}
+
+.rogiCase .featuresDiv .noDisc li {
+	list-style-type: none!important
+}
+
+.rogiCase .featuresDiv .noDisc li::before {
+	background-image: url(../../assets/images/casestudy/rogi/dots.svg)!important;
+	background-size: 85px!important;
+	height: 85px!important;
+	width: 85px!important;
+	margin-left: 20px!important;
+	position: absolute!important;
+	left: -87px!important;
+	top: -29px!important
+}
+
+.rogiCase .featuresDiv ul {
+	list-style: none;
+	padding-left: 30px;
+	margin-bottom: 20px
+}
+
+.rogiCase .featuresDiv ul li {
+	padding-bottom: 15px;
+	position: relative
+}
+
+.rogiCase .featuresDiv ul li::before {
+	background-size: 15px;
+	height: 15px;
+	width: 15px;
+	margin-left: 20px;
+	position: absolute;
+	left: -45px;
+	top: 0;
+	background-image: url(../../assets/images/casestudy/rogi/next.svg);
+	content: ""
+}
+
+.rogiCase .featuresDiv .withDisc li::before {
+	background-image: none!important
+}
+
+.rogiCase .featuresDiv .leftLink::before {
+	content: "";
+	width: 2px;
+	height: calc(100% - 30px);
+	left: 4px;
+	position: absolute;
+	background-color: #fff
+}
+
+.rogiCase .featuresDiv .leftLink2::before {
+	content: "";
+	width: 2px;
+	height: calc(100% - 220px);
+	left: 44px;
+	position: absolute;
+	background-color: #fff
+}
+
+@media(max-width:991px) {
+	.rogiCase .featuresDiv .leftLink2::before {
+		height: calc(100% - 149px)
+	}
+}
+
+.rogiCase .featuresDiv .leftLink2 h4 {
+	position: relative
+}
+
+.rogiCase .featuresDiv .leftLink2 h4::before {
+	background-image: url(../../assets/images/casestudy/rogi/dots.svg)!important;
+	background-size: 85px!important;
+	height: 85px!important;
+	width: 85px!important;
+	margin-left: 20px!important;
+	position: absolute!important;
+	left: -98px!important;
+	top: -35px!important;
+	content: ""
+}
+
+.rogiCase .blackBg {
+	background-image: url(../../assets/images/casestudy/rogi/blackBg.png);
+	min-height: 800px;
+	display: flex;
+	align-items: center;
+	background-size: cover;
+	background-position: center;
+	color: #fff
+}
+
+@media(min-width:992px) {
+	.rogiCase .blackBg .container {
+		display: flex;
+		align-items: center
+	}
+}
+
+.rogiCase .blackBg .titleDiv h1 {
+	color: #fff
+}
+
+.rogiCase .blackBg1 {
+	background-image: url(../../assets/images/casestudy/rogi/blackbg1.png);
+	min-height: 800px;
+	display: flex;
+	align-items: center;
+	background-size: cover;
+	margin-top: -10%;
+	padding-top: 10%;
+	background-position: center;
+	color: #fff
+}
+
+@media(max-width:991px) {
+	.rogiCase .blackBg1 {
+		margin-top: -20%;
+		padding-top: 20%
+	}
+}
+
+@media(min-width:992px) {
+	.rogiCase .blackBg1 .container {
+		display: flex;
+		align-items: center
+	}
+}
+
+.rogiCase .blackBg1 .titleDiv h1 {
+	color: #fff
+}
+
+.rogiCase .techRows li {
+	flex-wrap: nowrap;
+	color: #fff
+}

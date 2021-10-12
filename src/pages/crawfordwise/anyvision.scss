@@ -1,0 +1,666 @@
+
+.crawFord {
+	background-color: #f8f8f8;
+	overflow: hidden;
+	margin-top: -3px;
+	margin-bottom: -50px;
+}
+
+.crawFord .featuresDiv ul {
+	padding-left: 20px;
+	padding-top: 0
+}
+
+.crawFord .featuresDiv ul li {
+	list-style-type: disc;
+	font-size: 30px;
+	padding-bottom: 10px;
+	color: #000;
+	font-weight: 600;
+	line-height: 1.5
+}
+
+.crawFord .relPos {
+	right: 0;
+	top: 80px
+}
+
+@media(max-width:991px) {
+	.crawFord .relPos {
+		position: initial !important;
+		text-align: center
+	}
+}
+
+.crawFord .relPos1 {
+	left: 0;
+	top: 80px
+}
+
+@media(max-width:991px) {
+	.crawFord .relPos1 {
+		position: initial !important;
+		text-align: center
+	}
+}
+
+@media(min-width:768px) and (max-width:991px) {
+	.crawFord .container {
+		width: 730px
+	}
+}
+
+@media(max-width:767px) {
+	.crawFord .smp0 {
+		padding: 0 !important
+	}
+}
+
+@media(min-width:992px) {
+	.crawFord .pl60 {
+		padding-left: 50px
+	}
+}
+
+.crawFord .flexDiv {
+	display: flex;
+	padding: 0;
+	align-items: center;
+	margin-bottom: 20px
+}
+
+.crawFord .flexDiv div {
+	color: #0a3655;
+	font-weight: 600
+}
+
+.crawFord .flexDiv div:first-child {
+	max-width: 60px;
+	margin-right: 10px
+}
+
+.crawFord .flexDiv div:first-child img {
+	width: 60px;
+	height: 60px
+}
+
+.crawFord .flexDiv div p {
+	margin: 0;
+	padding: 0;
+	font-size: 14px
+}
+
+.crawFord .crawImg {
+	margin-top: -30%
+}
+
+.crawFord .strycircle {
+	background: #3f3f3f;
+	background-size: 100%;
+	color: #cdcece !important;
+	background-repeat: no-repeat;
+	width: 100%;
+	padding: 50px 0;
+	padding-bottom: 22%;
+	margin-top: -3px
+}
+
+@media(min-width:992px) {
+	.crawFord .strycircle {
+		max-height: 900px
+	}
+}
+
+.crawFord .strycircle .yelloWish {
+	color: #ffb150
+}
+
+.crawFord .strycircle .mouseleft {
+	position: relative;
+	padding-left: 30px
+}
+
+.crawFord .strycircle .mouseleft::before {
+	background-image: url(../../assets/images/casestudy/crawfordwise/mouseleft.svg);
+	background-repeat: no-repeat;
+	content: "";
+	position: absolute;
+	left: -80px;
+	top: -28px;
+	background-size: 100px;
+	height: 100px;
+	width: 100px
+}
+
+@media(max-width:768px) {
+	.crawFord .strycircle {
+		background-size: cover
+	}
+}
+
+.crawFord .strycircle .introClass {
+	color: #409bbb;
+	font-size: 26px;
+
+	font-weight: 400;
+	font-style: normal;
+	position: relative;
+	text-transform: inherit;
+	margin-bottom: 16px
+}
+
+.crawFord .strycircle .introClass::after {
+	position: absolute;
+	content: " ";
+	left: 0;
+	top: 125%;
+	width: 50px;
+	height: 1px;
+	background: #439bc2
+}
+
+.crawFord .strycircle .fs22 {
+	font-size: 19px;
+	font-weight: 500;
+	line-height: 1.5;
+
+	font-weight: 400;
+	font-style: normal;
+	color: #cdcece
+}
+
+@media(max-width:567px) {
+	.crawFord .strycircle .fs22 {
+		font-size: 16px
+	}
+}
+
+.crawFord .strycircle .techIcons {
+	min-width: 60px;
+	min-height: 60px;
+	max-width: 60px;
+	max-height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 30px;
+	background-color: #fff;
+	border: 1px solid #dfdfdf;
+	border-radius: 50%
+}
+
+.crawFord .strycircle .techRows li {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	color: #000;
+	margin-bottom: 26px
+}
+
+.crawFord .strycircle .techRows li div:first-child {
+	margin-right: 10px
+}
+
+.crawFord .strycircle .techRows li p {
+	padding-bottom: 0;
+	font-weight: 300;
+	margin-bottom: 0px;
+}
+
+.crawFord .strycircle .techRows li h3 {
+	font-size: 20px;
+	font-weight: 600
+}
+
+.crawFord .strycircle .techRows li {
+	flex-wrap: inherit;
+	color: #cdcece
+}
+
+@media(min-width:992px) {
+	.crawFord .strycircle .techRows li {
+		float: left;
+		width: 25%
+	}
+}
+
+@media(min-width:768px) and (max-width:991px) {
+	.crawFord .strycircle .techRows li {
+		float: left;
+		width: 50%
+	}
+}
+
+.crawFord .strycircle .techRows li h3 {
+
+	font-weight: 400;
+	font-style: normal
+}
+
+.crawFord .featuresDiv ul {
+	padding-left: 25px;
+	margin-top: 0
+}
+
+.crawFord .featuresDiv ul li {
+	font-size: 20px;
+	color: #093656;
+	position: relative;
+	list-style-type: none;
+	padding-bottom: 18px;
+	font-weight: 500
+}
+
+@media(max-width:567px) {
+	.crawFord .featuresDiv ul li {
+		font-size: 16px
+	}
+}
+
+.crawFord .featuresDiv ul li::before {
+	background-image: url(../../assets/images/casestudy/crawfordwise/maze.svg);
+	content: '';
+	background-size: 35px;
+	background-repeat: no-repeat;
+	height: 35px;
+	width: 35px;
+	margin-left: 20px;
+	position: absolute;
+	left: -62px;
+	top: 7px
+}
+
+.crawFord .featuresDiv .shadeFeature .mouseImg {
+    position: relative;
+    left: -70px;
+    width: 150px;
+}
+
+@media(max-width:567px) {
+	.crawFord .featuresDiv ul li::before {
+		top: 4px
+	}
+}
+
+.crawFord .featuresDiv .shadeFeature {
+	background: #fff;
+	padding: 50px;
+	overflow: hidden;
+	box-shadow: 0 16px 22px 0 rgba(1, 1, 1, .3)
+}
+
+.crawFord .featuresDiv .shadeFeature .mouseImg {
+	position: relative;
+	left: -70px;
+	width: 150px
+}
+
+.crawFord .strangeBg {
+	background-color: #3f3f3f;
+	padding: 50px 0 150px;
+	min-height: 880px;
+	position: relative;
+	margin-top: 2rem;
+	overflow: hidden
+}
+
+@media(min-width:1281px) {
+	.crawFord .strangeBg .workFlow .largeHidem {
+		display: none !important
+	}
+}
+
+.crawFord .strangeBg .workFlow .titleDiv h1 {
+	color: #f9a452
+}
+
+.crawFord .strangeBg .workFlow .process {
+	margin-top: 100px
+}
+
+@media(max-width:1280px) {
+	.crawFord .strangeBg .workFlow .process {
+		display: none !important
+	}
+}
+
+.crawFord .strangeBg .workFlow .process .texts {
+	max-width: 470px
+}
+
+.crawFord .strangeBg .workFlow .process .texts h4 {
+	color: #fff;
+	font-size: 20px;
+	text-transform: uppercase
+}
+
+.crawFord .strangeBg .workFlow .process .texts p {
+	font-size: 16px;
+	color: #ccc;
+	position: relative;
+	z-index: 999
+}
+
+.crawFord .strangeBg .workFlow .process .texts:nth-child(1) {
+	padding-left: 30px;
+	padding-top: 22px
+}
+
+.crawFord .strangeBg .workFlow .process .texts:nth-child(2) {
+	padding-left: 86px;
+	padding-top: 32px
+}
+
+.crawFord .strangeBg .workFlow .process .texts:nth-child(3) {
+	padding-left: 142px;
+	padding-top: 19px
+}
+
+.crawFord .strangeBg .workFlow .process .texts:nth-child(4) {
+	padding-left: 200px;
+	padding-top: 25px
+}
+
+.crawFord .strangeBg .workFlow .process::before {
+	background-image: url(../../assets/images/casestudy/crawfordwise/workflow.svg);
+	content: '';
+	background-size: 295px;
+	background-repeat: no-repeat;
+	height: 515px;
+	width: 465px;
+	margin-left: 20px;
+	position: absolute;
+	left: -72px;
+	top: 153px
+}
+
+.crawFord .strangeBg .goodWill {
+	background-color: #e5524d;
+	background-image: none;
+	background-repeat: no-repeat;
+	height: 680px;
+	flex-direction: column;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative
+}
+
+@media(min-width:1199px) {
+	.crawFord .strangeBg .goodWill {
+		background-image: url(../../assets/images/casestudy/crawfordwise/danbg.svg);
+		background-color: transparent;
+		flex-direction: row
+	}
+}
+
+@media(max-width:567px) {
+	.crawFord .strangeBg .goodWill {
+		height: 480px
+	}
+}
+
+@media(min-width:992px) {
+	.crawFord .strangeBg .goodWill {
+		max-width: 550px
+	}
+}
+
+.crawFord .strangeBg .goodWill .leftTop {
+	position: absolute;
+	left: 0;
+	top: 0
+}
+
+@media(max-width:1199px) {
+	.crawFord .strangeBg .goodWill .leftTop {
+		background-color: #fff;
+		padding: 15px;
+		position: initial;
+		left: 0;
+		top: 0;
+		width: 100%
+	}
+}
+
+.crawFord .strangeBg .goodWill .leftTop h1 {
+	text-align: right;
+	font-size: 36px;
+	padding-left: 10px;
+	color: #0a3656
+}
+
+@media(max-width:1199px) {
+	.crawFord .strangeBg .goodWill .leftTop h1 {
+		margin-top: 0
+	}
+}
+
+.crawFord .strangeBg .goodWill .leftTop h1 .fw600 {
+	font-weight: 600
+}
+
+.crawFord .strangeBg .goodWill .leftTop h1 .fw300 {
+	font-weight: 300
+}
+
+.crawFord .strangeBg .goodWill .leftTop h1 .textPink {
+	color: #e4534d
+}
+
+.crawFord .strangeBg .goodWill .leftTop h1 .bold {
+	font-weight: 900
+}
+
+.crawFord .strangeBg .goodWill .middleTop {
+	text-align: left;
+	margin-top: 30px
+}
+
+@media(min-width:992px) {
+	.crawFord .strangeBg .goodWill .middleTop ul {
+		margin-top: 35%
+	}
+}
+
+.crawFord .strangeBg .goodWill .middleTop ul li {
+	color: #fff;
+	list-style-type: disc;
+	line-height: 2
+}
+
+.crawFord .mouseDiv {
+	width: 150px;
+	position: relative;
+	margin-top: -100px;
+	left: 50%;
+	bottom: -50px;
+	transform: translateX(-28%)
+}
+
+.crawFord .imgDiv {
+	padding: 100px 0 0
+}
+
+.crawFord .imgDiv .relatePos {
+	z-index: 9
+}
+
+.crawFord .imgDiv .altImg {
+	width: 100%;
+	max-width: 900px
+}
+
+@media(min-width:992px) {
+	.crawFord .imgDiv .altImg {
+		margin-top: -20%
+	}
+}
+
+.crawFord .techSpecs {
+	background-image: url(../../assets/images/casestudy/crawfordwise/shape.png);
+	min-height: 500px;
+	background-size: cover;
+	margin-top: -10% !important;
+	padding-top: 10%
+}
+
+.crawFord .techSpecs .titleDiv h1 {
+	color: #fff !important
+}
+
+@media(max-width:991px) {
+	.crawFord .techSpecs .nopPadding {
+		padding-top: 0 !important
+	}
+}
+
+.crawFord .techSpecs .getPadding {
+	padding-top: 4rem;
+	color: #fff
+}
+
+.crawFord .techSpecs .getPadding p {
+	padding-bottom: 15px
+}
+
+.crawFord .techSpecs .getPadding p strong {
+	font-weight: 700 !important
+}
+
+.crawFord .techSpecs .getPadding ul {
+	list-style: none;
+	padding-left: 30px;
+	margin-bottom: 20px
+}
+
+.crawFord .techSpecs .getPadding ul li {
+	padding-bottom: 15px;
+	position: relative
+}
+
+.crawFord .techSpecs .getPadding ul li::before {
+	background-size: 20px;
+	height: 20px;
+	width: 20px;
+	margin-left: 20px;
+	position: absolute;
+	left: -45px;
+	top: 0
+}
+
+.crawFord .techSpecs .getPadding ul li:nth-child(1)::before {
+	font-family: icomoon !important;
+	content: "î¦"
+}
+
+.crawFord .techSpecs .getPadding ul li:nth-child(2)::before {
+	font-family: icomoon !important;
+	content: "î¦‚"
+}
+
+.crawFord .techSpecs .getPadding ul li:nth-child(3)::before {
+	font-family: icomoon !important;
+	content: "î¦ƒ"
+}
+
+.crawFord .techSpecs .getPadding ul li:nth-child(4)::before {
+	font-family: icomoon !important;
+	content: "î¦„"
+}
+
+.crawFord .techSpecs .getPadding ul li:nth-child(5)::before {
+	font-family: icomoon !important;
+	content: "î¦…"
+}
+
+.crawFord .techSpecs .getPadding ul li:nth-child(6)::before {
+	font-family: icomoon !important;
+	content: "î¦†"
+}
+
+.crawFord .techSpecs .getPadding ul li:nth-child(7)::before {
+	font-family: icomoon !important;
+	content: "î¦‡"
+}
+
+.crawFord .techSpecs .relatePos {
+	position: include relative
+}
+
+.crawFord .techSpecs .relatePos .shaded {
+	position: absolute;
+	font-size: 59pt;
+	top: -50%;
+	transform: translateX(-90%);
+	opacity: .05
+}
+
+.crawFord .titleDiv h1 {
+	font-size: 60px;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	font-style: normal;
+	margin-top: 3rem;
+	text-transform: uppercase;
+}
+
+.crawFord .titleDiv {
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	font-style: normal;
+	color: #26ade3
+}
+
+.crawFord .titleDiv h1 {
+	font-weight: 700 !important;
+	letter-spacing: 0px
+}
+
+@media(min-width:991px) and (max-width:1299px) {
+	.crawFord .p1rem {
+		padding: 1rem
+	}
+}
+
+.crawFord .techDiv {
+	background: #26ade3;
+	padding-top: 20%;
+	margin-top: -20%
+}
+
+.crawFord .breakContainer {
+	border-style: solid;
+	margin-top: 5rem;
+	border-width: 1px;
+	border-color: #f6b100;
+	border-radius: 15px;
+	background-color: #fff;
+	padding: 30px;
+	max-width: 100%
+}
+
+.crawFord .breakContainer .altlimag {
+	position: relative
+}
+
+.mt2px {
+	margin-top: 2px;
+}
+
+@media(min-width:1300px) {
+	.crawFord .breakContainer .altlimag {
+		left: -10%;
+		width: 110%;
+		max-width: 110%
+	}
+}
+
+@media(min-width:991px) and (max-width:1299px) {
+	.crawFord .breakContainer .altlimag {
+		left: -7%;
+		width: 100%;
+		max-width: 100%
+	}
+}

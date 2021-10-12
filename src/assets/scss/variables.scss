@@ -1,0 +1,16 @@
+/* Global Variables */
+$black: #000;
+$white: #fff;
+
+$body-color: $black;
+$footer-bg: #F4F4F6;
+
+$link-color: $black;
+
+
+@mixin anima02s {
+    transition: all 0.2s;
+}
+@mixin anima03s {
+    transition: all 0.3s;
+}

@@ -1,0 +1,11 @@
+.fade-wrapper {
+    transition: all ease-out;
+}
+.fade-out {
+    opacity: 0;
+    transform: translateX(15%);
+}
+.fade-in {
+    opacity: 1;
+    transform: translateX(0%);
+}

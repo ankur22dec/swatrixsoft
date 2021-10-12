@@ -1,0 +1,1131 @@
+.anyVision-case-study {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	background: #21242e;
+	overflow: hidden;
+	margin-bottom: -50px;
+}
+
+.anyVision-case-study h2.section-title::before {
+	content: normal
+}
+
+.anyVision-case-study .section-title {
+	color: #ffba00;
+	font-size: 60px;
+	text-transform: uppercase;
+	font-family: bebas_neuebook, trebuchet ms, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	margin-left: -30px;
+	line-height: 32px
+}
+
+.anyVision-case-study .case_study_banner {
+	background: url(../../assets/images/casestudy/anyvision/map_banner.png) no-repeat;
+	background-size: cover;
+	background-position: top -145px center
+}
+
+.anyVision-case-study .header-strip {
+	// background: url(/wp-content/themes/twentyseventeen/assets/images/portfolio/case_studies/anyvision/header_strip.png) no-repeat;
+	height: 10px;
+	width: 100%
+}
+
+.anyVision-case-study .case_study_desc {
+	padding-top: 30px;
+	padding-bottom: 20px
+}
+
+.anyVision-case-study .desc-container {
+	position: relative
+}
+
+.anyVision-case-study .desc-container .desc-txt {
+	font-size: 19px;
+	line-height: 32px;
+	letter-spacing: .1px;
+	color: #ccc;
+	margin-bottom: 20px
+}
+
+.anyVision-case-study .desc-container .desc-highlight {
+	color: #52d5ff;
+	font-weight: 400
+}
+
+.anyVision-case-study .desc-container:before {
+	content: '';
+	background: url(../../assets/images/casestudy/anyvision/camera_small_icon.png) no-repeat;
+	width: 38px;
+	height: 33px;
+	position: absolute;
+	left: -69px;
+	top: 8px
+}
+
+.anyVision-case-study .feature_left {
+	float: left;
+	width: 875px;
+	margin-left: -90px
+}
+
+.anyVision-case-study .case_study_feature {
+	position: relative;
+	width: 100%
+}
+
+.anyVision-case-study .feature_right {
+	float: right;
+	width: 23.4%;
+	position: absolute;
+	right: 30%;
+	bottom: -10%
+}
+
+.anyVision-case-study .feature_list {
+	color: #fff;
+	font-size: 17px;
+	line-height: 40px;
+	letter-spacing: .1px
+}
+
+.anyVision-case-study .feature_info {
+	background: #5f6981;
+	-webkit-box-shadow: 0 30px 1px #000;
+	-moz-box-shadow: 0 0 30px 1px #000;
+	box-shadow: 0 0 30px 1px #000;
+	padding: 45px 0 45px 80px;
+	position: relative
+}
+
+.anyVision-case-study .case_study_feature .feature_info:before {
+	content: '';
+	position: absolute;
+	background: #5f6981;
+	-webkit-box-shadow: 0 0 30px 1px #000;
+	-moz-box-shadow: 0 0 30px 1px #000;
+	box-shadow: 0 0 30px 1px #000;
+	left: -31%;
+	height: 100%;
+	right: 0;
+	top: 0
+}
+
+.anyVision-case-study .case_study_feature .section-title {
+	margin-left: 10px;
+	margin-bottom: 20px
+}
+
+.anyVision-case-study .feature_list li {
+	position: relative;
+	padding-left: 50px
+}
+
+.anyVision-case-study .feature_list li:before {
+	content: 'arrow_right_alt';
+	font-family: material icons;
+	-webkit-font-feature-settings: 'liga';
+	position: absolute;
+	left: 0;
+	left: 8px
+}
+
+.anyVision-case-study .feature_info:after {
+	content: 'Features';
+	position: absolute;
+	right: 0;
+	font-size: 117px;
+	color: #21242e;
+	font-family: bebas_neue_regular, trebuchet ms, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 46px;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	transform: translateY(-50%);
+	text-transform: uppercase;
+	opacity: .1
+}
+
+.anyVision-case-study .id_img1 {
+	float: left;
+	width: 434px
+}
+
+.anyVision-case-study .id_img2 {
+	margin-top: -75%;
+	float: left;
+	margin-left: 88%;
+	width: 398px
+}
+
+.anyVision-case-study .feature_highlight {
+	margin: 100px 0 75px 44px;
+	width: 73%
+}
+
+.anyVision-case-study .feature_tech {
+	width: 42%
+}
+
+.anyVision-case-study .feature_highlight .feature_block:nth-child(2n+1) {
+	clear: both
+}
+
+.anyVision-case-study .feature_icon {
+	width: 57px;
+	height: 57px;
+	background: #fff;
+	border-radius: 100%;
+	display: inline-block;
+	text-align: center;
+	line-height: 57px;
+	vertical-align: top
+}
+
+.anyVision-case-study .feature_desc {
+	font-size: 18px;
+	line-height: 40px;
+	color: #fff;
+	padding: 0 15px;
+	vertical-align: top;
+	display: inline-block;
+	width: -webkit-calc(100% - 65px);
+	width: -moz-calc(100% - 65px);
+	width: calc(100% - 65px)
+}
+
+.anyVision-case-study .feature_desc p {
+	margin: 0;
+	padding: 0
+}
+
+.anyVision-case-study .feature_name {
+	font-size: 20px;
+	color: #4db15c;
+	line-height: 26px
+}
+
+.anyVision-case-study .feature_built {
+	width: 58%
+}
+
+.anyVision-case-study .feature_industry {
+	width: 42%
+}
+
+.anyVision-case-study .feature_globe {
+	width: 58%
+}
+
+.anyVision-case-study .feature_block {
+	margin-bottom: 25px;
+	margin-left: 0
+}
+
+.anyVision-case-study .case_study_screen {
+	position: relative;
+	width: 100%
+}
+
+.anyVision-case-study .screen_left {
+	background: #fff;
+	float: left;
+	width: 50%;
+	border-top-right-radius: 14px;
+	-webkit-box-shadow: 0 0 12px 1px transparent;
+	-moz-box-shadow: 0 0 12px 1px transparent;
+	box-shadow: 0 0 12px 1px transparent;
+	border-bottom-right-radius: 14px;
+	padding: 100px 0 194px;
+	position: relative
+}
+
+.anyVision-case-study .nav_img {
+	position: absolute;
+	bottom: 147px;
+	right: 59px;
+	z-index: 1
+}
+
+.anyVision-case-study .screen_right {
+	float: right;
+	position: absolute;
+	right: 20px;
+	top: 100px
+}
+
+.anyVision-case-study .title_small {
+	font-size: 40px;
+	font-family: bebas_neuebook, trebuchet ms, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-weight: 400;
+	color: #55c365;
+	padding-bottom: 15px
+}
+
+.anyVision-case-study .title_small span {
+	font-size: 40px;
+	font-family: bebas_neue_regular, trebuchet ms, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-weight: 700;
+	color: #52d5ff
+}
+
+.anyVision-case-study .setup_camera {
+	position: relative;
+	display: flex;
+	justify-content: flex-end
+}
+
+.anyVision-case-study .setup_camera .title_small {
+	float: left;
+	position: relative;
+	align-self: baseline;
+	margin-top: 120px;
+	left: 30px
+}
+
+.anyVision-case-study .setup_camera img {
+	float: right;
+	margin-right: 0
+}
+
+.anyVision-case-study .camera_permission {
+	margin: 180px 0 30px;
+	position: relative;
+	background: url(../../assets/images/casestudy/anyvision/camera_icon.png) no-repeat left 0 top -2px
+}
+
+.anyVision-case-study .title_small:before {
+	content: '';
+	position: absolute;
+	right: 20px;
+	width: 55px;
+	background: #3e454f;
+	height: 1px;
+	bottom: 0
+}
+
+.anyVision-case-study .dianmond {
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-bottom-color: #3e454f;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin: 0
+}
+
+.anyVision-case-study .dianmond:after {
+	content: '';
+	position: absolute;
+	left: -10px;
+	top: 32px;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-top-color: #3e454f
+}
+
+.anyVision-case-study .permission {
+	position: relative;
+	display: flex;
+	justify-content: flex-start
+}
+
+.anyVision-case-study .permission .title_small {
+	position: relative;
+	z-index: 1;
+	color: #52d5ff;
+	font-family: bebas_neue_regular, trebuchet ms, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	margin-top: -10px;
+	align-self: baseline
+}
+
+.anyVision-case-study .permission .title_small:before {
+	left: 20px
+}
+
+.anyVision-case-study .permission .dianmond {
+	right: auto;
+	left: 0
+}
+
+.anyVision-case-study .permission_left {
+	margin-top: -320px;
+	position: relative
+}
+
+.anyVision-case-study .nav_block {
+	position: absolute;
+	right: -40px;
+	bottom: 270px
+}
+
+.anyVision-case-study .permission:after {
+	content: 'Permission';
+	position: absolute;
+	right: 0;
+	font-size: 122px;
+	color: #52d5ff;
+	font-family: bebas_neue_regular, trebuchet ms, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	bottom: 58px;
+	line-height: 160px;
+	top: auto;
+	-webkit-transform: none;
+	-moz-transform: none;
+	transform: none;
+	text-transform: uppercase;
+	opacity: .1
+}
+
+.anyVision-case-study .analysis_imgs {
+	float: left;
+	margin-top: 20px
+}
+
+@media(min-width:992px) {
+	.anyVision-case-study .analysis_imgs {
+		display: flex;
+		align-items: flex-end;
+		flex-direction: column
+	}
+}
+
+.anyVision-case-study .analysis_imgs img {
+	margin-bottom: 60px
+}
+
+.anyVision-case-study .analysis_screen {
+	position: absolute;
+	right: 0;
+	padding-right: 0
+}
+
+.anyVision-case-study .analysis_screen img {
+	float: right
+}
+
+.anyVision-case-study .screen_analysis {
+	position: relative;
+	margin-bottom: 80px
+}
+
+.anyVision-case-study .case_study_footer {
+	background: #fff
+}
+
+.anyVision-case-study .case_study_footer .section-title {
+	margin-left: 0;
+	color: #fff;
+	line-height: 52px;
+	font-family: bebas_neue_regular, trebuchet ms, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	margin-top: -50px;
+	margin-bottom: 22px
+}
+
+.anyVision-case-study .case_study_footer .section-title span {
+	color: #52d5ff
+}
+
+.anyVision-case-study .case_study_footer .section-title p {
+	font-family: bebas_neuebold, trebuchet ms, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #21242e;
+	position: relative;
+	top: 8px
+}
+
+.anyVision-case-study .case_study_footer ul li {
+	color: #21242e;
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	position: relative;
+	padding-left: 30px;
+	line-height: 40px;
+	padding-top: 0;
+	padding-bottom: 0;
+	display: block;
+    width: 100%;
+}
+
+.anyVision-case-study .case_study_footer ul li:focus,
+.anyVision-case-study .case_study_footer ul li:hover {
+	text-decoration: none;
+	background-color: transparent;
+	outline: none
+}
+
+.anyVision-case-study .case_study_footer ul:not(.sub_nav)>li:before {
+	font-family: material icons;
+	-webkit-font-feature-settings: 'liga';
+	content: 'keyboard_backspace';
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	transform: rotate(180deg);
+	position: absolute;
+	left: 0
+}
+
+.anyVision-case-study .case_study_footer>ul>li:before {
+	font-family: material icons;
+	content: "arrow_right_alt";
+	-webkit-font-feature-settings: 'liga';
+	display: block;
+	font-size: 16px
+}
+
+.anyVision-case-study .case_study_footer .sub_nav li:before {
+	position: absolute;
+	left: 0;
+	font-family: material icons;
+	-webkit-font-feature-settings: 'liga';
+	content: 'arrow_right'
+}
+
+.anyVision-case-study .case_study_footer ul {
+	list-style: none;
+	flex-wrap: wrap;
+}
+
+.anyVision-case-study .case_study_footer ul ul {
+	padding-left: 0;
+	margin-left: -30px
+}
+
+.anyVision-case-study .case_study_footer .sub_nav li a {
+	padding-left: 25px;
+	line-height: 30px
+}
+
+.anyVision-case-study .case_study_footer ul:not(.sub_nav)>li {
+	margin-bottom: 15px
+}
+
+.anyVision-case-study .footer_inner {
+	width: 1273px;
+	margin: 0 auto;
+	max-width: 100%;
+	padding: 0 15px
+}
+
+@media screen and (max-width:1920px) {
+	.anyVision-case-study .screen_left {
+		width: 50%
+	}
+	.anyVision-case-study .permission {
+		display: flex;
+		justify-content: center
+	}
+	.anyVision-case-study .analysis_imgs {
+		padding-left: 70px
+	}
+	.anyVision-case-study .feature_right {
+		right: 29.5%;
+		bottom: -6%
+	}
+	.anyVision-case-study .id_img2 {
+		margin-top: -62%;
+		margin-left: 68%
+	}
+	.anyVision-case-study .setup_camera .title_small {
+		margin-top: 180px;
+		left: 40px
+	}
+	.anyVision-case-study .permission_left {
+		margin-top: -440px;
+		margin-left: -150px
+	}
+	.anyVision-case-study .nav_block {
+		position: absolute;
+		right: -200px;
+		bottom: 100px;
+		z-index: 9
+	}
+	.anyVision-case-study .permission:after {
+		font-size: 165px;
+		bottom: 0
+	}
+	.anyVision-case-study .title_small {
+		padding-bottom: 20px
+	}
+	.anyVision-case-study .analysis_imgs img {
+		margin-bottom: 70px;
+		max-width: 160px;
+		width: 100%
+	}
+	.anyVision-case-study .screen_analysis {
+		margin-bottom: 120px;
+		width: 100%
+	}
+}
+
+@media screen and (max-width:1600px) {
+	.anyVision-case-study .setup_camera img {
+		width: 1100px
+	}
+	.anyVision-case-study .setup_camera .title_small {
+		margin-top: 150px
+	}
+	.anyVision-case-study .permission_left>img {
+		width: 1160px
+	}
+	.anyVision-case-study .setup_camera img {
+		width: 1180px;
+		align-self: flex-start
+	}
+	.anyVision-case-study .feature_right {
+		bottom: -9%
+	}
+	.anyVision-case-study .screen_left {
+		width: 51%
+	}
+	.anyVision-case-study .screen_right img {
+		width: 980px
+	}
+	.anyVision-case-study .nav_img {
+		position: absolute;
+		bottom: 147px;
+		right: -110px;
+		z-index: 1
+	}
+	.anyVision-case-study .id_img2 {
+		margin-top: -260px;
+		margin-left: 290px
+	}
+	.anyVision-case-study .camera_permission {
+		margin: 90px 0 30px;
+		background-size: 360px
+	}
+	.anyVision-case-study .permission_left {
+		margin-top: -360px;
+		margin-left: -279px
+	}
+	.anyVision-case-study .nav_block {
+		right: -185px;
+		bottom: 171px;
+		width: 710px
+	}
+	.anyVision-case-study .permission:after {
+		font-size: 154px;
+		bottom: 53px
+	}
+	.anyVision-case-study .screen_analysis {
+		margin-bottom: 80px
+	}
+	.anyVision-case-study .footer_inner {
+		width: 1075px
+	}
+	.anyVision-case-study .analysis_imgs {
+		padding-left: 34px
+	}
+	.anyVision-case-study .analysis_imgs img {
+		margin-bottom: 40px
+	}
+	.anyVision-case-study .nav_img img {
+		max-width: 83%
+	}
+	.anyVision-case-study .screen_left>img {
+		max-width: 77%
+	}
+	.anyVision-case-study .nav_img {
+		right: -37px
+	}
+	.anyVision-case-study .permission_left>img {
+		width: 1018px
+	}
+	.anyVision-case-study .permission .title_small {
+		margin-top: 20px
+	}
+}
+
+@media screen and (max-width:1440px) {
+	.anyVision-case-study .setup_camera .title_small {
+		margin-top: 134px;
+		left: 30px
+	}
+	.anyVision-case-study .setup_camera img {
+		width: 1018px;
+		align-self: flex-start
+	}
+	.anyVision-case-study .camera_permission {
+		background-size: 370px;
+		background-position: left 0 top 0;
+		padding-top: 30px
+	}
+	.anyVision-case-study .permission_left {
+		margin-top: -311px;
+		margin-left: -217px
+	}
+	.anyVision-case-study .permission_left>img {
+		width: 1032px
+	}
+	.anyVision-case-study .nav_block {
+		right: -225px;
+		bottom: 160px;
+		width: 760px
+	}
+	.anyVision-case-study .permission:after {
+		font-size: 121px;
+		bottom: 55px
+	}
+	.anyVision-case-study .analysis_screen img {
+		width: 1150px;
+		float: right
+	}
+	.anyVision-case-study .analysis_imgs {
+		padding-left: 64px
+	}
+	.anyVision-case-study .screen_analysis {
+		margin-bottom: 110px
+	}
+	.anyVision-case-study .footer_inner {
+		width: 845px
+	}
+	.anyVision-case-study .permission .title_small {
+		margin-top: 70px
+	}
+	.anyVision-case-study .nav_img {
+		bottom: 151px;
+		right: 120px;
+		width: 541px
+	}
+	.anyVision-case-study .nav_img img {
+		max-width: 83%
+	}
+	.anyVision-case-study .screen_left {
+		width: 55%
+	}
+}
+
+@media screen and (max-width:1400px) {
+	.anyVision-case-study .permission:after {
+		font-size: 116px;
+		bottom: 56px
+	}
+	.anyVision-case-study .permission_left>img {
+		width: 1014px
+	}
+	.anyVision-case-study .setup_camera .title_small {
+		margin-top: 115px
+	}
+	.anyVision-case-study .camera_permission {
+		background-size: 330px
+	}
+	.anyVision-case-study .analysis_imgs {
+		padding-left: 36px
+	}
+	.anyVision-case-study .footer_inner {
+		width: 935px
+	}
+}
+
+@media screen and (max-width:1366px) {
+	.anyVision-case-study .permission:after {
+		font-size: 114px;
+		bottom: 57px
+	}
+	.anyVision-case-study .nav_img {
+		bottom: 181px;
+		right: 16px;
+		width: 461px
+	}
+	.anyVision-case-study .nav_img img {
+		max-width: 83%
+	}
+	.anyVision-case-study .screen_left {
+		width: 44%
+	}
+	.anyVision-case-study .screen_left>img {
+		max-width: 89%
+	}
+}
+
+@media screen and (max-width:1280px) {
+	.anyVision-case-study .feature_highlight {
+		margin: 100px 0 75px 84px;
+		width: 68%
+	}
+	.anyVision-case-study .id_img1 {
+		width: 334px
+	}
+	.anyVision-case-study .id_img2 {
+		margin-top: -140px;
+		margin-left: 210px;
+		width: 228px
+	}
+	.anyVision-case-study .feature_right {
+		bottom: 50px;
+		right: 275px;
+		width: 16.4%
+	}
+	.anyVision-case-study .desc-container:before {
+		left: -39px
+	}
+	.anyVision-case-study .feature_list li {
+		padding-left: 82px
+	}
+	.anyVision-case-study .feature_list li:before {
+		left: 30px
+	}
+	.anyVision-case-study .desc-container {
+		padding-left: 30px
+	}
+	.anyVision-case-study .permission:after {
+		font-size: 102px
+	}
+	.anyVision-case-study .screen_right img {
+		width: 911px
+	}
+}
+
+@media screen and (max-width:1024px) {
+	.anyVision-case-study .desc-container,
+	.anyVision-case-study .feature_list li {
+		padding-left: 60px
+	}
+	.anyVision-case-study .desc-container:before {
+		left: 0
+	}
+	.anyVision-case-study .case_study_feature .section-title {
+		margin-left: 0
+	}
+	.anyVision-case-study .feature_left {
+		width: 100%;
+		margin-left: -92px
+	}
+	.anyVision-case-study .id_img2 {
+		margin-top: 295px;
+		margin-left: -126px;
+		float: none;
+		display: inline-block;
+		vertical-align: middle
+	}
+	.anyVision-case-study .id_img1 {
+		width: 400px;
+		float: none;
+		display: inline-block;
+		vertical-align: middle
+	}
+	.anyVision-case-study .feature_right {
+		width: 100%;
+		position: static;
+		text-align: center;
+		margin-top: -70px
+	}
+	.anyVision-case-study .feature_highlight {
+		margin: 0;
+		width: 100%;
+		padding: 40px 40px 40px 95px
+	}
+	.anyVision-case-study .feature_block:last-child {
+		margin-bottom: 0
+	}
+	.anyVision-case-study .feature_list li:before {
+		left: 25px
+	}
+	.anyVision-case-study .screen_left {
+		width: 90%;
+		float: none;
+		padding: 50px 0 70px;
+		margin: 0 auto;
+		border-radius: 14px
+	}
+	.anyVision-case-study .screen_left>img {
+		max-width: 89%;
+		margin: 0 auto
+	}
+	.anyVision-case-study .nav_img {
+		position: static;
+		float: none;
+		margin: -130px auto 0;
+		max-width: 100%
+	}
+	.anyVision-case-study .screen_right {
+		position: static;
+		margin: 30px auto;
+		display: block;
+		float: none;
+		clear: both
+	}
+	.anyVision-case-study .screen_right img {
+		margin: 0 auto;
+		max-width: 100%
+	}
+	.anyVision-case-study .case_study_screen {
+		margin-top: 30px
+	}
+	.anyVision-case-study .camera_permission {
+		background-size: 170px;
+		padding-top: 0;
+		margin: -120px 0 30px
+	}
+	.anyVision-case-study .setup_camera .title_small {
+		margin-top: 70px;
+		left: 70px;
+		margin-bottom: 30px
+	}
+	.anyVision-case-study .setup_camera img {
+		max-width: 70%;
+		margin: 0 auto;
+		float: none
+	}
+	.anyVision-case-study .permission_left {
+		margin-top: 0;
+		margin-left: 0
+	}
+	.anyVision-case-study .permission_left>img {
+		max-width: 99%;
+		margin: 0 auto
+	}
+	.anyVision-case-study .nav_block {
+		right: -77px;
+		left: auto;
+		bottom: 150px;
+		width: 810px
+	}
+	.anyVision-case-study .nav_block img {
+		max-width: 60%;
+		float: right
+	}
+	.anyVision-case-study .permission .title_small {
+		margin-top: 70px;
+		margin-right: 70px
+	}
+	.anyVision-case-study .permission:after {
+		font-size: 73px
+	}
+	.anyVision-case-study .screen_analysis {
+		margin-bottom: 90px
+	}
+	.anyVision-case-study .footer_inner {
+		max-width: 100%;
+		width: 692px
+	}
+	.anyVision-case-study .analysis_imgs {
+		padding-left: 47px
+	}
+	.anyVision-case-study .desc-container .desc-txt:last-child {
+		margin-bottom: 0
+	}
+}
+
+@media screen and (max-width:991px) {
+	.anyVision-case-study .feature_info {
+		padding: 45px 0
+	}
+	.anyVision-case-study .feature_left {
+		margin-left: 0
+	}
+	.anyVision-case-study .feature_highlight {
+		padding: 40px 40px 40px 10px
+	}
+	.anyVision-case-study .screen_left {
+		width: 90%;
+		padding: 30px 0 50px;
+		margin: 0 auto
+	}
+	.anyVision-case-study .screen_right img {
+		max-width: 90%
+	}
+	.anyVision-case-study .nav_block {
+		right: -53px;
+		bottom: 111px;
+		width: 100%;
+		left: auto
+	}
+	.anyVision-case-study .nav_block img {
+		float: right
+	}
+	.anyVision-case-study .permission:after {
+		font-size: 71px;
+		bottom: 8px
+	}
+	.anyVision-case-study .analysis_imgs {
+		padding-left: 40px;
+		width: 100%;
+		text-align: center
+	}
+	.anyVision-case-study .analysis_imgs img {
+		display: inline-block
+	}
+	.anyVision-case-study .analysis_screen {
+		position: static;
+		padding-right: 0;
+		width: 100%
+	}
+	.anyVision-case-study .analysis_screen img {
+		float: none;
+		max-width: 90%;
+		margin: 0 auto
+	}
+	.anyVision-case-study .setup_camera .title_small {
+		left: 40px
+	}
+	.anyVision-case-study .camera_permission {
+		background-size: 141px;
+		background-position: top 12px left
+	}
+}
+
+@media screen and (max-width:768px) {
+	.anyVision-case-study .camera_permission {
+		background-size: 124px;
+		background-position: top 20px left
+	}
+	.anyVision-case-study .nav_block {
+		bottom: 57px
+	}
+}
+
+@media screen and (max-width:767px) {
+	.anyVision-case-study .setup_camera,
+	.anyVision-case-study .permission {
+		flex-wrap: wrap
+	}
+	.anyVision-case-study .permission_left {
+		order: 2
+	}
+	.anyVision-case-study .setup_camera .title_small {
+		margin-bottom: 0;
+		left: 0;
+		padding-left: 0;
+		text-align: center;
+		display: block;
+		float: none;
+		margin: 70px auto 30px
+	}
+	.anyVision-case-study .setup_camera img {
+		max-width: 100%;
+		margin: 0 auto;
+		float: none;
+		width: 100%
+	}
+	.anyVision-case-study .permission .title_small {
+		margin-top: 20px;
+		margin-right: 0
+	}
+	.anyVision-case-study .nav_block {
+		bottom: 27px;
+		right: 0
+	}
+	.anyVision-case-study .permission:after {
+		bottom: auto;
+		top: 17px
+	}
+	.anyVision-case-study .permission_left>img {
+		max-width: 90%;
+		margin: 0 auto
+	}
+	.anyVision-case-study .footer_nav {
+		float: left;
+		width: 50%
+	}
+	.anyVision-case-study .analysis_imgs {
+		padding-left: 15px
+	}
+	.anyVision-case-study .analysis_imgs img {
+		width: 33.33%;
+		margin-right: -3px
+	}
+	.anyVision-case-study .feature_info {
+		padding: 25px 15px 25px 0
+	}
+	.anyVision-case-study .nav_img img {
+		margin: 0 auto
+	}
+	.anyVision-case-study .feature_desc {
+		font-size: 15px;
+		line-height: 35px;
+		padding: 0 15px
+	}
+	.anyVision-case-study .feature_name {
+		font-size: 18px;
+		line-height: 20px
+	}
+	.anyVision-case-study .feature_highlight {
+		padding: 40px 40px 20px 10px
+	}
+	.anyVision-case-study .feature_info:after {
+		font-size: 90px
+	}
+	.anyVision-case-study .feature_list {
+		font-size: 15px;
+		line-height: 30px
+	}
+	.anyVision-case-study .desc-container .desc-txt {
+		font-size: 16px;
+		line-height: 25px
+	}
+	.anyVision-case-study .screen_left {
+		width: 90%;
+		padding: 40px 0 80px;
+		margin: 0 auto;
+		border-radius: 7px
+	}
+	.anyVision-case-study .id_img1 {
+		width: 328px
+	}
+}
+
+@media screen and (max-width:568px) {
+	.anyVision-case-study .feature_right {
+		margin-top: 0
+	}
+	.anyVision-case-study .id_img2 {
+		margin-top: 0;
+		margin-left: 0
+	}
+	.anyVision-case-study .permission:after {
+		font-size: 50px
+	}
+	.anyVision-case-study .section-title {
+		font-size: 40px
+	}
+	.anyVision-case-study .footer_nav {
+		float: none;
+		width: 100%
+	}
+	.anyVision-case-study .feature_block {
+		width: 100%
+	}
+}
+
+@media screen and (max-width:480px) {
+	.anyVision-case-study .case_study_desc {
+		padding-bottom: 10px
+	}
+	.anyVision-case-study .permission:after {
+		display: none
+	}
+	.anyVision-case-study .camera_permission {
+		background-size: 107px;
+		background-position: top 47px left
+	}
+	.anyVision-case-study .id_img2,
+	.anyVision-case-study .id_img1 {
+		max-width: 90%
+	}
+	.anyVision-case-study .case_study_screen {
+		margin-top: 15px
+	}
+	.anyVision-case-study .setup_camera .title_small {
+		margin: 70px auto 20px
+	}
+}

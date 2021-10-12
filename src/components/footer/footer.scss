@@ -1,0 +1,340 @@
+.footer-container {
+    //color:red;
+    background-color: rgba($color: #F4F4F6, $alpha: 0.61);
+    position: relative;
+    margin-top: 50px;
+    @media screen and (max-width: 767px) {
+        margin-top: 70px;
+    }
+    .footer-elment {
+        // background: url(../../assets/images/footer-element.svg) left top no-repeat;
+        // width: 35%;
+        // height: 70%;
+        // position: absolute;
+        // left: -13%;
+        // top: 150px;
+        width: 287px;
+        height: 287px;
+        position: absolute;
+        left: -225px;
+        top: -30px;
+        border-radius: 50px;
+        box-shadow: 0 3px 36px rgba(0, 0, 0, 0.16);
+        opacity: 0.46;
+        transform: rotate(45deg);
+        background: #fff;
+        @media screen and (max-width: 600px) {
+            width: 100px;
+            height: 100px;
+            left: -60px;
+        }
+    }
+    .container {
+        max-width: 1230px;
+    }
+    >.container {
+        background: url(../../assets/images/footer-map.png) right 49px no-repeat;
+        background-size: 60%;
+        padding-top: 140px;
+        @media screen and (max-width: 600px) {
+            background-size: 100%;
+            padding-top: 100px;
+        }
+    }
+    &.contactus-footer {
+       > .container{
+            padding-top: 160px;
+            background-position: right top 20px;
+            background-size: 55%;
+            @media screen and (max-width:600px){
+                background-size: 100%;
+            }
+        }
+    }
+}
+
+.footer-main-title {
+    font-size: 24px;
+    font-family: 'Mont', sans-serif;
+    margin-bottom: 20px;
+    color: #1D1E31;
+    font-weight: 900;
+}
+
+.cmarix-locations {
+    .map-icon {
+        position: absolute;
+        width: 30px;
+        height: 30px;
+    }
+    .india-loc {
+        .map-icon {
+            background: url(../../assets/images/map-icon-india.png) left top no-repeat;
+            background-size: 100%;
+        }
+    }
+    .usa-loc {
+        .map-icon {
+            background: url(../../assets/images/map-icon-usa.svg) left top 3px no-repeat;
+            background-size: 100%;
+        }
+    }
+    .germany-loc {
+        .map-icon {
+            background: url(../../assets/images/map-icon-germany.svg) left top 3px no-repeat;
+            background-size: 100%;
+        }
+    }
+    .bahrain-loc {
+        .map-icon {
+            background: url(../../assets/images/map-icon-bahrain.svg) left top 3px no-repeat;
+            background-size: 100%;
+        }
+    }
+    .nigeria-loc {
+        .map-icon {
+            background: url(../../assets/images/map-icon-nigeria.svg) left top 3px no-repeat;
+            background-size: 100%;
+        }
+    }
+    .italy-loc {
+        .map-icon {
+            background: url(../../assets/images/map-icon-italy.svg) left top 3px no-repeat;
+            background-size: 100%;
+        }
+    }
+    h5,
+    p {
+        color: #1D1E31;
+    }
+    h5 {
+        font-size: 22px;
+        font-weight: 700;
+        padding-left: 42px;
+        span {
+            font-size: 18px;
+            font-weight: 400;
+        }
+    }
+    p {
+        line-height: 28px;
+    }
+}
+
+.cmarix-locations {
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #DFDFDF;
+}
+
+.footer-title {
+    font-size: 20px;
+    font-family: 'Mont', sans-serif;
+    margin-bottom: 20px;
+    color: #1D1E31;
+    font-weight: 800;
+}
+
+.get-in-touch {
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #DFDFDF;
+}
+
+.footer-contact-col {
+    display: flex;
+    align-items: center;
+    .icon {
+        background-color: #fff;
+        width: 49px;
+        height: 49px;
+        display: flex;
+        top: 50%;
+        border-radius: 40px;
+        align-items: center;
+        text-align: center;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 50%;
+        overflow: hidden;
+        &.skype-icon {
+            background-image: url(../../assets/images/footer-icon-skype.png);
+        }
+        &.gmail-icon {
+            background-image: url(../../assets/images/footer-icon-gmail.png);
+        }
+        &.india-map-icon {
+            background-image: url(../../assets/images/footer/whatsapp.svg);
+            background-size: 65%;
+        }
+        &.usa-map-icon {
+            background-image: url(../../assets/images/footer/telephone.svg);
+            background-size: 65%;
+        }
+    }
+    .footer-contact-inner {
+        // padding-left: 26px;
+        font-size: calc(17px + 3 * ((100vw - 320px) / 1920));
+        font-weight: 900;
+        label {
+            font-size: calc(13px + 2 * ((100vw - 320px) / 1920));
+            line-height: 1;
+            font-weight: 400;
+        }
+    }
+    p {
+        margin-bottom: 0;
+    }
+}
+
+.footer-sm {
+    margin-bottom: 50px;
+}
+
+.footer-sm-list {
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+    @media screen and (max-width: 767px) {
+        text-align: center;
+        max-width: 350px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    li {
+        display: inline-block;
+        @media screen and (max-width: 992px) {
+            width: calc(20% - 10px);
+        }
+        &+li {
+            margin-left: 22px;
+            @media screen and (max-width: 992px) {
+                margin-left: 10px;
+            }
+        }
+        a {
+            background-size: 100%;
+            background-repeat: no-repeat;
+            display: block;
+            height: 60px;
+            width: 60px;
+            background-position: center;
+        }
+        .footer-logo-good-firms {
+            background-image: url(../../assets/images/footer-logo-good-firms.svg);
+            max-height: 58px;
+        }
+        .footer-logo-clutch {
+            background-image: url(../../assets/images/footer-logo-clutch.png);
+            max-height: 58px;
+        }
+        .footer-logo-td {
+            background-image: url(../../assets/images/footer-logo-td.png);
+            max-height: 58px;
+        }
+        .footer-logo-it-firms {
+            background-image: url(../../assets/images/footer-logo-it-firms.png);
+            max-height: 58px;
+        }
+        .footer-logo-app-futura {
+            background-image: url(../../assets/images/footer-logo-app-futura.png);
+        }
+        .footer-logo-app-firms {
+            background-image: url(../../assets/images/app-firms.png);
+        }
+    }
+}
+
+.copyright-section {
+    background-color: #EBEBED;
+    padding-top: 22px;
+    padding-bottom: 50px;
+    font-size: calc(14px + 2 * ((100vw - 320px) / 1920));
+}
+
+.footer-links {
+    text-align: right;
+    ul {
+        margin: 0;
+        padding: 0;
+        font-size: 0;
+        @media screen and (max-width: 992px) {
+            text-align: center;
+            margin-top: 20px;
+        }
+        li {
+            list-style: none;
+            display: inline-block;
+            font-size: calc(14px + 2 * ((100vw - 320px) / 1920));
+            line-height: 1;
+            &:not(:last-child) {
+                padding-right: 15px;
+                margin-right: 15px;
+                border-right: 1px solid;
+            }
+        }
+    }
+}
+
+.privacy_certificate {
+    ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        li {
+            line-height: 0;
+            &+li {
+                margin-left: 5px;
+            }
+        }
+    }
+}
+
+.footer_socilal_link {
+    ul {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        @media screen and (max-width: 767px) {
+            justify-content: center;
+        }
+        li+li {
+            margin-left: 40px;
+        }
+    }
+}
+
+.footer_location_list,
+.footer_contact_list {
+    &>.col {
+        @media screen and (max-width: 992px) {
+            flex-basis: 33.33%;
+            max-width: 33.33%;
+            margin-bottom: 15px;
+        }
+        @media screen and (max-width: 767px) {
+            flex-basis: 50%;
+            max-width: 50%;
+        }
+        @media screen and (max-width: 600px) {
+            width: 100%;
+            flex-basis: 100%;
+            max-width: 100%;
+        }
+        &+.col {
+            @media screen and (max-width: 992px) {
+                margin-top: 0;
+            }
+            @media screen and (max-width: 600px) {
+                margin-top: 20px;
+            }
+        }
+    }
+}
+
+.copyright {
+    @media screen and (max-width: 992px) {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-custom_7">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="custom_7" data-name="custom – 7" clip-path="url(#clip-custom_7)">
+    <circle id="icon3" cx="1002.643" cy="1002.643" r="1002.643" transform="translate(1095.848 -826.59)" fill="#fff" opacity="0.28"/>
+    <path id="icon3-2" data-name="icon3" d="M1002.643,0c553.744,0,1002.643,448.9,1002.643,1002.643s-448.9,1002.643-1002.643,1002.643S0,1556.387,0,1002.643,448.9,0,1002.643,0Z" transform="translate(1180.848 -1033.59)" fill="#ffd6d6" opacity="0.32"/>
+    <circle id="icon3-3" data-name="icon3" cx="478.603" cy="478.603" r="478.603" transform="translate(1260.633 -523.677)" fill="#fff" opacity="0.33"/>
+  </g>
+</svg>

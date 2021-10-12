@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="73.482" height="66.625" viewBox="0 0 73.482 66.625">
+  <defs>
+    <filter id="Path_0" x="0" y="0" width="73.482" height="66.625" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="integration" transform="translate(-45.75 -33.356)">
+    <path id="Path_510" data-name="Path 510" d="M61.731,50.441h39.078L81,61.189Z" transform="translate(1.709 2.714)" fill="#bdb3ee"/>
+    <path id="Path_511" data-name="Path 511" d="M61.731,50.441h39.078L81,61.189Z" transform="translate(1.709 12.672)" fill="#bdb3ee"/>
+    <path id="Path_512" data-name="Path 512" d="M61.731,50.441h39.078L81,61.189Z" transform="translate(1.709 25.12)" fill="#bdb3ee"/>
+    <g transform="matrix(1, 0, 0, 1, 45.75, 33.36)" filter="url(#Path_0)">
+      <path id="Path_0-2" data-name="Path 0" d="M28.212.06c.039,0,6.3,3.113,13.92,6.921s13.849,6.944,13.849,6.967-6.245,3.165-27.755,13.92L14.349,20.929C6.716,17.113.484,13.965.5,13.934S6.741,10.769,14.335,6.97,28.173.062,28.212.06Zm-18.45,13.9,18.464,9.2,18.475-9.2c-14.252-7.129-18.429-9.2-18.475-9.2s-4.22,2.07-9.275,4.6ZM6.008,21.533c.008-.005,5.01,2.489,22.218,11.093l22.2-11.1,2.747,1.388c1.511.763,2.747,1.413,2.747,1.444s-6.232,3.173-27.7,13.906L14.377,31.338C6.76,27.529.534,24.385.542,24.351s1.238-.68,2.733-1.435S6,21.538,6.008,21.533Zm0,10.417c.008,0,5.01,2.495,22.218,11.1l22.2-11.1,2.748,1.374c1.512.756,2.748,1.405,2.748,1.444s-6.232,3.187-27.7,13.92L14.377,41.76C6.76,37.951.523,34.8.516,34.765s1.127-.64,2.733-1.442C4.759,32.57,6,31.952,6.008,31.95Z" transform="translate(8.5 5.94)" fill-rule="evenodd"/>
+    </g>
+    <ellipse id="Ellipse_126" cx="2.617" cy="2.617" rx="2.617" ry="2.617" transform="translate(57.949 34.064)" fill="#bdb3ee"/>
+    <ellipse id="Ellipse_127" cx="2.617" cy="2.617" rx="2.617" ry="2.617" transform="translate(101.693 83.544)" fill="#bdb3ee"/>
+    <ellipse id="Ellipse_128" cx="1.056" cy="1.056" rx="1.056" ry="1.056" transform="translate(108.121 87.664)" fill="#bdb3ee"/>
+  </g>
+</svg>

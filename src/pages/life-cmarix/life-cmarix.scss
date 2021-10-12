@@ -1,0 +1,99 @@
+.cmr-happen {
+    background-color: #F8F8F9;
+    margin: 50px 0 70px 0;
+    padding: 60px 0;
+    @media screen and (max-width: 992px) {
+        margin: 30px 0;
+        padding: 30px 0;
+    }
+    @media screen and (max-width: 767px) {
+        margin-bottom: 0;
+    }
+    h2, h3 {
+        font-family: "Lato", sans-serif;
+        font-weight: 500;
+        font-size: 36px;
+        line-height: 60px;
+        text-align: left;
+        color: #1d1e31;
+        @media screen and (max-width: 767px) {
+            font-size: 28px;
+            line-height: 35px;
+        }
+    }
+    p {
+        font-family: "Lato", sans-serif;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 30px;
+        text-align: left;
+        color: #001033;
+        @media screen and (max-width: 767px) {
+            font-size: 16px;
+        }
+    }
+    .cmr-extended {
+        margin-top: 100px;
+        background-color: #02021E;
+        color: white !important;
+        .extend-img {
+            position: relative;
+            top: -50px;
+            padding-left: 0px;
+        }
+        .right-extend {
+            padding-top: 50px;
+            padding-left: 30px;
+            @media screen and (max-width: 992px) {
+                padding-left: 30px;
+                padding-bottom: 50px;
+            }
+            @media screen and (max-width:600px) {
+                padding-top: 0px;
+            }
+            .sec-title {
+                h3, h2 {
+                    color: white;
+                    font-family: "Lato", sans-serif;
+                    margin-top: 20px;
+                    font-weight: 500;
+                    font-size: 42px;
+                    line-height: 1.5;
+                    @media screen and (max-width: 992px) {
+                        font-size: 28px;
+                    }
+                }
+                p {
+                    color: white;
+                    span {
+                        &::before {
+                            background-color: white;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.cmr-relate {
+    position: relative;
+    overflow: hidden;
+}
+
+.cmr-ab-relate {
+    margin: 100px 0;
+    background: linear-gradient(to left, #f8f8f9 0%, #f8f8f9 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0) 100%);
+    @media screen and (max-width: 600px) {
+        margin: 50px 0;
+    }
+    .container {
+        position: relative;
+        border-radius: 50px 0px 0px 50px;
+        background: #f8f8f9;
+        padding: 20px 60px;
+        @media screen and (max-width: 600px) {
+            padding: 20px 30px;
+        }
+    }
+}

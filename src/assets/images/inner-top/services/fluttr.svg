@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="371.436" height="402.008" viewBox="0 0 371.436 402.008">
+  <g id="fluttr" transform="translate(-1067.998 -167.802)">
+    <path id="Path_475" data-name="Path 475" d="M1089.833,2256.83l97.112-98.757h105.34l-158.835,154.72Z" transform="translate(85.837 -1806.756)" fill="#afccff"/>
+    <g id="Group_321" data-name="Group 321" transform="translate(1092.14 187.802)">
+      <g id="flutter">
+        <path id="Path_471" data-name="Path 471" d="M57.285,243.272,0,185.987,186,0H300.556m0,171.628H186l-42.911,42.911,57.285,57.285" fill="none" stroke="#fff" stroke-width="20"/>
+        <path id="Path_472" data-name="Path 472" d="M951.7,1865.174l42.91,42.91h114.554L1008.984,1807.9" transform="translate(-808.608 -1536.076)" fill="none" stroke="#fff" stroke-width="20"/>
+        <path id="Path_473" data-name="Path 473" d="M571.6,1484.81l57.193-57.211,57.194,57.195L628.793,1542Z" transform="translate(-485.658 -1212.956)" fill="none" stroke="#fff" stroke-width="20"/>
+        <path id="Path_474" data-name="Path 474" d="M126.982,14.016,15.226,128.443" transform="translate(182.061 154.014)" fill="none" stroke="#fff" stroke-width="20"/>
+      </g>
+    </g>
+    <g id="Group_322" data-name="Group 322" transform="translate(1101.14 190.802)">
+      <g id="flutter-2" data-name="flutter">
+        <path id="Path_471-2" data-name="Path 471" d="M57.285,243.272,0,185.987,186,0H300.556m0,171.628H186l-42.911,42.911,57.285,57.285" fill="none" stroke="#373f54" stroke-width="1"/>
+        <path id="Path_472-2" data-name="Path 472" d="M951.7,1865.174l42.91,42.91h114.554L1008.984,1807.9" transform="translate(-808.608 -1536.076)" fill="none" stroke="#373f54" stroke-width="1"/>
+        <path id="Path_473-2" data-name="Path 473" d="M571.6,1484.81l57.193-57.211,57.194,57.195L628.793,1542Z" transform="translate(-485.658 -1212.956)" fill="none" stroke="#373f54" stroke-width="1"/>
+        <path id="Path_474-2" data-name="Path 474" d="M126.982,14.016,15.226,128.443" transform="translate(182.061 154.014)" fill="none" stroke="#373f54" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_310" data-name="Group 310" transform="translate(1082.14 177.802)">
+      <g id="flutter-3" data-name="flutter">
+        <path id="Path_471-3" data-name="Path 471" d="M57.285,243.272,0,185.987,186,0H300.556m0,171.628H186l-42.911,42.911,57.285,57.285" fill="none" stroke="#373f54" stroke-width="20"/>
+        <path id="Path_472-3" data-name="Path 472" d="M951.7,1865.174l42.91,42.91h114.554L1008.984,1807.9" transform="translate(-808.608 -1536.076)" fill="none" stroke="#373f54" stroke-width="20"/>
+        <path id="Path_473-3" data-name="Path 473" d="M571.6,1484.81l57.193-57.211,57.194,57.195L628.793,1542Z" transform="translate(-485.658 -1212.956)" fill="none" stroke="#373f54" stroke-width="20"/>
+        <path id="Path_474-3" data-name="Path 474" d="M126.982,14.016,15.226,128.443" transform="translate(182.061 154.014)" fill="none" stroke="#373f54" stroke-width="20"/>
+      </g>
+    </g>
+    <ellipse id="Ellipse_126" cx="17.069" cy="17.069" rx="17.069" ry="17.069" transform="translate(1116.914 204.529)" fill="#3880ff"/>
+    <ellipse id="Ellipse_127" cx="17.069" cy="17.069" rx="17.069" ry="17.069" transform="translate(1383.732 462.078)" fill="#3880ff"/>
+    <ellipse id="Ellipse_128" cx="6.888" cy="6.888" rx="6.888" ry="6.888" transform="translate(1425.658 488.957)" fill="#3880ff"/>
+  </g>
+</svg>

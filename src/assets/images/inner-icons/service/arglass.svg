@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48.542" height="52.926" viewBox="0 0 48.542 52.926">
+  <defs>
+    <filter id="Path_4023" x="0" y="0" width="48.542" height="52.926" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="arglass" transform="translate(-12083.596 -15447.537)">
+    <g id="Group_2921" data-name="Group 2921" transform="translate(8 4)">
+      <rect id="Rectangle_794" data-name="Rectangle 794" width="28" height="14" transform="translate(12086 15458)" fill="#cbc1fc"/>
+      <g id="vr-glasses" transform="translate(12052.462 15449.537)">
+        <path id="Path_4022" data-name="Path 4022" d="M200.071,385.648a9.435,9.435,0,0,1-5.929,0,1.023,1.023,0,1,0-.646,1.942,11.494,11.494,0,0,0,7.223,0,1.023,1.023,0,0,0-.648-1.941Z" transform="translate(-149.702 -359.291)"/>
+        <g transform="matrix(1, 0, 0, 1, 23.13, -6)" filter="url(#Path_4023)">
+          <path id="Path_4023-2" data-name="Path 4023" d="M59.324,6.685A6.5,6.5,0,0,0,52.885,1.1H51.716V1.023A1.023,1.023,0,0,0,50.693,0H44.117a1.023,1.023,0,0,0-1.023,1.023V1.1H41.925a6.5,6.5,0,0,0-6.437,5.588,4.318,4.318,0,0,0-3.354,4.2v8.768a4.309,4.309,0,0,0,3.321,4.193,11.983,11.983,0,0,0,23.9,0,4.316,4.316,0,0,0,3.322-4.194V10.887a4.318,4.318,0,0,0-3.351-4.2ZM51.716,3.142h1.169a4.464,4.464,0,0,1,4.34,3.434H51.716Zm-6.576-1.1H49.67V6.576H45.14Zm-3.215,1.1h1.169V6.576h-5.5A4.463,4.463,0,0,1,41.925,3.142ZM47.4,32.879a9.944,9.944,0,0,1-9.885-8.913h5.046a4.8,4.8,0,0,0,3.371-1.4l.016-.016a2.078,2.078,0,0,1,2.905,0l.016.016a4.8,4.8,0,0,0,3.371,1.4h5.045A9.951,9.951,0,0,1,47.4,32.879ZM60.629,19.655a2.266,2.266,0,0,1-2.265,2.265H52.244a2.737,2.737,0,0,1-1.906-.78l-.017-.017a4.124,4.124,0,0,0-5.831,0l-.017.017a2.737,2.737,0,0,1-1.906.78H36.445a2.266,2.266,0,0,1-2.265-2.265V10.887a2.267,2.267,0,0,1,2.265-2.265h21.92a2.267,2.267,0,0,1,2.265,2.265v8.768Z" transform="translate(-23.13 6)"/>
+        </g>
+      </g>
+      <circle id="Ellipse_564" data-name="Ellipse 564" cx="2.881" cy="2.881" r="2.881" transform="translate(12081.934 15448.341)" fill="#cbc1fc"/>
+      <circle id="Ellipse_565" data-name="Ellipse 565" cx="1.116" cy="1.116" r="1.116" transform="translate(12088.884 15445.568)" fill="#cbc1fc"/>
+      <circle id="Ellipse_566" data-name="Ellipse 566" cx="1.764" cy="1.764" r="1.764" transform="translate(12112.181 15477.327)" fill="#cbc1fc"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.165" height="69.292" viewBox="0 0 56.165 69.292">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.41" x2="0.5" y2="2.248" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.302"/>
+    </linearGradient>
+  </defs>
+  <g id="meteor-stop" transform="translate(0.002 -0.167)">
+    <ellipse id="Ellipse_242" data-name="Ellipse 242" cx="2.808" cy="2.814" rx="2.808" ry="2.814" transform="translate(25.273 63.83)" fill="#f77c7c"/>
+    <path id="Path_1999" data-name="Path 1999" d="M23.6,70.279C10.218,69.335,0,64.226,0,58.068,0,51.238,12.573,45.7,28.081,45.7s28.081,5.538,28.081,12.367c0,6.14-10.162,11.232-23.485,12.2-3.894.8-4.6,2.64-4.6,2.64a7.949,7.949,0,0,0-4.48-2.629Z" transform="translate(0 -10.016)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Path_2000" data-name="Path 2000" d="M23.6,55.969a28.081,28.081,0,1,1,9.076-.019,8.707,8.707,0,0,0-4.6,6S26.307,56.919,23.6,55.969Z" fill="#f77c7c" fill-rule="evenodd"/>
+    <g id="Group_369" data-name="Group 369" transform="translate(-1439.234 -161.081)">
+      <circle id="Ellipse_219" data-name="Ellipse 219" cx="8.5" cy="8.5" r="8.5" transform="translate(1460.232 184.247)" fill="#fff" opacity="0.45"/>
+      <g id="meteor-icon" transform="translate(1453.06 177)">
+        <path id="Path_480" data-name="Path 480" d="M.439.438,21.5,22.748a.983.983,0,0,0,1.266-.084.935.935,0,0,0,.127-1.181L.439.438ZM7.108,2.547,23.147,19.838a.983.983,0,0,0,1.266-.084.935.935,0,0,0,.127-1.181ZM2.423,7.059,18.462,24.351a.983.983,0,0,0,1.266-.084.935.935,0,0,0,.127-1.181Zm10.323-2.7,11.206,12.08a.687.687,0,0,0,.885-.059.653.653,0,0,0,.088-.825L12.746,4.36ZM3.966,12.289l11.206,12.08a.687.687,0,0,0,.885-.059.653.653,0,0,0,.088-.825ZM18.5,6.975l5.079,5.492a.354.354,0,0,0,.438-.028.294.294,0,0,0,.044-.387ZM6.77,17.856l5.079,5.492a.354.354,0,0,0,.438-.028.294.294,0,0,0,.044-.387Z" transform="translate(-0.439 -0.438)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

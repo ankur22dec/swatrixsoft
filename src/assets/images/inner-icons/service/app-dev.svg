@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69.716" height="85.521" viewBox="0 0 69.716 85.521">
+  <defs>
+    <filter id="Path_310" x="2.046" y="0" width="66.795" height="85.521" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="app-dev" transform="translate(-814.284 -95)">
+    <g id="mobileapp" transform="translate(814.284 101)">
+      <path id="Path_309" data-name="Path 309" d="M144.484,127.434V98.316a4.621,4.621,0,0,0-4.616-4.616H115.616A4.621,4.621,0,0,0,111,98.316v40.658a4.621,4.621,0,0,0,4.616,4.616h24.252c4.339,0,4.616-4.616,4.616-4.616S144.8,128.094,144.484,127.434Z" transform="translate(-94.679 -81.343)" fill="#7e65ff" opacity="0.38"/>
+      <g transform="matrix(1, 0, 0, 1, 0, -6)" filter="url(#Path_310)">
+        <path id="Path_310-2" data-name="Path 310" d="M114.52,43.8V10.55a5.274,5.274,0,0,0-5.275-5.275H81.55a5.274,5.274,0,0,0-5.275,5.275V56.971a5.274,5.274,0,0,0,5.275,5.275h27.694a5.274,5.274,0,0,0,5.275-5.275,2.638,2.638,0,1,1,5.275,0,10.564,10.564,0,0,1-10.55,10.55H81.55A10.564,10.564,0,0,1,71,56.971V10.55A10.564,10.564,0,0,1,81.55,0h27.694a10.564,10.564,0,0,1,10.55,10.55V43.8a2.638,2.638,0,1,1-5.275,0ZM92.76,55.534A2.638,2.638,0,1,0,95.4,52.9,2.645,2.645,0,0,0,92.76,55.534Z" transform="translate(-59.95 6)"/>
+      </g>
+      <ellipse id="Ellipse_11" cx="3.508" cy="3.508" rx="3.508" ry="3.508" transform="translate(58.799 0)" fill="#7e65ff" opacity="0.38"/>
+      <ellipse id="Ellipse_12" cx="1.332" cy="1.332" rx="1.332" ry="1.332" transform="translate(66.017 8.132) rotate(-34.002)" fill="#7e65ff" opacity="0.38"/>
+      <circle id="Ellipse_13" cx="4.339" cy="4.339" r="4.339" transform="translate(0 62.011) rotate(-34.002)" fill="#7e65ff" opacity="0.38"/>
+      <ellipse id="Ellipse_14" cx="1.648" cy="1.648" rx="1.648" ry="1.648" transform="translate(4.536 52.369) rotate(-34.002)" fill="#7e65ff" opacity="0.38"/>
+      <g id="Group_423" data-name="Group 423" transform="matrix(0.966, -0.259, 0.259, 0.966, -144.078, -120.717)">
+        <path id="Path_350" data-name="Path 350" d="M124.711,204.245a1.556,1.556,0,0,0,2.207-2.193l-5.366-5.352,5.352-5.352a1.551,1.551,0,0,0-2.193-2.193l-6.455,6.455a1.548,1.548,0,0,0,0,2.193Z" transform="translate(0 -0.086)"/>
+        <path id="Path_351" data-name="Path 351" d="M282.959,200.863l-1.1,1.1a1.556,1.556,0,0,0,2.207,2.193l6.455-6.455a1.548,1.548,0,0,0,0-2.193l-6.455-6.455a1.551,1.551,0,1,0-2.193,2.193l1.1,1.1,4.262,4.262Z" transform="translate(-141.034)"/>
+        <path id="Path_352" data-name="Path 352" d="M204.408,204.51a1.554,1.554,0,0,0,2.041-.828l5.421-12.911a1.549,1.549,0,1,0-2.855-1.2l-5.421,12.911A1.534,1.534,0,0,0,204.408,204.51Z" transform="translate(-73.849 -0.02)"/>
+      </g>
+    </g>
+  </g>
+</svg>

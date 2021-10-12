@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.978" height="28.615" viewBox="0 0 26.978 28.615">
+  <g id="fluttr" transform="translate(-1080.726 -176.802)">
+    <path id="Path_475" data-name="Path 475" d="M1089.833,2165.139l6.948-7.066h7.537l-11.364,11.07Z" transform="translate(-1.001 -1967.857)" fill="#898989"/>
+    <g id="Group_310" data-name="Group 310" transform="translate(1082.14 177.802)">
+      <g id="flutter">
+        <path id="Path_471" data-name="Path 471" d="M4.1,17.405,0,13.307,13.308,0h8.2m0,12.279h-8.2l-3.07,3.07,4.1,4.1" fill="none" stroke="#000" stroke-width="2"/>
+        <path id="Path_472" data-name="Path 472" d="M951.7,1812l3.07,3.07h8.2L955.8,1807.9" transform="translate(-941.463 -1788.452)" fill="none" stroke="#000" stroke-width="2"/>
+        <path id="Path_473" data-name="Path 473" d="M571.6,1431.693l4.092-4.093,4.092,4.092-4.092,4.093Z" transform="translate(-565.451 -1412.243)" fill="none" stroke="#000" stroke-width="2"/>
+        <path id="Path_474" data-name="Path 474" d="M23.222,14.016l-8,8.187" transform="translate(-1.111 -1.994)" fill="none" stroke="#000" stroke-width="2"/>
+      </g>
+    </g>
+    <ellipse id="Ellipse_126" cx="1.221" cy="1.221" rx="1.221" ry="1.221" transform="translate(1084.628 179.714)"/>
+    <ellipse id="Ellipse_127" cx="1.221" cy="1.221" rx="1.221" ry="1.221" transform="translate(1103.718 198.141)"/>
+    <ellipse id="Ellipse_128" cx="0.493" cy="0.493" rx="0.493" ry="0.493" transform="translate(1106.717 200.064)"/>
+  </g>
+</svg>

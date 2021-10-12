@@ -1,0 +1,349 @@
+$mont: 'Mont',
+sans-serif;
+// banner
+.testimonials-page {
+    background: rgba(0, 162, 59, 0.13);
+}
+
+.sec-description p.font-14 {
+    font-size: 16px;
+}
+
+.right_round {
+    position: relative;
+    &::after {
+        content: '';
+        position: absolute;
+        right: -33%;
+        width: 350px;
+        height: 350px;
+        bottom: 10%;
+        transform: translateX(-50%);
+        background: #fff;
+        box-shadow: 0 3px 36px rgba(0, 0, 0, 0.16);
+        border-radius: 50%;
+        opacity: 0.46;
+        z-index: -1;
+        @media screen and (max-width: 767px) {
+            width: 150px;
+            height: 150px;
+        }
+    }
+}
+
+//review on clutch
+.reviews_on_clutch {
+    position: relative;
+    margin-bottom: 70px;
+    padding-bottom: 70px;
+    overflow: hidden;
+    @media screen and (max-width: 767px) {
+        margin-bottom: 30px;
+        padding-bottom: 30px;
+    }
+    .cmr-reflectors {
+        top: 15%;
+    }
+}
+
+.customer_review_swiper {
+    position: relative;
+    .swiper-container {
+        height: auto;
+    }
+    .swiper-button-prev-unique,
+    .swiper-button-next-unique {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        z-index: 9;
+        margin: 0;
+        @media screen and (max-width: 767px) {
+            width: 30px;
+            height: 30px;
+            line-height: 30px;
+        }
+    }
+    .swiper-button-prev-unique {
+        left: -70px;
+        @media screen and (max-width: 1024px) {
+            left: 0px;
+        }
+        @media screen and (max-width: 992px) {
+            left: 10px;
+        }
+    }
+    .swiper-button-next-unique {
+        right: -70px;
+        @media screen and (max-width: 1024px) {
+            right: 0px;
+        }
+        @media screen and (max-width: 992px) {
+            right: 10px;
+        }
+    }
+}
+
+.review_right {
+    max-width: 488px;
+    margin: 0 auto;
+    p {
+        font-size: 24px;
+        line-height: 36px;
+        margin: 0;
+        @media screen and (max-width: 767px) {
+            font-size: 20px;
+            line-height: 30px;
+        }
+    }
+}
+
+.cmarix-testimonials {
+    .customer_name_role {
+        h3 {
+            font-size: 19px;
+            font-weight: bold;
+            color: #B4B5C2;
+            @media screen and (max-width: 767px) {
+                font-size: 15px;
+            }
+        }
+        h4 {
+            font-size: 15px;
+            color: #B4B5C2;
+            @media screen and (max-width: 767px) {
+                font-size: 14px;
+            }
+        }
+    }
+}
+
+.customer_project h4 {
+    font-size: 15px;
+    color: #B4B5C2;
+    @media screen and (max-width: 767px) {
+        font-size: 14px;
+    }
+}
+
+.customer_details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+.clutch_logo {
+    width: 117px;
+    height: 80px;
+    background: #F4F4F6;
+    flex-wrap: wrap;
+    padding: 20px;
+    float: right;
+    margin-top: -40px;
+    margin-right: 20px;
+    z-index: 9;
+    position: relative;
+    h4 {
+        font-size: 8px;
+        font-weight: 900;
+        margin-bottom: 5px;
+    }
+    img {
+        width: 75px;
+    }
+}
+
+.customer_image_container {
+    position: relative;
+    z-index: 9;
+    .customer_image {
+        width: calc(100% - 110px);
+        width: calc(100% - 110px);
+        position: relative;
+        margin: 0 auto;
+        position: relative;
+        @media screen and (max-width: 767px) {
+            width: calc(100% - 50px);
+        }
+        @media screen and (max-width: 600px) {
+            width: calc(100% - 110px);
+            margin: 0 auto;
+        }
+    }
+}
+
+.review_left {
+    position: relative;
+    padding-top: 30px;
+    @media screen and (max-width: 600px) {
+        padding-bottom: 30px;
+    }
+    &::after {
+        content: '';
+        position: absolute;
+        left: 30px;
+        top: -30px;
+        width: calc(100% - 50px);
+        height: calc(100% + 70px);
+        background: #F6FCFF;
+        @media screen and (max-width: 600px) {
+            left: 5%;
+            top: 0;
+            width: 90%;
+            height: 100%;
+        }
+    }
+}
+
+.play_video {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    border: none;
+    padding: 0;
+    outline: none !important;
+}
+
+//customer review
+.clients_words {
+    margin-bottom: 150px;
+    @media screen and (max-width: 767px) {
+        margin-bottom: 0;
+    }
+}
+
+.customer_review_vertical {
+    margin-bottom: -100px;
+    @media screen and (max-width: 600px) {
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+    ul {
+        li {
+            &+li {
+                margin-top: 30px;
+            }
+        }
+    }
+}
+
+.customer_review {
+    background: #F3F3F6;
+    padding: 70px 0px;
+}
+
+.excellent_customer {
+    max-width: 350px;
+    @media screen and (max-width: 600px) {
+        max-width: 100%;
+    }
+    p {
+        font-size: 20px;
+        line-height: 35px;
+        margin-bottom: 15px;
+        @media screen and (max-width: 767px) {
+            font-size: 18px;
+            line-height: 30px;
+        }
+    }
+    h3 {
+        font-size: 48px;
+        margin-bottom: 30px;
+        @media screen and (max-width: 767px) {
+            font-size: 30px;
+        }
+    }
+    button.cmr-outline-btn {
+        background: #fff;
+        border: none;
+        height: 50px;
+    }
+}
+
+.review_box {
+    background: #fff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 1px 3px 99px rgba(0, 0, 0, 0.06);
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.review_top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.client_image {
+    width: 58px;
+}
+
+.client_review {
+    width: calc(100% - 80px);
+    p {
+        margin: 0;
+        font-size: 18px;
+        line-height: 30px;
+        margin-top: 10px;
+    }
+}
+
+.client_details {
+    margin-top: 30px;
+    position: relative;
+    h3 {
+        margin: 0;
+        font-size: 17px;
+        font-weight: 900;
+        font-family: $mont;
+    }
+    .line_pattern {
+        width: 135px;
+        height: 13px;
+        border-radius: 35px;
+        position: absolute;
+        display: inline-block;
+        bottom: -27px;
+        background-image: linear-gradient(110deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+        background-size: 4px 12px;
+        &.redish {
+            background-color: #FFAAC0;
+        }
+        &.sky {
+            background-color: #AAC9FF;
+        }
+        &.green {
+            background-color: #A0F2B6;
+        }
+    }
+}
+
+@keyframes rotate {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+    50% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+    100% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+}
+
+@keyframes lineRight {
+    0% {
+        left: 0%;
+    }
+    100% {
+        left: 100%;
+    }
+}

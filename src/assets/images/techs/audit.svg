@@ -1,0 +1,21 @@
+<svg id="audit" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.84" height="54.056" viewBox="0 0 52.84 54.056">
+  <defs>
+    <filter id="Path_1015" x="5.536" y="0" width="41.542" height="53.097" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_40" data-name="Rectangle 40" width="26.639" height="28.546" transform="translate(10.464 16.681)" fill="#f9c7d2"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_1015)">
+    <path id="Path_1015-2" data-name="Path 1015" d="M92.336,56.415a1.911,1.911,0,0,0,1.907-1.907V35.247a7.6,7.6,0,0,0-7.589-7.589H80.682V24.807A1.911,1.911,0,0,0,78.775,22.9H71.167a1.911,1.911,0,0,0-1.907,1.907v2.851H63.289A7.6,7.6,0,0,0,55.7,35.247V63.908A7.6,7.6,0,0,0,63.289,71.5H86.634a7.6,7.6,0,0,0,7.589-7.589,1.907,1.907,0,0,0-3.814,0A3.79,3.79,0,0,1,86.615,67.7H63.308a3.79,3.79,0,0,1-3.795-3.795V35.266a3.79,3.79,0,0,1,3.795-3.795h5.971v.944a5.7,5.7,0,1,0,11.4,0v-.944h5.971a3.79,3.79,0,0,1,3.794,3.795V54.528A1.891,1.891,0,0,0,92.336,56.415Zm-15.467-24a1.907,1.907,0,0,1-3.814,0v-5.7h3.795v5.7Zm8.3,12.116a1.89,1.89,0,0,1,.482,2.639L77.2,59.343c-.019.039-.058.077-.077.116a4.906,4.906,0,0,1-3.486,1.811c-.116,0-.212.019-.327.019a4.881,4.881,0,0,1-3.371-1.348l-.019-.019-5.008-4.969a1.893,1.893,0,1,1,2.658-2.7l5.008,4.95a1.067,1.067,0,0,0,.809.289,1.088,1.088,0,0,0,.732-.366l8.4-12.1A1.9,1.9,0,0,1,85.17,44.531Z" transform="translate(-48.66 -22.9)"/>
+  </g>
+  <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="2.754" cy="2.754" rx="2.754" ry="2.754" transform="translate(47.331 0.231)" fill="#ef3a6a"/>
+  <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="2.87" cy="2.87" rx="2.87" ry="2.87" transform="translate(0.641 0.116)" fill="#ef3a6a"/>
+  <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="1.329" cy="1.329" rx="1.329" ry="1.329" transform="translate(48.756 22.979)" fill="#ef3a6a"/>
+  <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="1.329" cy="1.329" rx="1.329" ry="1.329" transform="translate(2.182 24.327)" fill="#ef3a6a"/>
+  <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="2.754" cy="2.754" rx="2.754" ry="2.754" transform="translate(47.331 47.807)" fill="#ef3a6a"/>
+  <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="2.754" cy="2.754" rx="2.754" ry="2.754" transform="matrix(0.335, -0.942, 0.942, 0.335, 0, 52.21)" fill="#ef3a6a"/>
+</svg>

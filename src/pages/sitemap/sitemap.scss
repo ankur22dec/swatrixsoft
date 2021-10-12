@@ -1,0 +1,68 @@
+.sitemap-plate {
+    .menu_type {
+        display: block;
+        @media screen and (max-width: 992px) {
+            margin-bottom: 0;
+        }
+    }
+    .sitemap-title {
+        background-color: #F8F8F9;
+        padding: 20px 0;
+        .container {
+            position: relative;
+            h1, h2 {
+                font-family: "Mont", sans-serif;
+                font-weight: 900;
+                font-size: 36px;
+                line-height: 60px;
+                text-align: left;
+                color: #1d1e31;
+                margin: 0;
+                position: relative;
+                a {
+                    display: inline-block;
+                }
+            }
+            h6 {
+                font-family: "Mont", sans-serif;
+                font-weight: 900;
+                font-size: 100px;
+                line-height: 60px;
+                text-align: left;
+                color: #1d1e31;
+                opacity: 0.08;
+                position: absolute;
+                left: 0;
+                top: 0px;
+                @media screen and (max-width: 992px) {
+                    font-size: 70px;
+                    left: 10px;
+                }
+            }
+        }
+    }
+    .menu-item-list {
+        li {
+            a {
+                padding: 12px 45px 12px 45px;
+                &::before {
+                    top: 9px;
+                }
+                &::after {
+                    top: 9px;
+                }
+            }
+        }
+    }
+    .other_hire {
+        @media screen and (max-width: 600px) {
+            margin-bottom: 30px;
+        }
+    }
+    .getin_touch_block {
+        margin-bottom: 25px;
+        @media screen and (max-width: 600px) {
+            margin-bottom: 0;
+        }
+    }
+}

@@ -1,0 +1,2599 @@
+.page-glitty-app header .bottom-bar {
+	display: none
+}
+
+@media screen and (min-width:1200px) {
+	.page-glitty-app header {
+		min-height: 160px
+	}
+}
+
+@media screen and (max-width:1200px) {
+	.page-glitty-app header {
+		min-height: 210px
+	}
+}
+
+@media screen and (max-width:991px) {
+	.page-glitty-app header {
+		min-height: 160px
+	}
+}
+
+@media screen and (max-width:767px) {
+	.page-glitty-app header {
+		min-height: 85px
+	}
+}
+
+.glitty-app-wrap .container {
+	width: 1400px
+}
+
+@media(max-width:1440px) {
+	.glitty-app-wrap .container {
+		width: 100%
+	}
+}
+
+.glitty-app-wrap .keyBounce {
+	-moz-animation: bounce 2s infinite;
+	-webkit-animation: bounce 2s infinite;
+	animation: bounce 2s infinite
+}
+
+.glitty-app-wrap{
+	margin-bottom: -50px;
+}
+
+@-moz-keyframes bounce {
+	0%,
+	20%,
+	50%,
+	80%,
+	100% {
+		-moz-transform: translateX(0);
+		transform: translateX(0)
+	}
+	40% {
+		-moz-transform: translateX(-7px);
+		transform: translateX(-7px)
+	}
+	60% {
+		-moz-transform: translateX(-3px);
+		transform: translateX(-3px)
+	}
+}
+
+@-webkit-keyframes bounce {
+	0%,
+	20%,
+	50%,
+	80%,
+	100% {
+		-webkit-transform: translateX(0);
+		transform: translateX(0)
+	}
+	40% {
+		-webkit-transform: translateX(-7px);
+		transform: translateX(-7px)
+	}
+	60% {
+		-webkit-transform: translateX(-3px);
+		transform: translateX(-3px)
+	}
+}
+
+@keyframes bounce {
+	0%,
+	20%,
+	50%,
+	80%,
+	100% {
+		-moz-transform: translateX(0);
+		-ms-transform: translateX(0);
+		-webkit-transform: translateX(0);
+		transform: translateX(0)
+	}
+	40% {
+		-moz-transform: translateX(-7px);
+		-ms-transform: translateX(-7px);
+		-webkit-transform: translateX(-7px);
+		transform: translateX(-7px)
+	}
+	60% {
+		-moz-transform: translateX(-3px);
+		-ms-transform: translateX(-3px);
+		-webkit-transform: translateX(-3px);
+		transform: translateX(-3px)
+	}
+}
+
+.glitty-app-wrap .glitty-app-title {
+	text-align: center;
+	font-size: 62px;
+	font-family: 'Titillium Web', sans-serif;
+	color: #000;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	line-height: 58px;
+	vertical-align: middle;
+	font-weight: 700
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-title {
+		font-size: 58px;
+		line-height: 54px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-title {
+		font-size: 48px;
+		line-height: 50px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-title {
+		font-size: 42px;
+		line-height: 44px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-title {
+		font-size: 34px;
+		line-height: 36px
+	}
+}
+
+.glitty-app-wrap .glitty-app-title span {
+	display: inline-block;
+	padding: 2px 11px 6px;
+	margin-left: -7px
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-title span {
+		padding: 2px 10px 4px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-title span {
+		margin-left: -5px
+	}
+}
+
+.glitty-app-wrap .glitty-app-title.yello-text span {
+	background: #ffc000
+}
+
+.glitty-app-wrap .glitty-app-title.black-text span {
+	background: #000;
+	color: #fff
+}
+
+.glitty-app-wrap .glitty-app-banner {
+	position: relative;
+	z-index: 1;
+	min-height: 900px
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-banner {
+		min-height: 800px
+	}
+}
+
+@media(max-width:1366px) {
+	.glitty-app-wrap .glitty-app-banner {
+		min-height: 768px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-banner {
+		min-height: 500px
+	}
+}
+
+.glitty-app-wrap .glitty-app-banner:before {
+	background: #ffc000;
+	width: 23.9%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	content: '';
+	border-radius: 6px 0 0 0;
+	-webkit-border-radius: 6px 0 0 0
+}
+
+@media(max-width:1600px) {
+	.glitty-app-wrap .glitty-app-banner:before {
+		width: 18.9%
+	}
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-banner:before {
+		width: 16.7%
+	}
+}
+
+@media(max-width:1440px) {
+	.glitty-app-wrap .glitty-app-banner:before {
+		width: 15.9%
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-banner:before {
+		display: none
+	}
+}
+
+.glitty-app-wrap .glitty-app-banner .banner-img {
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 40%
+}
+
+@media(max-width:1600px) {
+	.glitty-app-wrap .glitty-app-banner .banner-img {
+		width: 47%
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-banner .banner-img {
+		width: auto;
+		position: relative;
+		text-align: right;
+		padding-left: 15px
+	}
+}
+
+.glitty-app-wrap .glitty-app-banner .banner-caption {
+	padding-top: 18%
+}
+
+@media(max-width:1600px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption {
+		padding-top: 17%
+	}
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption {
+		padding-top: 16%
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption {
+		padding: 170px 0 100px;
+		position: relative;
+		margin-top: 50px
+	}
+	.glitty-app-wrap .glitty-app-banner .banner-caption:before {
+		background: #ffc000;
+		width: 21.9%;
+		position: absolute;
+		left: -15px;
+		top: 0;
+		bottom: 0;
+		content: '';
+		z-index: -1
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption {
+		padding: 120px 0 50px
+	}
+	.glitty-app-wrap .glitty-app-banner .banner-caption:before {
+		width: 27.9%
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption {
+		margin-top: 40px;
+		padding: 90px 0 40px
+	}
+	.glitty-app-wrap .glitty-app-banner .banner-caption:before {
+		width: 24.6%
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption {
+		margin-top: 30px;
+		padding: 55px 0 30px
+	}
+	.glitty-app-wrap .glitty-app-banner .banner-caption:before {
+		width: 80px
+	}
+}
+
+.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text {
+	position: relative;
+	font-size: 108px;
+	line-height: 114px;
+	display: inline-block;
+	font-family: 'Titillium Web', sans-serif;
+	text-transform: uppercase;
+	color: #000;
+	letter-spacing: 2px;
+	padding-left: 126px;
+	margin-bottom: 65px;
+	z-index: 1;
+	font-weight: 700
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text {
+		font-size: 98px
+	}
+}
+
+@media(max-width:1366px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text {
+		font-size: 90px;
+		line-height: 96px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text {
+		font-size: 74px;
+		line-height: 80px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text {
+		font-size: 64px;
+		line-height: 66px;
+		margin-bottom: 45px;
+		padding-left: 92px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text {
+		font-size: 44px;
+		line-height: 48px;
+		margin-bottom: 35px;
+		padding-left: 31px
+	}
+}
+
+@media(max-width:359px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text {
+		font-size: 40px
+	}
+}
+
+.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text::before {
+	content: '';
+	height: 188px;
+	width: 188px;
+	position: absolute;
+	display: inline-block;
+	background: #fff;
+	border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border: 40px solid #fff;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	left: 65px;
+	top: -34px;
+	z-index: -1
+}
+
+@media(max-width:1366px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text::before {
+		height: 174px;
+		width: 174px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text::before {
+		height: 162px;
+		width: 162px;
+		border: 30px solid #fff
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text::before {
+		height: 112px;
+		width: 112px;
+		border: 25px solid #fff;
+		left: 55px;
+		top: -20px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text::before {
+		height: 74px;
+		width: 74px;
+		border: 15px solid #fff;
+		left: 7px;
+		top: -13px
+	}
+}
+
+.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text::after {
+	content: '';
+	height: 108px;
+	width: 108px;
+	position: absolute;
+	display: inline-block;
+	background: #ffc000;
+	border-radius: 8px;
+	-webkit-border-radius: 8px;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	left: 105px;
+	top: 6px;
+	z-index: -1
+}
+
+@media(max-width:1366px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text::after {
+		height: 94px;
+		width: 94px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text::after {
+		height: 82px;
+		width: 82px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text::after {
+		height: 62px;
+		width: 62px;
+		left: 80px;
+		top: 5px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text::after {
+		height: 44px;
+		width: 44px;
+		left: 22px;
+		top: 2px
+	}
+}
+
+.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text .banner-semi-title {
+	font-size: 36px;
+	line-height: 38px;
+	letter-spacing: 1px;
+	vertical-align: top;
+	text-align: right;
+	margin-top: 17px
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text .banner-semi-title {
+		font-size: 32px;
+		line-height: 36px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text .banner-semi-title {
+		font-size: 22px;
+		line-height: 26px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text .banner-semi-title {
+		font-size: 18px;
+		line-height: 22px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text .banner-semi-title {
+		font-size: 16px;
+		line-height: 18px;
+		margin-top: 15px
+	}
+}
+
+.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text .banner-semi-title span {
+	display: inline-block;
+	background: #000;
+	color: #fff;
+	vertical-align: top;
+	padding: 8px 20px 10px
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text .banner-semi-title span {
+		padding: 8px 18px 10px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-title-text .banner-semi-title span {
+		padding: 7px 10px 8px
+	}
+}
+
+.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info {
+	font-size: 50px;
+	font-family: "Lato", sans-serif;
+	text-transform: uppercase;
+	line-height: 54px;
+	color: #fff;
+	letter-spacing: 5px;
+	padding-left: 30px
+}
+
+.left80per{
+	left: 80%;
+}
+
+.left85per{
+	left: 85%;
+}
+
+.left90per{
+	left: 90%;
+}
+
+.left95per{
+	left: 95%;
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info {
+		font-size: 42px;
+		line-height: 48px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info {
+		font-size: 34px;
+		line-height: 44px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info {
+		font-size: 28px;
+		line-height: 38px;
+		letter-spacing: 4px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info {
+		font-size: 18px;
+		line-height: 32px;
+		letter-spacing: 3px;
+		padding-left: 0
+	}
+}
+
+@media(max-width:359px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info {
+		font-size: 16px;
+		letter-spacing: 2px
+	}
+}
+
+.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info span {
+	background: #000;
+	display: inline-block;
+	margin-bottom: 15px;
+	padding: 0 10px 2px
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info span {
+		margin-bottom: 13px;
+		padding: 0 8px 2px
+	}
+}
+
+.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info a {
+	display: inline-block;
+	width: 56px;
+	height: 56px;
+	background: #ffc000;
+	border: 2px solid #ffc000;
+	color: #000;
+	text-align: center;
+	line-height: 44px;
+	vertical-align: top;
+	font-size: 32px;
+	letter-spacing: 0;
+	transition: all .3s ease;
+	-webkit-transition: all .3s ease
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info a {
+		width: 50px;
+		height: 50px;
+		line-height: 40px
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info a {
+		display: none
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info a {
+		width: 46px;
+		height: 46px;
+		line-height: 36px;
+		font-size: 30px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info a {
+		width: 42px;
+		height: 42px;
+		line-height: 32px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info a {
+		width: 34px;
+		height: 34px;
+		line-height: 24px;
+		font-size: 24px
+	}
+}
+
+.glitty-app-wrap .glitty-app-banner .banner-caption .banner-info a:hover {
+	background: #fff;
+	border-color: #000
+}
+
+.glitty-app-wrap .glitty-app-client {
+	padding: 100px 0 30px;
+	position: relative
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-client {
+		padding: 80px 0 0
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-client {
+		padding: 100px 0 20px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-client {
+		padding: 50px 0 20px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-client {
+		padding: 50px 0 0
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-client {
+		padding: 40px 0 0
+	}
+}
+
+.glitty-app-wrap .glitty-app-client .left-down-link {
+	font-size: 18px;
+	letter-spacing: 7px;
+	text-transform: uppercase;
+	font-family: "Lato", sans-serif;
+	line-height: 20px;
+	white-space: nowrap;
+	position: absolute;
+	left: 37px;
+	width: 56px;
+	height: 56px;
+	transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
+	top: 360px;
+	bottom: 0;
+	margin: auto;
+	text-align: center;
+	font-weight: 700;
+	z-index: 1
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-client .left-down-link {
+		top: 410px
+	}
+}
+
+@media(max-width:1400px) {
+	.glitty-app-wrap .glitty-app-client .left-down-link {
+		top: 350px
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-client .left-down-link {
+		display: none
+	}
+}
+
+.glitty-app-wrap .glitty-app-client .left-down-link a {
+	color: #000;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	padding-left: 90px;
+	transition: all .3s ease;
+	-webkit-transition: all .3s ease
+}
+
+.glitty-app-wrap .glitty-app-client .left-down-link a span {
+	width: 56px;
+	height: 56px;
+	font-size: 36px;
+	vertical-align: middle;
+	text-align: center;
+	background: #ffc000;
+	display: inline-block;
+	line-height: 42px;
+	border: 2px solid #ffc000;
+	letter-spacing: 0;
+	position: absolute;
+	left: 0;
+	top: -17px;
+	transition: all .3s ease;
+	-webkit-transition: all .3s ease;
+	transform: rotate(90deg);
+	-webkit-transform: rotate(90deg)
+}
+
+.glitty-app-wrap .glitty-app-client .left-down-link a:hover {
+	color: #ffc000
+}
+
+.glitty-app-wrap .glitty-app-client .left-down-link a:hover span {
+	background: #fff;
+	border-color: #000
+}
+
+.glitty-app-wrap .glitty-app-client .right-big-arrow {
+	position: absolute;
+	right: 0;
+	top: 35.8%;
+	z-index: -1
+}
+
+@media(max-width:1600px) {
+	.glitty-app-wrap .glitty-app-client .right-big-arrow {
+		top: 41.6%;
+		width: 130px
+	}
+}
+
+@media(max-width:1440px) {
+	.glitty-app-wrap .glitty-app-client .right-big-arrow {
+		top: 46.6%;
+		width: 130px
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-client .right-big-arrow {
+		top: 22.6%
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-client .right-big-arrow {
+		top: 20.6%;
+		width: 110px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-client .right-big-arrow {
+		display: none
+	}
+}
+
+.glitty-app-wrap .glitty-app-client .glitty-app-title {
+	margin-bottom: 65px
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-client .glitty-app-title {
+		margin-bottom: 60px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-client .glitty-app-title {
+		margin-bottom: 55px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-client .glitty-app-title {
+		margin-bottom: 45px
+	}
+}
+
+.glitty-app-wrap .glitty-app-client .app-client-info {
+	text-align: center;
+	float: left;
+	padding-right: 80px;
+	padding-left: 30px
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-client .app-client-info {
+		padding-right: 60px;
+		padding-left: 70px
+	}
+}
+
+@media(max-width:1440px) {
+	.glitty-app-wrap .glitty-app-client .app-client-info {
+		padding-right: 60px;
+		padding-left: 100px
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-client .app-client-info {
+		padding: 0;
+		float: none
+	}
+}
+
+.glitty-app-wrap .glitty-app-client .app-client-info .app-client-image {
+	border-radius: 100%;
+	-webkit-border-radius: 100%;
+	border: 15px solid #ffe080;
+	position: relative;
+	z-index: 1;
+	width: 241px;
+	height: 241px;
+	display: inline-block
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-client .app-client-info .app-client-image {
+		width: 222px;
+		height: 222px;
+		border: 10px solid #ffe080
+	}
+}
+
+.glitty-app-wrap .glitty-app-client .app-client-info .app-client-image img {
+	border: 7px solid #ffd75b;
+	border-radius: 100%;
+	-webkit-border-radius: 100%
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-client .app-client-info .app-client-image img {
+		border: 5px solid #ffd75b
+	}
+}
+
+.glitty-app-wrap .glitty-app-client .app-client-info .app-client-image:before {
+	content: '';
+	position: absolute;
+	left: -30px;
+	right: -30px;
+	top: -30px;
+	bottom: -30px;
+	border-radius: 100%;
+	-webkit-border-radius: 100%;
+	border: 15px solid #ffedb5
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-client .app-client-info .app-client-image:before {
+		border: 10px solid #ffedb5;
+		left: -20px;
+		right: -20px;
+		top: -20px;
+		bottom: -20px
+	}
+}
+
+.glitty-app-wrap .glitty-app-client .app-client-name {
+	font-size: 24px;
+	line-height: 26px;
+	font-family: 'Titillium Web', sans-serif;
+	text-transform: uppercase;
+	color: #000;
+	text-align: center;
+	margin-top: 35px;
+	font-weight: 700
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-client .app-client-name {
+		font-size: 22px;
+		line-height: 24px;
+		margin-top: 30px
+	}
+}
+
+.glitty-app-wrap .glitty-app-client .app-client-name .app-client-insta span {
+	font-size: 18px;
+	text-transform: none;
+	font-family: "Lato", sans-serif;
+	letter-spacing: 1.5px;
+	position: relative;
+	display: inline-block;
+	padding-left: 25px;
+	line-height: 24px;
+	margin-top: 10px;
+	background-image: url(../../assets/images/casestudy/glitty/instagram-icon.png);
+	background-repeat: no-repeat;
+	background-position: 0 6px
+}
+
+.glitty-app-wrap .glitty-app-client .app-client-des {
+	overflow: hidden;
+	padding-right: 140px
+}
+
+.ontopever{
+	position: relative;
+    z-index: 99;
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-client .app-client-des {
+		padding: 0 100px;
+		margin-top: 30px;
+		text-align: center
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-client .app-client-des {
+		padding: 0 30px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-client .app-client-des {
+		padding: 0 10px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-client .app-client-des {
+		padding: 0;
+		margin-top: 25px
+	}
+}
+
+.glitty-app-wrap .glitty-app-client .app-client-des .app-client-title {
+	margin-bottom: 15px;
+	font-size: 50px;
+	text-transform: uppercase;
+	line-height: 68px;
+	font-family: 'Titillium Web', sans-serif;
+	color: #000;
+	letter-spacing: 5px;
+	font-weight: 700
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-client .app-client-des .app-client-title {
+		font-size: 46px;
+		line-height: 62px
+	}
+}
+
+@media(max-width:1440px) {
+	.glitty-app-wrap .glitty-app-client .app-client-des .app-client-title {
+		font-size: 44px;
+		line-height: 60px
+	}
+}
+
+@media(max-width:1300px) {
+	.glitty-app-wrap .glitty-app-client .app-client-des .app-client-title {
+		font-size: 40px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-client .app-client-des .app-client-title {
+		font-size: 34px;
+		line-height: 52px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-client .app-client-des .app-client-title {
+		font-size: 32px;
+		line-height: 48px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-client .app-client-des .app-client-title {
+		font-size: 28px;
+		line-height: 40px;
+		letter-spacing: 2px
+	}
+	.glitty-app-wrap .glitty-app-client .app-client-des .app-client-title br {
+		display: none
+	}
+}
+
+.glitty-app-wrap .glitty-app-client .app-client-des p {
+	color: #000;
+	letter-spacing: 1px;
+	font-size: 18px;
+	line-height: 30px;
+	font-family: "Lato", sans-serif;
+	font-weight: 400;
+	padding: 0
+}
+
+.glitty-app-wrap .glitty-app-client .app-client-des p b {
+	font-weight: 600
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-client .app-client-des p {
+		font-size: 16px;
+		line-height: 28px
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge {
+	position: relative;
+	padding: 100px 0 70px;
+	overflow: hidden
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-challenge {
+		padding: 90px 0 50px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-challenge {
+		padding: 50px 0;
+		overflow: visible
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-challenge {
+		padding: 50px 0 40px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-challenge {
+		padding: 50px 0 30px
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .right-down-link {
+	font-size: 18px;
+	letter-spacing: 7px;
+	text-transform: uppercase;
+	font-family: "Lato", sans-serif;
+	line-height: 20px;
+	white-space: nowrap;
+	position: absolute;
+	right: 0;
+	width: 56px;
+	height: 56px;
+	transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
+	top: 150px;
+	bottom: 0;
+	margin: auto;
+	text-align: center;
+	font-weight: 700;
+	z-index: 1
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-challenge .right-down-link {
+		top: 460px
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-challenge .right-down-link {
+		display: none
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .right-down-link a {
+	color: #000;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	padding-left: 90px;
+	transition: all .3s ease;
+	-webkit-transition: all .3s ease
+}
+
+.glitty-app-wrap .glitty-app-challenge .right-down-link a span {
+	width: 56px;
+	height: 56px;
+	font-size: 36px;
+	vertical-align: middle;
+	text-align: center;
+	background: #ffc000;
+	display: inline-block;
+	line-height: 44px;
+	letter-spacing: 0;
+	position: absolute;
+	left: 0;
+	top: -17px;
+	transition: all .3s ease;
+	-webkit-transition: all .3s ease;
+	transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	border: 2px solid #ffc000
+}
+
+.glitty-app-wrap .glitty-app-challenge .right-down-link a:hover {
+	color: #ffc000
+}
+
+.glitty-app-wrap .glitty-app-challenge .right-down-link a:hover span {
+	background: #fff;
+	border-color: #000
+}
+
+.glitty-app-wrap .glitty-app-challenge .left-big-arrow {
+	position: absolute;
+	left: 0;
+	top: 16.4%
+}
+
+@media(max-width:1600px) {
+	.glitty-app-wrap .glitty-app-challenge .left-big-arrow {
+		top: 37.5%
+	}
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-challenge .left-big-arrow {
+		top: 1%;
+		width: 120px
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-challenge .left-big-arrow {
+		top: 0
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-challenge .left-big-arrow {
+		top: -2%;
+		width: 110px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-challenge .left-big-arrow {
+		display: none
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .glitty-app-title {
+	margin: 0 0 20px
+}
+
+.glitty-app-wrap .glitty-app-challenge .challenge-semi-title {
+	text-align: center;
+	margin-bottom: 45px
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-challenge .challenge-semi-title {
+		margin-bottom: 30px
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .challenge-semi-title span {
+	display: inline-block;
+	vertical-align: middle;
+	background: #000;
+	color: #fff;
+	text-transform: uppercase;
+	font-family: 'Titillium Web', sans-serif;
+	letter-spacing: 1px;
+	font-size: 18px;
+	padding: 6px 8px;
+	line-height: 18px;
+	font-weight: 700
+}
+
+.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step {
+	margin-bottom: 130px
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step {
+		margin-bottom: 90px
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step {
+		margin-bottom: 80px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step {
+		margin-bottom: 50px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step {
+		margin-bottom: 30px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step {
+		margin-bottom: 30px
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul {
+	margin: 22px 0 0;
+	text-align: center;
+	font-size: 0
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul {
+		margin: 17px 0 0
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul {
+		margin: 0
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul li {
+	display: inline-block;
+	font-size: 36px;
+	line-height: 42px;
+	font-family: 'Titillium Web', sans-serif;
+	color: #000;
+	width: 33.33%;
+	letter-spacing: 1px;
+	font-weight: 700
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul li {
+		font-size: 30px;
+		line-height: 36px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul li {
+		font-size: 26px;
+		line-height: 32px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul li {
+		font-size: 20px;
+		line-height: 26px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul li {
+		font-size: 20px;
+		line-height: 24px;
+		width: 100%;
+		margin: 25px 0 0;
+		text-align: left;
+		padding-left: 50px;
+		position: relative;
+		padding-top: 4px;
+		letter-spacing: 0
+	}
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul li br {
+		display: none
+	}
+}
+
+@media(max-width:359px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul li {
+		font-size: 18px
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul li span {
+	display: block;
+	margin: 0 auto 17px;
+	width: 40px;
+	height: 40px;
+	background: #ffc000;
+	line-height: 36px
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul li span {
+		margin: 0 auto 15px;
+		width: 36px;
+		height: 36px;
+		line-height: 34px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-challenge .glitty-app-challenge-step ul li span {
+		margin: 0;
+		width: 34px;
+		height: 34px;
+		line-height: 32px;
+		text-align: center;
+		position: absolute;
+		left: 0;
+		top: 0
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap {
+	font-size: 18px;
+	color: #000;
+	font-family: 'Titillium Web', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: .5px;
+	padding-top: 15px;
+	font-weight: 700
+}
+
+.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap .yello-text span {
+	display: inline-block;
+	padding: 5px 9px;
+	background: #ffc000
+}
+
+.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap .black-text span {
+	display: inline-block;
+	padding: 5px 9px;
+	background: #000;
+	color: #fff
+}
+
+@media(max-width:359px) {
+	.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap .black-text span {
+		font-size: 16px
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap ul {
+	padding: 0;
+	margin: 45px 0 0
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap ul {
+		margin: 40px 0 0
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap ul li {
+	position: relative;
+	margin-bottom: 35px
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap ul li {
+		margin-bottom: 15px
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap ul li .progress-step-name {
+	display: inline-block;
+	padding-left: 0;
+	padding-bottom: 15px;
+	vertical-align: top;
+	margin-top: -5px
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap ul li .progress-step-name {
+		margin-top: 10px;
+		padding-left: 0
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap ul li .progress-step {
+	height: 8px;
+	position: relative;
+	background: #dbdde1;
+	width: 70%;
+	display: inline-block;
+	vertical-align: top
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap ul li .progress-step {
+		width: 100%
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .challenge-progress-wrap ul li .progress-step span {
+	width: 32px;
+	height: 32px;
+	background: #ffc000;
+	display: inline-block;
+	border-radius: 32px;
+	-webkit-border-radius: 32px;
+	position: absolute;
+	top: -12px
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-challenge .what-we-faced {
+		padding-top: 50px
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .what-we-faced .glitty-app-title {
+	text-align: left;
+	font-size: 48px;
+	line-height: 48px
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-challenge .what-we-faced .glitty-app-title {
+		font-size: 48px;
+		line-height: 48px
+	}
+}
+
+@media(max-width:1440px) {
+	.glitty-app-wrap .glitty-app-challenge .what-we-faced .glitty-app-title {
+		text-align: center;
+		font-size: 42px;
+		line-height: 42px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-challenge .what-we-faced .glitty-app-title {
+		font-size: 36px;
+		line-height: 36px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-challenge .what-we-faced .glitty-app-title {
+		font-size: 32px;
+		line-height: 32px
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .what-we-faced .glitty-app-title span {
+	padding: 4px 9px 7px
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-challenge .what-we-faced .glitty-app-title span {
+		padding: 2px 9px 6px
+	}
+}
+
+.glitty-app-wrap .glitty-app-challenge .what-we-faced ul {
+	margin: 0;
+	padding: 0
+}
+
+.glitty-app-wrap .glitty-app-challenge .what-we-faced ul li {
+	padding-left: 40px;
+	font-size: 18px;
+	font-family: "Lato", sans-serif;
+	line-height: 30px;
+	color: #000;
+	margin-bottom: 10px;
+	background-image: url(../../assets/images/casestudy/glitty/list-point.png);
+	background-repeat: no-repeat;
+	background-position: 9px 5px
+}
+
+.glitty-app-wrap .glitty-app-solution {
+	padding: 100px 0;
+	margin-bottom: 0;
+	position: relative;
+	z-index: 1;
+	overflow: hidden
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-solution {
+		padding: 80px 0
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-solution {
+		padding: 80px 0 30px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-solution {
+		padding: 50px 0 30px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-solution {
+		padding: 40px 0 25px
+	}
+}
+
+.glitty-app-wrap .glitty-app-solution:before {
+	content: '';
+	background: #ffc000;
+	width: 17.3%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0
+}
+
+@media(max-width:1600px) {
+	.glitty-app-wrap .glitty-app-solution:before {
+		width: 10.5%
+	}
+}
+
+@media(max-width:1440px) {
+	.glitty-app-wrap .glitty-app-solution:before {
+		width: 11.9%
+	}
+}
+
+@media(max-width:1366px) {
+	.glitty-app-wrap .glitty-app-solution:before {
+		width: 12.7%
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-solution:before {
+		width: 50px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-solution:before {
+		width: 40px
+	}
+}
+
+.glitty-app-wrap .glitty-app-solution .right-down-link {
+	font-size: 18px;
+	letter-spacing: 7px;
+	text-transform: uppercase;
+	font-family: "Lato", sans-serif;
+	line-height: 20px;
+	white-space: nowrap;
+	position: absolute;
+	right: 0;
+	width: 56px;
+	height: 56px;
+	transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
+	top: 317px;
+	bottom: 0;
+	margin: auto;
+	text-align: center;
+	font-weight: 700;
+	z-index: 1
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-solution .right-down-link {
+		display: none
+	}
+}
+
+.glitty-app-wrap .glitty-app-solution .right-down-link a {
+	color: #000;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	padding-left: 90px;
+	transition: all .3s ease;
+	-webkit-transition: all .3s ease
+}
+
+.glitty-app-wrap .glitty-app-solution .right-down-link a span {
+	width: 56px;
+	height: 56px;
+	font-size: 36px;
+	vertical-align: middle;
+	text-align: center;
+	background: #ffc000;
+	display: inline-block;
+	line-height: 44px;
+	letter-spacing: 0;
+	position: absolute;
+	left: 0;
+	top: -17px;
+	transition: all .3s ease;
+	-webkit-transition: all .3s ease;
+	transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	border: 2px solid #ffc000
+}
+
+.glitty-app-wrap .glitty-app-solution .right-down-link a:hover {
+	color: #ffc000
+}
+
+.glitty-app-wrap .glitty-app-solution .right-down-link a:hover span {
+	background: #fff;
+	border-color: #000
+}
+
+.glitty-app-wrap .glitty-app-solution .glitty-app-title {
+	text-align: left;
+	margin-bottom: 40px
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-app-title {
+		text-align: center
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-app-title {
+		margin-bottom: 30px
+	}
+}
+
+.glitty-app-wrap .glitty-app-solution .glitty-solution-info {
+	padding: 25px;
+	border-left: 9px solid #000;
+	font-size: 18px;
+	line-height: 30px;
+	font-family: "Lato", sans-serif;
+	color: #000;
+	background: #fff
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-info {
+		padding-right: 0
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-info {
+		padding: 20px 0 20px 20px
+	}
+}
+
+.glitty-app-wrap .glitty-app-solution .glitty-solution-info b {
+	font-weight: 900
+}
+
+.glitty-app-wrap .glitty-app-solution .glitty-solution-info p {
+	line-height: 30px;
+	margin: 0;
+	padding-bottom: 40px;
+	letter-spacing: .35px
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-info p {
+		padding-bottom: 30px
+	}
+}
+
+.glitty-app-wrap .glitty-app-solution .glitty-solution-info p span {
+	display: inline-block;
+	padding: 5px 10px;
+	background: #000;
+	color: #fff;
+	font-weight: 400;
+	line-height: 20px;
+	font-family: 'Titillium Web', sans-serif;
+	letter-spacing: .5px;
+	font-weight: 700
+}
+
+.glitty-app-wrap .glitty-app-solution .glitty-solution-info p:last-child {
+	padding-bottom: 0
+}
+
+.glitty-app-wrap .glitty-app-solution .glitty-solution-info p:first-child {
+	padding-bottom: 20px
+}
+
+@media(max-width:1366px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-info p br {
+		display: none
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-step {
+		text-align: center
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-step {
+		background: #fff;
+		margin-top: 25px
+	}
+}
+
+.glitty-app-wrap .glitty-app-solution .glitty-solution-step ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	position: relative;
+	padding-left: 150px;
+	font-size: 30px;
+	font-family: 'Titillium Web', sans-serif;
+	color: #000;
+	line-height: 36px;
+	background-image: url(../../assets/images/casestudy/glitty/the-solution-step.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	font-weight: 700
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-step ul {
+		font-size: 28px;
+		line-height: 32px
+	}
+}
+
+@media(max-width:1440px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-step ul {
+		font-size: 25px
+	}
+}
+
+@media(max-width:1300px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-step ul {
+		font-size: 22px
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-step ul {
+		display: inline-block;
+		margin-top: 50px;
+		text-align: left;
+		font-size: 24px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-step ul {
+		margin: 30px 0 15px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-step ul {
+		margin-top: 25px;
+		background-size: 55px;
+		font-size: 20px;
+		line-height: 26px;
+		padding-left: 65px
+	}
+}
+
+@media(max-width:359px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-step ul {
+		font-size: 18px;
+		margin: 15px 0
+	}
+}
+
+.glitty-app-wrap .glitty-app-solution .glitty-solution-step li {
+	min-height: 130px;
+	margin-bottom: 30px;
+	padding-top: 46px
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-solution .glitty-solution-step li {
+		min-height: 68px;
+		margin-bottom: 0;
+		padding-top: 16px
+	}
+}
+
+.glitty-app-wrap .glitty-app-solution .glitty-solution-step li:last-child {
+	margin-bottom: 0
+}
+
+@media(max-width:1366px) {
+	.glitty-app-wrap .glitty-app-solution .col-md-7 {
+		width: 55%
+	}
+}
+
+@media(max-width:1366px) and (max-width:1024px) {
+	.glitty-app-wrap .glitty-app-solution .col-md-7 {
+		width: 100%;
+		float: none
+	}
+}
+
+@media(max-width:1366px) {
+	.glitty-app-wrap .glitty-app-solution .col-md-5 {
+		width: 45%
+	}
+}
+
+@media(max-width:1366px) and (max-width:1024px) {
+	.glitty-app-wrap .glitty-app-solution .col-md-5 {
+		width: 100%;
+		float: none
+	}
+}
+
+.glitty-app-wrap .glitty-app-results {
+	padding: 100px 0 0
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-results {
+		padding: 80px 0 0
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-results {
+		padding: 50px 0
+	}
+}
+
+.glitty-app-wrap .glitty-app-results .glitty-app-title {
+	margin-bottom: 40px
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-results .glitty-app-title {
+		margin-bottom: 30px
+	}
+}
+
+.glitty-app-wrap .glitty-app-results .app-semi-title {
+	font-size: 18px;
+	text-align: center;
+	line-height: 30px;
+	color: #000;
+	font-family: "Lato", sans-serif;
+	letter-spacing: .35px
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-results .app-semi-title br {
+		display: none
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-results .app-semi-title {
+		font-size: 16px;
+		line-height: 28px
+	}
+}
+
+.glitty-app-wrap .glitty-app-results .app-semi-title b {
+	font-weight: 900
+}
+
+.glitty-app-wrap .glitty-app-results .glimps-of-glitty {
+	margin-top: 50px;
+	background: #ffc000;
+	padding-top: 55px;
+	text-align: center
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-results .glimps-of-glitty {
+		margin-top: 30px;
+		padding-top: 35px
+	}
+}
+
+.glitty-app-wrap .glitty-app-results .glimps-of-glitty .glimps-title {
+	margin-bottom: 50px;
+	font-size: 24px;
+	font-family: 'Titillium Web', sans-serif;
+	text-transform: uppercase;
+	color: #fff;
+	letter-spacing: 1px;
+	line-height: 28px;
+	font-weight: 700
+}
+
+.glitty-app-wrap .glitty-app-results .glimps-of-glitty .glimps-title span {
+	display: inline-block;
+	background: #000;
+	padding: 10px 20px
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-results .glimps-of-glitty .glimps-title span {
+		padding: 9px 15px
+	}
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-results .glimps-of-glitty .glimps-title {
+		margin-bottom: 50px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-results .glimps-of-glitty .glimps-title {
+		margin-bottom: 30px;
+		font-size: 20px;
+		line-height: 24px
+	}
+}
+
+.glitty-app-wrap .glitty-app-results .glimps-of-glitty .results-iamges {
+	font-size: 0;
+	margin-bottom: -200px
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-results .glimps-of-glitty .results-iamges {
+		margin-bottom: -150px
+	}
+}
+
+@media(max-width:1300px) {
+	.glitty-app-wrap .glitty-app-results .glimps-of-glitty .results-iamges {
+		margin-bottom: -100px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-results .glimps-of-glitty .results-iamges {
+		margin-bottom: -60px
+	}
+}
+
+.glitty-app-wrap .glitty-app-results .glimps-of-glitty .results-iamges img {
+	width: 25%
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-results .glimps-of-glitty .results-iamges img {
+		width: 22%
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-results .glimps-of-glitty .results-iamges img {
+		width: 50%
+	}
+}
+
+.glitty-app-wrap .glitty-app-works {
+	padding: 270px 0 0
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-works {
+		padding: 200px 0 0
+	}
+}
+
+@media(max-width:1300px) {
+	.glitty-app-wrap .glitty-app-works {
+		padding: 150px 0 0
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-works {
+		padding: 100px 0 0
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-works {
+		padding: 80px 0 0
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-works {
+		padding: 40px 0 0
+	}
+}
+
+.glitty-app-wrap .glitty-app-works .glitty-app-title {
+	margin-bottom: 60px
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-works .glitty-app-title {
+		margin-bottom: 50px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-works .glitty-app-title {
+		margin-bottom: 45px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-works .glitty-app-title {
+		margin-bottom: 30px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .glitty-app-works .glitty-app-title span {
+		margin-top: 15px;
+		margin-left: 0
+	}
+}
+
+.glitty-app-wrap .glitty-app-works .glitty-app-video {
+	margin: 0 -15px;
+	background: #ffba03
+}
+
+.glitty-app-wrap .glitty-app-works .glitty-app-video video {
+	width: 100%;
+	max-height: 800px;
+	outline: none;
+	border: none;
+	vertical-align: top
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-works .glitty-app-video video {
+		max-height: 730px
+	}
+}
+
+@media(max-width:1400px) {
+	.glitty-app-wrap .glitty-app-works .glitty-app-video video {
+		max-height: 600px
+	}
+}
+
+.glitty-app-wrap .glitty-app-works .glitty-app-video #vid {
+	display: block
+}
+
+@media screen and (min-width:767px) and (max-width:769px) {
+	.glitty-app-wrap .glitty-app-works .glitty-app-video #vid {
+		display: none!important
+	}
+}
+
+.glitty-app-wrap .glitty-app-works .glitty-app-video #vidIpad {
+	display: none
+}
+
+@media screen and (min-width:767px) and (max-width:769px) {
+	.glitty-app-wrap .glitty-app-works .glitty-app-video #vidIpad {
+		display: block!important
+	}
+}
+
+.glitty-app-wrap .glitty-app-works .glitty-app-video #vid {
+	display: block
+}
+
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) {
+	.glitty-app-wrap .glitty-app-works .glitty-app-video #vid {
+		display: none
+	}
+}
+
+.glitty-app-wrap .glitty-app-works .glitty-app-video #vidIpad {
+	display: none
+}
+
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) {
+	.glitty-app-wrap .glitty-app-works .glitty-app-video #vidIpad {
+		display: block
+	}
+}
+
+.glitty-app-wrap .glitty-app-success {
+	padding: 100px 0 0;
+	margin-top: 140px;
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-success {
+		padding: 80px 0 0
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-success {
+		padding: 50px 0 0
+	}
+}
+
+.glitty-app-wrap .glitty-app-success .glitty-app-title {
+	margin-bottom: 110px
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-success .glitty-app-title {
+		margin-bottom: 90px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-success .glitty-app-title {
+		margin-bottom: 35px
+	}
+}
+
+.glitty-app-wrap .glitty-app-success .yello-bg {
+	background: #ffc000;
+	min-height: 463px
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-success .yello-bg {
+		min-height: 113px
+	}
+}
+
+.glitty-app-wrap .glitty-app-success .black-bg {
+	background: #000;
+	min-height: 463px
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-success .black-bg {
+		min-height: 113px
+	}
+}
+
+.glitty-app-wrap .glitty-app-success .mobile-glitty-app {
+	text-align: right;
+	margin: -84px 0 -104px;
+	padding-right: 55px
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-success .mobile-glitty-app {
+		margin: -74px 0 -94px;
+		padding-right: 0;
+		text-align: center
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-success .mobile-glitty-app {
+		margin: 0;
+		padding: 25px 0 7px
+	}
+}
+
+.glitty-app-wrap .glitty-app-success .achieved-wrap {
+	color: #fff;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 36px;
+	line-height: 60px;
+	text-transform: uppercase;
+	padding: 95px 0 40px 40px;
+	letter-spacing: 1px;
+	font-weight: 700
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-success .achieved-wrap {
+		text-align: center
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-success .achieved-wrap {
+		font-size: 30px;
+		line-height: 56px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-success .achieved-wrap {
+		font-size: 24px;
+		line-height: 46px;
+		padding: 95px 0 20px 15px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .glitty-app-success .achieved-wrap {
+		padding: 30px 0;
+		text-align: center
+	}
+}
+
+@media(max-width:359px) {
+	.glitty-app-wrap .glitty-app-success .achieved-wrap {
+		font-size: 20px
+	}
+}
+
+.glitty-app-wrap .glitty-app-success .achieved-wrap .achieved-icon {
+	margin-bottom: 27px;
+	line-height: 26px
+}
+
+.glitty-app-wrap .glitty-app-success .achieved-wrap .achieved-icon span {
+	display: inline-block;
+	font-size: 24px;
+	background: #fff;
+	color: #000;
+	line-height: 28px;
+	padding: 0 7px 3px 9px;
+	margin-bottom: 25px;
+	vertical-align: top
+}
+
+.glitty-app-wrap .glitty-app-success .achieved-wrap .achieved-icon img {
+	display: block
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .glitty-app-success .achieved-wrap .achieved-icon img {
+		margin: auto
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-success .achieved-wrap .achieved-info br {
+		display: none
+	}
+}
+
+.glitty-app-wrap .glitty-app-success .achieved-wrap .achieved-info span {
+	background: #fff;
+	color: #000;
+	display: inline-block;
+	padding: 0 7px;
+	margin-right: 13px;
+	line-height: 45px
+}
+
+.glitty-app-wrap .glitty-app-success .achieved-wrap .achieved-info span b {
+	font-size: 60px;
+	line-height: 52px;
+	font-weight: 700
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .glitty-app-success .achieved-wrap .achieved-info span b {
+		font-size: 50px;
+		line-height: 46px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .glitty-app-success .achieved-wrap .achieved-info span b {
+		font-size: 40px
+	}
+}
+
+@media(max-width:359px) {
+	.glitty-app-wrap .glitty-app-success .achieved-wrap .achieved-info span b {
+		font-size: 36px
+	}
+}
+
+.glitty-app-wrap .download-app-inquiry {
+	padding: 140px 0 75px;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 700;
+	text-align: center
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .download-app-inquiry {
+		padding: 120px 0 55px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .download-app-inquiry {
+		padding: 110px 0 50px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .download-app-inquiry {
+		padding: 50px 0 25px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .download-app-inquiry {
+		padding: 40px 0 25px
+	}
+}
+
+.glitty-app-wrap .download-app-inquiry .download-glitty-app {
+	text-align: center;
+	margin-bottom: 90px
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .download-app-inquiry .download-glitty-app {
+		margin-bottom: 70px
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .download-app-inquiry .download-glitty-app {
+		margin-bottom: 50px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .download-app-inquiry .download-glitty-app {
+		margin-bottom: 30px
+	}
+}
+
+.glitty-app-wrap .download-app-inquiry .download-glitty-app h3 {
+	font-size: 30px;
+	color: #000;
+	line-height: 34px;
+	margin-bottom: 50px;
+	letter-spacing: 1px;
+	font-weight: 700
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .download-app-inquiry .download-glitty-app h3 {
+		font-size: 24px;
+		line-height: 26px;
+		margin-bottom: 40px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .download-app-inquiry .download-glitty-app h3 {
+		font-size: 22px;
+		margin-bottom: 30px;
+		line-height: 30px
+	}
+}
+
+.glitty-app-wrap .download-app-inquiry .download-glitty-app a {
+	display: inline-block;
+	outline: none
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .download-app-inquiry .download-glitty-app a {
+		width: 250px
+	}
+}
+
+.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry {
+	position: relative;
+	padding-left: 215px;
+	padding-bottom: 15px;
+	background-image: url(../../assets/images/casestudy/glitty/inquiry-icon.png);
+	background-repeat: no-repeat;
+	background-position: 15px 0;
+	padding-right: 215px;
+	display: inline-block;
+	text-align: left
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry {
+		padding-left: 190px;
+		background-size: 145px;
+		padding-right: 190px
+	}
+}
+
+@media(max-width:1300px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry {
+		padding-top: 10px;
+		padding-right: 0
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry {
+		background-size: 150px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry {
+		background-size: 110px;
+		padding-left: 150px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry {
+		background-size: 79px;
+		padding-left: 95px;
+		background-position: 0 2px;
+		padding-top: 5px
+	}
+}
+
+@media(max-width:359px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry {
+		background-size: 68px;
+		padding-left: 86px
+	}
+}
+
+.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry h3 {
+	font-size: 52px;
+	color: #000;
+	line-height: 54px;
+	margin-bottom: 40px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700
+}
+
+@media(max-width:1500px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry h3 {
+		font-size: 48px;
+		line-height: 50px;
+		margin-bottom: 30px
+	}
+}
+
+@media(max-width:1024px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry h3 {
+		font-size: 40px;
+		line-height: 42px
+	}
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry h3 {
+		font-size: 32px;
+		line-height: 38px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry h3 {
+		font-size: 28px;
+		line-height: 30px;
+		margin-bottom: 25px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry h3 {
+		font-size: 24px;
+		line-height: 32px;
+		margin-bottom: 23px
+	}
+}
+
+@media(max-width:359px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry h3 {
+		font-size: 20px;
+		line-height: 26px
+	}
+}
+
+.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry a {
+	display: inline-block;
+	font-size: 24px;
+	text-transform: uppercase;
+	line-height: 26px;
+	color: #000;
+	border: 3px solid #000;
+	padding: 12px 25px 14px;
+	outline: none;
+	letter-spacing: .5px;
+	transition: all .3s ease;
+	-webkit-transition: all .3s ease;
+	font-weight: 700
+}
+
+@media(max-width:991px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry a {
+		font-size: 22px;
+		line-height: 24px
+	}
+}
+
+@media(max-width:767px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry a {
+		font-size: 20px;
+		line-height: 20px
+	}
+}
+
+@media(max-width:480px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry a {
+		padding: 12px 20px 14px
+	}
+}
+
+@media(max-width:359px) {
+	.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry a {
+		padding: 5px 10px 7px;
+		font-size: 16px
+	}
+}
+
+.glitty-app-wrap .download-app-inquiry .glitty-app-inquiry a:hover {
+	background: #000;
+	color: #ffc000
+}

@@ -1,0 +1,89 @@
+{
+  "name": "react-typescript-base",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ap.cx/react-fullpage": "^0.2.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "@types/jest": "^24.9.1",
+    "@types/node": "^12.12.47",
+    "@types/react": "^16.9.41",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-google-recaptcha": "^2.1.0",
+    "@types/react-helmet": "^6.0.0",
+    "@types/react-html-parser": "^2.0.1",
+    "@types/react-modal": "^3.10.6",
+    "@types/react-router-dom": "^5.1.5",
+    "@types/react-swipe": "^6.0.0",
+    "animate.css": "^4.1.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.0",
+    "bootstrap-scss": "^4.5.0",
+    "moment": "^2.29.0",
+    "node-sass": "^4.14.1",
+    "public-ip": "^4.0.2",
+    "react": "^16.13.1",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-animated-slider": "^2.0.0",
+    "react-bootstrap": "^1.1.1",
+    "react-cookie-consent": "^6.2.3",
+    "react-device-detect": "^1.14.0",
+    "react-dom": "^16.13.1",
+    "react-ga": "^3.3.0",
+    "react-google-recaptcha": "^2.1.0",
+    "react-helmet": "^6.1.0",
+    "react-html-parser": "^2.0.2",
+    "react-modal": "^3.11.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.2",
+    "react-scrolllock": "^5.0.1",
+    "react-sticky-box": "^0.9.3",
+    "react-toastify": "^6.0.9",
+    "react-visibility-sensor": "^5.1.1",
+    "react-youtube": "^7.11.3",
+    "splitting": "^1.0.6",
+    "swiper": "^6.0.4",
+    "typescript": "^3.9.7",
+    "web-vitals": "^1.1.0",
+    "xml2js": "^0.4.23"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "build:new": "react-scripts build && node ./afterBuild.js",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "firebase deploy --token 1//0gqtfVCCNjOZOCgYIARAAGBASNwF-L9IrWptoKbANC_qjoniK1b_oRwQGkCHloNkzVck7KH6mmAYS8d7afiq9esNkOv4vAjsdpKI"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-animate-on-scroll": "^2.1.2",
+    "firebase-tools": "^9.4.0"
+  },
+  "babel": {
+    "env": {
+      "production": {
+        "plugins": [
+          "transform-react-constant-elements",
+          "transform-react-inline-elements"
+        ]
+      }
+    }
+  }
+}

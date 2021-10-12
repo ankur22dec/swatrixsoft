@@ -1,0 +1,18 @@
+<svg id="Component_15_1" data-name="Component 15 – 1" xmlns="http://www.w3.org/2000/svg" width="122.965" height="80.786" viewBox="0 0 122.965 80.786">
+  <path id="Path_989" data-name="Path 989" d="M2446.657,7344.976v44.71h-32.84a7.589,7.589,0,0,0-15.15,0h-17.11v-44.71Z" transform="translate(-2370.914 -7321.101)" fill="#f78e37" opacity="0.4" style="isolation: isolate"/>
+  <path id="Path_990" data-name="Path 990" d="M2480.567,7354.232H2461.6v13.1h28.677Z" transform="translate(-2370.914 -7321.101)" fill="#f78e37" opacity="0.4" style="isolation: isolate"/>
+  <path id="Path_991" data-name="Path 991" d="M2417.617,7389.686a11.389,11.389,0,0,0-22.76,0c-.01.16-.01.31-.01.47a11.39,11.39,0,1,0,22.78,0C2417.627,7390,2417.627,7389.846,2417.617,7389.686Zm-11.38,8.06a7.6,7.6,0,0,1-7.59-7.59,3.612,3.612,0,0,1,.02-.47,7.589,7.589,0,0,1,15.15,0,3.612,3.612,0,0,1,.02.47A7.607,7.607,0,0,1,2406.237,7397.746Z" transform="translate(-2370.914 -7321.101)" stroke="#000" stroke-width="0.682"/>
+  <path id="Path_992" data-name="Path 992" d="M2470.792,7401.545a11.392,11.392,0,1,1,11.392-11.392A11.4,11.4,0,0,1,2470.792,7401.545Zm0-18.987a7.594,7.594,0,1,0,7.595,7.595A7.6,7.6,0,0,0,2470.792,7382.558Z" transform="translate(-2370.914 -7321.101)" stroke="#000" stroke-width="0.682"/>
+  <path id="Path_993" data-name="Path 993" d="M2491.678,7392.051h-11.392v-3.8h9.493v-18.429l-16.226-25.241H2455.6v43.67h5.7v3.8H2453.7a1.9,1.9,0,0,1-1.9-1.9v-47.467a1.9,1.9,0,0,1,1.9-1.9h20.886a1.9,1.9,0,0,1,1.6.871l17.089,26.582a1.9,1.9,0,0,1,.3,1.027v20.886A1.9,1.9,0,0,1,2491.678,7392.051Z" transform="translate(-2370.914 -7321.101)" stroke="#000" stroke-width="0.607"/>
+  <path id="Path_994" data-name="Path 994" d="M2489.779,7369.267H2461.3a1.9,1.9,0,0,1-1.9-1.9V7350.28a1.9,1.9,0,0,1,1.9-1.9h17.088v3.8H2463.2v13.291h26.581Z" transform="translate(-2370.914 -7321.101)"/>
+  <path id="Path_995" data-name="Path 995" d="M2453.7,7392.051h-37.973v-3.8h36.075v-56.96h-68.353v56.96h13.291v3.8h-15.19a1.9,1.9,0,0,1-1.9-1.9V7329.4a1.9,1.9,0,0,1,1.9-1.9h72.15a1.9,1.9,0,0,1,1.9,1.9v60.758A1.9,1.9,0,0,1,2453.7,7392.051Z" transform="translate(-2370.914 -7321.101)" stroke="#000" stroke-width="0.607"/>
+  <rect id="Rectangle_128" data-name="Rectangle 128" width="11.392" height="3.797" transform="translate(10.641 59.558)"/>
+  <rect id="Rectangle_129" data-name="Rectangle 129" width="32.278" height="3.797" transform="translate(48.614 59.558)"/>
+  <rect id="Rectangle_130" data-name="Rectangle 130" width="7.595" height="3.797" transform="translate(113.169 59.558)"/>
+  <rect id="Rectangle_131" data-name="Rectangle 131" width="66.454" height="3.797" transform="translate(16.337 13.99)"/>
+  <rect id="Rectangle_132" data-name="Rectangle 132" width="3.797" height="3.797" rx="1.899" transform="translate(33.425 67.153)"/>
+  <rect id="Rectangle_133" data-name="Rectangle 133" width="3.797" height="3.797" rx="1.899" transform="translate(97.98 67.153)"/>
+  <circle id="Ellipse_42" data-name="Ellipse 42" cx="3.505" cy="3.505" r="3.505" transform="translate(0 70.013)" fill="#f78e37"/>
+  <circle id="Ellipse_43" data-name="Ellipse 43" cx="5.613" cy="5.613" r="5.613" transform="translate(88.486)" fill="#f78e37"/>
+  <circle id="Ellipse_44" data-name="Ellipse 44" cx="2.806" cy="2.806" r="2.806" transform="translate(101.777 10.686)" fill="#f78e37"/>
+</svg>

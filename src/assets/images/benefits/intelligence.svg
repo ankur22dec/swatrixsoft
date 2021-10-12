@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103.878" height="103.58" viewBox="0 0 103.878 103.58">
+  <g id="intelligence" transform="translate(0 -0.149)">
+    <g id="Group-5" transform="translate(51.522 103.878) rotate(-135)">
+      <path id="Path" d="M0,0C0,21.019,16.264,38.058,36.325,38.058S72.651,21.019,72.651,0H0Z" transform="translate(0 35.986)" fill="#f16122"/>
+      <path id="Path-2" data-name="Path" d="M36.325,38.057C56.388,38.057,72.652,21.019,72.652,0H0C0,21.019,16.264,38.057,36.325,38.057Z" transform="translate(72.863 38.057) rotate(180)" fill="#ececec"/>
+      <path id="Path-3" data-name="Path" d="M0,0C0,11.722,9.036,21.224,20.181,21.224S40.362,11.722,40.362,0H0Z" transform="translate(15.98 36.18)" fill="#fff"/>
+    </g>
+    <path id="Path-4" data-name="Path" d="M0,35.656,29.272,0,49.557,30.4Z" transform="translate(71.414 78.757) rotate(150)" fill="#f16122"/>
+  </g>
+</svg>

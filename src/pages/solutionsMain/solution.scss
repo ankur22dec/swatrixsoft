@@ -1,0 +1,29 @@
+.our_consultion_services {
+    margin: 0px 0 100px 0;
+    overflow: hidden;
+    @media screen and (max-width: 767px) {
+        margin: 30px 0;
+    }
+}
+
+.cmr-halfwally {
+    padding: 0 0 50px 0;
+    background: linear-gradient(to bottom, #ffffff 0%, #fff 20%, #fdfdfd 20%, #fdfdfd 80%, rgba(255, 255, 255, 0) 80%);
+    background-image: url(../../assets/images/elements/grids-s.png);
+    @media screen and (max-width: 600px) {
+        padding: 30px 0 0 0;
+    }
+}
+
+.related-plate {
+    margin-bottom: 30px;
+    h6 {
+        max-width: 140px;
+    }
+}
+
+.cmr-what-we{
+    .support-testing {
+        display: none;
+    }
+}

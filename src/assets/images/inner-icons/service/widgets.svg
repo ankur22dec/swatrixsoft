@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69.188" height="64.68" viewBox="0 0 69.188 64.68">
+  <defs>
+    <filter id="Path_312" x="0" y="0.083" width="69.188" height="64.597" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_13" x="9.12" y="20.328" width="30" height="35" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_14" x="24.12" y="20.328" width="30" height="35" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="widgets" transform="translate(5.213)">
+    <path id="Path_311" data-name="Path 311" d="M105.731,213.193a4.045,4.045,0,0,1-1.033,2.456,3.917,3.917,0,0,1-2.479,1.021H71.312A3.5,3.5,0,0,1,67.8,213.2V189.7h37.931v14.828A42.749,42.749,0,0,1,105.731,213.193Z" transform="translate(-60.019 -167.928)" fill="#9fbcef"/>
+    <g transform="matrix(1, 0, 0, 1, -5.21, 0)" filter="url(#Path_312)">
+      <path id="Path_312-2" data-name="Path 312" d="M78.185,53H39a5.969,5.969,0,0,0-6,5.922V91.7a7.962,7.962,0,0,0,8,7.9H76.188a7.962,7.962,0,0,0,8-7.9,2,2,0,0,0-3.994,0A3.973,3.973,0,0,1,76.2,95.648H41A3.973,3.973,0,0,1,37.005,91.7V64.947H80.193V81.83a2,2,0,0,0,3.994,0V58.922A5.969,5.969,0,0,0,78.185,53Zm-8.091,3.948a1.974,1.974,0,1,1-2,1.974A1.986,1.986,0,0,1,70.093,56.948Zm10,1.974a2,2,0,1,1-2-1.974A1.986,1.986,0,0,1,80.09,58.922Zm-43.1,0a1.986,1.986,0,0,1,2-1.974H64.424A5.859,5.859,0,0,0,64.458,61H36.994Z" transform="translate(-24 -46.92)"/>
+    </g>
+    <ellipse id="Ellipse_126" cx="2.617" cy="2.617" rx="2.617" ry="2.617" transform="translate(0 0)" fill="#9dbaed"/>
+    <ellipse id="Ellipse_127" cx="2.617" cy="2.617" rx="2.617" ry="2.617" transform="translate(50.223 52.53)" fill="#9dbaed"/>
+    <ellipse id="Ellipse_128" cx="1.056" cy="1.056" rx="1.056" ry="1.056" transform="translate(56.65 56.65)" fill="#9dbaed"/>
+    <g transform="matrix(1, 0, 0, 1, -5.21, 0)" filter="url(#Rectangle_13)">
+      <g id="Rectangle_13-2" data-name="Rectangle 13" transform="translate(18.12 26.33)" fill="none" stroke="#000" stroke-width="3">
+        <rect width="12" height="17" stroke="none"/>
+        <rect x="1.5" y="1.5" width="9" height="14" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -5.21, 0)" filter="url(#Rectangle_14)">
+      <g id="Rectangle_14-2" data-name="Rectangle 14" transform="translate(33.12 26.33)" fill="none" stroke="#000" stroke-width="3">
+        <rect width="12" height="17" stroke="none"/>
+        <rect x="1.5" y="1.5" width="9" height="14" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

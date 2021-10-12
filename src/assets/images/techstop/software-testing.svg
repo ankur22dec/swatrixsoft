@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.164" height="69.291" viewBox="0 0 56.164 69.291">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.41" x2="0.5" y2="2.248" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.302"/>
+    </linearGradient>
+  </defs>
+  <g id="android-stop" transform="translate(0.002 -0.167)">
+    <ellipse id="Ellipse_242" data-name="Ellipse 242" cx="2.808" cy="2.814" rx="2.808" ry="2.814" transform="translate(25.273 63.83)" fill="#95cf7d"/>
+    <path id="Path_1999" data-name="Path 1999" d="M23.6,70.279C10.218,69.335,0,64.226,0,58.068,0,51.238,12.573,45.7,28.081,45.7s28.081,5.538,28.081,12.367c0,6.14-10.162,11.232-23.485,12.2-3.894.8-4.6,2.64-4.6,2.64a7.949,7.949,0,0,0-4.48-2.629Z" transform="translate(0 -10.016)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Path_2000" data-name="Path 2000" d="M23.6,55.969a28.081,28.081,0,1,1,9.076-.019,8.707,8.707,0,0,0-4.6,6S26.307,56.919,23.6,55.969Z" fill="#95cf7d" fill-rule="evenodd"/>
+    <g id="android" transform="translate(16.38 10.272)" opacity="0.64">
+      <path id="Path_3328" data-name="Path 3328" d="M-229.525,397.731h-11.3c-1.639,0-2.98-.982-2.98-2.181v-8.268c0-1.2,1.341-2.181,2.98-2.181h11.3c1.639,0,2.98.982,2.98,2.181v8.268C-226.545,396.749-227.886,397.731-229.525,397.731Z" transform="translate(244.009 -371.162)" fill="#fff" opacity="0.5"/>
+    </g>
+    <g id="software-test-top" transform="translate(169.896 161.068)">
+      <g id="Group_1" data-name="Group 1" transform="translate(-155.142 -145.929)">
+        <g id="Group_392" data-name="Group 392" transform="translate(0 0)">
+          <path id="Path_312" data-name="Path 312" d="M55.725,53H36.019A3,3,0,0,0,33,55.978V72.463a4,4,0,0,0,4.023,3.971h17.7a4,4,0,0,0,4.023-3.971,1,1,0,1,0-2.009,0,2,2,0,0,1-2.009,1.986h-17.7a2,2,0,0,1-2.009-1.986V59.009h21.72V67.5a1,1,0,1,0,2.009,0V55.978A3,3,0,0,0,55.725,53Zm-4.069,1.986a.993.993,0,1,1-1,.993A.993.993,0,0,1,51.655,54.986Zm5.027.993a1,1,0,1,1-1-.993A1,1,0,0,1,56.683,55.978Zm-21.674,0a1,1,0,0,1,1-.993H48.8a2.947,2.947,0,0,0,.017,2.038H35.009Z" transform="translate(-33 -53)" fill="#fff"/>
+          <g id="Group_170-2" data-name="Group 170" transform="translate(7.251 7.891)">
+            <g id="Group_172-2" data-name="Group 172" transform="translate(0 0)">
+              <path id="Path_330" data-name="Path 330" d="M121.738,80.436c0-.023,0-.046,0-.07v-2.5c0-.023,0-.047,0-.07l1.7-1.7a.582.582,0,1,0-.824-.824l-1.165,1.165a3.718,3.718,0,0,0-2.417-2.134l.735-1.1a.582.582,0,1,0-.969-.646l-.763,1.145-.763-1.145a.582.582,0,0,0-.969.646l.735,1.1a3.718,3.718,0,0,0-2.417,2.135l-1.165-1.165a.582.582,0,1,0-.824.824l1.7,1.7c0,.023,0,.046,0,.07v2.5c0,.023,0,.047,0,.07l-1.7,1.7a.582.582,0,0,0,.824.824l1.165-1.165a3.7,3.7,0,0,0,6.827,0l1.165,1.165a.582.582,0,1,0,.824-.824Zm-4.283,2.4a2.54,2.54,0,0,1-1.954-2.468V79.077h1.954Zm3.119-2.468a2.54,2.54,0,0,1-1.954,2.468V79.077h1.954Zm0-2.454H115.5v-.041a2.537,2.537,0,1,1,5.073,0Z" transform="translate(-112.465 -72.298)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

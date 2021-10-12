@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="724.318" height="582.891" viewBox="0 0 724.318 582.891">
+  <g id="waves" transform="translate(461.318 -540)">
+    <path id="Intersection_3" data-name="Intersection 3" d="M574.506,581.891C261.561,567.02,11,313.964,0,0H723.3V570.739a604.882,604.882,0,0,1-90.452,11.152Z" transform="translate(-460.8 540.5)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.25"/>
+    <path id="Intersection_2" data-name="Intersection 2" d="M425.934,466.921C192.1,435.438,10.284,239.945,0,0H610.709V457.044a489.79,489.79,0,0,1-51.983,9.877Z" transform="translate(-348.209 541.673)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.25"/>
+    <path id="Intersection_1" data-name="Intersection 1" d="M0,0H490.815V335.255a373.717,373.717,0,0,1-117.172,18.713C173.775,353.968,10.507,197.262,0,0Z" transform="translate(-228.315 541.674)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.25"/>
+  </g>
+</svg>

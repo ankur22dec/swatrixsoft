@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74.578" height="73.425" viewBox="0 0 74.578 73.425">
+  <defs>
+    <filter id="starred-message" x="0" y="0" width="72.413" height="72.414" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_332" x="16.09" y="14.293" width="58.487" height="59.133" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="maintainance" transform="translate(-875.689 -96.093)">
+    <path id="Union_1" data-name="Union 1" d="M4.624,28.793A16.866,16.866,0,0,1,.651,17.982C.651,8.05,9.508,0,20.432,0s19.78,8.05,19.78,17.982-8.856,17.981-19.78,17.981a21.568,21.568,0,0,1-6.133-.881l.165.215L0,40.114Z" transform="translate(887.541 112.79)" fill="#ffd45e"/>
+    <g transform="matrix(1, 0, 0, 1, 875.69, 96.09)" filter="url(#starred-message)">
+      <path id="starred-message-2" data-name="starred-message" d="M54.414,25.081A23.6,23.6,0,0,1,50.1,38.643a2.126,2.126,0,0,1-3.486-2.434,19.37,19.37,0,0,0,3.549-11.129c0-11.486-10.3-20.83-22.956-20.83S4.252,13.595,4.252,25.081A19.432,19.432,0,0,0,9.039,37.81a2.126,2.126,0,0,1,.353,2.175L6.058,48.231l9.708-4.279a2.126,2.126,0,0,1,1.691-.01,25.078,25.078,0,0,0,20.939-.67,2.126,2.126,0,0,1,1.925,3.79A29.349,29.349,0,0,1,16.657,48.2L2.984,54.232A2.126,2.126,0,0,1,.156,51.491L4.982,39.553A23.507,23.507,0,0,1,0,25.081,23.973,23.973,0,0,1,8.037,7.28,28.253,28.253,0,0,1,27.207,0,28.253,28.253,0,0,1,46.378,7.28a23.973,23.973,0,0,1,8.037,17.8Z" transform="translate(9 6)"/>
+    </g>
+    <ellipse id="Ellipse_84" data-name="Ellipse 84" cx="3.271" cy="3.271" rx="3.271" ry="3.271" transform="translate(881 102)" fill="#ffd45e"/>
+    <ellipse id="Ellipse_85" data-name="Ellipse 85" cx="1.171" cy="1.171" rx="1.171" ry="1.171" transform="translate(890.353 104.1)" fill="#ffd45e"/>
+    <g id="spanner" transform="translate(900.78 116.385)">
+      <g id="Group_175" data-name="Group 175" transform="translate(0 0)">
+        <g transform="matrix(1, 0, 0, 1, -25.09, -20.29)" filter="url(#Path_332)">
+          <path id="Path_332-2" data-name="Path 332" d="M42.86,31.432,26.266,14.839a12,12,0,0,0,.51-3.4,11.714,11.714,0,0,0-3.316-8.085l0,0A11.207,11.207,0,0,0,11.417.755a1.619,1.619,0,0,0-.556,2.662l3.758,3.712-.878,2.6-2.377.813L7.6,6.69a1.618,1.618,0,0,0-2.656.518,10.971,10.971,0,0,0-.929,4.226A11.715,11.715,0,0,0,7.332,19.52a11.273,11.273,0,0,0,10.609,3.112L34.82,39.511a5.775,5.775,0,0,0,4.022,1.622,5.687,5.687,0,0,0,4.036-1.661A5.761,5.761,0,0,0,42.86,31.432ZM40.572,37.2a2.505,2.505,0,0,1-3.483,0L19.562,19.676a1.62,1.62,0,0,0-1.146-.475,1.639,1.639,0,0,0-.511.082,7.921,7.921,0,0,1-2.509.4,8.053,8.053,0,0,1-5.743-2.422,8.45,8.45,0,0,1-2.4-5.83c0-.148.007-.3.018-.45l2.492,2.552a1.616,1.616,0,0,0,1.682.4l4.1-1.4a1.618,1.618,0,0,0,1.009-1.013L18.008,7.2a1.618,1.618,0,0,0-.4-1.669l-2.326-2.3a7.985,7.985,0,0,1,5.856,2.368,8.453,8.453,0,0,1,2.4,5.828,8.69,8.69,0,0,1-.635,3.217,1.618,1.618,0,0,0,.353,1.757L40.571,33.72A2.5,2.5,0,0,1,40.572,37.2Z" transform="translate(21.07 20.29)"/>
+        </g>
+      </g>
+    </g>
+    <ellipse id="Ellipse_86" data-name="Ellipse 86" cx="3.548" cy="3.548" rx="3.548" ry="3.548" transform="translate(920.513 156.068)" fill="#ffd45e"/>
+    <ellipse id="Ellipse_87" data-name="Ellipse 87" cx="1.762" cy="1.762" rx="1.762" ry="1.762" transform="translate(915.095 156.104)" fill="#ffd45e"/>
+  </g>
+</svg>

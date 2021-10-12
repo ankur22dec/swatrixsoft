@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.165" height="69.292" viewBox="0 0 56.165 69.292">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.41" x2="0.5" y2="2.248" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.302"/>
+    </linearGradient>
+  </defs>
+  <g id="fluttr-stop" transform="translate(-3829 -6459)">
+    <g id="ionic-stop" transform="translate(3829.002 6458.833)">
+      <ellipse id="Ellipse_242" data-name="Ellipse 242" cx="2.808" cy="2.814" rx="2.808" ry="2.814" transform="translate(25.273 63.83)" fill="#478aff"/>
+      <path id="Path_1999" data-name="Path 1999" d="M23.6,70.279C10.218,69.335,0,64.226,0,58.068,0,51.238,12.573,45.7,28.081,45.7s28.081,5.538,28.081,12.367c0,6.14-10.162,11.232-23.485,12.2-3.894.8-4.6,2.64-4.6,2.64a7.949,7.949,0,0,0-4.48-2.629Z" transform="translate(0 -10.016)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+      <path id="Path_2000" data-name="Path 2000" d="M23.6,55.969a28.081,28.081,0,1,1,9.076-.019,8.707,8.707,0,0,0-4.6,6S26.307,56.919,23.6,55.969Z" fill="#478aff" fill-rule="evenodd"/>
+    </g>
+    <g id="Group_360" data-name="Group 360" transform="translate(2761.96 6295)">
+      <path id="Path_475" data-name="Path 475" d="M1089.833,2165.139l6.948-7.066h7.537l-11.364,11.07Z" transform="translate(-1.001 -1967.857)" fill="#fff" opacity="0.5"/>
+      <g id="Group_310" data-name="Group 310" transform="translate(1083.075 180.927)">
+        <g id="flutter">
+          <path id="Path_471" data-name="Path 471" d="M3.752,15.934,0,12.182,12.183,0h7.5m0,11.241h-7.5L9.372,14.052,13.124,17.8" fill="none" stroke="#fff" stroke-width="1.5"/>
+          <path id="Path_472" data-name="Path 472" d="M951.7,1811.651l2.81,2.81h7.5l-6.562-6.562" transform="translate(-942.328 -1790.096)" fill="none" stroke="#fff" stroke-width="1.5"/>
+          <path id="Path_473" data-name="Path 473" d="M571.6,1431.347l3.746-3.747,3.746,3.746-3.746,3.747Z" transform="translate(-565.971 -1413.542)" fill="none" stroke="#fff" stroke-width="1.5"/>
+          <path id="Path_474" data-name="Path 474" d="M22.546,14.016l-7.32,7.495" transform="translate(-2.305 -3.01)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
