@@ -1,7 +1,7 @@
 import React from "react";
-import ImageView from "../ImageView";
+// import ImageView from "../ImageView";
 import { Link } from "react-router-dom";
-import logo from "../../assets/images/logo.png";
+// import logo from "../../assets/images/logo.png";
 import "./header.scss";
 import SolutionHeader from "./component/solutionHeader";
 import ServiceHeader from "./component/serviceHeader";
@@ -60,7 +60,8 @@ class CustomHeader extends React.Component {
     return (
       <nav className="navbar navbar-expand-lg cnslt-light customNav fixed-top">
         <Link className="navbar-brand in-smaller" to="/">
-          <ImageView className="logo" src={logo} alt="Logo" />
+          {/* <ImageView className="logo" src={logo} alt="Logo" /> */}
+          SWATRIXSOFT
         </Link>
         <div className="mobile-action-buttons">
           <button
@@ -96,9 +97,9 @@ class CustomHeader extends React.Component {
             </span>
           </div>
           <ul>
-            <li>US : +1 631-206-6051</li>
-            <li>India : +91 800-005-0808</li>
-            <li>Email : biz@cmarix.com</li>
+            <li>US : +1 631-102-1123</li>
+            <li>India : +91 7073875630</li>
+            <li>Email : itjjodhpur4u@gmail.com</li>
             <li>
               <Link to="/partnership.html" onClick={() => this.removeMenu()}>
                  Partnership
@@ -127,7 +128,8 @@ class CustomHeader extends React.Component {
           id="main-nav"
         >
           <Link className="navbar-brand in-larger" to="/">
-            <ImageView className="logo" src={logo} alt="Logo" />
+            {/* <ImageView className="logo" src={logo} alt="Logo" /> */}
+            <b>SWATRIXSOFT</b>
           </Link>
           <ul className="navbar-nav mr-auto ml-auto">
             <li className="nav-item nav-company has-sub">

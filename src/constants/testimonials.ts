@@ -18,7 +18,7 @@ export default {
     clientTitle: 'Results bring Happy Customers',
     reviews: [
         {
-            title: `I have been working with CMARIX from last 3 years and I have to say from the last 10 years of doing this, we haven’t found a better partner for outsourcing. I have developed several mobile apps with them for my clients, some of them are eCommerce websites with concurrent 4000+ user capacity and some are enterprise Microsoft, .NET custom software. I like their overall approach to deliver a good business project and it’s not just write a piece of code they are very relationship oriented.`,
+            title: `I have been working with swatrixsoft from last 3 years and I have to say from the last 10 years of doing this, we haven’t found a better partner for outsourcing. I have developed several mobile apps with them for my clients, some of them are eCommerce websites with concurrent 4000+ user capacity and some are enterprise Microsoft, .NET custom software. I like their overall approach to deliver a good business project and it’s not just write a piece of code they are very relationship oriented.`,
             name: 'Mr. Michael',
             position: 'www.jaraplus.com',
             type: 'Enterprise Mobile Apps',
@@ -26,7 +26,7 @@ export default {
             image: testimonial1
         },
         {
-            title: `I have been working with CMARIX for over a year now and together we have partnered on very interesting projects. The teams worked together for Microsoft .net for security based software upgrade. This was not a project without its challenges, communication with third-party tools like cameras, and other security sensors...`,
+            title: `I have been working with swatrixsoft for over a year now and together we have partnered on very interesting projects. The teams worked together for Microsoft .net for security based software upgrade. This was not a project without its challenges, communication with third-party tools like cameras, and other security sensors...`,
             name: 'Mr. Aaron',
             position: 'CEO & CTO',
             type: 'Enterprise Ecommerce Website',
@@ -34,7 +34,7 @@ export default {
             image: testimonial2
         },
         {
-            title: `I came to CMARIX with a badly messed up mobile app, when I was let down by a local vendor. The app was in such bad shape that I was recommended to scrap it. I re-created the entire mobile app from scratch with less than 50% price of my local vendor. Their excellent technical skills, fluent communication and around the clock availability helped me to deliver the successful app. `,
+            title: `I came to swatrixsoft with a badly messed up mobile app, when I was let down by a local vendor. The app was in such bad shape that I was recommended to scrap it. I re-created the entire mobile app from scratch with less than 50% price of my local vendor. Their excellent technical skills, fluent communication and around the clock availability helped me to deliver the successful app. `,
             name: 'Mr. Rob',
             position: 'Marketing Director',
             type: 'Custom Mobile Apps',
@@ -42,7 +42,7 @@ export default {
             image: testimonial3
         },
         {
-            title: `I own a digital marketing agency in London. I was being recommend from CMARIX from a friend of mine who have used their service. We have worked with them on a social marketing project, which required densely custom PHP implementation as well as cloud configuration as well a mobile app. Thank you for going extra miles and doing whatever it takes under pressure and delivering great work. `,
+            title: `I own a digital marketing agency in London. I was being recommend from swatrixsoft from a friend of mine who have used their service. We have worked with them on a social marketing project, which required densely custom PHP implementation as well as cloud configuration as well a mobile app. Thank you for going extra miles and doing whatever it takes under pressure and delivering great work. `,
             name: 'Ms Stephanie',
             position: 'CTO',
             type: 'Social Marketing Application',
@@ -50,7 +50,7 @@ export default {
             image: testimonial4
         },
         {
-            title: `We are based in United Kingdom, CMARIX has executed a lot of IT projects for us since 2010 and each time they have delivered with perfection and a good project. So, we highly recommend them and endorse them for anyone who need their services. `,
+            title: `We are based in United Kingdom, swatrixsoft has executed a lot of IT projects for us since 2010 and each time they have delivered with perfection and a good project. So, we highly recommend them and endorse them for anyone who need their services. `,
             name: 'Mr. Victor',
             position: 'Marketing Director',
             type: 'Custom Website',
@@ -58,7 +58,7 @@ export default {
             image: testimonial5
         },
         {
-            title: `We were looking for a reliable web developer that understands our vision and could translate this into a website that fitted our aim, we talked to a few companies and there was always something that lacked. CMARIX was very responsive and efficient, asking us right questions and answering all of ours. From the initial meeting that seemed a complete package and made us feel it is....`,
+            title: `We were looking for a reliable web developer that understands our vision and could translate this into a website that fitted our aim, we talked to a few companies and there was always something that lacked. swatrixsoft was very responsive and efficient, asking us right questions and answering all of ours. From the initial meeting that seemed a complete package and made us feel it is....`,
             name: 'Ms. Sabrina',
             position: 'Marketing Director',
             type: 'Enterprise Ecommerce Website',
@@ -74,13 +74,13 @@ export default {
     feedbacks: [
         {
             image: user1,
-            title: 'We joined CMARIX with a small mobile app development initiative. Today, we are partners and growing together, living together. They have added values to our business and we are truly thankful to them for their dedication and commitments.',
+            title: 'We joined swatrixsoft with a small mobile app development initiative. Today, we are partners and growing together, living together. They have added values to our business and we are truly thankful to them for their dedication and commitments.',
             name: 'Mr. Hamlyn',
             location: 'UK'
         },
         {
             image: user2,
-            title: 'CMARIX staff are courteous and friendly, great intellectuals, resourceful and ever beaming with new ideas. We both put each other to task and came out with a most beautiful result. I will definitely come back for another job. I will recommend them to anyone who is looking for talented web professionals at an affordable rate without compromise on quality.',
+            title: 'swatrixsoft staff are courteous and friendly, great intellectuals, resourceful and ever beaming with new ideas. We both put each other to task and came out with a most beautiful result. I will definitely come back for another job. I will recommend them to anyone who is looking for talented web professionals at an affordable rate without compromise on quality.',
             name: 'Mr. Joseph',
             location: 'UK'
         },
@@ -92,7 +92,7 @@ export default {
         },
         {
             image: user4,
-            title: 'Having worked with other development companies before, I’d highly recommend CMARIX to anyone wanting coding done right the first time. They are conscientious, and easy to work with, providing excellent professional services.',
+            title: 'Having worked with other development companies before, I’d highly recommend swatrixsoft to anyone wanting coding done right the first time. They are conscientious, and easy to work with, providing excellent professional services.',
             name: 'Mr. Maxwell',
             location: 'UK'
         },
@@ -105,5 +105,5 @@ export default {
     ],
     cardLabel: 'Ready To Talk Success?',
     cardMessage: 'We work on technologies and services that you need.',
-    weAre: 'Working with CMARIX means your need for a UI/UX expert, full stack developer and infrastructure expert will be met at one place. ',
+    weAre: 'Working with swatrixsoft means your need for a UI/UX expert, full stack developer and infrastructure expert will be met at one place. ',
 }

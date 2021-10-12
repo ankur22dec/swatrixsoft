@@ -16,7 +16,7 @@ export default {
     image: waves,
     assureLabel: "Disrupt With Innovation",
     assureTitle: 'Let’s innovate your industry We put our technology solutions to work for you.',
-    assureDescription: 'At CMARIX, we continue to develop the ideas that transform our tomorrow. Our industry knowledge and expertise allow brands to harness the power of technology and develop each brand in a way that showcases its strength. From designing to development, marketing to testing, our strategies have solved varied problems for different industries and allowed businesses to focus on the critical edge while jumping off the line. Let CMARIX ignite your potential.',
+    assureDescription: 'At CMARIX, we continue to develop the ideas that transform our tomorrow. Our industry knowledge and expertise allow brands to harness the power of technology and develop each brand in a way that showcases its strength. From designing to development, marketing to testing, our strategies have solved varied problems for different industries and allowed businesses to focus on the critical edge while jumping off the line. Let swatrixsoft ignite your potential.',
     industryCount: '25+',
     missionLabel: "Industries we Power",
     domainExpert: [

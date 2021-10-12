@@ -12,7 +12,7 @@ export default {
     description: `The foremost business goal of any entrepreneur is about persistent long-term growth, scaling at a speed of ever-changing industry trends. We help you get there with our strategy & consulting services. Strategy is the most important part of any successful project and we ensure solid consultation in your strategy development. `,
     image: consultingbanner,
     assureTitle: 'The Core Of Every Successful Product Begins With Smart Consulting & Clear Strategy',
-    assureDescription: '<p>We don’t just deliver the projects and hope to see the results. For years, we are empowering brands to develop a customized strategy that helps you to stand high with confidence and say “growth is guaranteed”. Leverage a comprehensive approach with customized digital strategies and consulting to map your business in success zones.</p> <p>CMARIX is not just a great design and development company but also a strategic expert that empowers you with leadership and strategic powers to see a win. </p>',
+    assureDescription: '<p>We don’t just deliver the projects and hope to see the results. For years, we are empowering brands to develop a customized strategy that helps you to stand high with confidence and say “growth is guaranteed”. Leverage a comprehensive approach with customized digital strategies and consulting to map your business in success zones.</p> <p>swatrixsoft is not just a great design and development company but also a strategic expert that empowers you with leadership and strategic powers to see a win. </p>',
     services: [
         {
             title: 'StartUp',
@@ -74,7 +74,7 @@ export default {
     benifits: [
         {
             title: 'Tailored Approach To Consultancy',
-            description: 'CMARIX is known for offering tailor suited consultancy services for its clients to help them avail digital solutions that are more impactful and effective. ',
+            description: 'swatrixsoft is known for offering tailor suited consultancy services for its clients to help them avail digital solutions that are more impactful and effective. ',
             image: benefitsOne,
             overlay: iconoverlay
         },

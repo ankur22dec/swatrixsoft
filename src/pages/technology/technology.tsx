@@ -65,7 +65,7 @@ class Technology extends React.Component<any, any> {
               <div className="better_outcome">
                 <div className="sec-tag-lines sr-from-bottom-1">
                   <h3>
-                    We here @CMARIX are committed to continuously develop better
+                    We here @swatrixsoft are committed to continuously develop better
                     outcomes for the customers
                   </h3>
                 </div>

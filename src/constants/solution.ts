@@ -13,7 +13,7 @@ export default [
         className: 'web-development-solution',
         description: 'Websites can be multifaceted enough to deliver million different services today. We build fully custom websites that are meticulously attuned to serve your business goals. From tactics of powerful brand explorations to appealing content, our website\'s prime attention is given to user experience. Let’s stand out, sell more and be more with our web development services.',
         missionTitle: 'You Just Need to Think Business and Leave WordPress Development Technicalities to us',
-        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. CMARIX fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
+        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. swatrixsoft fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
         image: startupIcon,
         solutions: [
             {
@@ -95,7 +95,7 @@ export default [
         className: 'mvp-development-solution',
         description: 'With excellence in standards of agile processes our MVP experts help you visualize your ideas with versions of different user stories. Let’s optimize your software development path into a successful one and move rapid-to-market with the best MVP Development Company.',
         missionTitle: 'You Just Need to Think Business and Leave WordPress Development Technicalities to us',
-        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. CMARIX fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
+        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. swatrixsoft fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
         image: startupIcon,
         solutions: [
             {

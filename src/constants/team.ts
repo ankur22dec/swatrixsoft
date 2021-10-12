@@ -107,7 +107,7 @@ export default {
             image: pillar1,
             name: 'Chirag Mudsa',
             title: `We are catalysts in laying new <b>GOLD</b> standards of global technology services. `,
-            position: 'CEO, CMARIX TechnoLabs',
+            position: 'CEO, swatrixsoft TechnoLabs',
             url: 'https://www.linkedin.com/in/chiragmudsa'
         },
         {
@@ -692,7 +692,7 @@ export default {
         image: ankit,
         memeber: "40"
     },
-    weAre: "Deliver off the charts results with a purpose driven agile team of CMARIX who take your goals too seriously."
+    weAre: "Deliver off the charts results with a purpose driven agile team of swatrixsoft who take your goals too seriously."
 
 }
 

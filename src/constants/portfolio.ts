@@ -369,5 +369,5 @@ export default {
     cardLabel: 'Do you have an interesting project?',
     cardTitle: 'Let\'s talk about that!',
     cardButton: 'Inquire Now',
-    weAre: 'CMARIX offers technology solutions to a wide spectrum of industries across the globe.'
+    weAre: 'swatrixsoft offers technology solutions to a wide spectrum of industries across the globe.'
 }

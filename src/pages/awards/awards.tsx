@@ -111,7 +111,7 @@ class Awards extends React.Component {
                       <div className="award_detail plain-blue-bg">
                         <h4>ISO 9001:2015</h4>
                         <p>
-                          CMARIX is an ISO 9001:2015 certified company aiming to
+                          SWATRIXSOFT is an ISO 9001:2015 certified company aiming to
                           highest quality standards in our services and solution
                           delivery.
                         </p>
@@ -126,7 +126,7 @@ class Awards extends React.Component {
                       <div className="award_detail plain-green-bg">
                         <h4>ISO 27001</h4>
                         <p>
-                          CMARIX received accreditation of ISO 27001:2013
+                          SWATRIXSOFT received accreditation of ISO 27001:2013
                           certification, which is global best practice
                           specification of Information Security Management
                           Systems (ISMS). We are committed to using
@@ -170,7 +170,7 @@ class Awards extends React.Component {
                       <div className="award_detail plain-darkblue-bg">
                         <h4>CIO Review</h4>
                         <p>
-                          CMARIX has been Ranked among Most promising Top 20
+                          SWATRIXSOFT has been Ranked among Most promising Top 20
                           Software providers of India into diverse business
                           domains like eCommerce, Banking, Insurance, Healthcare
                           and Education.
@@ -211,7 +211,7 @@ class Awards extends React.Component {
                       <div className="award_detail plain-blue-bg ">
                         <h4>GESIA</h4>
                         <p>
-                          CMARIX is an ISO 9001:2015 certified company aiming to
+                        SWATRIXSOFT is an ISO 9001:2015 certified company aiming to
                           highest quality standards in our services and solution
                           delivery.
                         </p>
@@ -226,7 +226,7 @@ class Awards extends React.Component {
                       <div className="award_detail plain-green-bg">
                         <h4>NASSCOM</h4>
                         <p>
-                          CMARIX received accreditation of ISO 27001:2013
+                        SWATRIXSOFT received accreditation of ISO 27001:2013
                           certification, which is global best practice
                           specification of Information Security Management
                           Systems (ISMS). We are committed to using
@@ -245,7 +245,7 @@ class Awards extends React.Component {
                       <div className="award_detail plain-red-bg">
                         <h4>Shopify Partners</h4>
                         <p>
-                          CMARIX is an ISO 9001:2015 certified company aiming to
+                        SWATRIXSOFT is an ISO 9001:2015 certified company aiming to
                           highest quality standards in our services and solution
                           delivery.
                         </p>
@@ -260,7 +260,7 @@ class Awards extends React.Component {
                       <div className="award_detail plain-darkblue-bg">
                         <h4>Amazon Web Services</h4>
                         <p>
-                          CMARIX received accreditation of ISO 27001:2013
+                        SWATRIXSOFT received accreditation of ISO 27001:2013
                           certification, which is global best practice
                           specification of Information Security Management
                           Systems (ISMS). We are committed to using
@@ -355,7 +355,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      Top Developers awarded CMARIX as top Android app Development Company for their wide range of knowledge in building successful app. 
+                      Top Developers awarded SWATRIXSOFT as top Android app Development Company for their wide range of knowledge in building successful app. 
                       </p>
                     </div>
                   </div>
@@ -394,7 +394,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      Goodfirms awarded CMARIX as top best mobile app Design Company for their extravagant knowledge in UX/UI processes and design creativity. 
+                      Goodfirms awarded SWATRIXSOFT as top best mobile app Design Company for their extravagant knowledge in UX/UI processes and design creativity. 
                       </p>
                     </div>
                   </div>
@@ -432,7 +432,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      Clutch awarded CMARIX as top best web development Company for their immense knowledge and emphasizing client appreciation.
+                      Clutch awarded SWATRIXSOFT as top best web development Company for their immense knowledge and emphasizing client appreciation.
                       </p>
                     </div>
                   </div>
@@ -469,7 +469,7 @@ class Awards extends React.Component {
                         <a href="https://www.itfirms.co/top-web-development-companies">IT Firms <span> - </span> Top Web Development Copmany  </a>
                       </h3>
                       <p>
-                        IT firms awarded CMARIX as leading Web Development Company for their continuous effort and quality results of web development services. 
+                        IT firms awarded SWATRIXSOFT as leading Web Development Company for their continuous effort and quality results of web development services. 
                       </p>
                     </div>
                   </div>
@@ -507,7 +507,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      IT firms awarded CMARIX as leading Mobile App Development Company for their robust approach and quality results of mobile app development services.
+                      IT firms awarded SWATRIXSOFT as leading Mobile App Development Company for their robust approach and quality results of mobile app development services.
                       </p>
                     </div>
                   </div>
@@ -546,7 +546,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      Goodfirms awarded CMARIX as top Software Development Company for out-breaking skills in software development platforms. 
+                      Goodfirms awarded SWATRIXSOFT as top Software Development Company for out-breaking skills in software development platforms. 
                       </p>
                     </div>
                   </div>
@@ -584,7 +584,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      App Story awarded CMARIX as leading Flutter App Development Company for their proven approaches in cross-platform app development services. 
+                      App Story awarded SWATRIXSOFT as leading Flutter App Development Company for their proven approaches in cross-platform app development services. 
                       </p>
                     </div>
                   </div>
@@ -622,7 +622,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      Manifest awarded CMARIX as top Software Development Company for their outstanding efforts and knowledge in software development services.
+                      Manifest awarded SWATRIXSOFT as top Software Development Company for their outstanding efforts and knowledge in software development services.
                       </p>
                     </div>
                   </div>
@@ -661,7 +661,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      Manifest awarded CMARIX as top Web Development Company for their extravagant knowledge in web platforms and its standards. 
+                      Manifest awarded SWATRIXSOFT as top Web Development Company for their extravagant knowledge in web platforms and its standards. 
                       </p>
                     </div>
                   </div>
@@ -700,7 +700,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      DesignRush awarded CMARIX as top Drupal development company for their immense knowledge in PHP development frameworks.
+                      DesignRush awarded SWATRIXSOFT as top Drupal development company for their immense knowledge in PHP development frameworks.
                       </p>
                     </div>
                   </div>
@@ -739,7 +739,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      TechReviewer awarded CMARIX as top software development company for their guaranteed results and success of clients around the globe.
+                      TechReviewer awarded SWATRIXSOFT as top software development company for their guaranteed results and success of clients around the globe.
                       </p>
                     </div>
                   </div>
@@ -777,7 +777,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      Top Developers awarded CMARIX as top eCommerce Development Company for their result-oriented selling techniques and wide technical knowledge.
+                      Top Developers awarded SWATRIXSOFT as top eCommerce Development Company for their result-oriented selling techniques and wide technical knowledge.
                       </p>
                     </div>
                   </div>
@@ -819,7 +819,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      Top firms awarded CMARIX as leading Mobile App Development Company for their result-oriented approach and guaranteed results of mobile app development services.
+                      Top firms awarded SWATRIXSOFT as leading Mobile App Development Company for their result-oriented approach and guaranteed results of mobile app development services.
                       </p>
                     </div>
                   </div>
@@ -859,7 +859,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      App Story awarded CMARIX as leading IoT App Development Company for their extraordinary skills in bringing automation through all latest technology. 
+                      App Story awarded SWATRIXSOFT as leading IoT App Development Company for their extraordinary skills in bringing automation through all latest technology. 
                       </p>
                     </div>
                   </div>
@@ -898,7 +898,7 @@ class Awards extends React.Component {
                         </a>
                       </h3>
                       <p>
-                      App Story awarded CMARIX as top best mobile app Design Company for their extravagant knowledge in UX/UI processes and design creativity. 
+                      App Story awarded SWATRIXSOFT as top best mobile app Design Company for their extravagant knowledge in UX/UI processes and design creativity. 
                       </p>
                     </div>
                   </div>
@@ -924,7 +924,7 @@ class Awards extends React.Component {
               <div className="better_outcome">
                 <div className="sec-tag-lines sr-from-bottom-1">
                   <h3>
-                  Working with CMARIX means your recognition is not far away with great software for great business.
+                  Working with SWATRIXSOFT means your recognition is not far away with great software for great business.
                   </h3>
                 </div>
               </div>

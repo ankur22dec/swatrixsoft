@@ -257,7 +257,7 @@ class SolutionInnerMain extends React.Component<any, any> {
                                 </h3>
                             ) : (
                                 <h3 className="sr-from-bottom-2">
-                                    Working with CMARIX means your startup will propel on heights of ever-growing market and inline with modern applications. 
+                                    Working with swatrixsoft means your startup will propel on heights of ever-growing market and inline with modern applications. 
                                 </h3>
                             )
                         }

@@ -231,7 +231,7 @@ class ConsultingMain extends React.Component {
                           </Link>
                           <div className="service_description">
                             <p>
-                            Outsource development work in India to CMARIX and grow high with great minds. 
+                            Outsource development work in India to SWATRIXSOFT and grow high with great minds. 
                             </p>
                           </div>
                       </div>
@@ -316,7 +316,7 @@ class ConsultingMain extends React.Component {
                     <div className="col-md-12">
                       <div className="sec-title">
                         <p className="sr-from-bottom-1">
-                          <span>Why CMARIX?</span>
+                          <span>Why SWATRIXSOFT?</span>
                         </p>
                         <h3 className="sr-from-bottom-3">
                           <span>Benefits</span>
@@ -385,7 +385,7 @@ class ConsultingMain extends React.Component {
               <div className="better_outcome">
                 <div className="sec-tag-lines sr-from-bottom-1">
                   <h3>
-                  Working with CMARIX means your business will deliver off-chart performance while implementing the right digital path. 
+                  Working with SWATRIXSOFT means your business will deliver off-chart performance while implementing the right digital path. 
                   </h3>
                 </div>
               </div>

@@ -463,7 +463,7 @@ class AboutUs extends React.Component<any, any> {
                     <div className="sec-tag-lines">
                         <span className="sr-from-bottom-1">We Assure You</span>
                         <h3 className="sr-from-bottom-2 font-weight-bold visitors-to-customers">
-                        Working with CMARIX means you have got the <b>BEST TEAM</b> to make your idea a popular reality.
+                        Working with swatrixsoft means you have got the <b>BEST TEAM</b> to make your idea a popular reality.
                         </h3>
                     </div>
                 </div>

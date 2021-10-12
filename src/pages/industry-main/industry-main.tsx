@@ -246,7 +246,7 @@ class IndustryMain extends React.Component {
                 </div>
                 <div className="col-md-7">
                   <h4 className="right-tag-lines sr-from-bottom-1">
-                    <span>Work With Best Teams For Top Development Projects @CMARIX – On Your Terms</span>
+                    <span>Work With Best Teams For Top Development Projects @swatrixsoft – On Your Terms</span>
                   </h4>
                 </div>
               </div>
@@ -275,7 +275,7 @@ class IndustryMain extends React.Component {
           <div className="container mini-container left-sq pb-60 pt-60">
             <div className="sec-tag-lines mb-5">
               <h3 className="sr-from-bottom-2">
-              Working with CMARIX means your business will boldly transform from inside-out while delivering off the charts results.
+              Working with swatrixsoft means your business will boldly transform from inside-out while delivering off the charts results.
               </h3>
             </div>
           </div>

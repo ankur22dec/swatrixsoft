@@ -72,7 +72,7 @@ class Infrastructure extends React.Component {
                         <div className="sec-description mt-0">
                             <div>
                                 <p className="medium_fontsize sr-from-bottom-3">
-                                An essential goal for CMARIX is sustainable growth, aggravating at a pace with smooth operations, whether for their clients or their internal team. To walk parallely with this goal, we provide a culture with high secured IT space. Our premium IT infrastructure focuses on maintaining agile infrastructure, availing the top facilities of cloud computing and latest hardwares and software. 
+                                An essential goal for swatrixsoft is sustainable growth, aggravating at a pace with smooth operations, whether for their clients or their internal team. To walk parallely with this goal, we provide a culture with high secured IT space. Our premium IT infrastructure focuses on maintaining agile infrastructure, availing the top facilities of cloud computing and latest hardwares and software. 
                                 </p>
                             </div>
                         </div>

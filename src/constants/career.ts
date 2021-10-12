@@ -32,5 +32,5 @@ export default {
     cardLabel: 'Looking for a high tech and creative atmosphere to work?',
     cardTitle: 'Join our great place. ',
     cardButton: 'Join our Team',
-    weAre: "Working with CMARIX means you have grabbed a big opportunity and your growth wheel is rolling swiftly. "
+    weAre: "Working with swatrixsoft means you have grabbed a big opportunity and your growth wheel is rolling swiftly. "
 }

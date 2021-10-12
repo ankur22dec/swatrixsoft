@@ -71,7 +71,7 @@ class Confidential extends React.Component {
                                     <p>
                                     Software product development includes tangible as well as intangible assets, strategies and communication whereby confidentiality is most important. We are a 100% technology service company which means whatever work we do, our client has complete ownership of the source code as well as Intellectual Property (IP) rights. </p>
                                     <p>
-                                        At <b>CMARIX</b>, we do a lot of work with agencies, entrepreneurs, start-ups and enterprises across the globe who subcontract their work to us. We have core Governance, Risk Management and Compliances in place to ensure we safeguard our customer’s best interest and provide complete confidentiality.
+                                        At <b>SWATRIXSOFT</b>, we do a lot of work with agencies, entrepreneurs, start-ups and enterprises across the globe who subcontract their work to us. We have core Governance, Risk Management and Compliances in place to ensure we safeguard our customer’s best interest and provide complete confidentiality.
                                     </p>
                                 </div>
                             </div>
@@ -95,7 +95,7 @@ class Confidential extends React.Component {
                                                     <div className="spriteOne slide-number slide-act-one"></div>
                                                     <div className="slide-detail">
                                                         <ul className="model_characteristics mb-3">
-                                                            <li>As part of the standard recruitment process, CMARIX employees sign standard Non Disclosure agreements on a legal basis Government of India stamp paper. Based on this they cannot disclose any proprietary information directly or indirectly to anyone outside the project team or company, or use, copy, publish, summarize or remove such information from the company premises.</li>
+                                                            <li>As part of the standard recruitment process, SWATRIXSOFT employees sign standard Non Disclosure agreements on a legal basis Government of India stamp paper. Based on this they cannot disclose any proprietary information directly or indirectly to anyone outside the project team or company, or use, copy, publish, summarize or remove such information from the company premises.</li>
                                                             <li>Any information received by employees while working from clients or third parties are held in strictest confidence and are not allowed disclosing or using it.</li>
                                                             <li>As a company, we sign NDA with our customers as well as our employees, thereby safeguarding our customer’s best interest.</li>
                                                         </ul>

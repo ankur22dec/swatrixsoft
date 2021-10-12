@@ -93,7 +93,7 @@ class Confidential extends React.Component {
                                                     <div className="spriteOne slide-number slide-act-one"></div>
                                                     
                                                         <p>
-                                                        CMARIX TechnoLabs aligns in complimentary business model with companies providing consulting, design and development and marketing services.
+                                                        swatrixsoft TechnoLabs aligns in complimentary business model with companies providing consulting, design and development and marketing services.
                                                         <br/><br/>
                                                         With thousands of man hours of company experience, great team of Software Engineers, Analyst and Experts we are able to provide a strong technology powerhouse. This enables you to immensely transform the quality of business that you provide and the quantity of business that your company can deliver.
                                                         <br/><br/>

@@ -32,5 +32,5 @@ export default {
     cardLabel: 'Looking for a high tech and creative atmosphere to work?',
     cardTitle: 'Join our great place. ',
     cardButton: 'Join our Team',
-    weAre: "Working with CMARIX means you have a company whereby the confidentiality of your idea, content, code, and every aspect related to your business is completely secure. We do a lot of work with well funded startups as well as enterprises and ensure that our clients have complete peace of mind with our high tech infrastructure securing their IP and assets 24 x 7."
+    weAre: "Working with swatrixsoft means you have a company whereby the confidentiality of your idea, content, code, and every aspect related to your business is completely secure. We do a lot of work with well funded startups as well as enterprises and ensure that our clients have complete peace of mind with our high tech infrastructure securing their IP and assets 24 x 7."
 }

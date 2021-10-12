@@ -57,7 +57,7 @@ class Advantages extends React.Component {
                                                 <h1>
                                                     Our <span>Advantages</span>
                                                     <br />
-                                                    @CMARIX
+                                                    @SWATRIXSOFT
                                                 </h1>
                                             </div>
                                     </div>

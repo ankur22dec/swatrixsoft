@@ -110,12 +110,12 @@ class Career extends React.Component {
                                         <div className="sec-title sr-from-bottom">
                                             <p className="sr-from-bottom-1"><span>Take a look at</span></p>
                                             <h3 className="sr-from-bottom-2">
-                                                <span>Perks</span> @CMARIX
+                                                <span>Perks</span> @SWATRIXSOFT
                                             </h3>
                                         </div>
 
                                         <p className="nm-texts mt-3 sr-from-bottom-1">
-                                            CMARIX is a place where you would be inspired, challenged and acknowledged for your distinguished work. From highly-experienced peers to stimulating work environments, geeky conversations to funny jokes we make our passion worth living.
+                                            SWATRIXSOFT is a place where you would be inspired, challenged and acknowledged for your distinguished work. From highly-experienced peers to stimulating work environments, geeky conversations to funny jokes we make our passion worth living.
                                     </p>
                                     </div>
                                 </div>
@@ -283,7 +283,7 @@ class Career extends React.Component {
                                 <div className="col-12">
                                 <Link to='/life-at-cmarix.html'>
                                     <button className="cmr-outline-btn hvr-shutter-out-horizontal sr-from-bottom-2 readmore-button life-at-cmarix">
-                                        Life @CMARIX
+                                        Life @SWATRIXSOFT
                                         <i className="icon-arrow-right"></i>
                                     </button>
                                 </Link>
@@ -342,7 +342,7 @@ class Career extends React.Component {
                                         <h4>Still have doubts?</h4>
                                         <Link to="/life-at-cmarix.html">
                                             <button className="cmr-outline-btn hvr-shutter-out-horizontal">
-                                                See Life @CMARIX
+                                                See Life @SWATRIXSOFT
                                                 <i className="icon-arrow-right"></i>
                                             </button>
                                         </Link>

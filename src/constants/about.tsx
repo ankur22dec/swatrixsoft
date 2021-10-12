@@ -7,7 +7,7 @@ export default {
     `,
     assureTitle: 'With the strength of right people, experience and desire, any business is destined for growth.',
     assureDescription: `
-    <p>CMARIX is ISO 9001:2015, ISO 27001 and CMMi Level 3 in process Technology Company based in Ahmedabad, India. Since the early 20s, we have helped startups and enterprises to BRIDGE their VISION and REALITY. We are working with clients to design, develop and integrate smart technology solutions. We deliver world-class software development and consulting services with our inhouse team of experts for web, mobile and cloud applications.</p>
+    <p>swatrixsoft is ISO 9001:2015, ISO 27001 and CMMi Level 3 in process Technology Company based in Ahmedabad, India. Since the early 20s, we have helped startups and enterprises to BRIDGE their VISION and REALITY. We are working with clients to design, develop and integrate smart technology solutions. We deliver world-class software development and consulting services with our inhouse team of experts for web, mobile and cloud applications.</p>
     <p>Businesses now rely on us for growth, extend their existing resources with our Agile teams, and pace their time to success. We are leading technology disruption with more than 170+ employees and 6 offices globally.</p>
     `,
     whatweDo: {
@@ -26,7 +26,7 @@ export default {
         link:'Why-cmarix.html'
     },
     missionTitle: 'Mission',
-    missionDescription: 'CMARIX empowers your business by enhancing overall effectiveness and efficiency using next generation technology. Our focus is to help you envision potential, leverage technology and reach for infinite growth.',
+    missionDescription: 'swatrixsoft empowers your business by enhancing overall effectiveness and efficiency using next generation technology. Our focus is to help you envision potential, leverage technology and reach for infinite growth.',
     weDoTitle:"We Solve Problems. We Fuel Innovation. We Make IT happen.",
     visionTitle: 'Vision',
     visionDescription: 'To consistently lead technology innovation and provide technology software services and solutions to global clientele with exceptional quality, sharp turn around time and cost effectiveness.',
@@ -38,6 +38,6 @@ export default {
     approchTitle: 'Our Approach',
     approchDescription: 'We believe in excellence and passion towards our work. We follow the Kaizen Principle, which aims for constant and never ending improvement. We are customer centric and completely relationship oriented. Technology is our passion and our focus is to empower your business with the latest technology and provide a higher return on investment. We make technology simple. ',
     missionTeam: 'Mission-Driven Team',
-    missionTeamDescription: 'The heartbeat of CMARIX is our people. We are so much more than technocrats, designers, developers, project managers, digital marketers & QA experts. We are passionate people who encourage people to share their authentic thoughts on the table, which enables us to discuss, debate and create unique concepts, ideas and work results that other companies can’t. Our team is armed with talents that ensure we implement best technology services for global businesses. Our certified team has made technology the core of their life.',
-    weAre: `Working with CMARIX means you have got the BEST TEAM to make your idea a popular reality.`
+    missionTeamDescription: 'The heartbeat of swatrixsoft is our people. We are so much more than technocrats, designers, developers, project managers, digital marketers & QA experts. We are passionate people who encourage people to share their authentic thoughts on the table, which enables us to discuss, debate and create unique concepts, ideas and work results that other companies can’t. Our team is armed with talents that ensure we implement best technology services for global businesses. Our certified team has made technology the core of their life.',
+    weAre: `Working with swatrixsoft means you have got the BEST TEAM to make your idea a popular reality.`
 }

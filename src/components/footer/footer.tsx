@@ -26,7 +26,7 @@ class Footer extends React.Component<any, any> {
               (!hide) ? (
                 <div className="col-12 cmarix-locations">
                   <div className="footer-main-title">
-                    CMARIX TechnoLabs Pvt. Ltd.
+                    swatrixsoft TechnoLabs Pvt. Ltd.
                   </div>
                   <div className="row footer_location_list">
                     <div className="col india-loc">
@@ -35,8 +35,8 @@ class Footer extends React.Component<any, any> {
                         India <span>(HQ)</span>
                       </h5>
                       <p>
-                        518-528, Yash Arian, Memnagar Road,
-                        Ahmedabad - 380 052, Gujarat, India
+                        443,Thegri Nagar, Near IIHT Campus
+                        Jodhpur - 342001, Rajasthan, India
                       </p>
                     </div>
                     <div className="col usa-loc">
@@ -81,28 +81,28 @@ class Footer extends React.Component<any, any> {
                       <div className="icon skype-icon"></div>
                       <div className="footer-contact-inner">
                         <label>Skype ID</label>
-                        <p><a href="skype:biz.cmarix? call">biz.cmarix</a></p>
+                        <p><a href="skype:biz.cmarix? call">biz.swatrixsoft</a></p>
                       </div>
                     </div>
                     <div className="col footer-contact-col">
                       <div className="icon gmail-icon"></div>
                       <div className="footer-contact-inner">
                         <label>Email us</label>
-                        <p><a href="mailto:biz@cmarix.com">biz@cmarix.com</a></p>
+                        <p><a href="mailto:swatrixsoft@gmail.com">swatrixsoft@gmail.com</a></p>
                       </div>
                     </div>
                     <div className="col footer-contact-col">
                       <div className="icon india-map-icon"></div>
                       <div className="footer-contact-inner">
                         <label>India</label>
-                        <p><a href="tel:+91 800-005-0808">+91 800-005-0808</a></p>
+                        <p><a href="tel:+91 7073875630">+91 7073875630</a></p>
                       </div>
                     </div>
                     <div className="col footer-contact-col">
                       <div className="icon usa-map-icon"></div>
                       <div className="footer-contact-inner">
                         <label>United States</label>
-                        <p><a href="tel:+1 631-206-6051">+1 631-206-6051</a></p>
+                        <p><a href="tel:8118849825">8118849825</a></p>
                       </div>
                     </div>
                   </div>
@@ -115,7 +115,7 @@ class Footer extends React.Component<any, any> {
                   <ul className="footer-sm-list footer-award-list">
                     <li>
                       <a
-                        href="https://www.goodfirms.co/company/cmarix-technolabs-pvt-ltd"
+                        href="https://www.swatrixsoft.com"
                         className="footer-logo-good-firms"
                       >
                         Good Firms
@@ -123,7 +123,7 @@ class Footer extends React.Component<any, any> {
                     </li>
                     <li>
                       <a
-                        href="https://clutch.co/profile/cmarix"
+                        href="https://www.swatrixsoft.com"
                         className="footer-logo-clutch"
                       >
                         Clutch
@@ -131,7 +131,7 @@ class Footer extends React.Component<any, any> {
                     </li>
                     <li>
                       <a
-                        href="https://www.topdevelopers.co/profile/cmarix-technolabs"
+                        href="https://www.swatrixsoft.com"
                         className="footer-logo-td"
                       >
                         Top Developers
@@ -139,7 +139,7 @@ class Footer extends React.Component<any, any> {
                     </li>
                     <li>
                       <a
-                        href="https://www.itfirms.co/top-mobile-app-development-companies-india"
+                        href="https://www.swatrixsoft.com"
                         className="footer-logo-it-firms"
                       >
                         It Firms
@@ -147,7 +147,7 @@ class Footer extends React.Component<any, any> {
                     </li>
                     <li>
                       <a
-                        href="https://www.appfutura.com/developers/cmarix-technolabs"
+                        href="https://www.swatrixsoft.com"
                         className="footer-logo-app-futura"
                       >
                         App Futura
@@ -155,7 +155,7 @@ class Footer extends React.Component<any, any> {
                     </li>
                     <li>
                       <a
-                        href="https://topappfirms.co/companies/cmarix/"
+                        href="https://www.swatrixsoft.com"
                         className="footer-logo-app-firms"
                       >
                         App Firms
@@ -167,25 +167,25 @@ class Footer extends React.Component<any, any> {
                   <div className="footer_socilal_link">
                     <ul>
                       <li>
-                        <a href="https://www.facebook.com/CMARIXTechnoLabs" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.facebook.com/swati.mathur.33483" target="_blank" rel="noopener noreferrer">
                           <ImageView src={facebook} alt="Facebook" width="10" height="19" />
                           Facebook 
                         </a>
                       </li>
                       <li>
-                        <a href="https://twitter.com/CMARIXTechLabs" target="_blank" rel="noopener noreferrer">
+                        <a href="https://twitter.com/swatrixsoft" target="_blank" rel="noopener noreferrer">
                           <ImageView src={twitter} alt="Twitter" width="17" height="14"/>
                           Twitter
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.linkedin.com/company/cmarix-technolabs-pvt-ltd-/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.linkedin.com/company/swatrixsoft" target="_blank" rel="noopener noreferrer">
                           <ImageView src={linkdin} alt="Linkdin" width="19" height="19"/>
                           Linkedin
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.youtube.com/channel/UCPOr28DK8yLLJes0pA4Iw1g" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.youtube.com/channel/UC9xhwQ-x0gnIy-GJWSB6Itw" target="_blank" rel="noopener noreferrer">
                           <ImageView src={youtube} alt="YouTube" width="20" height="14"/>
                           Youtube
                         </a>
@@ -197,7 +197,7 @@ class Footer extends React.Component<any, any> {
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.instagram.com/cmarixtechnolabs" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.instagram.com/swatrixsoft" target="_blank" rel="noopener noreferrer">
                           <ImageView src={instagram} alt="Instagram" width="20" height="14"/>
                           Instagram
                         </a>
@@ -213,7 +213,7 @@ class Footer extends React.Component<any, any> {
           <div className="container">
             <div className="row">
               <div className="col-lg-4 col-md-12 copyright">
-                &copy; Copyright {year} @ CMARIX Technolabs Pvt. Ltd.
+                &copy; Copyright {year} @ swatrixsoft Technolabs Pvt. Ltd.
               </div>
               <div className="col-lg-4 col-md-12 text-center">
                 <a href="https://www.dmca.com/Protection/Status.aspx?ID=f0d86f28-f003-4806-8b9b-af711df96d7f&refurl=https://www.cmarix.com/">

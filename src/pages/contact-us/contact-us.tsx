@@ -69,7 +69,7 @@ class ContactUs extends React.Component {
                       <span>Take a look at</span>
                     </p>
                     <h3 className="sr-from-bottom-3">
-                      CMARIX <span>Locations</span>
+                    SWATRIXSOFT <span>Locations</span>
                     </h3>
                   </div>
                 </div>
@@ -104,9 +104,8 @@ class ContactUs extends React.Component {
                                 <span>India</span> (HQ)
                               </h3>
                               <p>
-                                518-528, Yash Arian, Swami Vivekanand Circle,
-                                Memnagar Road, Ahmedabad - 380 052, Gujarat,
-                                India
+                              443,Thegri Nagar, Near IIHT Campus
+                        Jodhpur - 342001, Rajasthan, India
                               </p>
                             </div>
                           </div>
@@ -119,7 +118,7 @@ class ContactUs extends React.Component {
             </div>
           </div>
           <div className="insideedge global-presence">
-          <div className="cmr-reflectors">CMARIX</div>
+          <div className="cmr-reflectors">SWATRIXSOFT</div>
             <div className="container">
               <div className="row">
                 <div className="col-12">
@@ -184,7 +183,7 @@ class ContactUs extends React.Component {
                             <div className="detail">
                               <h4>Skype ID</h4>
                               <h3>
-                                <strong><a href="skype:biz.cmarix? call">biz.cmarix</a></strong>
+                                <strong><a href="skype:biz.cmarix? call">biz.SWATRIXSOFT</a></strong>
                               </h3>
                             </div>
                           </div>
@@ -197,7 +196,7 @@ class ContactUs extends React.Component {
                             <div className="detail">
                               <h4>Email us</h4>
                               <h3>
-                                <strong><a href="mailto:biz@cmarix.com">biz@cmarix.com</a></strong>
+                                <strong><a href="mailto:swatrixsoft@gmail.com">swatrixsoft@gmail.com</a></strong>
                               </h3>
                             </div>
                           </div>
@@ -213,7 +212,7 @@ class ContactUs extends React.Component {
                             <div className="detail">
                               <h4>India</h4>
                               <h3>
-                                <strong><a href="tel:+91 800-005-0808">+91 800-005-0808</a></strong>
+                                <strong><a href="tel:+91 7073875630">+91 7073875630</a></strong>
                               </h3>
                             </div>
                           </div>
@@ -226,7 +225,7 @@ class ContactUs extends React.Component {
                             <div className="detail">
                               <h4>United States</h4>
                               <h3>
-                                <strong><a href="tel:+1 631-206-6051">+1 631-206-6051</a></strong>
+                                <strong><a href="tel:8118849825">8118849825</a></strong>
                               </h3>
                             </div>
                           </div>

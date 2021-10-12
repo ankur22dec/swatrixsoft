@@ -85,10 +85,10 @@ function Header() {
                                 <a href="#">Engagement Models</a>
                               </li>
                               <li className="col-lg-3 col-md-3 col-sm-6 col-12">
-                                <a href="#">Life At CMARIX</a>
+                                <a href="#">Life At APRATIM</a>
                               </li>
                               <li className="col-lg-3 col-md-3 col-sm-6 col-12">
-                                <a href="#">Leverage CMARIX</a>
+                                <a href="#">Leverage APRATIM</a>
                               </li>
                             </ul>
                           </div>
@@ -103,7 +103,7 @@ function Header() {
                                   <div className="detail">
                                     <h4>Skype ID</h4>
                                     <h3>
-                                      <strong>biz.cmarix</strong>
+                                      <strong>biz.apratim</strong>
                                     </h3>
                                   </div>
                                 </div>
@@ -116,7 +116,7 @@ function Header() {
                                   <div className="detail">
                                     <h4>Email us</h4>
                                     <h3>
-                                      <strong>biz@cmarix.com</strong>
+                                      <strong>itjjodhpur4u@gmail.com</strong>
                                     </h3>
                                   </div>
                                 </div>
@@ -129,7 +129,7 @@ function Header() {
                                   <div className="detail">
                                     <h4>India</h4>
                                     <h3>
-                                      <strong>+91 800-005-0808</strong>
+                                      <strong>+91 7073875630</strong>
                                     </h3>
                                   </div>
                                 </div>
@@ -142,7 +142,7 @@ function Header() {
                                   <div className="detail">
                                     <h4>United States</h4>
                                     <h3>
-                                      <strong>+1 631-206-6051</strong>
+                                      <strong>8118849825</strong>
                                     </h3>
                                   </div>
                                 </div>

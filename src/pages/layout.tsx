@@ -64,7 +64,7 @@ import ThankYou from  './thank-you';
 // const Portfolio =lazy(() => import( './portfolio/portfolio'));
 // const GlobalDelivery =lazy(() => import( './global-delivery/global-delivery'));
 // const Career =lazy(() => import( './career/career'));
-// const LifeCmarix =lazy(() => import( './life-cmarix/life-cmarix'));
+// const Lifeswatrixsoft =lazy(() => import( './life-cmarix/life-cmarix'));
 // const Privacy =lazy(() => import( './privacy/privacy'));
 // const Terms =lazy(() => import( './terms/terms'));
 // const Confidential =lazy(() => import( './confidential/confidential'));
@@ -168,7 +168,7 @@ function Layout(props: any) {
     } else if (data.type === "INFRASTRUCTURE") {
       return <Infrastructure />;
     } else if (data.type === "LIFEATCMARIX") {
-      return <LifeCmarix />;
+      return <LifeCmarix/>;
     } else if (data.type === "TESTIMONIAL") {
       return <Testimonials />;
     } else if (data.type === "CAREER") {

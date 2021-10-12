@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet';
 import location from "../../assets/images/infrastructure-1.jpg";
 
 const defaultTitle  = 'Enterprise Software | Mobile Apps | Web app Development Company India and USA';
-const defaultDescription = 'CMARIX is a leading technology Outsourcing company with CMMi level 3, ISO 27001, ISO 9001:2015 certifications in India and US that specialize in, Enterprise Software, Mobile Apps and Custom Web Application Development with clients across the globe.';
+const defaultDescription = 'swatrixsoft is a leading technology Outsourcing company with CMMi level 3, ISO 27001, ISO 9001:2015 certifications in India and US that specialize in, Enterprise Software, Mobile Apps and Custom Web Application Development with clients across the globe.';
 const defaultMetaKeywords= 'Web App Development Company India and USA, Enterprise Software'
 const defaultRoute = 'https://www.cmarix.com/';
 const ogUrl = 'https://www.cmarix.com'

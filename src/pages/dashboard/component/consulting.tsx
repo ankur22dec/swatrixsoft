@@ -12,7 +12,7 @@ const modalData = [
     },
     {
         title: 'IT Consulting',
-        description: 'Any business invariably requires the support of a technology partner who can help them materialise their aspiration for digital presence and shape their competitive lead through unique software solutions. We at Cmarix provide highly expertise driven IT consulting services to modern enterprises and as a technology partner we play an important role in creating new success stories.',
+        description: 'Any business invariably requires the support of a technology partner who can help them materialise their aspiration for digital presence and shape their competitive lead through unique software solutions. We at swatrixsoft provide highly expertise driven IT consulting services to modern enterprises and as a technology partner we play an important role in creating new success stories.',
         key: 'itService',
         link:'it-consulting-services.html'
     },
@@ -30,13 +30,13 @@ const modalData = [
     },
     {
         title: 'ODC India',
-        description: 'Offshore Development Centers (ODC) are set up by companies in order to outsource software and app development projects from different parts of the globe. CMARIX is a leading player in developing Offshore Development Centres in India to help global companies outsource their software projects while taking advantage of the low cost of development and technology innovations from the world’s largest pool of developer talents.',
+        description: 'Offshore Development Centers (ODC) are set up by companies in order to outsource software and app development projects from different parts of the globe. swatrixsoft is a leading player in developing Offshore Development Centres in India to help global companies outsource their software projects while taking advantage of the low cost of development and technology innovations from the world’s largest pool of developer talents.',
         key: 'odcIndia',
         link:'setup-odc-in-india.html'
     },
     {
         title: 'Outsource India',
-        description: 'India has emerged as the global software outsourcing destination thanks to high quality talent pool, proficiency in English language and lower cost of development. CMARIX is a leading software outsourcing development company from India with a global footprint and countless successful software development projects up on its sleeve.',
+        description: 'India has emerged as the global software outsourcing destination thanks to high quality talent pool, proficiency in English language and lower cost of development. swatrixsoft is a leading software outsourcing development company from India with a global footprint and countless successful software development projects up on its sleeve.',
         key: 'outsource',
         link:'outsource-india.html'
     }

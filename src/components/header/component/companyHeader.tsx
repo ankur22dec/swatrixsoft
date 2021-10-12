@@ -51,10 +51,10 @@ function CompanyHeader(props: any) {
                                             <LinkTo to="/engagement-models.html" className="engagement-link" {...props}>Engagement Models</LinkTo>
                                         </li>
                                         <li className="col-lg-3 col-md-6 col-sm-12 col-12">
-                                            <LinkTo to="/life-at-cmarix.html" className="life-cmarix-link" {...props}>Life At CMARIX</LinkTo>
+                                            <LinkTo to="/life-at-cmarix.html" className="life-cmarix-link" {...props}>Life At SWATRIXSOFT</LinkTo>
                                         </li>
                                         <li className="col-lg-3 col-md-6 col-sm-12 col-12">
-                                            <LinkTo to="/Why-cmarix.html" className="leverage-link" {...props}>Leverage CMARIX</LinkTo>
+                                            <LinkTo to="/Why-cmarix.html" className="leverage-link" {...props}>Leverage SWATRIXSOFT</LinkTo>
                                         </li>
                                     </ul>
                                 </div>
@@ -69,7 +69,7 @@ function CompanyHeader(props: any) {
                                                 <div className="detail">
                                                     <h4>Skype ID</h4>
                                                     <h3>
-                                                        <strong>biz.cmarix</strong>
+                                                        <strong>SWATRIXSOFT</strong>
                                                     </h3>
                                                 </div>
                                             </div>
@@ -82,9 +82,7 @@ function CompanyHeader(props: any) {
                                                 <div className="detail">
                                                     <h4>Email us</h4>
                                                     <h3>
-                                                        <Link to="mailto:biz@cmarix.com">
-                                                            <strong>biz@cmarix.com</strong>
-                                                        </Link>
+                                                    <strong><a href="mailto:swatrixsoft@gmail.com">swatrixsoft@gmail.com</a></strong>
                                                     </h3>
                                                 </div>
                                             </div>
@@ -97,7 +95,7 @@ function CompanyHeader(props: any) {
                                                 <div className="detail">
                                                     <h4>India</h4>
                                                     <h3>
-                                                        <strong>+91 800-005-0808</strong>
+                                                        <strong>+91 707-387-5630</strong>
                                                     </h3>
                                                 </div>
                                             </div>
@@ -110,7 +108,7 @@ function CompanyHeader(props: any) {
                                                 <div className="detail">
                                                     <h4>United States</h4>
                                                     <h3>
-                                                        <strong>+1 631-206-6051</strong>
+                                                        <strong>8118849825</strong>
                                                     </h3>
                                                 </div>
                                             </div>

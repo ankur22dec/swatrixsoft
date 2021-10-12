@@ -55,7 +55,7 @@ export default {
             title: 'Offshore Development Model',
             image: engagementmodel4,
             messageBox: 'Cost-effective',
-            description: 'Offshore Development Centers (ODCs) are composed of highly skilled Technical experts from CMARIX in collaboration with your team. Our in house team functions as an extended part of your own team.',
+            description: 'Offshore Development Centers (ODCs) are composed of highly skilled Technical experts from swatrixsoft in collaboration with your team. Our in house team functions as an extended part of your own team.',
             items: [
                 'Highest cost advantages and ROI of the investment',
                 'Great collaboration of two efficient teams',
@@ -71,5 +71,5 @@ export default {
     talkCardMessage: 'Do you want a great company to implement Technology?',
     talkCardLabel: 'Let’s build it together.',
     takCardButton: 'Inquire Today',
-    weAre: 'Working with CMARIX means your offshore development project is completed smoothly in given time and cost. '
+    weAre: 'Working with swatrixsoft means your offshore development project is completed smoothly in given time and cost. '
 }

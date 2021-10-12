@@ -72,7 +72,7 @@ export default [
         <br />Apps with us
         `,
         routeName: "our-services.html",
-        description: `CMARIX is known for delivering the promise of emerging native experiences that are centered around revolution. A bag full of proficient people, full-service competence, strong and outstanding approaches, and a lot more helps us to deliver award-winning work. Let’s make something together that is worth admiring for your business.`,
+        description: `swatrixsoft is known for delivering the promise of emerging native experiences that are centered around revolution. A bag full of proficient people, full-service competence, strong and outstanding approaches, and a lot more helps us to deliver award-winning work. Let’s make something together that is worth admiring for your business.`,
         image: mobilehireIcon,
         missionLabel: 'We are Different',
         missionTitle: 'Mark Your Hidden Passion With our Native App Development Services.',
@@ -228,14 +228,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -248,7 +248,7 @@ export default [
             }
         ],
 
-        weAre: `Working with CMARIX means targets to your success are simplified with quality and industry certified native app developers.`,
+        weAre: `Working with swatrixsoft means targets to your success are simplified with quality and industry certified native app developers.`,
         cardLabel: `You have the idea? We have the expertise.`,
         cardTitle: `Let’s work together to solve issues people have.`,
         cardButton: `Let’s Talk Ideas`,
@@ -267,7 +267,7 @@ export default [
         missionLabel: 'Our Passion',
         missionTitle: 'We’re Driven To Make Your Big Ideas Work On Small Screen. That’s How We Are Built',
         missionDescription: `
-        <p>Magnify the users reach with a modern app as that will put your brand into the hands of your users irrelevant of the device they work on. CMARIX works on design and development of mobile apps that validates everything from online presence to ROI. We blend modern trends, our technical expertise and usability of users to deliver an app that rules with QUALITY. We don’t invest our hours to build an app that just works, but we work to make your app a SUCCESS. </p>
+        <p>Magnify the users reach with a modern app as that will put your brand into the hands of your users irrelevant of the device they work on. swatrixsoft works on design and development of mobile apps that validates everything from online presence to ROI. We blend modern trends, our technical expertise and usability of users to deliver an app that rules with QUALITY. We don’t invest our hours to build an app that just works, but we work to make your app a SUCCESS. </p>
         <p>We are a mobile app development company that works with you in each step, from ideation to launch. We ensure our mobile app design reaches to the heart of users and fulfills today’s need. Whether it is a native or cross-platform app our mobile app developers design an app that differentiates and stays worthy of your brand. </p>
         `,
         appCount: '1500+',
@@ -411,14 +411,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -430,7 +430,7 @@ export default [
                 caseStudyUrl: '/nutranext-web-application.html'
             }
         ],
-        weAre: `Working with CMARIX means functional, beautiful experiences are guaranteed with your mobile app. `,
+        weAre: `Working with swatrixsoft means functional, beautiful experiences are guaranteed with your mobile app. `,
         cardLabel: `Are you looking for Mobile App Development? `,
         cardTitle: `Let’s add excellence with our services. `,
         cardButton: `Let’s Talk Ideas`
@@ -443,7 +443,7 @@ export default [
         <br />Apps with us
         `,
         routeName: "native-app-development.html",
-        description: `CMARIX is known for delivering the promise of emerging native experiences that are centered around adding value and increasing user engagement. A bag full of proficient people, full-service competence, strong and outstanding approaches, and a proven track record of delivering award-winning work. Let’s make something together that is worth admiring for your business. `,
+        description: `swatrixsoft is known for delivering the promise of emerging native experiences that are centered around adding value and increasing user engagement. A bag full of proficient people, full-service competence, strong and outstanding approaches, and a proven track record of delivering award-winning work. Let’s make something together that is worth admiring for your business. `,
         image: mobilehireIcon,
         missionLabel: 'We are Different',
         missionTitle: 'We Are Native App Development Company Driven For and By Your Passion',
@@ -527,14 +527,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -622,7 +622,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means your native mobile app success is a sure shot. `,
+        weAre: `Working with swatrixsoft means your native mobile app success is a sure shot. `,
         cardLabel: `You have the idea? We have the expertise. `,
         cardTitle: `Let’s work together to solve practical problems.`,
         cardButton: ` Let’s Talk Ideas`
@@ -730,14 +730,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -825,7 +825,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means you will be armed with effective, feature-rich and high-performing online products. `,
+        weAre: `Working with swatrixsoft means you will be armed with effective, feature-rich and high-performing online products. `,
         cardLabel: `Looking to give life to your idea?`,
         cardTitle: `We transform your idea into a live application . `,
         cardButton: `Let’s Start With A Conversation`
@@ -933,14 +933,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -1028,7 +1028,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means you will be armed with effective, feature-rich and high-performing online products. `,
+        weAre: `Working with swatrixsoft means you will be armed with effective, feature-rich and high-performing online products. `,
         cardLabel: `Looking to give life to your idea?`,
         cardTitle: `We transform your idea into a live application . `,
         cardButton: `Let’s Start With A Conversation`
@@ -1136,14 +1136,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -1231,7 +1231,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means you will be armed with effective, feature-rich and high-performing online products. `,
+        weAre: `Working with swatrixsoft means you will be armed with effective, feature-rich and high-performing online products. `,
         cardLabel: `Looking to give life to your idea?`,
         cardTitle: `We transform your idea into a live application . `,
         cardButton: `Let’s Start With A Conversation`
@@ -1244,7 +1244,7 @@ export default [
         <br />Apps with us
         `,
         routeName: "cross-platform-app-development.html",
-        description: `The launch of new platforms in the Cross-platform industry changes the game completely and CMARIX loves to play, mainly when the game is about advancement, innovation, and taking the bar high. We specialize at translating the ideas into elegant user experiences while incorporating the competence of mobility with cross-platform skills.  `,
+        description: `The launch of new platforms in the Cross-platform industry changes the game completely and swatrixsoft loves to play, mainly when the game is about advancement, innovation, and taking the bar high. We specialize at translating the ideas into elegant user experiences while incorporating the competence of mobility with cross-platform skills.  `,
         image: crossAppIcon,
         missionLabel: 'Our Passion',
         missionTitle: 'Break The Mainstream Industry Verticals With Our Cross-Platform App Development Services',
@@ -1338,14 +1338,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -1433,7 +1433,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means you have already hit the growth charts while working with the right team and right company. `,
+        weAre: `Working with swatrixsoft means you have already hit the growth charts while working with the right team and right company. `,
         cardLabel: `Looking to make your app idea popular?`,
         cardTitle: `We transform your vision into a perfect reality. `,
         cardButton: `Let’s Start With A Conversation`
@@ -1445,7 +1445,7 @@ export default [
     //     `,
     //     routeName: "mobile-app-development-company-in-california-san-francisco-los-angeles.html",
     //     description: `Do you want to build a robust mobile presence with a sophisticated app for your business? Are you looking to <b>hire app developers near California</b>, San Francisco?
-    //     Well, here we are to shape your aspirations with the most sophisticated apps with the innovative and captivating user interface, engaging user experience, and state of the art features. CMARIX as one of the leading mobile app development companies in California has already built several award-winning apps for diverse niches.  `,
+    //     Well, here we are to shape your aspirations with the most sophisticated apps with the innovative and captivating user interface, engaging user experience, and state of the art features. swatrixsoft as one of the leading mobile app development companies in California has already built several award-winning apps for diverse niches.  `,
     //     image: crossAppIcon,
     //     missionLabel: 'Our Passion',
     //     missionTitle: 'Create New Industry Standards With Our Future Ready Mobile Apps',
@@ -1553,14 +1553,14 @@ export default [
     //         {
     //             title: 'Glitty',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
     //             image: glitty,
     //             caseStudyUrl: '/glitty-app.html'
     //         },
     //         {
     //             title: 'Crawfordwise',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
     //             image: crawfordwise,
     //             caseStudyUrl: '/crawfordwise-web-mobile-application.html'
     //         },
@@ -1648,7 +1648,7 @@ export default [
     //             route: 'food-and-beverages.html',
     //         }
     //     ],
-    //     weAre: `Working with CMARIX means you have already hit the growth charts while working with the right team and right company. `,
+    //     weAre: `Working with swatrixsoft means you have already hit the growth charts while working with the right team and right company. `,
     //     cardLabel: `Looking to make your app idea popular?`,
     //     cardTitle: `We transform your vision into a perfect reality. `,
     //     cardButton: `Let’s Start With A Conversation`
@@ -1659,13 +1659,13 @@ export default [
     //     Shape your mobile presence with CMARIX,top mobile app development company in New York
     //     `,
     //     routeName: "mobile-app-development-company-in-newyork.html",
-    //     description: `Are you looking for Mobile App strategy and execution that turns into real success? Are you in need of an experienced App development team versed in the latest technologies that can increase your app conversion rate? Are you looking forward to <b>hiring app developers near New York?</b> Well, here at CMARIX we offer the most talented and experienced pool of mobile app developers. Our developers know what it takes to build a mobile app that helps a brand to stay ahead of the competition.  `,
+    //     description: `Are you looking for Mobile App strategy and execution that turns into real success? Are you in need of an experienced App development team versed in the latest technologies that can increase your app conversion rate? Are you looking forward to <b>hiring app developers near New York?</b> Well, here at swatrixsoft we offer the most talented and experienced pool of mobile app developers. Our developers know what it takes to build a mobile app that helps a brand to stay ahead of the competition.  `,
     //     image: crossAppIcon,
     //     missionLabel: 'Our Passion',
     //     missionTitle: 'Create New Benchmarks of Innovation with Our App Development Services',
     //     missionDescription: `
-    //    <p>From a powerful native app for your company to a large cross-platform e-commerce app project to mobile games to media and entertainment apps, irrespective of the category and business niches, we have proven expertise in building apps for most industry niches and verticals. At CMARIX , we boast a robust portfolio of successful mobile apps built for different platforms and with different technologies.</p>
-    //    <p>So, when you need to <b>hire a trusted mobile app development company in New York</b> that can take the full onus of the project up to its pinnacle of success, CMARIX Technolabs stands as the obvious choice. We at CMARIX offer the most flexible hiring models for different categories of app development projects at a highly competitive rate.</p>
+    //    <p>From a powerful native app for your company to a large cross-platform e-commerce app project to mobile games to media and entertainment apps, irrespective of the category and business niches, we have proven expertise in building apps for most industry niches and verticals. At swatrixsoft , we boast a robust portfolio of successful mobile apps built for different platforms and with different technologies.</p>
+    //    <p>So, when you need to <b>hire a trusted mobile app development company in New York</b> that can take the full onus of the project up to its pinnacle of success, swatrixsoft Technolabs stands as the obvious choice. We at swatrixsoft offer the most flexible hiring models for different categories of app development projects at a highly competitive rate.</p>
     //     `,
     //     appCount: '260+',
     //     typeOfDevelopment:'Developed',
@@ -1767,14 +1767,14 @@ export default [
     //         {
     //             title: 'Glitty',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
     //             image: glitty,
     //             caseStudyUrl: '/glitty-app.html'
     //         },
     //         {
     //             title: 'Crawfordwise',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
     //             image: crawfordwise,
     //             caseStudyUrl: '/crawfordwise-web-mobile-application.html'
     //         },
@@ -1862,7 +1862,7 @@ export default [
     //             route: 'food-and-beverages.html',
     //         }
     //     ],
-    //     weAre: `Working with CMARIX means you have already hit the growth charts while working with the right team and right company. `,
+    //     weAre: `Working with swatrixsoft means you have already hit the growth charts while working with the right team and right company. `,
     //     cardLabel: `Looking to make your app idea popular?`,
     //     cardTitle: `We transform your vision into a perfect reality. `,
     //     cardButton: `Let’s Start With A Conversation`
@@ -1970,14 +1970,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -2066,7 +2066,7 @@ export default [
             }
         ],
 
-        weAre: `Working with CMARIX means your every interaction with customers is turned into an opportunity. Leverage the power of our design services to grow.`,
+        weAre: `Working with swatrixsoft means your every interaction with customers is turned into an opportunity. Leverage the power of our design services to grow.`,
         cardLabel: `Want the best in-class digital design service?`,
         cardTitle: `We help you with beautiful designs. `,
         cardButton: `Hire Developer`
@@ -2085,7 +2085,7 @@ export default [
         missionTitle: 'A Right CMS Development Company To Help You Make Big Difference',
         missionDescription: `
         <p>Content is the king and right Content Management System (CMS) empowers you to manage your platform. A virtuous CMS can do content management tasks for you with a click! It’s that intuitive and easy. </p>
-        <p>With a bag full of expertise and agile approaches, we push boundaries of established CMS platforms to create solutions that fit your business. The power of digital creativity, design flair and custom CMS development services, we are dedicated to deliver all that you want and nothing you don’t – whether optimization of a legacy system or developing custom CMS. Without CMARIX the web will be dull– we as the best custom CMS Development Company will not just save long hours of your technical investment in website and burden of tech complexity, but even offer you robust security and functionality. </p>`,
+        <p>With a bag full of expertise and agile approaches, we push boundaries of established CMS platforms to create solutions that fit your business. The power of digital creativity, design flair and custom CMS development services, we are dedicated to deliver all that you want and nothing you don’t – whether optimization of a legacy system or developing custom CMS. Without swatrixsoft the web will be dull– we as the best custom CMS Development Company will not just save long hours of your technical investment in website and burden of tech complexity, but even offer you robust security and functionality. </p>`,
         appCount: '1100+',
         typeOfDevelopment:'Developed',
         whatDeveloped: 'Web & Mobile Apps',
@@ -2151,14 +2151,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -2266,7 +2266,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means your content, forms, and functions have ideally met to deliver you a custom CMS web solution.`,
+        weAre: `Working with swatrixsoft means your content, forms, and functions have ideally met to deliver you a custom CMS web solution.`,
         cardLabel: `You have the idea? We have the expertise. `,
         cardTitle: `Let’s work together to solve problems technically.`,
         cardButton: ` Let’s Talk Ideas`
@@ -2285,7 +2285,7 @@ export default [
         missionTitle: 'A Right CMS Development Company To Help You Make Big Difference',
         missionDescription: `
         <p>Content is the king and right Content Management System (CMS) empowers you to manage your platform. A virtuous CMS can do content management tasks for you with a click! It’s that intuitive and easy. </p>
-        <p>With a bag full of expertise and agile approaches, we push boundaries of established CMS platforms to create solutions that fit your business. The power of digital creativity, design flair and custom CMS development services, we are dedicated to deliver all that you want and nothing you don’t – whether optimization of a legacy system or developing custom CMS. Without CMARIX the web will be dull– we as the best custom CMS Development Company will not just save long hours of your technical investment in website and burden of tech complexity, but even offer you robust security and functionality. </p>`,
+        <p>With a bag full of expertise and agile approaches, we push boundaries of established CMS platforms to create solutions that fit your business. The power of digital creativity, design flair and custom CMS development services, we are dedicated to deliver all that you want and nothing you don’t – whether optimization of a legacy system or developing custom CMS. Without swatrixsoft the web will be dull– we as the best custom CMS Development Company will not just save long hours of your technical investment in website and burden of tech complexity, but even offer you robust security and functionality. </p>`,
         appCount: '1500+',
         typeOfDevelopment:'Developed',
         whatDeveloped: 'Apps',
@@ -2351,14 +2351,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -2447,7 +2447,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means your content, forms, and functions have ideally met to deliver you a custom CMS web solution.`,
+        weAre: `Working with swatrixsoft means your content, forms, and functions have ideally met to deliver you a custom CMS web solution.`,
         cardLabel: `You have the idea? We have the expertise. `,
         cardTitle: `Let’s work together to solve problems technically.`,
         cardButton: ` Let’s Talk Ideas`
@@ -2466,7 +2466,7 @@ export default [
         missionTitle: 'A Right CMS Development Company To Help You Make Big Difference',
         missionDescription: `
         <p>Content is the king and right Content Management System (CMS) empowers you to manage your platform. A virtuous CMS can do content management tasks for you with a click! It’s that intuitive and easy. </p>
-        <p>With a bag full of expertise and agile approaches, we push boundaries of established CMS platforms to create solutions that fit your business. The power of digital creativity, design flair and custom CMS development services, we are dedicated to deliver all that you want and nothing you don’t – whether optimization of a legacy system or developing custom CMS. Without CMARIX the web will be dull– we as the best custom CMS Development Company will not just save long hours of your technical investment in website and burden of tech complexity, but even offer you robust security and functionality. </p>`,
+        <p>With a bag full of expertise and agile approaches, we push boundaries of established CMS platforms to create solutions that fit your business. The power of digital creativity, design flair and custom CMS development services, we are dedicated to deliver all that you want and nothing you don’t – whether optimization of a legacy system or developing custom CMS. Without swatrixsoft the web will be dull– we as the best custom CMS Development Company will not just save long hours of your technical investment in website and burden of tech complexity, but even offer you robust security and functionality. </p>`,
         appCount: '1500+',
         typeOfDevelopment:'Developed',
         whatDeveloped: 'Apps',
@@ -2532,14 +2532,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -2628,7 +2628,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means your content, forms, and functions have ideally met to deliver you a custom CMS web solution.`,
+        weAre: `Working with swatrixsoft means your content, forms, and functions have ideally met to deliver you a custom CMS web solution.`,
         cardLabel: `You have the idea? We have the expertise. `,
         cardTitle: `Let’s work together to solve problems technically.`,
         cardButton: ` Let’s Talk Ideas`
@@ -2641,10 +2641,10 @@ export default [
         <br />Apps with us
         `,
         routeName: "javascript-development.html",
-        description: `Innovative app development refers to a user-centric design and service oriented architecture (SOA). A great digital application in the present era must be equipped with advanced and future-ready features to meet the evolving customer needs. The JavaScript development services of CMARIX primarily address these requirements.	`,
+        description: `Innovative app development refers to a user-centric design and service oriented architecture (SOA). A great digital application in the present era must be equipped with advanced and future-ready features to meet the evolving customer needs. The JavaScript development services of swatrixsoft primarily address these requirements.	`,
         image: javascriptIcon,
         missionLabel: 'Our Passion',
-        missionTitle: 'CMARIX – The Leading JavaScript Development Company that makes complex programming easy for you',
+        missionTitle: 'swatrixsoft – The Leading JavaScript Development Company that makes complex programming easy for you',
         missionDescription: `
         We make you forget about the boring, static, and long-loading web apps. We take you beyond excellence in building web apps with JavaScript – as mainstream software development will just make your application work but the excellence in our JavaScript development services will make your application go WOW in ability and reliability with modern-age features. With strong practice in wide scalable JavaScript frameworks like VueJS, ReactJS, NodeJS or ExpressJS and TypeScript frameworks like Angular, we don’t just make your idea solidified but deliver you JavaScript and Typescript solutions that are rapid-to-market and fast. 
         `,
@@ -2747,14 +2747,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -2842,7 +2842,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means you get leverage of most mature and integrated disciplines for your projects digital strategy, development and performance. `,
+        weAre: `Working with swatrixsoft means you get leverage of most mature and integrated disciplines for your projects digital strategy, development and performance. `,
         cardLabel: `Looking to get things done?`,
         cardTitle: `We transform your idea into a Digital Reality. `,
         cardButton: `Let’s Start With A Conversation `
@@ -2855,10 +2855,10 @@ export default [
         <br />Apps with us
         `,
         routeName: "knockout-js-web-development-company.html",
-        description: `Innovative app development refers to a user-centric design and service oriented architecture (SOA). A great digital application in the present era must be equipped with advanced and future-ready features to meet the evolving customer needs. The JavaScript development services of CMARIX primarily address these requirements.	`,
+        description: `Innovative app development refers to a user-centric design and service oriented architecture (SOA). A great digital application in the present era must be equipped with advanced and future-ready features to meet the evolving customer needs. The JavaScript development services of swatrixsoft primarily address these requirements.	`,
         image: javascriptIcon,
         missionLabel: 'Our Passion',
-        missionTitle: 'CMARIX – The Leading JavaScript Development Company that makes complex programming easy for you',
+        missionTitle: 'swatrixsoft – The Leading JavaScript Development Company that makes complex programming easy for you',
         missionDescription: `
         We make you forget about the boring, static, and long-loading web apps. We take you beyond excellence in building web apps with JavaScript – as mainstream software development will just make your application work but the excellence in our JavaScript development services will make your application go WOW in ability and reliability with modern-age features. With strong practice in wide scalable JavaScript frameworks like VueJS, ReactJS, NodeJS or ExpressJS and TypeScript frameworks like Angular, we don’t just make your idea solidified but deliver you JavaScript and Typescript solutions that are rapid-to-market and fast. 
         `,
@@ -2961,14 +2961,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -3056,7 +3056,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means you get leverage of most mature and integrated disciplines for your projects digital strategy, development and performance. `,
+        weAre: `Working with swatrixsoft means you get leverage of most mature and integrated disciplines for your projects digital strategy, development and performance. `,
         cardLabel: `Looking to get things done?`,
         cardTitle: `We transform your idea into a Digital Reality. `,
         cardButton: `Let’s Start With A Conversation `
@@ -3069,10 +3069,10 @@ export default [
         <br />Apps with us
         `,
         routeName: "mvvm-framework-development.html",
-        description: `Innovative app development refers to a user-centric design and service oriented architecture (SOA). A great digital application in the present era must be equipped with advanced and future-ready features to meet the evolving customer needs. The JavaScript development services of CMARIX primarily address these requirements.	`,
+        description: `Innovative app development refers to a user-centric design and service oriented architecture (SOA). A great digital application in the present era must be equipped with advanced and future-ready features to meet the evolving customer needs. The JavaScript development services of swatrixsoft primarily address these requirements.	`,
         image: javascriptIcon,
         missionLabel: 'Our Passion',
-        missionTitle: 'CMARIX – The Leading JavaScript Development Company that makes complex programming easy for you',
+        missionTitle: 'swatrixsoft – The Leading JavaScript Development Company that makes complex programming easy for you',
         missionDescription: `
         We make you forget about the boring, static, and long-loading web apps. We take you beyond excellence in building web apps with JavaScript – as mainstream software development will just make your application work but the excellence in our JavaScript development services will make your application go WOW in ability and reliability with modern-age features. With strong practice in wide scalable JavaScript frameworks like VueJS, ReactJS, NodeJS or ExpressJS and TypeScript frameworks like Angular, we don’t just make your idea solidified but deliver you JavaScript and Typescript solutions that are rapid-to-market and fast. 
         `,
@@ -3175,14 +3175,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -3270,7 +3270,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means you get leverage of most mature and integrated disciplines for your projects digital strategy, development and performance. `,
+        weAre: `Working with swatrixsoft means you get leverage of most mature and integrated disciplines for your projects digital strategy, development and performance. `,
         cardLabel: `Looking to get things done?`,
         cardTitle: `We transform your idea into a Digital Reality. `,
         cardButton: `Let’s Start With A Conversation `
@@ -3288,7 +3288,7 @@ export default [
         missionLabel: 'Our Passion',
         missionTitle: 'Our Microsoft Experts are Coding The Future',
         missionDescription: `
-        Dedicated Microsoft developers at CMARIX are here to unlock the true value of the business and fuel the growth opportunities with Microsoft development services. We implement the best strategy and development approach to ASP.NET and MVC.NET platforms to provide experiences that complete the digital ecosystem. With our .NET expertise we translate critical backends into exceptional UX to make complex functions seamless. Armed with robust software development competencies, backend development and consulting, CMARIX makes most out of Microsoft platforms. 
+        Dedicated Microsoft developers at swatrixsoft are here to unlock the true value of the business and fuel the growth opportunities with Microsoft development services. We implement the best strategy and development approach to ASP.NET and MVC.NET platforms to provide experiences that complete the digital ecosystem. With our .NET expertise we translate critical backends into exceptional UX to make complex functions seamless. Armed with robust software development competencies, backend development and consulting, swatrixsoft makes most out of Microsoft platforms. 
         `,
         appCount: '1100+',
         typeOfDevelopment:'Developed',
@@ -3301,7 +3301,7 @@ export default [
                 image: dotnetStop,
                 overlay: iconoverlay,
                 link:'aspdotnet-development.html',
-                description: 'CMARIX incorporates the potential of .NET core to build dynamic, evolving and scalable systems ready to bring efficiency to your business products. '
+                description: 'swatrixsoft incorporates the potential of .NET core to build dynamic, evolving and scalable systems ready to bring efficiency to your business products. '
             },
             {
                 name: 'MVC.NET <br/>Development',
@@ -3356,14 +3356,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -3451,7 +3451,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means your business pain points are correctly recognized and you will leverage the true potential of Microsoft to disrupt your industry completely. `,
+        weAre: `Working with swatrixsoft means your business pain points are correctly recognized and you will leverage the true potential of Microsoft to disrupt your industry completely. `,
         cardLabel: `Do you dare to solve a digital problem?`,
         cardTitle: `Let’s make it possible with our Microsoft Technology.`,
         cardButton: `Let’s Talk Ideas`
@@ -3469,7 +3469,7 @@ export default [
         missionLabel: 'Our Passion',
         missionTitle: 'Our Microsoft Experts are Coding The Future',
         missionDescription: `
-        Dedicated Microsoft developers at CMARIX are here to unlock the true value of the business and fuel the growth opportunities with Microsoft development services. We implement the best strategy and development approach to ASP.NET and MVC.NET platforms to provide experiences that complete the digital ecosystem. With our .NET expertise we translate critical backends into exceptional UX to make complex functions seamless. Armed with robust software development competencies, backend development and consulting, CMARIX makes most out of Microsoft platforms. 
+        Dedicated Microsoft developers at swatrixsoft are here to unlock the true value of the business and fuel the growth opportunities with Microsoft development services. We implement the best strategy and development approach to ASP.NET and MVC.NET platforms to provide experiences that complete the digital ecosystem. With our .NET expertise we translate critical backends into exceptional UX to make complex functions seamless. Armed with robust software development competencies, backend development and consulting, swatrixsoft makes most out of Microsoft platforms. 
         `,
         appCount: '1500+',
         typeOfDevelopment:'Developed',
@@ -3482,7 +3482,7 @@ export default [
                 image: dotnetStop,
                 overlay: iconoverlay,
                 link:'aspdotnet-development.html',
-                description: 'CMARIX incorporates the potential of .NET core to build dynamic, evolving and scalable systems ready to bring efficiency to your business products. '
+                description: 'swatrixsoft incorporates the potential of .NET core to build dynamic, evolving and scalable systems ready to bring efficiency to your business products. '
             },
             {
                 name: 'MVC.NET <br/>Development',
@@ -3537,14 +3537,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -3632,7 +3632,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means your business pain points are correctly recognized and you will leverage the true potential of Microsoft to disrupt your industry completely. `,
+        weAre: `Working with swatrixsoft means your business pain points are correctly recognized and you will leverage the true potential of Microsoft to disrupt your industry completely. `,
         cardLabel: `Do you dare to solve a digital problem?`,
         cardTitle: `Let’s make it possible with our Microsoft Technology.`,
         cardButton: `Let’s Talk Ideas`
@@ -3650,7 +3650,7 @@ export default [
         missionLabel: 'Our Passion',
         missionTitle: 'Our Microsoft Experts are Coding The Future',
         missionDescription: `
-        Dedicated Microsoft developers at CMARIX are here to unlock the true value of the business and fuel the growth opportunities with Microsoft development services. We implement the best strategy and development approach to ASP.NET and MVC.NET platforms to provide experiences that complete the digital ecosystem. With our .NET expertise we translate critical backends into exceptional UX to make complex functions seamless. Armed with robust software development competencies, backend development and consulting, CMARIX makes most out of Microsoft platforms. 
+        Dedicated Microsoft developers at swatrixsoft are here to unlock the true value of the business and fuel the growth opportunities with Microsoft development services. We implement the best strategy and development approach to ASP.NET and MVC.NET platforms to provide experiences that complete the digital ecosystem. With our .NET expertise we translate critical backends into exceptional UX to make complex functions seamless. Armed with robust software development competencies, backend development and consulting, swatrixsoft makes most out of Microsoft platforms. 
         `,
         appCount: '1500+',
         typeOfDevelopment:'Developed',
@@ -3663,7 +3663,7 @@ export default [
                 image: dotnetStop,
                 overlay: iconoverlay,
                 link:'aspdotnet-development.html',
-                description: 'CMARIX incorporates the potential of .NET core to build dynamic, evolving and scalable systems ready to bring efficiency to your business products. '
+                description: 'swatrixsoft incorporates the potential of .NET core to build dynamic, evolving and scalable systems ready to bring efficiency to your business products. '
             },
             {
                 name: 'MVC.NET <br/>Development',
@@ -3718,14 +3718,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -3813,7 +3813,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means your business pain points are correctly recognized and you will leverage the true potential of Microsoft to disrupt your industry completely. `,
+        weAre: `Working with swatrixsoft means your business pain points are correctly recognized and you will leverage the true potential of Microsoft to disrupt your industry completely. `,
         cardLabel: `Do you dare to solve a digital problem?`,
         cardTitle: `Let’s make it possible with our Microsoft Technology.`,
         cardButton: `Let’s Talk Ideas`
@@ -3830,7 +3830,7 @@ export default [
         missionLabel: 'Our Passion',
         missionTitle: 'Our Microsoft Experts are Coding The Future',
         missionDescription: `
-        Dedicated Microsoft developers at CMARIX are here to unlock the true value of the business and fuel the growth opportunities with Microsoft development services. We implement the best strategy and development approach to ASP.NET and MVC.NET platforms to provide experiences that complete the digital ecosystem. With our .NET expertise we translate critical backends into exceptional UX to make complex functions seamless. Armed with robust software development competencies, backend development and consulting, CMARIX makes most out of Microsoft platforms. 
+        Dedicated Microsoft developers at swatrixsoft are here to unlock the true value of the business and fuel the growth opportunities with Microsoft development services. We implement the best strategy and development approach to ASP.NET and MVC.NET platforms to provide experiences that complete the digital ecosystem. With our .NET expertise we translate critical backends into exceptional UX to make complex functions seamless. Armed with robust software development competencies, backend development and consulting, swatrixsoft makes most out of Microsoft platforms. 
         `,
         appCount: '1500+',
         typeOfDevelopment:'Developed',
@@ -3843,7 +3843,7 @@ export default [
                 image: dotnetStop,
                 overlay: iconoverlay,
                 link:'aspdotnet-development.html',
-                description: 'CMARIX incorporates the potential of .NET core to build dynamic, evolving and scalable systems ready to bring efficiency to your business products. '
+                description: 'swatrixsoft incorporates the potential of .NET core to build dynamic, evolving and scalable systems ready to bring efficiency to your business products. '
             },
             {
                 name: 'MVC.NET <br/>Development',
@@ -3898,14 +3898,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -3993,7 +3993,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means your business pain points are correctly recognized and you will leverage the true potential of Microsoft to disrupt your industry completely. `,
+        weAre: `Working with swatrixsoft means your business pain points are correctly recognized and you will leverage the true potential of Microsoft to disrupt your industry completely. `,
         cardLabel: `Do you dare to solve a digital problem?`,
         cardTitle: `Let’s make it possible with our Microsoft Technology.`,
         cardButton: `Let’s Talk Ideas`
@@ -4011,7 +4011,7 @@ export default [
         missionLabel: 'Our Passion',
         missionTitle: 'Our Microsoft Experts are Coding The Future',
         missionDescription: `
-        Dedicated Microsoft developers at CMARIX are here to unlock the true value of the business and fuel the growth opportunities with Microsoft development services. We implement the best strategy and development approach to ASP.NET and MVC.NET platforms to provide experiences that complete the digital ecosystem. With our .NET expertise we translate critical backends into exceptional UX to make complex functions seamless. Armed with robust software development competencies, backend development and consulting, CMARIX makes most out of Microsoft platforms. 
+        Dedicated Microsoft developers at swatrixsoft are here to unlock the true value of the business and fuel the growth opportunities with Microsoft development services. We implement the best strategy and development approach to ASP.NET and MVC.NET platforms to provide experiences that complete the digital ecosystem. With our .NET expertise we translate critical backends into exceptional UX to make complex functions seamless. Armed with robust software development competencies, backend development and consulting, swatrixsoft makes most out of Microsoft platforms. 
         `,
         appCount: '1500+',
         typeOfDevelopment:'Developed',
@@ -4024,7 +4024,7 @@ export default [
                 image: dotnetStop,
                 overlay: iconoverlay,
                 link:'aspdotnet-development.html',
-                description: 'CMARIX incorporates the potential of .NET core to build dynamic, evolving and scalable systems ready to bring efficiency to your business products. '
+                description: 'swatrixsoft incorporates the potential of .NET core to build dynamic, evolving and scalable systems ready to bring efficiency to your business products. '
             },
             {
                 name: 'MVC.NET <br/>Development',
@@ -4079,14 +4079,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -4174,7 +4174,7 @@ export default [
                 route: 'food-and-beverages.html',
             }
         ],
-        weAre: `Working with CMARIX means your business pain points are correctly recognized and you will leverage the true potential of Microsoft to disrupt your industry completely. `,
+        weAre: `Working with swatrixsoft means your business pain points are correctly recognized and you will leverage the true potential of Microsoft to disrupt your industry completely. `,
         cardLabel: `Do you dare to solve a digital problem?`,
         cardTitle: `Let’s make it possible with our Microsoft Technology.`,
         cardButton: `Let’s Talk Ideas`
@@ -4332,14 +4332,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -4351,7 +4351,7 @@ export default [
                 caseStudyUrl: '/nutranext-web-application.html'
             }
         ],
-        weAre: `Working with CMARIX means you confront the new generation of competitors in your market with confidence.`,
+        weAre: `Working with swatrixsoft means you confront the new generation of competitors in your market with confidence.`,
         cardLabel: `Do you want to make On-demand solutions`,
         cardTitle: `Let’s make it possible with our Services.`,
         cardButton: `Let’s Talk Ideas`
@@ -4534,14 +4534,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -4553,7 +4553,7 @@ export default [
                 caseStudyUrl: '/nutranext-web-application.html'
             }
         ],
-        weAre: `Working with CMARIX means you digital ecosystem dots from development to design are connected well.`,
+        weAre: `Working with swatrixsoft means you digital ecosystem dots from development to design are connected well.`,
         cardLabel: `Do you dare to bring the Change? `,
         cardTitle: `Let’s make it possible with our Services.`,
         cardButton: `Let’s Talk Ideas`
@@ -4715,14 +4715,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -4734,7 +4734,7 @@ export default [
                 caseStudyUrl: '/nutranext-web-application.html'
             }
         ],
-        weAre: `Working with CMARIX means you have already turned up your brand to the right audience with remarkable ROIs.`,
+        weAre: `Working with swatrixsoft means you have already turned up your brand to the right audience with remarkable ROIs.`,
         cardLabel: `Do you dare to bring the change?`,
         cardTitle: `Let’s make it possible with Digital marketing. `,
         cardButton: `Let’s Talk Ideas`
@@ -4897,14 +4897,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -4916,7 +4916,7 @@ export default [
                 caseStudyUrl: '/nutranext-web-application.html'
             }
         ],
-        weAre: `Working with CMARIX means your expectation for a nimble team and scalable web or app is fulfilled.  `,
+        weAre: `Working with swatrixsoft means your expectation for a nimble team and scalable web or app is fulfilled.  `,
         cardLabel: `Are you looking for API Integration?`,
         cardTitle: `Let’s add excellence with our services. `,
         cardButton: `Let’s Talk Ideas`
@@ -5079,14 +5079,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -5098,7 +5098,7 @@ export default [
                 caseStudyUrl: '/nutranext-web-application.html'
             }
         ],
-        weAre: `Working with CMARIX means your expectation for a nimble team and scalable web or app is fulfilled.  `,
+        weAre: `Working with swatrixsoft means your expectation for a nimble team and scalable web or app is fulfilled.  `,
         cardLabel: `Are you looking for API Integration?`,
         cardTitle: `Let’s add excellence with our services. `,
         cardButton: `Let’s Talk Ideas`
@@ -5261,14 +5261,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -5280,7 +5280,7 @@ export default [
                 caseStudyUrl: '/nutranext-web-application.html'
             }
         ],
-        weAre: `Working with CMARIX means your expectation for a nimble team and scalable web or app is fulfilled.  `,
+        weAre: `Working with swatrixsoft means your expectation for a nimble team and scalable web or app is fulfilled.  `,
         cardLabel: `Are you looking for API Integration?`,
         cardTitle: `Let’s add excellence with our services. `,
         cardButton: `Let’s Talk Ideas`
@@ -5295,7 +5295,7 @@ export default [
         image: testingIcon,
         missionLabel: 'Our Passion',
         missionTitle: 'Support and Testing Window To Guarantee Your Code & Success',
-        missionDescription: `<p>Support and testing for software solutions is a key success factor for software development projects and the software life cycle is incomplete without comprehensive support and testing mechanisms. At CMARIX we provide highly expertise driven support systems and testing environments for software projects across the niches and platforms. </p> <p>CMARIX is recognized as a globally trusted technology partner to handle software development projects for the entire life span starting from the ideation and design to the testing, deployment and post development support and maintenance. We provide industry benchmarked testing environments and QA professionals to ensure optimum testing output for delivering software products and solutions without performance glitches. </p>`,
+        missionDescription: `<p>Support and testing for software solutions is a key success factor for software development projects and the software life cycle is incomplete without comprehensive support and testing mechanisms. At swatrixsoft we provide highly expertise driven support systems and testing environments for software projects across the niches and platforms. </p> <p>swatrixsoft is recognized as a globally trusted technology partner to handle software development projects for the entire life span starting from the ideation and design to the testing, deployment and post development support and maintenance. We provide industry benchmarked testing environments and QA professionals to ensure optimum testing output for delivering software products and solutions without performance glitches. </p>`,
         appCount: '1800+',
         typeOfDevelopment:'Quality Assured',
         whatDeveloped: 'Projects',
@@ -5450,14 +5450,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -5469,7 +5469,7 @@ export default [
                 caseStudyUrl: '/nutranext-web-application.html'
             }
         ],
-        weAre: `Working with CMARIX means the progress with a flawless product won’t end anytime. `,
+        weAre: `Working with swatrixsoft means the progress with a flawless product won’t end anytime. `,
         cardLabel: `Are you looking for Maintenance work? `,
         cardTitle: `Let’s make it possible with our Services. `,
         cardButton: `Let’s Talk Ideas`

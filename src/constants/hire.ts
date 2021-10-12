@@ -52,7 +52,7 @@ export default [
         description: 'Our Angular developers have been actively contributing to the global Angular ecosystem which is also supported by Google. We have been implementing several legacy platform re-developing using the latest frontend Angular interface. With AOT (Ahead of time) compiler much more secure than JIT (Just in time), Angular is sure-shot a great choice for your frontend development.',
         hireLabel:'Hire Angular Developer',
         missionLabel: 'Success at Speak',
-        missionTitle: 'CMARIX has been early providers of Angular technology with expertise in creating high performing Progressive Web Apps (PWA), Single-Page Applications (SPAs) which have OOPs concept leveraged from TypeScript, interlinked components, real time notifications and overall material design aesthetics of latest frontend technology.',
+        missionTitle: 'swatrixsoft has been early providers of Angular technology with expertise in creating high performing Progressive Web Apps (PWA), Single-Page Applications (SPAs) which have OOPs concept leveraged from TypeScript, interlinked components, real time notifications and overall material design aesthetics of latest frontend technology.',
         image: angularHire,
         imageAlt:'Hire Angular Developers',
         hireModelTitle: 'Hire <span>Angular</span> Developer Team With Flexibility',
@@ -193,14 +193,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -230,7 +230,7 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means you will have amazing Angular developers who are active contributors to the global Angular ecosystem. '
+        workingWith: 'Working with swatrixsoft means you will have amazing Angular developers who are active contributors to the global Angular ecosystem. '
     },
     {
         name: 'Android App', 
@@ -249,7 +249,7 @@ export default [
         missionTwoTitle: 'Custom Android App Development Services, Because Even Robots Need To Be Developed & Designed By Humans',
         missionTwoDescription: `
         <p>With profound knowledge about material design standards, User Interface and User experience best practices, code optimization, Kotlin technology and nitty-gritty of Android programming, our Android experts are a perfect choice to develop your mobile application. We know based on our experience of what it takes to make a mobile or tablet application successful and by hiring our Android developers you can leverage on that knowledge.</p>
-        <p>Our developers never walk away keeping the opportunities untapped. Whether you are just a startup sharing a new idea or an enterprise wanting to re-engineer business processes, we draw from our expert Android development services to build Android apps that keep users hooked, maximize revenue, and take over the charts.  CMARIX is proud to have such a team of Android developers that excels with Android services from ideation to launch. </p>
+        <p>Our developers never walk away keeping the opportunities untapped. Whether you are just a startup sharing a new idea or an enterprise wanting to re-engineer business processes, we draw from our expert Android development services to build Android apps that keep users hooked, maximize revenue, and take over the charts.  swatrixsoft is proud to have such a team of Android developers that excels with Android services from ideation to launch. </p>
         `,
 
         hireModels: [
@@ -385,14 +385,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -407,10 +407,10 @@ export default [
         faqs: [
             {
                 title: 'What are the steps required to Hire an Android App Developer/team?',
-                answer: 'To Hire Android Developers India, you can simply fill-up the form below or click here to get a quotation. You can also directly send an email on biz@cmarix.com.'
+                answer: 'To Hire Android Developers India, you can simply fill-up the form below or click here to get a quotation. You can also directly send an email on swatrixsoft@gmail.com.'
             },
             {
-                title: 'Does your CMARIX guarantee the confidentiality and security of our (IP) intellectual property?',
+                title: 'Does your swatrixsoft guarantee the confidentiality and security of our (IP) intellectual property?',
                 answer: '100% - Yes. Our Service agreement clearly outlines that whatever work we do, you have complete ownership of the IP rights & all communication, asset sharing etc is classified under Non-Disclosure We are happy to sign any additional contracts for this, if required.'
             },
             {
@@ -432,7 +432,7 @@ export default [
 
             }
         ],
-        workingWith: 'Working with CMARIX means you will have amazing Angular developers who are active contributors to the global Angular ecosystem. '
+        workingWith: 'Working with swatrixsoft means you will have amazing Angular developers who are active contributors to the global Angular ecosystem. '
     },
    
     {
@@ -442,7 +442,7 @@ export default [
         description: 'ASP.Net MVC is among the most preferred Microsoft technology used by truely enterprise grade applications in business domains like Banking, Insurance, Finance, Fintech, Logistic, Security and others. Hire our certified ASP.Net Developer to bring extended development bandwidth which provides faster turnaround and cost effective production.',
         hireLabel:'Hire ASP.Net Developer',
         missionLabel: 'Success at Speak',
-        missionTitle: 'From our great skills of listening, researching to deep-understanding of vision, we have translated bold ideas to industry-leading software and websites. 230+ websites developed by CMARIX set a high water mark for quality.',
+        missionTitle: 'From our great skills of listening, researching to deep-understanding of vision, we have translated bold ideas to industry-leading software and websites. 230+ websites developed by swatrixsoft set a high water mark for quality.',
         image: dotnetHire,
         imageAlt:'Hire ASP.Net Developers',
         hireModelTitle: 'Hire Dedicated <span>ASP.Net</span> Developers team at your flexibility. ',
@@ -454,7 +454,7 @@ export default [
         Enterprise applications always have larger custom development business requirements which takes a long time. This comes with the challenge of not being able to upgrade to the latest technology as often as they would like. This is one of the main reasons why several legacy softwares are still used in banking, insurance, finance, fintech and security sectors of developed countries.</p>
         <p>CMARIX’s authentic ASP.Net development services commence with understanding the business domain, followed by detailing the specification and proposing corresponding product architecture. Our microsoft certified developers have expertise and experience in ASP.Net development since the beginning of this framework and have produced innumerable powerful web applications for global customers. </p>
         <p>We actively provide ASP.Net Developers on hire to several Microsoft Gold partner company across the world and you can avail the benefit of the same directly working with us. </p>
-        <p>Hire Asp.Net developers from CMARIX to get amazing production at a highly competitive price.</p>`,
+        <p>Hire Asp.Net developers from swatrixsoft to get amazing production at a highly competitive price.</p>`,
 
         hireModels: [
             {
@@ -584,14 +584,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -610,11 +610,11 @@ export default [
             },
             {
                 title: 'How to hire a cost-effective Full-Stack .NET Developer online for my projects?',
-                answer: `It’s very simple actually. You just need to send in the project details to us via inquiry form or email on biz@cmarix.com. Our Technical consultants will get in touch with you to understand business requirements, provide complete pre-sales support in terms of writing technical specifications without any additional charges and provide recommendations on the execution method suited for the project.`
+                answer: `It’s very simple actually. You just need to send in the project details to us via inquiry form or email on swatrixsoft@gmail.com. Our Technical consultants will get in touch with you to understand business requirements, provide complete pre-sales support in terms of writing technical specifications without any additional charges and provide recommendations on the execution method suited for the project.`
             },
             {
                 title: 'Do you have a price list for dedicated programmers with different skills?',
-                answer: 'Yes, Pricing of hiring ASP.Net Developers depends  on years of experience and contract duration. We also provide competitive pricing based on the number of resources hired from us. Get in touch with us via inquiry form or email: biz@cmarix.com to receive more details.'
+                answer: 'Yes, Pricing of hiring ASP.Net Developers depends  on years of experience and contract duration. We also provide competitive pricing based on the number of resources hired from us. Get in touch with us via inquiry form or email: swatrixsoft@gmail.com to receive more details.'
             },
             {
                 title: 'How is communication managed with the developers?',
@@ -622,16 +622,16 @@ export default [
             },
             {
                 title: 'How can I leverage flexible hiring models from CMARIX?',
-                answer: `Hiring model at CMARIX is as flexible as it can get. You can hire resources on weekly, biweekly, monthly or long term contracts. You can add or remove developers to your team based on your business needs.
+                answer: `Hiring model at swatrixsoft is as flexible as it can get. You can hire resources on weekly, biweekly, monthly or long term contracts. You can add or remove developers to your team based on your business needs.
                 As a reliable development company, we provide several custom packages for you to hire ASP.Net Developers India.`
             },
             {
                 title: 'What would be the estimated cost for hiring .NET developers?',
                 answer: `Hiring an ASP.Net Developers India can be cost-efficient with CMARIX. Our hiring models help you choose your execution model and timeline that streamline the flow of investment. Rates for hiring .Net developer varies based on technology, hire duration, experience level and number of resources hired.
-                We also provide trial service to our customers for the same. Please fill in the inquiry form or email us on biz@cmarix.com for more details.`
+                We also provide trial service to our customers for the same. Please fill in the inquiry form or email us on swatrixsoft@gmail.com for more details.`
             }
         ],
-        workingWith: 'Working with CMARIX means you are working with the best ASP.Net developer’s team who will take care of end to end technology service delivery. '
+        workingWith: 'Working with swatrixsoft means you are working with the best ASP.Net developer’s team who will take care of end to end technology service delivery. '
     },
     {
         name: 'AWS',
@@ -640,7 +640,7 @@ export default [
         description: '<p><span style="font-weight: 400;">Amazon Web Services - AWS is not just cloud infrastructure it&rsquo;s a collection of </span><span style="font-weight: 400;">&nbsp;more than 175 </span><strong>products</strong><span style="font-weight: 400;"> and </span><strong>services </strong><span style="font-weight: 400;">including cloud computing, data storage, networking, database, analytics, IoT, Machine Learning, AR, VR, Blockchain, Mobile, Robotics, Business Applications and much more. </span></p>',
         hireLabel:'Hire AWS Developer',
         missionLabel: 'Success at Speak',
-        missionTitle: 'Whether you are planning to use AWS EC2 for hosting your startup web platform or take advantage of high performance Lambda functions that needs to be optimized as part of serverless architecture stack of your MERN stack platform, hire AWS developer from CMARIX to ensure turnkey service.',
+        missionTitle: 'Whether you are planning to use AWS EC2 for hosting your startup web platform or take advantage of high performance Lambda functions that needs to be optimized as part of serverless architecture stack of your MERN stack platform, hire AWS developer from swatrixsoft to ensure turnkey service.',
         image: awsHire,
         imageAlt:'Hire AWS Developer',
         hireModelTitle: 'Hire Dedicated <span>AWS</span> Developers team at your flexibility.',
@@ -650,7 +650,7 @@ export default [
         missionTwoDescription: `
         <p>Are you looking for most popular cloud computing infrastructure? AWS is the answer.  We make your cloud adaptation journey a smooth one. At CMARIX, we provide expertise driven AWS cloud support to help your business utilize the potential of the platform. Our AWS experts will provide you consultation on different product and service stack from AWS which would add value based on your business needs and proceed forward with it’s implementation. </p>
         <p>AWS has already emerged as a fast-evolving and dynamic cloud computing platform that comes loaded with a wide range of sophisticated tools for data storage, development and deployment. This is why enterprise apps find AWS as superior and rich as a platform for building and maintaining apps. Whatever be your cloud computing requirement, from cloud migration to optimization our AWS experts can help you utilize the strength of the platform to the optimum level. </p>
-        <p>Hire AWS developers from CMARIX to develop a reliable, resilient and all-time available cloud ecosystem, integrated with different systems.</p>`,
+        <p>Hire AWS developers from swatrixsoft to develop a reliable, resilient and all-time available cloud ecosystem, integrated with different systems.</p>`,
 
         hireModels: [
             {
@@ -784,14 +784,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -803,7 +803,7 @@ export default [
                 caseStudyUrl: '/nutranext-web-application.html'
             }
         ],
-        workingWith: 'Working with CMARIX means you will receive platinum grade service from AWS partner company. ',
+        workingWith: 'Working with swatrixsoft means you will receive platinum grade service from AWS partner company. ',
         faqs: [
             {
                 title: 'How Much Does It Cost To Develop A Start-up App?',
@@ -830,7 +830,7 @@ export default [
     //     description: '<p>Salesforce Commerce Cloud (SFCC) is a widely popular cloud-based e-commerce service platform used by retailers all over the globe. The platform is known to offer a comprehensive package of tools to help businesses deliver a streamlined user experience corresponding to purchases as well as after-sales support and services</p>',
     //     hireLabel:'Hire Salesforce Commerce Developer',
     //     missionLabel: 'Success at Speak',
-    //     missionTitle: 'CMARIX is a leading <b>Salesforce commerce cloud development company </b>helping businesses to integrate this rich SaaS platform for a highly sophisticated customer experience to ensure consistent business conversion. We know how to integrate and implement this platform to get the most out of your business.',
+    //     missionTitle: 'swatrixsoft is a leading <b>Salesforce commerce cloud development company </b>helping businesses to integrate this rich SaaS platform for a highly sophisticated customer experience to ensure consistent business conversion. We know how to integrate and implement this platform to get the most out of your business.',
     //     // image: androidHire,
     //     imageAlt:'Hire Salesforce Commerce Developer',
     //     hireModelTitle: 'Hire Dedicated <span>Salesforce Commerce</span> Developers team at your flexibility.',
@@ -838,8 +838,8 @@ export default [
     //     missionTwoTitle: 'Hire a Dedicated salesforce developer at your flexibility',
     //     whatslable: 'Help Your Digital Footprint Harness The Immense Potential Of Salesforce Cloud',
     //     missionTwoDescription: `
-    //     <p>CMARIX delivers tried, tested, and well-validated Salesforce development services following the best practices and established benchmarks. CMARIX enterprises can<b> hire certified Salesforce developers</b> who contributed with their custom development and implementation services to many companies. We can help you with outsourcing services with either a fully hired team to look after a Salesforce project or with single resources as per your needs and exposure. </p>
-    //     <p>CMARIX is a leading <b>Salesforce certified commerce cloud development</b> company having the expertise and experience in implementing the platform to address specific business needs for different businesses. Our custom implementation approach helps businesses get the most out of this platform and generate consistent revenues.</p>
+    //     <p>swatrixsoft delivers tried, tested, and well-validated Salesforce development services following the best practices and established benchmarks. swatrixsoft enterprises can<b> hire certified Salesforce developers</b> who contributed with their custom development and implementation services to many companies. We can help you with outsourcing services with either a fully hired team to look after a Salesforce project or with single resources as per your needs and exposure. </p>
+    //     <p>swatrixsoft is a leading <b>Salesforce certified commerce cloud development</b> company having the expertise and experience in implementing the platform to address specific business needs for different businesses. Our custom implementation approach helps businesses get the most out of this platform and generate consistent revenues.</p>
     //     <p>We have a highly skilled and experienced team of Salesforce experts who played an instrumental role in successful Salesforce implementation as per different and varying business needs and leveraged our experience and skills in customizing the tools as suitable for the enterprise environments.</p>
     //     <p>We offer comprehensive Salesforce development and integration services covering different facets of expertise and business needs. Our expert Salesforce Development services include consulting, performance optimization, data migration, customization, integration, and creating unique CRM and ERP tools by using Salesforce and other technologies.</p>
     //     <p>Are you looking forward to availing of Salesforce development service that easily helps you to stay ahead of the competition in terms of organizational efficiency, productivity, and smooth customer experience? Well, look no further than the Salesforce commerce Cloud development services from CMARIX.</p>`,
@@ -958,14 +958,14 @@ export default [
     //         {
     //             title: 'Glitty',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
     //              image: glitty,
     //             caseStudyUrl: '/glitty-app.html'
     //         },
     //         {
     //             title: 'Crawfordwise',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
     //              image: crawfordwise,
     //             caseStudyUrl: '/crawfordwise-web-mobile-application.html'
     //         },
@@ -995,7 +995,7 @@ export default [
     //             answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
     //         }
     //     ],
-    //     workingWith: 'Working with CMARIX means you have got a team who takes complete responsibility for your mobile app success, right from - idea validation to launch and feature updates – delivering you a market-ready app which the users love. '
+    //     workingWith: 'Working with swatrixsoft means you have got a team who takes complete responsibility for your mobile app success, right from - idea validation to launch and feature updates – delivering you a market-ready app which the users love. '
     // },
     // {
     //     name: 'Webflow Designers',
@@ -1006,7 +1006,7 @@ export default [
     //     missionLabel: 'Success at Speak',
     //     missionTitle: 
     //     `<p><b>Webflow website builder</b> is basically a mobile-optimized, comprehensive, cloud-based web design and development tool to develop websites that look great across all devices and offers all features that modern web users need</p>
-    //      <p>CMARIX, having years of experience in core web development technologies has leveraged this flexible, versatile and all-in-one cloud-based tool that fits typically between the DIY web development and frontend development. <b> Hire Webflow designers</b> from CMARIX and allow us to deliver the best of this powerful platform.</p>`,
+    //      <p>CMARIX, having years of experience in core web development technologies has leveraged this flexible, versatile and all-in-one cloud-based tool that fits typically between the DIY web development and frontend development. <b> Hire Webflow designers</b> from swatrixsoft and allow us to deliver the best of this powerful platform.</p>`,
     //     // image: androidHire,
     //     imageAlt:'Hire Webflow Designers',
     //     hireModelTitle: 'Hire Dedicated <span>Webflow Designers</span> Developers team at your flexibility.',
@@ -1015,7 +1015,7 @@ export default [
     //     whatslable: 'We Help You to Shape the Perfect Web Experience with our Webflow Expertise',
     //     missionTwoDescription: `
     //     <p>Webflow allows us to deliver a perfect web experience as per the latest technology benchmark and user experience best practices on different device platforms such as desktop, iOS, and android. Moreover with the growth of your business, when integrating specialist features and functionalities becomes a necessity, the modular approach and scalability of Webflow come to the rescue. With Webflow at your side, building custom-designed, custom-featured, and affordable websites becomes easy.</p>
-    //     <p>We at CMARIX boast of a team of Webflow experts who designed and developed a multitude of websites across all industry niches and user experience needs. This is why irrespective of the nature of your business and industry niche when it comes to<b> professional webflow designers for hire</b> you have just come to the right destination. We have a highly skilled and experienced team of Webflow developers with proven track record in building several successful Webflow websites.</p>`,
+    //     <p>We at swatrixsoft boast of a team of Webflow experts who designed and developed a multitude of websites across all industry niches and user experience needs. This is why irrespective of the nature of your business and industry niche when it comes to<b> professional webflow designers for hire</b> you have just come to the right destination. We have a highly skilled and experienced team of Webflow developers with proven track record in building several successful Webflow websites.</p>`,
        
     //     hireModels: [
     //         {
@@ -1076,7 +1076,7 @@ export default [
     //         },
             
     //     ],
-    //     hireTitle: 'How Hiring Webflow Developers from CMARIX will Benefit You?',
+    //     hireTitle: 'How Hiring Webflow Developers from swatrixsoft will Benefit You?',
     //     hireHelp: [
     //         {
     //             title: 'Comprehensive Development Process',
@@ -1135,14 +1135,14 @@ export default [
     //         {
     //             title: 'Glitty',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
     //              image: glitty,
     //             caseStudyUrl: '/glitty-app.html'
     //         },
     //         {
     //             title: 'Crawfordwise',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
     //              image: crawfordwise,
     //             caseStudyUrl: '/crawfordwise-web-mobile-application.html'
     //         },
@@ -1172,7 +1172,7 @@ export default [
     //             answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
     //         }
     //     ],
-    //     workingWith: 'Working with CMARIX means you have got a team who takes complete responsibility for your mobile app success, right from - idea validation to launch and feature updates – delivering you a market-ready app which the users love. '
+    //     workingWith: 'Working with swatrixsoft means you have got a team who takes complete responsibility for your mobile app success, right from - idea validation to launch and feature updates – delivering you a market-ready app which the users love. '
     // },
     // {
     //     name: 'Ionic App',
@@ -1181,7 +1181,7 @@ export default [
     //     description: '<p>Ionic is the ideal hybrid development framework that allows you to run one code on any platform including desktop, mobile apps, and web. This is why the Ionic framework has always been a smart choice for startups when they need to build hybrid apps that can be quickly launched for multiple platforms.</p>',
     //     hireLabel:'Hire Inonic App Developer',
     //     missionLabel: 'Our Mission',
-    //     missionTitle: 'We at CMARIX boast of an industry-acclaimed Ionic app development service powered by top Ionic experts with years of experience and exposure across a multitude of challenging hybrid app projects. We offer <b> dedicated Ionic developers </b>for enterprises to hire with a highly flexible hiring and cost model.',
+    //     missionTitle: 'We at swatrixsoft boast of an industry-acclaimed Ionic app development service powered by top Ionic experts with years of experience and exposure across a multitude of challenging hybrid app projects. We offer <b> dedicated Ionic developers </b>for enterprises to hire with a highly flexible hiring and cost model.',
     //     // image: androidHire,
     //     imageAlt:'Hire Inonic App Developer',
     //     hireModelTitle: 'Hire Dedicated <span>Ionic App</span> Developers team at your flexibility.',
@@ -1190,7 +1190,7 @@ export default [
     //     whatslable: 'Let Our Ionic Developers Shape Your Hybrid App Success Story',
     //     missionTwoDescription: `
     //     <p>Having been a frontrunner in the space of hybrid and cross-platform app development we have been using Ionic for years and boast of a deep and wide portfolio of Ionic app projects across all niches and categories. We offer you to <b>hire dedicated Ionic application developers</b> to build the most engaging app solutions for all device and OS platforms.</p>
-    //     <p>Ionic is the preferred framework for its advanced features, eye-catchy templates, and smooth performance. Our Ionic developers at CMARIX ensure drawing out the best of this robust technology to shape your app solution for the target audience. With CMARIX, you can hire top-notch Ionic developers at the best rate for your on-site or offshore development projects.</p>`,
+    //     <p>Ionic is the preferred framework for its advanced features, eye-catchy templates, and smooth performance. Our Ionic developers at swatrixsoft ensure drawing out the best of this robust technology to shape your app solution for the target audience. With CMARIX, you can hire top-notch Ionic developers at the best rate for your on-site or offshore development projects.</p>`,
         
     //     hireModels: [
     //         {
@@ -1247,7 +1247,7 @@ export default [
     //     hireHelp: [
     //         {
     //             title: 'Experience & Expertise',
-    //             description: 'We at CMARIX boast of a large team of expert Ionic developers having years of frontline experience in a multitude of challenging Ionic projects. Our Ionic developers have the advanced skills and expertise to shape unique app solutions that easily stand apart from the competition.',
+    //             description: 'We at swatrixsoft boast of a large team of expert Ionic developers having years of frontline experience in a multitude of challenging Ionic projects. Our Ionic developers have the advanced skills and expertise to shape unique app solutions that easily stand apart from the competition.',
     //              image: moneybag
     //         },
     //         {
@@ -1257,12 +1257,12 @@ export default [
     //         },
     //         {
     //             title: 'Flexible and Cost-Effective Hiring',
-    //             description: 'At CMARIX we offer a highly flexible hiring model to help all kinds of offshore and on-site projects to help you hire ionic app developers with exceptional expertise. We offer highly competitive pricing for each and every hiring model across all types of projects.',
+    //             description: 'At swatrixsoft we offer a highly flexible hiring model to help all kinds of offshore and on-site projects to help you hire ionic app developers with exceptional expertise. We offer highly competitive pricing for each and every hiring model across all types of projects.',
     //              image: agile,
     //         },
     //         {
     //             title: 'Productivity and Excellence',
-    //             description: 'At CMARIX  we take pride in the robust portfolio of Ionic projects giving testimony to their creative excellence and state of the art skills in building Ionic based hybrid apps. We ensure optimum productivity standards, strictly adhering to project milestones and timeframe and offering excellence in terms of app performance as well as user experience.',
+    //             description: 'At swatrixsoft  we take pride in the robust portfolio of Ionic projects giving testimony to their creative excellence and state of the art skills in building Ionic based hybrid apps. We ensure optimum productivity standards, strictly adhering to project milestones and timeframe and offering excellence in terms of app performance as well as user experience.',
     //              image: check,
     //         }
     //     ],
@@ -1301,14 +1301,14 @@ export default [
     //         {
     //             title: 'Glitty',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
     //              image: glitty,
     //             caseStudyUrl: '/glitty-app.html'
     //         },
     //         {
     //             title: 'Crawfordwise',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
     //              image: crawfordwise,
     //             caseStudyUrl: '/crawfordwise-web-mobile-application.html'
     //         },
@@ -1347,7 +1347,7 @@ export default [
     //     description: 'Kotlin has emerged as the most suitable and better alternative to Java for building Android apps, server-side apps, web apps, and desktop apps. The language stands apart from Java principally thanks to its awesome features and superb clean syntax. The language widely adopted by Android app developers and large scale web projects is continuing to reach new heights of popularity every day.',
     //     hireLabel:'Hire Kotlin Developers',
     //     missionLabel: 'Our Mission',
-    //     missionTitle: 'At CMARIX, we have been early adopters of Kotlin language for our Android app development process and within a short span of time, we built an array of successful Kotlin Android apps across the niches. If you want to build highly agile, performance-savvy, and lucid Android and Web apps with Kotlin, <b>hire dedicated Kotlin developers</b> from CMARIX to get the best out of this technology.',
+    //     missionTitle: 'At CMARIX, we have been early adopters of Kotlin language for our Android app development process and within a short span of time, we built an array of successful Kotlin Android apps across the niches. If you want to build highly agile, performance-savvy, and lucid Android and Web apps with Kotlin, <b>hire dedicated Kotlin developers</b> from swatrixsoft to get the best out of this technology.',
     //     image: androidHire,
     //     imageAlt:'Hire Kotlin Developers',
     //     hireModelTitle: 'Hire Dedicated <span>Kotlin</span> Developers team at your flexibility.',
@@ -1357,7 +1357,7 @@ export default [
     //     missionTwoTitle: 'We Engage Best of Kotlin Expertise for Android Development',
     //     missionTwoDescription: `
     //     <p>Kotlin has changed the way Android app development was done during the last few years. Well, this is where our expert Kotlin developers come to your benefit with their stand apart skills and solid exposure across multiple Kotlin projects that they finished every since Kotlin was launched.</p>
-    //     <p>With a robust portfolio of successful Android apps built with Kotlin, we boast one of the industry's best pool of talented Kotlin developers who can make the most of this powerful programming language. <b>Hire Kotlin programmers</b> from CMARIX who can help you with migration from Java, custom Kotlin app projects, Kotlin integration, and support and maintenance of Kotlin apps.</p>
+    //     <p>With a robust portfolio of successful Android apps built with Kotlin, we boast one of the industry's best pool of talented Kotlin developers who can make the most of this powerful programming language. <b>Hire Kotlin programmers</b> from swatrixsoft who can help you with migration from Java, custom Kotlin app projects, Kotlin integration, and support and maintenance of Kotlin apps.</p>
     //     `,
 
     //     hireModels: [
@@ -1411,7 +1411,7 @@ export default [
     //         }      
     //     ],
     //     hireTopTagline: "Why CMARIX?",
-    //     hireTitle: 'How Hiring Kotlin App Developers from CMARIX will Benefit You?',
+    //     hireTitle: 'How Hiring Kotlin App Developers from swatrixsoft will Benefit You?',
     //     hireHelp: [
     //         {
     //             title: 'Experience & Expertise',
@@ -1430,7 +1430,7 @@ export default [
     //         },
     //         {
     //             title: 'Transparent hiring and pricing',
-    //             description: 'At CMARIX we help our clients with a highly flexible hiring model and fully transparent pricing leaving no scope of dissatisfaction or communication gap. We offer one of the most competitive pricing to hire Kotlin developers in India.',
+    //             description: 'At swatrixsoft we help our clients with a highly flexible hiring model and fully transparent pricing leaving no scope of dissatisfaction or communication gap. We offer one of the most competitive pricing to hire Kotlin developers in India.',
     //             image: check,
     //         }
     //     ],
@@ -1469,14 +1469,14 @@ export default [
     //         {
     //             title: 'Glitty',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
     //             image: glitty,
     //             caseStudyUrl: '/glitty-app.html'
     //         },
     //         {
     //             title: 'Crawfordwise',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
     //             image: crawfordwise,
     //             caseStudyUrl: '/crawfordwise-web-mobile-application.html'
     //         },
@@ -1515,7 +1515,7 @@ export default [
     //     description: 'Mobile app development has come of age and there is no longer a  strict divide between native app development and cross-platform development. With help of every growing technology - we can now think of cross-platform apps with native user experience. This all became possible thanks to the React Native framework. ',
     //     hireLabel:'Hire React Native Developer',
     //     missionLabel: 'Success at Speak',
-    //     missionTitle: 'CMARIX stands as one of the leading React Native development companies with several successful cross-platform app projects upon its sleeve. We have been an early adopter of React Native framework in building the most sophisticated, performance-wise robust, and feature-rich cross-platform apps. This makes, CMARIX the preferred destination for businesses all over the globe to <b>hire dedicated React Native developers.</b>',
+    //     missionTitle: 'swatrixsoft stands as one of the leading React Native development companies with several successful cross-platform app projects upon its sleeve. We have been an early adopter of React Native framework in building the most sophisticated, performance-wise robust, and feature-rich cross-platform apps. This makes, swatrixsoft the preferred destination for businesses all over the globe to <b>hire dedicated React Native developers.</b>',
     //     image: androidHire,
     //     imageAlt:'Hire React Native Developers',
     //     hireModelTitle: 'We offer experienced React Native Development Teams on demand.',
@@ -1524,9 +1524,9 @@ export default [
     //     whatslable: 'Leverage Professional Excellence',
     //     missionTwoTitle: 'Get Onboard Best React Native Experts To Shape Your Mobile App Success Story',
     //     missionTwoDescription: `
-    //     <p>When it comes to giving shape to your mobile app strategy and vision the right way, you need to hire the best experts of the respective technology. This is why for building robust cross-platform apps on React Native, you don't need to look any further than CMARIX . We offer the industry's best React Native experts with a highly flexible hiring model and at a highly competitive rate. 
+    //     <p>When it comes to giving shape to your mobile app strategy and vision the right way, you need to hire the best experts of the respective technology. This is why for building robust cross-platform apps on React Native, you don't need to look any further than swatrixsoft . We offer the industry's best React Native experts with a highly flexible hiring model and at a highly competitive rate. 
     //     </p>
-    //     <p>We at CMARIX offer flexible hiring models with which you can scale up or down the development bandwidth for React Native Mobile app development based on your strategy. When you want to <b> hire React Native developers India </b> offers the most cost-competitive as well as the talent-rich destination. At CMARIX we have solved complex Mobile App development challenges using ReactNative. 
+    //     <p>We at swatrixsoft offer flexible hiring models with which you can scale up or down the development bandwidth for React Native Mobile app development based on your strategy. When you want to <b> hire React Native developers India </b> offers the most cost-competitive as well as the talent-rich destination. At swatrixsoft we have solved complex Mobile App development challenges using ReactNative. 
     //     </p>
     //     `,
 
@@ -1640,14 +1640,14 @@ export default [
     //         {
     //             title: 'Glitty',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+    //             description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
     //             image: glitty,
     //             caseStudyUrl: '/glitty-app.html'
     //         },
     //         {
     //             title: 'Crawfordwise',
     //             type: 'ENTERPRISE ECOMMERCE',
-    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+    //             description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
     //             image: crawfordwise,
     //             caseStudyUrl: '/crawfordwise-web-mobile-application.html'
     //         },
@@ -1677,7 +1677,7 @@ export default [
     //             answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
     //         }
     //     ],
-    //     workingWith: 'By hiring React Native developers from CMARIX you can utilise the best capabilities of the platform for your project.'
+    //     workingWith: 'By hiring React Native developers from swatrixsoft you can utilise the best capabilities of the platform for your project.'
     // },
     {
         name: 'Onsite',
@@ -1695,7 +1695,7 @@ export default [
         missionTwoTitle: 'Hire Onsite Developers and Grow With Flexibility.',
         whatslable: 'Bring Talent At Your Place',
         missionTwoDescription: `
-        <p>CMARIX provides you competent, technically skilled developers, and dedicated consultants and developers who possess the ability to work effortlessly as a part of the client team to develop comprehensive software solutions. Our ace developers are handpicked after a thorough evaluation of technical knowledge base, communication skills, and interpersonal skills.</p>
+        <p>swatrixsoft provides you competent, technically skilled developers, and dedicated consultants and developers who possess the ability to work effortlessly as a part of the client team to develop comprehensive software solutions. Our ace developers are handpicked after a thorough evaluation of technical knowledge base, communication skills, and interpersonal skills.</p>
         <p>At CMARIX, we carefully evaluate and understand all your needs and goals and enable you to get the optimal on-site developers on contract to grow your business ambitions to the next level. We help you leverage the top-notch on-site staff services for any web, mobile or software development requirement, including mobile app development, cloud application development, web app development, quality assurance, UI/UX design and Project management.</p>
         <p>Our clients love onsite hire model as it enables them to get a dedicated employee onsite for fixed duration without any recruitment, insurance, training, retirement overheads. It’s fast, cost effective and high quality.</p>`,
 
@@ -1758,7 +1758,7 @@ export default [
             }
         ],
         hireTopTagline: 'Why Hire Developers? ',
-        hireTitle: 'Hire Agile Teams For Top Development Projects @CMARIX – On Your Terms',
+        hireTitle: 'Hire Agile Teams For Top Development Projects @swatrixsoft – On Your Terms',
         hireHelp: [
             {
                 title: 'High-Quality Talent Team',
@@ -1772,7 +1772,7 @@ export default [
             },
             {
                 title: 'More Attention On Business',
-                description: 'Hiring onsite developers from CMARIX let’s you focus on your business, leaving technical execution and resource allocation requirements on us.',
+                description: 'Hiring onsite developers from swatrixsoft let’s you focus on your business, leaving technical execution and resource allocation requirements on us.',
                 image: check,
             },
             {
@@ -1787,7 +1787,7 @@ export default [
             },
             {
                 title: 'Agile & Adaptive Development',
-                description: 'We implement industry best practices like Continuous Integration Continuous Delivery (CI-CD), Automated Deployment and SCRUM based execution. Get cross-functional agile development teams from CMARIX to ensure flawless technical product.',
+                description: 'We implement industry best practices like Continuous Integration Continuous Delivery (CI-CD), Automated Deployment and SCRUM based execution. Get cross-functional agile development teams from swatrixsoft to ensure flawless technical product.',
                 image: agileAdaptive,
             }
         ],
@@ -1826,14 +1826,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -1848,14 +1848,14 @@ export default [
         faqs: [
             {
                 title: 'How can I find a skilled on-site developer in India?',
-                answer: 'You have found the right destination already! Hire on-site developers at CMARIX with a proven track record of delivering complex projects within time and budget. Being in industry for more than 10 years,  we at CMARIX take pride in our hire dedicated developers service to offer high-end custom technology to all our clients.'
+                answer: 'You have found the right destination already! Hire on-site developers at swatrixsoft with a proven track record of delivering complex projects within time and budget. Being in industry for more than 10 years,  we at swatrixsoft take pride in our hire dedicated developers service to offer high-end custom technology to all our clients.'
             },
             {
                 title: 'How much do you charge to hire an On-site developer?',
-                answer: 'We offer a variety of flexible hiring models to meet the specific needs of our clients. Hire dedicated offshore developers at the most reasonable price. The cost of hiring onsite developer developers on the technology, experience of developer and hire duration. Please fill in the inquiry form or email us on biz@cmarix.com for accurate pricing and offers'
+                answer: 'We offer a variety of flexible hiring models to meet the specific needs of our clients. Hire dedicated offshore developers at the most reasonable price. The cost of hiring onsite developer developers on the technology, experience of developer and hire duration. Please fill in the inquiry form or email us on swatrixsoft@gmail.com for accurate pricing and offers'
             },
             {
-                title: 'Why Choose CMARIX for Onsite Developers Services?',
+                title: 'Why Choose swatrixsoft for Onsite Developers Services?',
                 answer: `We are among the very few companies which have more than 70% of our team providing Hire Dedicated Developer Service. We have people and process in place to ensure you have maximum ROI from our service.'
                 We also provide Technical Project Manager - SCRUM Master without any additional charges to ensure you have seamless collaboration with our team and optimum production bandwidth from our development team.
                 Moreover, our rates are very competitive as compared to any other company when it comes to the kind of development service which we provide.`
@@ -1871,13 +1871,13 @@ export default [
             }
 
         ],
-        workingWith: 'Working with CMARIX means you have the option to hire skilled Dedicated developers onshore as well as offshore.'
+        workingWith: 'Working with swatrixsoft means you have the option to hire skilled Dedicated developers onshore as well as offshore.'
     },
     {
         name: 'Flutter',
         routeName: 'hire-flutter-developers.html',
         className: 'hire-flutter-app-development',
-        description: `CMARIX has been working in Flutter since early days. Backed up by Google, one of the most popular cross platform technology for iPhone & Android Mobile as well as Tablet application development.`,
+        description: `swatrixsoft has been working in Flutter since early days. Backed up by Google, one of the most popular cross platform technology for iPhone & Android Mobile as well as Tablet application development.`,
         hireLabel:'Hire Flutter Developer',
         missionLabel: 'Success at Speak',
         missionTitle: 'Harnessing the power of mobility with cross-platform compatibility, we have been early adopters of <b>Flutter</b> since it’s launch. Know for rapid application development team, ease of programming and native driven performance Flutter is a great choice for making mobile applications.',
@@ -1891,8 +1891,8 @@ export default [
         <p>
         One of the favorite phrases of our Flutter developer is <b>“Go mobile with ease! Less time! Less code!”</b> Yes, Flutter a revolutionary launch by Google makes you do the unimaginable. Flutter has already set high records for quick native mobile app development with appealing UI and amazing animations. It powers businesses by enabling them to build high-fidelity, top-quality, high-performing apps for leading native platforms Android and iOS using a single codebase.
         </p>
-        <p>Expert Flutter developers at CMARIX do a lot more than development. They tap into unrealized potential of every business and deliver progress with next-generation apps for iOS and Android in required time. We are well known Flutter app development company, working with startups and enterprises across the globe. Our cross-platform app developers are the most valued assets for our clients. Tap into our full-spectrum Flutter app development services for building sophisticated native apps with appealing interfaces and benefits of faster development time, thereby keeping the costs down.</p>
-        <p>Hire Flutter developers at CMARIX to harness the benefits of this emerging platform and make the unimaginable possible.</p>
+        <p>Expert Flutter developers at swatrixsoft do a lot more than development. They tap into unrealized potential of every business and deliver progress with next-generation apps for iOS and Android in required time. We are well known Flutter app development company, working with startups and enterprises across the globe. Our cross-platform app developers are the most valued assets for our clients. Tap into our full-spectrum Flutter app development services for building sophisticated native apps with appealing interfaces and benefits of faster development time, thereby keeping the costs down.</p>
+        <p>Hire Flutter developers at swatrixsoft to harness the benefits of this emerging platform and make the unimaginable possible.</p>
         `,
 
         hireModels: [
@@ -1957,7 +1957,7 @@ export default [
         hireHelp: [
             {
                 title: '  Vast Flutter Knowledge',
-                description: 'Flutter developers at CMARIX have complete proficiency in practical use of software packages that are specifically written in Dart technology. Moreover, they have even great proficiency in developing UI with a declarative API which is provided by Flutter.',
+                description: 'Flutter developers at swatrixsoft have complete proficiency in practical use of software packages that are specifically written in Dart technology. Moreover, they have even great proficiency in developing UI with a declarative API which is provided by Flutter.',
                 image: moneybag
             },
             {
@@ -2011,14 +2011,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -2046,17 +2046,17 @@ export default [
             },
             {
                 title: 'How much does it cost to develop an application in Flutter?',
-                answer: 'Pricing of a custom Flutter application or any task that needs to be implemented depends on the requirements. We will be happy to provide a no obligation requirement gathering and consultation session with our Flutter expert. Please fill in the inquiry form or send us an email on biz@cmarix.com so we can provide more insights on the service delivery.'
+                answer: 'Pricing of a custom Flutter application or any task that needs to be implemented depends on the requirements. We will be happy to provide a no obligation requirement gathering and consultation session with our Flutter expert. Please fill in the inquiry form or send us an email on swatrixsoft@gmail.com so we can provide more insights on the service delivery.'
             },
             {
-                title: 'What makes CMARIX different from other companies?',
+                title: 'What makes swatrixsoft different from other companies?',
                 answer: `For a 150+ people company we have the smallest sales team of 4 people  in Gujarat State. This shows our commitment to quality and development which brings recurring customers and positive referrals.
-                CMARIX stands out from the other companies given it’s track record of quality service delivery, diverse experience and competitive pricing. We have certified resources and a bespoke process in place to ensure higher productivity. We are completely SCRUM centric, Continuous Integration - Continuous Delivery (CI-CD) driven firm who follow best practices like automated deployment for higher production. We only hire Sr. Developers and provide them on hire service. We provide Technical Project Manager - SCRUM Master without any additional charges. Our forte as a company is not just to be a technology provider but to provide turnkey service which takes your business to the next level.`
+                swatrixsoft stands out from the other companies given it’s track record of quality service delivery, diverse experience and competitive pricing. We have certified resources and a bespoke process in place to ensure higher productivity. We are completely SCRUM centric, Continuous Integration - Continuous Delivery (CI-CD) driven firm who follow best practices like automated deployment for higher production. We only hire Sr. Developers and provide them on hire service. We provide Technical Project Manager - SCRUM Master without any additional charges. Our forte as a company is not just to be a technology provider but to provide turnkey service which takes your business to the next level.`
             },
             
             
         ],
-        workingWith: 'Working with CMARIX means you are armed with next-generation cross-platform apps ready to hit the market with full confidence.'
+        workingWith: 'Working with swatrixsoft means you are armed with next-generation cross-platform apps ready to hit the market with full confidence.'
     },
     {
         name: 'Frontend',
@@ -2065,7 +2065,7 @@ export default [
         description: `Fully responsive, mobile first, completely optimized, SEO friendly and pixel perfection is what we strive with our Front-end development services. Our Front-end developers ensures amazing performance across diverse browser resolutions, devices and operating systems. `,
         hireLabel:'Hire Frontend Developer',
         missionLabel: 'Success at Speak',
-        missionTitle: 'Blending functionality with color, typography, content, hierarchy – CMARIX overlays evocative user experience with these creative elements to bring your brand to life with a complete package of data-driven, purpose-driven design that works and looks just perfect. Front-end development using the latest technologies has always been our core expertise. ',
+        missionTitle: 'Blending functionality with color, typography, content, hierarchy – swatrixsoft overlays evocative user experience with these creative elements to bring your brand to life with a complete package of data-driven, purpose-driven design that works and looks just perfect. Front-end development using the latest technologies has always been our core expertise. ',
         image: frontendIcon,
         imageAlt:'Hire Frontend Developers',
         hireModelTitle: 'Hire Dedicated <span>Front-end</span> Developers team at your flexibility.',
@@ -2156,7 +2156,7 @@ export default [
         hireHelp: [
             {
                 title: 'Scalability & Productivity',
-                description: 'Hiring Frontend developers from CMARIX is a very flexible business model, whereby you can easily add or remove developers as per your business needs. We have three level of code review process to ensure you have optimum productivity per hour and maximum return on investment for the work done by us.',
+                description: 'Hiring Frontend developers from swatrixsoft is a very flexible business model, whereby you can easily add or remove developers as per your business needs. We have three level of code review process to ensure you have optimum productivity per hour and maximum return on investment for the work done by us.',
                 image: moneybag
             },
             {
@@ -2210,14 +2210,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -2231,7 +2231,7 @@ export default [
         ],
         faqs: [
             {
-                title: 'What are the various pricing models CMARIX offers?',
+                title: 'What are the various pricing models swatrixsoft offers?',
                 answer: 'We provide Sr. Front-End Developers (5+ Years of Experience) on hourly, biweekly, monthly & long term hire contracts and pricing varies based on the contract duration.'
             },
             {
@@ -2248,14 +2248,14 @@ export default [
             },
             {
                 title: 'What are the cost and engagement models available at CMARIX?',
-                answer: 'CMARIX offers different engagement models like hourly, biweekly, monthly or yearly hire contracts. Please fill in the inquiry form for details on costs as it varies based on technology,  experience of developer and hire duration required.'
+                answer: 'swatrixsoft offers different engagement models like hourly, biweekly, monthly or yearly hire contracts. Please fill in the inquiry form for details on costs as it varies based on technology,  experience of developer and hire duration required.'
             },
             {
                 title: 'I am not tech-savvy; will I still be able to work with your team?',
                 answer: 'When you hire developer (s) from us, we provide Technical Project Lead - SCRUM Master without any additional charges. Project Lead will manage the complete requirement gathering from you and ensure it’s technical execution with the developer.'
             }
         ],
-        workingWith: 'Working with CMARIX means you will avail a stunning user experience with great aesthetics. Product delivery ensures robust architecture, optimized frontend code, detailed documentation and a how to use guide for any non-technical end user. '
+        workingWith: 'Working with swatrixsoft means you will avail a stunning user experience with great aesthetics. Product delivery ensures robust architecture, optimized frontend code, detailed documentation and a how to use guide for any non-technical end user. '
     },
     {
         name: 'iPhone App',
@@ -2272,7 +2272,7 @@ export default [
         missionTwolabel: 'Our iPhone Talents',
         missionTwoTitle: 'Hire Experienced iPhone App Developers To Help You Cast A Spell On Users',
         missionTwoDescription: `
-        <p>Partnering with CMARIX means you have way more on your app development plate. We work with client’s end-to-end connecting the dots between problems you want to solve with the features you want to build, and delivering mobile app design that people love to see again and again.</p>
+        <p>Partnering with swatrixsoft means you have way more on your app development plate. We work with client’s end-to-end connecting the dots between problems you want to solve with the features you want to build, and delivering mobile app design that people love to see again and again.</p>
         <p>
         Our experienced iPhone app developers develop glaring iPhone apps with knack in Swift, Objective-C for mobile, tablet, wearables and more. They understand what is required to increase user engagement to deliver a richer user experience which is mandatory for success of any mobile app. User needs and future app updates are the top priorities to make your custom app a resounding success with assured warranty and ongoing flexible maintenance contracts.
         </p>
@@ -2416,14 +2416,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -2438,7 +2438,7 @@ export default [
         faqs: [
             {
                 title: 'How much do you charge to hire an iOS developer?',
-                answer: 'Hire iPhone App developers in India at the most affordable price and build a seamless iOS application for your business. The cost of the hiring iOS developer varies based on hire duration and required experience of the developer. Please fill in the inquiry form with project details or email us on biz@cmarix.com for the same.'
+                answer: 'Hire iPhone App developers in India at the most affordable price and build a seamless iOS application for your business. The cost of the hiring iOS developer varies based on hire duration and required experience of the developer. Please fill in the inquiry form with project details or email us on swatrixsoft@gmail.com for the same.'
             },
             {
                 title: 'What to consider while hiring dedicated iOS developers?',
@@ -2460,10 +2460,10 @@ export default [
             },
             {
                 title: 'How to hire certified iOS developers?',
-                answer: 'You can simply fill-up the form on our website and Mobile App Consultants  will get back to you very soon. You can also directly send us an email on biz@cmarix.com or contact us via Live Chat option. Hiring dedicated iOS app programmers is very simple at CMARIX.'
+                answer: 'You can simply fill-up the form on our website and Mobile App Consultants  will get back to you very soon. You can also directly send us an email on swatrixsoft@gmail.com or contact us via Live Chat option. Hiring dedicated iOS app programmers is very simple at CMARIX.'
             },
         ],
-        workingWith: 'Working with CMARIX means your iPhone app will always be known for INCREDIBILITY --- Incredible = (i) Phone App.'
+        workingWith: 'Working with swatrixsoft means your iPhone app will always be known for INCREDIBILITY --- Incredible = (i) Phone App.'
     },
     {
         name: 'Laravel',
@@ -2480,12 +2480,12 @@ export default [
         missionTwoTitle: 'It Takes A Mission-Driven Laravel Developers Team To Get Results Delivered',
         whatslable: 'Leverage Modern Web Development With LARAVEL',
         missionTwoDescription: `
-        <p>We at CMARIX provide industry acknowledged Laravel development services for modern enterprise websites across the niches. We have been into Laravel web development since the beginning of this framework and our Laravel developers with knack in all Laravel releases from Laravel 1.0 to 6.0 have produced countless dynamic web platforms using this technology.</p>
+        <p>We at swatrixsoft provide industry acknowledged Laravel development services for modern enterprise websites across the niches. We have been into Laravel web development since the beginning of this framework and our Laravel developers with knack in all Laravel releases from Laravel 1.0 to 6.0 have produced countless dynamic web platforms using this technology.</p>
         <p>Our team of dedicated Laravel developers accurately uses the latest methodologies to deliver highly adaptable, exclusive and complex applications that perfectly replicate the business requisites.
         </p>
         <p>Work with our experienced Laravel developers you just get a great development service to ensure turnkey delivery of your project, whether it’s work in an existing system or development from scratch. 
         </p>
-        <p>Hire Laravel developers from CMARIX to build your own successful technology product.</p>`,
+        <p>Hire Laravel developers from swatrixsoft to build your own successful technology product.</p>`,
         hireModels: [
             {
                 name: 'Full Time',
@@ -2618,14 +2618,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -2655,13 +2655,13 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means you will receive unparalleled Laravel development service from the best in this business.'
+        workingWith: 'Working with swatrixsoft means you will receive unparalleled Laravel development service from the best in this business.'
     },
     {
         name: 'NodeJS',
         routeName: 'hire-nodejs-developers.html',
         className: 'hire-nodejs-developers',
-        description: `We ensure SCRUM based execution when you hire an expert NodeJS developer from CMARIX for building strong backend and APIs for your enterprise platform. Hire NodeJS developers today to ensure the right technology decision for your project.`,
+        description: `We ensure SCRUM based execution when you hire an expert NodeJS developer from swatrixsoft for building strong backend and APIs for your enterprise platform. Hire NodeJS developers today to ensure the right technology decision for your project.`,
         hireLabel:'Hire NodeJS Developer',
         missionLabel: 'Success at Speak',
         missionTitle: 'We don’t just create web platforms; we create impactful experiences with robust backends that users love and your competitors envy. Our NodeJS development services have transformed the story of 122+ businesses. Whether back-end or front-end, our NodeJS skills will help you embark to market faster with rapid MVPs and incredibly scalable products.',
@@ -2677,7 +2677,7 @@ export default [
         </p>
         <p>We understand the importance of technology and its potential to bring change. It is a potent game changer of your business strategy and marketing endeavors. NodeJS that handles many concurrent events at times like chat or Twitter-like solutions in their runtime environment can stand as a best bet in this fast-moving era.</p>
         <p>Our NodeJS developer takes you deep into application architecture, technology best practices and your business needs to blend it with the potential of NodeJS, delivering you a fast and scalable app. Whether you need instant messenger, live audio - video streaming apps, complex single page applications, or real-time app, our NodeJS developers have honed the skills and experience to deliver results. They bring speed in production, efficiency of event-driven JavaScript to back-end functionalities with their NodeJS capabilities.</p>
-        <p>Our full-fledged standalone server-side application hits the market with outstanding results making CMARIX as an ultimate go-to-choice for back-end NodeJS services. Hire NodeJS developer to navigate today’s tech landscape with your business goals.
+        <p>Our full-fledged standalone server-side application hits the market with outstanding results making swatrixsoft as an ultimate go-to-choice for back-end NodeJS services. Hire NodeJS developer to navigate today’s tech landscape with your business goals.
         </p>
         `,
         hireModels: [
@@ -2812,14 +2812,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -2849,21 +2849,21 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means you will hit the market at pace and receive a product at cost less than you have anticipated.'
+        workingWith: 'Working with swatrixsoft means you will hit the market at pace and receive a product at cost less than you have anticipated.'
     },   
     {
         name: 'Shopify',
         routeName: 'hire-shopify-developers.html',
         className: 'hire-shopify-developers',
-        description: `CMARIX is a Shopify Partner providing expert eCommerce Shopify developer to work on most popular hosting eCommerce technology option i.e. Shopify store. Get Shopfied with our expert Shopify Developers.`,
+        description: `swatrixsoft is a Shopify Partner providing expert eCommerce Shopify developer to work on most popular hosting eCommerce technology option i.e. Shopify store. Get Shopfied with our expert Shopify Developers.`,
         hireLabel:'Hire Shopify Developer',
         missionLabel: 'Success at Speak',
-        missionTitle: 'Our Shopify developers have empowered <b>135+</b> eCommerce retailers with the power of Shopify platform made better with customization and integration excellence of CMARIX . We are often called eCommerce catalysts for providing eCommerce solutions that are faster-to-market, lean yet solid, and absolutely scalable. Our seasoned Shopify Plus talented developers, UI/UX designers, and brand strategists work with some amazing global brands. ',
+        missionTitle: 'Our Shopify developers have empowered <b>135+</b> eCommerce retailers with the power of Shopify platform made better with customization and integration excellence of swatrixsoft . We are often called eCommerce catalysts for providing eCommerce solutions that are faster-to-market, lean yet solid, and absolutely scalable. Our seasoned Shopify Plus talented developers, UI/UX designers, and brand strategists work with some amazing global brands. ',
         image: shopifyHire,
         imageAlt:'Hire Shopify Developers',
         hireModelTitle: 'Hire Dedicated <span>Shopify</span> Developers team at your flexibility. ',
         missionTwolabel: 'Our Shopify Talents',
-        missionTwoTitle: 'Hire Shopify Developers from CMARIX - A Shopify Partner Company',
+        missionTwoTitle: 'Hire Shopify Developers from swatrixsoft - A Shopify Partner Company',
         whatslable: 'Build To Sell',
         missionTwoDescription: `
         <p>Shopify is the most popular hosting eCommerce platform used by more than 1 million eCommerce businesses globally. It’s a self hosted platform which means you don’t need to worry about server, deployment etc. Majority of things in that regard are managed by Shopify. </p>
@@ -3001,14 +3001,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -3038,7 +3038,7 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means your project is executed by top Shopify Partner company of India.'
+        workingWith: 'Working with swatrixsoft means your project is executed by top Shopify Partner company of India.'
     },
     {
         name: 'Wordpress',
@@ -3052,11 +3052,11 @@ export default [
         imageAlt:'Hire Wordpress Developers',
         hireModelTitle: 'Hire Dedicated <span>WordPress</span> Developers team at your flexibility.',
         missionTwolabel: 'Our Expertise',
-        missionTwoTitle: 'CMARIX is a leading Enterprise Wordpress Development Company',
+        missionTwoTitle: 'swatrixsoft is a leading Enterprise Wordpress Development Company',
         whatslable: 'BIG Results With WordPress',
         missionTwoDescription: `
         <p>Are you challenged with the large-scale management of your CMS website? Thousands of pages? Number of content managers surrounded globally? Is traffic scaled incrementally everyday? No panic. Our WordPress developers will take you to the zone of WordPress excellence and design web platform that reflects the commitment.</p>
-        <p>With our essential focus on beautiful WordPress design and complex development, you can be certain and confident that the WordPress development team at CMARIX has knack with the industry driven best-practices and cutting-edge features. Actually, our interest in WordPress extends far beyond just CMS. CMARIX is a full-service enterprise WordPress agency, where you can find complete <b>WordPress development services</b> from classy design to full data migration, from API integrations to maintenance, whether you are - startups or an enterprise.</p>
+        <p>With our essential focus on beautiful WordPress design and complex development, you can be certain and confident that the WordPress development team at swatrixsoft has knack with the industry driven best-practices and cutting-edge features. Actually, our interest in WordPress extends far beyond just CMS. swatrixsoft is a full-service enterprise WordPress agency, where you can find complete <b>WordPress development services</b> from classy design to full data migration, from API integrations to maintenance, whether you are - startups or an enterprise.</p>
         <p>We do technical things like reducing the load time, increasing security, ensuring compliance, implementing third party extensions, APIs and much more with Wordpress. </p>
         <p>Hire WordPress developers from Wordpress VIP Agency
         </p>`,
@@ -3193,14 +3193,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -3230,7 +3230,7 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means you are working with Enterprise Wordpress company who are core contributors to Wordpress. '
+        workingWith: 'Working with swatrixsoft means you are working with Enterprise Wordpress company who are core contributors to Wordpress. '
     },
     {
         name: 'Automated Tester',
@@ -3239,7 +3239,7 @@ export default [
         description: `Our expertise as a company is delivering turnkey enterprise web and mobility solutions. We implement automated quality assurance methodology for enterprise projects to ensure streamlined quality assurance process and faster turnaround time. We have expertise in Selenium, Appium, IBM RFT and other automated QA testing frameworks.`,
         hireLabel:'Hire Automated Tester',
         missionLabel: 'We are Different',
-        missionTitle: 'CMARIX offers most automated testing solutions to deliver cutting-edge software. We provide comprehensiveintelligent  and highly scalable testing automation services powered by a flexible business model capable to deal with the speed, complexity and volume of modern businesses. Our testing solutions are designed to boost product quality, lower production cost and increase overall ROI.',
+        missionTitle: 'swatrixsoft offers most automated testing solutions to deliver cutting-edge software. We provide comprehensiveintelligent  and highly scalable testing automation services powered by a flexible business model capable to deal with the speed, complexity and volume of modern businesses. Our testing solutions are designed to boost product quality, lower production cost and increase overall ROI.',
         image: automatedHire,
         imageAlt:'Hire Automated Tester',
         hireModelTitle: 'Hire <span>Automated Developers</span> team at your flexibility. ',
@@ -3248,7 +3248,7 @@ export default [
         whatslable: 'Ensure Top Quality using CI-CD',
         missionTwoDescription: `
         <p>Our best in class Automated Selenium testers have proven experience in quality assuring enterprise products which includes combination of web platform, mobile platform as well as Desktop application. </p>
-        <p>Hire automation testers from CMARIX to implement enterprise projects using Continuous Integration and Continuous Delivery (CI-CD) methodology. CI-CD is the smartest work methodology required for executing enterprise projects. Automated testing is an integral part of CI/CD methodology as it allows you to test more frequently without additional overhead or any manual work. Priority of Automated testing is always to detect bugs as soon as possible, almost in near real time, so it can be addressed and corrected right away. </p>`,
+        <p>Hire automation testers from swatrixsoft to implement enterprise projects using Continuous Integration and Continuous Delivery (CI-CD) methodology. CI-CD is the smartest work methodology required for executing enterprise projects. Automated testing is an integral part of CI/CD methodology as it allows you to test more frequently without additional overhead or any manual work. Priority of Automated testing is always to detect bugs as soon as possible, almost in near real time, so it can be addressed and corrected right away. </p>`,
 
         hireModels: [
             {
@@ -3379,14 +3379,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -3416,7 +3416,7 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working at CMARIX means you have Digital Engineering Expertise with high Quality Automated Testing Assurance.'
+        workingWith: 'Working at swatrixsoft means you have Digital Engineering Expertise with high Quality Automated Testing Assurance.'
     },
     {
         name: 'FullStack',
@@ -3519,7 +3519,7 @@ export default [
             },
             {
                 title: 'Full Spectrum Skill Set',
-                description: 'Our inhouse team comprises of experts with diverse full stack capabilities and we ensure to provide you with best inclass talent from CMARIX which leads to higher productivity and ease of outsourcing.',
+                description: 'Our inhouse team comprises of experts with diverse full stack capabilities and we ensure to provide you with best inclass talent from swatrixsoft which leads to higher productivity and ease of outsourcing.',
                 image: team,
             },
             {
@@ -3568,14 +3568,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -3590,7 +3590,7 @@ export default [
         faqs: [
             {
                 title: 'How can I hire the best Full Stack Developer in India?',
-                answer: `CMARIX is one of the leading companies that helps you set up and manage dedicated teams for your full-stack development needs. You can just go to our website and check the 'Contact Us' option. There you have to drop details about yourself and the project. Once it's done, we will contact you.
+                answer: `swatrixsoft is one of the leading companies that helps you set up and manage dedicated teams for your full-stack development needs. You can just go to our website and check the 'Contact Us' option. There you have to drop details about yourself and the project. Once it's done, we will contact you.
                 We have expertise in MEAN, MERN, LAMP, Microsoft, OpenSource, Native & Cross platform mobile technology stack. We are also an AWS partner company as well as have expertise on MS-Azure and Google Cloud.`
             },
             {
@@ -3598,12 +3598,12 @@ export default [
                 answer: 'Yes, of course. You can hire full-stack developers in India on a full-time, part-time, and hourly basis. In fact most of our Hire Full Stack developer services are monthly or long term engagement contracts since it provides higher productivity and turnkey implementation to our clients.'
             },
             {
-                title: 'How much experience CMARIX has in full-stack development?',
+                title: 'How much experience swatrixsoft has in full-stack development?',
                 answer: 'We have a successful track record of over a decade of turnkey service delivery and providing offshore developers on hire. Our full stack developers have a minimum of 5+ years of core experience in given technology.'
             },
             {
                 title: 'What full-stack development technologies do you guys work on?',
-                answer: 'CMARIX has a dedicated team under full-stack development. Here, the development section offers expertise on MEAN stack developers, MERN Stack developers. We even work on iOS +Flutter Development, Full-Stack Frontend Development, Backend Full Stack Development and so on. So, contact us and hire full-stack developers in India!.'
+                answer: 'swatrixsoft has a dedicated team under full-stack development. Here, the development section offers expertise on MEAN stack developers, MERN Stack developers. We even work on iOS +Flutter Development, Full-Stack Frontend Development, Backend Full Stack Development and so on. So, contact us and hire full-stack developers in India!.'
             },
             {
                 title: 'How skilled and experienced are your remote full-stack developers?',
@@ -3614,13 +3614,13 @@ export default [
                 answer: 'At CMARIX, once we receive your formal confirmation it takes approx. 1 week to set up the operations and bring developer (s) onboard. During this 1 week period we set up the Project management and Version control systems as well as have an introduction - kick off call with the SCRUM Master to plan sprints of design - development in advance.'
             }
         ],
-        workingWith: 'Working with CMARIX means code is clean, quality assurance is thorough and deployment is perfect.'
+        workingWith: 'Working with swatrixsoft means code is clean, quality assurance is thorough and deployment is perfect.'
     },
     {
         name: 'Cross Platform',
         routeName: 'hire-cross-platform-developer.html',
         className: 'hire-cross-platform-developer',
-        description: `<p>Cross-platform app developers at CMARIX are forging the future with BEYOND NATIVE experiences. We are bringing value to the web with our customized cross-platform app development services while pushing the boundaries of platforms through  maximum code reusability and design skills. Share your idea to benefit from cross platform mobility.</p>`,
+        description: `<p>Cross-platform app developers at swatrixsoft are forging the future with BEYOND NATIVE experiences. We are bringing value to the web with our customized cross-platform app development services while pushing the boundaries of platforms through  maximum code reusability and design skills. Share your idea to benefit from cross platform mobility.</p>`,
         hireLabel:'Hire Cross Platform Developer',
         missionLabel: 'Success at Speak',
         missionTitle: 'At <b>CMARIX</b> we recommend cross platform mobile apps to our customers depending on the concept of the application to ensure they receive the benefit of reduction of time and cost to launch their mobile or tablet application.',
@@ -3631,7 +3631,7 @@ export default [
         missionTwoTitle: 'We Do SMART THINGS With Code Reusability To Bring The Big Result ',
         whatslable: 'Competitive Cross-platform App Development Services',
         missionTwoDescription: `
-        <p>Do Big. Do Differently. Cross-platform expertise makes us do BIG differently. When the word is about hybrid apps, CMARIX boldly redefines success measures.</p>
+        <p>Do Big. Do Differently. Cross-platform expertise makes us do BIG differently. When the word is about hybrid apps, swatrixsoft boldly redefines success measures.</p>
         <p>We go smart with our cross-platform skills and deliver applications that have native standards in minimum time with great development efforts. The medley of smart native approaches and potent cross-platform talent help us to hit the charts of cross-platform mobile app development &ndash; that's how we do DIFFERENT.</p>
         <p>Being the leading Cross-platform app development company, we have quite well-defined processes and finest cross-platform app developers that make it possible to deploy hundreds of full-fledged applications loved by users. With experience in different platforms like Flutter, Ionic, Xamarin, or React native, breaking the mobile app industry verticals is a cinch &ndash; that&rsquo;s how we do BIG.</p>
         <p>Do BIG and DIFFERENT with our highly productive Cross-Platform app developers. </p>`,
@@ -3768,14 +3768,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -3805,13 +3805,13 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means, with leverage of latest technologies and cost-effective solutions your success for tomorrow is definite.'
+        workingWith: 'Working with swatrixsoft means, with leverage of latest technologies and cost-effective solutions your success for tomorrow is definite.'
     },
     {
         name: 'Cross Platform',
         routeName: 'xamarin-mobile-app-development-company-india.html',
         className: 'hire-cross-platform-developer',
-        description: `<p><span style="font-weight: 400;">Cross-platform app developers at CMARIX are </span><strong>forging the future</strong><span style="font-weight: 400;"> with </span><strong>BEYOND NATIVE</strong><span style="font-weight: 400;"> experiences. We are bringing value to the web with our customized cross-platform app development services while pushing the boundaries of platforms through </span><strong>maximum code reusability</strong><span style="font-weight: 400;"> and design skills. Share your idea to benefit from </span><strong>cross platform mobility</strong><span style="font-weight: 400;">.</span></p>`,
+        description: `<p><span style="font-weight: 400;">Cross-platform app developers at swatrixsoft are </span><strong>forging the future</strong><span style="font-weight: 400;"> with </span><strong>BEYOND NATIVE</strong><span style="font-weight: 400;"> experiences. We are bringing value to the web with our customized cross-platform app development services while pushing the boundaries of platforms through </span><strong>maximum code reusability</strong><span style="font-weight: 400;"> and design skills. Share your idea to benefit from </span><strong>cross platform mobility</strong><span style="font-weight: 400;">.</span></p>`,
         missionLabel: 'Success at Speak',
         missionTitle: 'At <b>CMARIX</b> we recommend cross platform mobile apps to our customers depending on the concept of the application to ensure they receive the benefit of reduction of time and cost to launch their mobile or tablet application.',
         image: crossHire,
@@ -3821,7 +3821,7 @@ export default [
         missionTwoTitle: 'We Do SMART THINGS With Code Reusability To Bring The Big Result ',
         whatslable: 'Competitive Cross-platform App Development Services',
         missionTwoDescription: `
-        <p><span style="font-weight: 400;">Do Big. Do Differently. Cross-platform expertise makes us do BIG differently. When the word is about hybrid apps, CMARIX boldly redefines success measures.&nbsp;</span></p>
+        <p><span style="font-weight: 400;">Do Big. Do Differently. Cross-platform expertise makes us do BIG differently. When the word is about hybrid apps, swatrixsoft boldly redefines success measures.&nbsp;</span></p>
         <p><span style="font-weight: 400;">We go smart with our cross-platform skills and deliver applications that have native standards in minimum time with great development efforts. The medley of smart native approaches and potent cross-platform talent help us to hit the charts of cross-platform mobile app development &ndash; that's how we do </span><strong>DIFFERENT</strong><span style="font-weight: 400;">.&nbsp;</span></p>
         <p><span style="font-weight: 400;">Being the leading Cross-platform app development company, we have quite well-defined processes and finest cross-platform app developers that make it possible to deploy hundreds of full-fledged applications loved by users.&nbsp; With experience in different platforms like Flutter, Ionic, Xamarin, or React native, breaking the mobile app industry verticals is a cinch &ndash; that&rsquo;s how we do </span><strong>BIG.</strong><span style="font-weight: 400;">&nbsp;</span></p>
         <p><span style="font-weight: 400;">Do BIG and DIFFERENT with our highly productive Cross-Platform app developers. </span></p>`,
@@ -3958,14 +3958,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -3995,13 +3995,13 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means, with leverage of latest technologies and cost-effective solutions your success for tomorrow is definite.'
+        workingWith: 'Working with swatrixsoft means, with leverage of latest technologies and cost-effective solutions your success for tomorrow is definite.'
     },
     {
         name: 'Cross Platform',
         routeName: 'phonegap-application-development-company-india.html',
         className: 'hire-cross-platform-developer',
-        description: `<p><span style="font-weight: 400;">Cross-platform app developers at CMARIX are </span><strong>forging the future</strong><span style="font-weight: 400;"> with </span><strong>BEYOND NATIVE</strong><span style="font-weight: 400;"> experiences. We are bringing value to the web with our customized cross-platform app development services while pushing the boundaries of platforms through </span><strong>maximum code reusability</strong><span style="font-weight: 400;"> and design skills. Share your idea to benefit from </span><strong>cross platform mobility</strong><span style="font-weight: 400;">.</span></p>`,
+        description: `<p><span style="font-weight: 400;">Cross-platform app developers at swatrixsoft are </span><strong>forging the future</strong><span style="font-weight: 400;"> with </span><strong>BEYOND NATIVE</strong><span style="font-weight: 400;"> experiences. We are bringing value to the web with our customized cross-platform app development services while pushing the boundaries of platforms through </span><strong>maximum code reusability</strong><span style="font-weight: 400;"> and design skills. Share your idea to benefit from </span><strong>cross platform mobility</strong><span style="font-weight: 400;">.</span></p>`,
         missionLabel: 'Success at Speak',
         missionTitle: 'At <b>CMARIX</b> we recommend cross platform mobile apps to our customers depending on the concept of the application to ensure they receive the benefit of reduction of time and cost to launch their mobile or tablet application.',
         image: crossHire,
@@ -4011,7 +4011,7 @@ export default [
         missionTwoTitle: 'We Do SMART THINGS With Code Reusability To Bring The Big Result ',
         whatslable: 'Competitive Cross-platform App Development Services',
         missionTwoDescription: `
-        <p><span style="font-weight: 400;">Do Big. Do Differently. Cross-platform expertise makes us do BIG differently. When the word is about hybrid apps, CMARIX boldly redefines success measures.&nbsp;</span></p>
+        <p><span style="font-weight: 400;">Do Big. Do Differently. Cross-platform expertise makes us do BIG differently. When the word is about hybrid apps, swatrixsoft boldly redefines success measures.&nbsp;</span></p>
         <p><span style="font-weight: 400;">We go smart with our cross-platform skills and deliver applications that have native standards in minimum time with great development efforts. The medley of smart native approaches and potent cross-platform talent help us to hit the charts of cross-platform mobile app development &ndash; that's how we do </span><strong>DIFFERENT</strong><span style="font-weight: 400;">.&nbsp;</span></p>
         <p><span style="font-weight: 400;">Being the leading Cross-platform app development company, we have quite well-defined processes and finest cross-platform app developers that make it possible to deploy hundreds of full-fledged applications loved by users.&nbsp; With experience in different platforms like Flutter, Ionic, Xamarin, or React native, breaking the mobile app industry verticals is a cinch &ndash; that&rsquo;s how we do </span><strong>BIG.</strong><span style="font-weight: 400;">&nbsp;</span></p>
         <p><span style="font-weight: 400;">Do BIG and DIFFERENT with our highly productive Cross-Platform app developers. </span></p>`,
@@ -4148,14 +4148,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -4185,13 +4185,13 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means, with leverage of latest technologies and cost-effective solutions your success for tomorrow is definite.'
+        workingWith: 'Working with swatrixsoft means, with leverage of latest technologies and cost-effective solutions your success for tomorrow is definite.'
     },
     {
         name: 'Magento',
         routeName: 'hire-magento-developer.html',
         className: 'hire-magento-developer',
-        description: `<p><span style="font-weight: 400;">Trained and led by an entrepreneurial passion, eCommerce developers at CMARIX take client&rsquo;s business as their own. Our dedicated certified Magento developers are focused to make the shopping experience personal, powerful and rewarding for your end customers.&nbsp;</span></p>
+        description: `<p><span style="font-weight: 400;">Trained and led by an entrepreneurial passion, eCommerce developers at swatrixsoft take client&rsquo;s business as their own. Our dedicated certified Magento developers are focused to make the shopping experience personal, powerful and rewarding for your end customers.&nbsp;</span></p>
         <p><span style="font-weight: 400;">Hire certified Magento developer to explore your </span><strong>journey from retail brand to an eCommerce leader</strong><span style="font-weight: 400;">.</span></p>`,
         hireLabel:'Hire Magento Developer',
         missionLabel: 'Success at Speak',
@@ -4203,9 +4203,9 @@ export default [
         missionTwoTitle: 'We are top of the line experts when it comes to Magento',
         whatslable: 'Bring our Magento talent onboard',
         missionTwoDescription: `
-        <p><span style="font-weight: 400;">In the era of on-demand needs, digital experience reflects the brands image and reliability. The better the shopping experiences, the higher the ROI. Custom solutions are not predefined and needs vary based on domain, geography and business needs. They are driven by proper planning with digital strategy. These strategies when turned into appealing user experiences are brought to life with robust engineering and cutting-edge skills, calls for an expert Magento developer. That&rsquo;s where CMARIX will add tremendous value.&nbsp;</span></p>
+        <p><span style="font-weight: 400;">In the era of on-demand needs, digital experience reflects the brands image and reliability. The better the shopping experiences, the higher the ROI. Custom solutions are not predefined and needs vary based on domain, geography and business needs. They are driven by proper planning with digital strategy. These strategies when turned into appealing user experiences are brought to life with robust engineering and cutting-edge skills, calls for an expert Magento developer. That&rsquo;s where swatrixsoft will add tremendous value.&nbsp;</span></p>
         <p><span style="font-weight: 400;">Drawing on the wealth of Magento expertise, we partner with businesses of all sizes to build and optimize all facets of a successful eCommerce journey. The practice of blending technical know-how, design abilities and analytics builds a history that scales and last.</span></p>
-        <p><span style="font-weight: 400;">From a Minimal Viable Product (MVP) to a full-fledged enterprise grade online store with SAP integration - certified Magento developers at CMARIX build business websites that make you feel easy and intuitive. That&rsquo;s our genius. </span></p>
+        <p><span style="font-weight: 400;">From a Minimal Viable Product (MVP) to a full-fledged enterprise grade online store with SAP integration - certified Magento developers at swatrixsoft build business websites that make you feel easy and intuitive. That&rsquo;s our genius. </span></p>
         <p>Hire Magento developer for smooth and efficient eCommerce experiences.</p>`,
 
         hireModels: [
@@ -4340,14 +4340,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -4377,7 +4377,7 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means you have partnered with leading Magento development company with expertise in eCommerce.'
+        workingWith: 'Working with swatrixsoft means you have partnered with leading Magento development company with expertise in eCommerce.'
     },
     {
         name: 'Manual Tester',
@@ -4396,8 +4396,8 @@ export default [
         missionTwoTitle: 'Delivering Quality Has Become Our Birthright',
         whatslable: 'Ensuring Quality With Manual Testing',
         missionTwoDescription: `
-        <p>The importance of manual testing is well known for evaluating any software application whether it’s web platform, mobile or desktop application. When it comes to hiring manual testers for your project, CMARIX comes as one of the leading choices just because of the kind of people and process we have. At CMARIX, we offer a stand-alone and expertise driven manual testing quality assurance service to carry out rigorous testing. </p>
-        <p>With years of experience and track record behind us as a manual testing company, CMARIX offers some of the industry's best testing professionals. We boast of a team of testers well versed with latest testing tools, time-tested testing methodologies and solid track record.</p>`,
+        <p>The importance of manual testing is well known for evaluating any software application whether it’s web platform, mobile or desktop application. When it comes to hiring manual testers for your project, swatrixsoft comes as one of the leading choices just because of the kind of people and process we have. At CMARIX, we offer a stand-alone and expertise driven manual testing quality assurance service to carry out rigorous testing. </p>
+        <p>With years of experience and track record behind us as a manual testing company, swatrixsoft offers some of the industry's best testing professionals. We boast of a team of testers well versed with latest testing tools, time-tested testing methodologies and solid track record.</p>`,
 
         hireModels: [
             {
@@ -4531,14 +4531,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -4568,7 +4568,7 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means you have chosen a company that solves problem before the time. '
+        workingWith: 'Working with swatrixsoft means you have chosen a company that solves problem before the time. '
     },
     {
         name: 'Mean Stack',
@@ -4586,9 +4586,9 @@ export default [
         missionTwolabel: 'Our MEAN Stack Talent',
         missionTwoTitle: 'Hire MEAN Stack Developers To deliver latest technology',
         missionTwoDescription: `
-        <p>Innovative applications that emphasize on having right architecture as well as faster development time have the power to turn the tables of your business. CMARIX is a MEAN Stack development company with full stack services which includes all versions of Angular as well as NodeJS and their seamless combination.</p>
+        <p>Innovative applications that emphasize on having right architecture as well as faster development time have the power to turn the tables of your business. swatrixsoft is a MEAN Stack development company with full stack services which includes all versions of Angular as well as NodeJS and their seamless combination.</p>
         <p>We have been ranked as one of the most successful fullstack development companies with a credible track record and a robust portfolio of apps developed for diverse niches. We boast experienced MEAN stack developers to build highly agile, scalable and feature-rich software solutions for any business.</p>
-        <p>Hire MEAN stack developers from CMARIX to get the competitive edge with superior performance and rich user experience benefits. We have over a decade of experience in custom web projects using NodeJs, Mongo DB, Angular and ExpressJs, with deployment on different cloud servers as well as serverless architecture. </p>`,
+        <p>Hire MEAN stack developers from swatrixsoft to get the competitive edge with superior performance and rich user experience benefits. We have over a decade of experience in custom web projects using NodeJs, Mongo DB, Angular and ExpressJs, with deployment on different cloud servers as well as serverless architecture. </p>`,
 
         hireModels: [
             {
@@ -4722,14 +4722,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -4759,7 +4759,7 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means you are using the latest technologies like MEAN Stack to bring long term success to your technology product.'
+        workingWith: 'Working with swatrixsoft means you are using the latest technologies like MEAN Stack to bring long term success to your technology product.'
     },
     {
         name: 'Mern Stack',
@@ -4768,7 +4768,7 @@ export default [
         description: `We are great at MERN Stack which comprises MongoDB, Express.js, React, Node.js. React as the name suggests is among the fastest frontend technology and NodeJS is a powerful Javascript driven stack, when they come together you get the best of powerful performance and scalability for your enterprise web platform.`,
         hireLabel:"Hire Mern Stack Developer",
         missionLabel: 'We are Different',
-        missionTitle: `CMARIX’s <b>MERN</b> development services capitalize on wealth of experience in developing full-stack applications for enterprise and startups. With industry-wide experience and expertise in developing customer solutions, MERN developers team at CMARIX leverage the best use of MongoDB, Express JS, ReactJS and NodeJS to deliver a class application.`,
+        missionTitle: `CMARIX’s <b>MERN</b> development services capitalize on wealth of experience in developing full-stack applications for enterprise and startups. With industry-wide experience and expertise in developing customer solutions, MERN developers team at swatrixsoft leverage the best use of MongoDB, Express JS, ReactJS and NodeJS to deliver a class application.`,
         image: mernHire,
         imageAlt: 'Hire Mern Stack Developer',
         hireModelTitle: 'Hire Dedicated <span>MERN</span> Stack Developers team at your flexibility.',
@@ -4776,10 +4776,10 @@ export default [
         missionTwoTitle: 'Hire MERN Developers To Develop Robust Enterprise Web Platform',
         whatslable: 'Develop Enterprise Grade Custom Web Platform',
         missionTwoDescription: `<p>
-        Widely popular MERN stack consisting of MongoDB, Express.js, React, Node.js offers the best technology combination for frontend, backend, database and infrastructure. To shape your web and mobile app with high performance output and versatility hire MERN stack developers from CMARIX with decades of solid experience and exceptional track record. At CMARIX we ensure a quick, smooth delivery of dynamic projects with senior MERN stack developers who have lead the development across multitude of challenging projects. 
+        Widely popular MERN stack consisting of MongoDB, Express.js, React, Node.js offers the best technology combination for frontend, backend, database and infrastructure. To shape your web and mobile app with high performance output and versatility hire MERN stack developers from swatrixsoft with decades of solid experience and exceptional track record. At swatrixsoft we ensure a quick, smooth delivery of dynamic projects with senior MERN stack developers who have lead the development across multitude of challenging projects. 
         </p>
         <p>
-        As a leading MERN stack development company, CMARIX offers some of the best developers with proven MERN stack expertise. Our developers when using the MERN stack ensures implementing the key strengths of the technology stack for shaping superior user experience and efficient output of web and mobile apps.
+        As a leading MERN stack development company, swatrixsoft offers some of the best developers with proven MERN stack expertise. Our developers when using the MERN stack ensures implementing the key strengths of the technology stack for shaping superior user experience and efficient output of web and mobile apps.
         </p>
         `,
 
@@ -4915,14 +4915,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -4941,19 +4941,19 @@ export default [
             },
             {
                 title: 'What are the simple steps to hire a MERN Stack developer?',
-                answer: 'You can simply fill out the inquiry form or email us on biz@cmarix.com so our team can get in touch with you to understand the business requirements and provide corresponding solutions for the same.'
+                answer: 'You can simply fill out the inquiry form or email us on swatrixsoft@gmail.com so our team can get in touch with you to understand the business requirements and provide corresponding solutions for the same.'
             },
             {
                 title: 'Does it cost a lot to build your next web app with MERN Stack?',
                 answer: 'Not at all.  Though the technology is very superior, you can hire MERN stack developers India at an affordable price. Moreover, one developer can take responsibility for the entire project; thus, the developing cost reduces. Furthermore, when you hire developer (s) from CMARIX, we also provide a Technical Project Lead - SCRUM master without any additional charges.'
             },
             {
-                title: 'Can CMARIX be the ideal company for my MERN stack development project?',
+                title: 'Can swatrixsoft be the ideal company for my MERN stack development project?',
                 answer: 'Yes. MERN stack is among our core expertise. We were among the very few companies in India who started working in Angular ever since it was launched.  We possess an industry experience of 10+ years and take pride in our skillful developers who work precisely on each project to make it a technical excellence.'
             },
             {
                 title: 'How much does it cost to hire a MERN stack developer?',
-                answer: 'Pricing for hiring MERN Stack developer varies based on the required experience level,  hire duration and number of resources. Please contact us via inquiry form or email us on biz@cmarix.com for more detailing on the same.'
+                answer: 'Pricing for hiring MERN Stack developer varies based on the required experience level,  hire duration and number of resources. Please contact us via inquiry form or email us on swatrixsoft@gmail.com for more detailing on the same.'
             },
             {
                 title: 'How do I communicate & get in touch with my hired MERN stack developer?',
@@ -4961,16 +4961,16 @@ export default [
                 When you hire MERN Stack developer (s) from us, we provide Technical Project Lead - SCRUM Master without any additional charges to ensure SCRUM based execution, thereby higher production from our team.`
             }
         ],
-        workingWith: 'Working with CMARIX means we deliver the digital presence which your brand deserves. Outsourcing Simplification and successful results guaranteed.'
+        workingWith: 'Working with swatrixsoft means we deliver the digital presence which your brand deserves. Outsourcing Simplification and successful results guaranteed.'
     },
     {
         name: 'Mobile App',
         routeName: 'hire-mobile-app-developer.html',
         className: 'hire-mobile-app-developer',
-        description: `Extend your horizons with a market-ready mobile application which will place your business into the hands of users for any kind of device. CMARIX stands by you from development to launch, through all design and features validation to bring you a go-to-market custom app that boosts revenue and presence.
+        description: `Extend your horizons with a market-ready mobile application which will place your business into the hands of users for any kind of device. swatrixsoft stands by you from development to launch, through all design and features validation to bring you a go-to-market custom app that boosts revenue and presence.
         `,
         missionLabel: 'Success At Speak',
-        missionTitle: `You are an EXPERT in your business. So are WE. The entrepreneurs choose us as we have great technical proficiency they don’t. With a bunch of successful applications (146+ in numbers), the mobile app developers at CMARIX guarantees expertise and a deep bench that can work on your mobile strategy quickly and efficiently than any other team.  The strength of 30+ developers makes our mobile app development team robust to develop an app BEYOND NATIVE.
+        missionTitle: `You are an EXPERT in your business. So are WE. The entrepreneurs choose us as we have great technical proficiency they don’t. With a bunch of successful applications (146+ in numbers), the mobile app developers at swatrixsoft guarantees expertise and a deep bench that can work on your mobile strategy quickly and efficiently than any other team.  The strength of 30+ developers makes our mobile app development team robust to develop an app BEYOND NATIVE.
         `,
         image: startupIcon,
         imageAlt: 'Hire Mobile App Developers',
@@ -5105,14 +5105,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -5134,8 +5134,8 @@ export default [
                 answer: 'When you hire Mobile app developer (s) from us, we provide Technical Project Lead - SCRUM Master without any additional charges to ensure SCRUM based execution, thereby higher production from our team. We provide competitive pricing and robust quality, thereby ensuring you have higher ROI from our services.'
             },
             {
-                title: 'Does CMARIX offer post-development support and maintenance for mobile applications?',
-                answer: 'Hire a dedicated app developer to get bespoke maintenance support after app launch. App Maintenance Services from CMARIX can be used for fixing bugs, adding features, re-designing applications, optimizing conversions and much more.'
+                title: 'Does swatrixsoft offer post-development support and maintenance for mobile applications?',
+                answer: 'Hire a dedicated app developer to get bespoke maintenance support after app launch. App Maintenance Services from swatrixsoft can be used for fixing bugs, adding features, re-designing applications, optimizing conversions and much more.'
             },
             {
                 title: 'Can I communicate with my hired mobile app engineer?',
@@ -5150,7 +5150,7 @@ export default [
                 answer: 'We streamline the execution process using SCRUM and ensure utilizing Project management and Version control tools for your complete clarity. With daily SCRUM calls and code release you will have day to day tracking of the project progress and complete control over the work done.'
             }
         ],
-        workingWith: 'Working with CMARIX means a team standing next to you from all mobile app development phases – idea validation to launch, every feature update – delivering you a market-ready app for your users.'
+        workingWith: 'Working with swatrixsoft means a team standing next to you from all mobile app development phases – idea validation to launch, every feature update – delivering you a market-ready app for your users.'
     },
     {
         name: 'PHP',
@@ -5169,8 +5169,8 @@ export default [
         whatslable: 'Bring INCREDIBILITY With PHP',
         missionTwoDescription: `
         <p>Your Web platform is the key for your brand’s image – not just for the product or service you provide, but for the experience you promise. A wrong move can viably get you disconnected with your users. With our expert PHP development services we put user’s needs at the forefront. We develop code that creates a brave impact and gets an overwhelming attention.</p>
-        <p>Our end-to-end PHP development service lays the required groundwork and provides a dominating solution for any kind of CMS websites, eCommerce, social networking, e-learning, CRM, portals and bespoke web platforms. With wide technical breadth and experience, PHP developers at CMARIX leverages the power of PHP frameworks like Laravel, Zend, Yii, Symfony and more to enable quick deployment of large enterprise projects and elevate the time-to-market. With our Hire PHP developers model you can get access to a large pool of customized PHP development teams that can work on one or more projects as per your business needs. </p>
-        <p>Hire PHP Developers from CMARIX to save your time and money, whereby you receive enterprise PHP solutions at a highly affordable price.</p>`,
+        <p>Our end-to-end PHP development service lays the required groundwork and provides a dominating solution for any kind of CMS websites, eCommerce, social networking, e-learning, CRM, portals and bespoke web platforms. With wide technical breadth and experience, PHP developers at swatrixsoft leverages the power of PHP frameworks like Laravel, Zend, Yii, Symfony and more to enable quick deployment of large enterprise projects and elevate the time-to-market. With our Hire PHP developers model you can get access to a large pool of customized PHP development teams that can work on one or more projects as per your business needs. </p>
+        <p>Hire PHP Developers from swatrixsoft to save your time and money, whereby you receive enterprise PHP solutions at a highly affordable price.</p>`,
 
         hireModels: [
             {
@@ -5304,14 +5304,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -5341,13 +5341,13 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means your project is executed with a top PHP development company, whereby we take complete ownership of the work leading to successful project launch. '
+        workingWith: 'Working with swatrixsoft means your project is executed with a top PHP development company, whereby we take complete ownership of the work leading to successful project launch. '
     },
     {
         name: 'ReactJS',
         routeName: 'hire-react-developers.html',
         className: 'hire-react-developer',
-        description: `ReactJs developers at CMARIX are as passionate about your idea as you are. They take great pride in implementing JavaScript libraries to build ReactJS based frontend interfaces which is among the fastest among all technologies.`,
+        description: `ReactJs developers at swatrixsoft are as passionate about your idea as you are. They take great pride in implementing JavaScript libraries to build ReactJS based frontend interfaces which is among the fastest among all technologies.`,
         hireLabel:'Hire ReactJS Developer',
         missionLabel: 'Success at Speak',
         missionTitle: `With 65+ ReactJS applications delivered successfully under our belt, our concrete action to utilize different aspects of the javascript library into the project have proved worthwhile. Our industry-centric expertise empowers us to grab the unique edge formula for your business and work on any project irrelevance of the complexity. 
@@ -5360,7 +5360,7 @@ export default [
         whatslable: `Let's Scale`,
         missionTwoDescription: `
         <p>React, an open source JavaScript framework used for creating dynamic interfaces is highly in vogue. This powerful enterprise-UI framework promotes the reuse of components that helps us to deliver designs that are persistent and sound. React is right fit for businesses who want to develop an innovative and user-centric application from scratch or one that needs to replace a large part of an existing app. </p>
-        <p>React developers at CMARIX have advanced skills and profound frontend expertise – we help you deliver speed, scalability and efficiency for any kind of complex web apps or single page applications that stand the test of time and delights users with its first impression. Pick any flexible hiring options to hire remote React developers or team to unwrap the potential of our ReactJs Development services.</p>`,
+        <p>React developers at swatrixsoft have advanced skills and profound frontend expertise – we help you deliver speed, scalability and efficiency for any kind of complex web apps or single page applications that stand the test of time and delights users with its first impression. Pick any flexible hiring options to hire remote React developers or team to unwrap the potential of our ReactJs Development services.</p>`,
         hireModels: [
             {
                 name: 'Full Time',
@@ -5494,14 +5494,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -5520,7 +5520,7 @@ export default [
             },
             {
                 title: 'How much does it cost to hire a React developer?',
-                answer: 'Hire ReactNative Developers in India at the most affordable price at CMARIX. Cost of Hiring ReactNative developer varies based on the experience level, contract duration and number of resources hired. Please fill in the inquiry form or contact us on biz@cmarix.com for more details.'
+                answer: 'Hire ReactNative Developers in India at the most affordable price at CMARIX. Cost of Hiring ReactNative developer varies based on the experience level, contract duration and number of resources hired. Please fill in the inquiry form or contact us on swatrixsoft@gmail.com for more details.'
             },
             {
                 title: 'How hiring React developers can benefit your business?',
@@ -5540,13 +5540,13 @@ export default [
                 We are also great when it comes to app re-designing. You can review our design work at: https://dribbble.com/CMARIXTechnoLabs `
             },
         ],
-        workingWith: 'Working with CMARIX means you have among the best ReactJS developers from the technology ecosystem of India.'
+        workingWith: 'Working with swatrixsoft means you have among the best ReactJS developers from the technology ecosystem of India.'
     },
     {
         name: 'WooCommerce',
         routeName: 'hire-woocommerce-developers.html',
         className: 'hire-woocommerce-developer',
-        description: `WooCommerce is a great choice for eCommerce implementation with Wordpress for small and mid size eCommerce companies. CMARIX has been helping companies solve scalability, performance and design challenges for eCommerce implementation with WooCommerce.`,
+        description: `WooCommerce is a great choice for eCommerce implementation with Wordpress for small and mid size eCommerce companies. swatrixsoft has been helping companies solve scalability, performance and design challenges for eCommerce implementation with WooCommerce.`,
         hireLabel:'Hire WooCommerce Developer',
         missionLabel: 'Success At Speak',
         missionTitle: `WooCommerce developers live on the unique edge to design and deliver game-changing solutions. We have created <b>224+</b> online WooCommerce stores with power-packed performance, beautiful customizations and hi-tech integrations. Our eCommerce development team knows the best practices and usability experience required to make any eCommerce business a success.`,
@@ -5558,7 +5558,7 @@ export default [
         whatslable: 'Make Your Online Store A Brand',
         missionTwoDescription: `
         <p>The ease of startup, innumerable options of theme and extensions makes Wordpress - WooCommerce as an idea choice for eCommerce for small to medium size businesses. At CMARIX, we have over 10+ years of experience in enterprise WooCommerce implementation and we have helped global brands transform their business. Success for any eCommerce website requires beautiful user interface and smart user experience, great loading speed, several call to actions, strong digital marketing as well as optimum security standards. </p>
-        <p>WooCommerce Developers at CMARIX take pride in optimizing and customizing WooCommerce to the next level. We are core contributors to open source community and take pride in providing excellent service to our customers. </p>
+        <p>WooCommerce Developers at swatrixsoft take pride in optimizing and customizing WooCommerce to the next level. We are core contributors to open source community and take pride in providing excellent service to our customers. </p>
         <p>Our WooCommerce developers are extremely productive and highly affordable. Moreover, Hire Dedicated WooCommerce developer is a very flexible working model. </p>`,
 
         hireModels: [
@@ -5693,14 +5693,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -5730,13 +5730,13 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means your eCommerce website is managed by experts who do this 24x7.'
+        workingWith: 'Working with swatrixsoft means your eCommerce website is managed by experts who do this 24x7.'
     },
     {
         name: 'Web',
         routeName: 'hire-web-developers.html',
         className: 'hire-web-developer',
-        description: `Web development lies at our core. With over a decade of experience in web development and clients across the globe we are a solid web development company. Hire Web developer from CMARIX as we work on more than 95% of trending web technologies which are globally available right now.
+        description: `Web development lies at our core. With over a decade of experience in web development and clients across the globe we are a solid web development company. Hire Web developer from swatrixsoft as we work on more than 95% of trending web technologies which are globally available right now.
         `,
         hireLabel:'Hire Web Developer',
         missionLabel: 'Our Promise',
@@ -5832,7 +5832,7 @@ export default [
         hireHelp: [
             {
                 title: 'Result-Oriented Approach',
-                description: 'Hire Web Developer at CMARIX is the most requested service from our agency customers across the globe, as developers can work on multiple projects at same time plus they can be scaled based on your business needs.',
+                description: 'Hire Web Developer at swatrixsoft is the most requested service from our agency customers across the globe, as developers can work on multiple projects at same time plus they can be scaled based on your business needs.',
                 image: moneybag
             },
             {
@@ -5886,14 +5886,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -5908,7 +5908,7 @@ export default [
         faqs: [
             {
                 title: 'My Web platform is already developed. Can you help build on top of it?',
-                answer: 'Hire dedicated web developers from CMARIX to work on existing web platforms and optimize it, redesign it as well as implement the next phase of turnkey development services based on your business needs.'
+                answer: 'Hire dedicated web developers from swatrixsoft to work on existing web platforms and optimize it, redesign it as well as implement the next phase of turnkey development services based on your business needs.'
             },
             {
                 title: 'Are your web developers proficient in building SEO-friendly websites?',
@@ -5916,7 +5916,7 @@ export default [
             },
             {
                 title: 'How does the web developer work with me?',
-                answer: 'Hiring Web developers from CMARIX is a very streamlined process. We provide Sr. Developer based on the technology requirement. We have set project management and version control systems in place to ensure your complete control over the work done. Developer works in a local environment and provides a weekly demo to you on the staging server so you have a complete idea of the work progress. On work completion, the completed project gets deployed to the Production environment.'
+                answer: 'Hiring Web developers from swatrixsoft is a very streamlined process. We provide Sr. Developer based on the technology requirement. We have set project management and version control systems in place to ensure your complete control over the work done. Developer works in a local environment and provides a weekly demo to you on the staging server so you have a complete idea of the work progress. On work completion, the completed project gets deployed to the Production environment.'
             },
             {
                 title: 'What are the languages your web developers are skilled with?',
@@ -5924,7 +5924,7 @@ export default [
             },
             {
                 title: 'How much does it cost to hire a web developer?',
-                answer: 'Hire dedicated web developers at an affordable price. The exact cost of the development depends on the technology required, experience level and contract duration. Please fill in the inquiry form or email us on biz@cmarix.com for specific information.'
+                answer: 'Hire dedicated web developers at an affordable price. The exact cost of the development depends on the technology required, experience level and contract duration. Please fill in the inquiry form or email us on swatrixsoft@gmail.com for specific information.'
             },
             {
                 title: 'Do you sign NDA with your developers?',
@@ -5932,16 +5932,16 @@ export default [
             }
 
         ],
-        workingWith: 'Working with CMARIX means you are working with a team of Web developers who are passionate about your business as you are.'
+        workingWith: 'Working with swatrixsoft means you are working with a team of Web developers who are passionate about your business as you are.'
     },
     {
         name: 'Mobile',
         routeName: 'hire-mobile-app-developers.html',
         className: 'hire-mobile-developer',
-        description: `We are living in times where you can do most of the things from your mobile phone. Extending your business horizons with a custom mobile application solution is a highly preferred business strategy. CMARIX stands by you from design to launch of mobile app development life cycle to bring you a go-to-market custom app that boosts revenue and a solid mobile app asset for your business.`,
+        description: `We are living in times where you can do most of the things from your mobile phone. Extending your business horizons with a custom mobile application solution is a highly preferred business strategy. swatrixsoft stands by you from design to launch of mobile app development life cycle to bring you a go-to-market custom app that boosts revenue and a solid mobile app asset for your business.`,
         hireLabel:'Hire Mobile Developer',
         missionLabel: 'Success At Speak',
-        missionTitle: `<b>You ensure you become EXPERT in your Business</b>. Entrepreneurs and agencies choose us as we have great technical proficiency and man-power they don’t. With several hundred successful applications (550+ in numbers), mobile app developers at CMARIX bring real expertise and technical bandwidth.  We have a strong development bench strength that can work on your mobile application quickly and efficiently than any other team.  The strength of 50+ developers makes our mobile app development team robust to develop an app BEYOND NATIVE.`,
+        missionTitle: `<b>You ensure you become EXPERT in your Business</b>. Entrepreneurs and agencies choose us as we have great technical proficiency and man-power they don’t. With several hundred successful applications (550+ in numbers), mobile app developers at swatrixsoft bring real expertise and technical bandwidth.  We have a strong development bench strength that can work on your mobile application quickly and efficiently than any other team.  The strength of 50+ developers makes our mobile app development team robust to develop an app BEYOND NATIVE.`,
         image: startupIcon,
         imageAlt:'Hire Mobile App Developers',
         hireModelTitle: 'Hire <span>Mobile</span> App <span>Developers</span> team at your flexibility.',
@@ -6084,14 +6084,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -6121,7 +6121,7 @@ export default [
                 answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
             }
         ],
-        workingWith: 'Working with CMARIX means you have got a team who takes complete responsibility for your mobile app success, right from - idea validation to launch and feature updates – delivering you a market-ready app which the users love.'
+        workingWith: 'Working with swatrixsoft means you have got a team who takes complete responsibility for your mobile app success, right from - idea validation to launch and feature updates – delivering you a market-ready app which the users love.'
     },
     {
         name: 'QA',
@@ -6131,7 +6131,7 @@ export default [
         hireLabel:'Hire QA',
         missionLabel: 'We are Different',
         missionTitle: `
-        CMARIX QA experts are skilled to optimize the quality of an existing project whether it’s web, desktop or mobile application as well as lead quality implementation for projects that require development from scratch. They <b>have complete clarity of business requirements and detailed specifications,</b> provide relevant feedback to different teams and <b>commit to see the goal transformed to flawless reality.</b> We know, a high quality software that brings results is a true testament to real delivery and our success. 
+        swatrixsoft QA experts are skilled to optimize the quality of an existing project whether it’s web, desktop or mobile application as well as lead quality implementation for projects that require development from scratch. They <b>have complete clarity of business requirements and detailed specifications,</b> provide relevant feedback to different teams and <b>commit to see the goal transformed to flawless reality.</b> We know, a high quality software that brings results is a true testament to real delivery and our success. 
         `,
         image: startupIcon,
         imageAlt:'Hire QA Developers',
@@ -6143,7 +6143,7 @@ export default [
         missionTwoDescription: `
         <p>Any online business can be constrained with these unquestioned blockers – outdated experiences and disconnected processes. We don’t let your business break through any blockers. With one voice of quality, our development and testing team works together and writes scripts that urges on weak points.</p>
         <p>CMARIX’s expertise and foolproof QA processes validate complete compatibility with developed systems. We deliver quality software by testing detailed user flows with comprehensive test cases, ensuring flawless data transition between systems, 360 degree security and performance testing for the defined platform. </p>
-        <p>Ranked among the best software development agencies from Gujarat, India - CMARIX has always been known for its commitment to quality - thanks to our experienced team of Quality Assurance engineers who have always fulfilled the promise. High Quality - Delivered Right. </p>`,
+        <p>Ranked among the best software development agencies from Gujarat, India - swatrixsoft has always been known for its commitment to quality - thanks to our experienced team of Quality Assurance engineers who have always fulfilled the promise. High Quality - Delivered Right. </p>`,
 
         hireModels: [
             {
@@ -6265,14 +6265,14 @@ export default [
             {
                 title: 'Glitty',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. Due to their extravagant development efforts, today Glitty is ranking no.1 for Apple store in the Photo and video category. We believe actions speak louder than words.',
                 image: glitty,
                 caseStudyUrl: '/glitty-app.html'
             },
             {
                 title: 'Crawfordwise',
                 type: 'ENTERPRISE ECOMMERCE',
-                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. CMARIX has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
+                description: 'Crawfordwise is a leading Consultancy firm having over 40 years of experience in providing services like Cyber Security, Solution Design, Business Intelligence, Development Services for Automation, VoIP, Cloud Hosting, Disaster Recovery Management, Virtualisation and many others. swatrixsoft has provided a turnkey solution to Crawfordwise by implementing custom design with WordPress along with optimized SEO which empowers small businesses to take consultancy services through this platform.',
                 image: crawfordwise,
                 caseStudyUrl: '/crawfordwise-web-mobile-application.html'
             },
@@ -6287,24 +6287,24 @@ export default [
         faqs: [
             {
                 title: 'What are the steps to hire quality testers from CMARIX?',
-                answer: 'Quality testers are an inevitable part of a technology project, and hiring them is a must for critical scrutiny. The best way to hire a quality analyst tester from CMARIX is to sign an NDA, provide project details. Depending on the size and type of project you might need manual or automated testing services. Sign Up a contract and get started.'
+                answer: 'Quality testers are an inevitable part of a technology project, and hiring them is a must for critical scrutiny. The best way to hire a quality analyst tester from swatrixsoft is to sign an NDA, provide project details. Depending on the size and type of project you might need manual or automated testing services. Sign Up a contract and get started.'
             },
             {
-                title: 'Why is CMARIX different from other Software QA Testing companies?',
-                answer: `CMARIX QA experts have an extensive skill set and expertise on finding weak spots and breaking the system - this is a must to improve quality and usability of any web,  mobile or desktop application. Our QA not only identifies the flaws in the system but also recommends enhancements based on different compliance, guidelines and best practices.
+                title: 'Why is swatrixsoft different from other Software QA Testing companies?',
+                answer: `swatrixsoft QA experts have an extensive skill set and expertise on finding weak spots and breaking the system - this is a must to improve quality and usability of any web,  mobile or desktop application. Our QA not only identifies the flaws in the system but also recommends enhancements based on different compliance, guidelines and best practices.
                 We have expertise in Manual and Automated QA using Selenium for example for enterprise projects.`
             },
             {
                 title: ' How many rounds of testing are enough for my project?',
-                answer: 'Gone are the days of waterfall methodology when testing was done only at the end. This was a sure shot way to have the project go way beyond time and budget. We at CMARIX work purely on SCRUM. This means testing is part of our integral development SPRINTS and takes place along with the development in parallel. Every sprint delivery has to go out of the QA process.'
+                answer: 'Gone are the days of waterfall methodology when testing was done only at the end. This was a sure shot way to have the project go way beyond time and budget. We at swatrixsoft work purely on SCRUM. This means testing is part of our integral development SPRINTS and takes place along with the development in parallel. Every sprint delivery has to go out of the QA process.'
             },
             {
                 title: 'Is it possible for us to hire QA on a weekly basis?',
-                answer: ' Yes we provide different plans whereby you can hire QA on hourly, weekly, monthly or long term contracts. We provide part time as well as full time QA hire services depending on the project need. Please fill in the inquiry form or email us on biz@cmarix.com to get more details on the same.'
+                answer: ' Yes we provide different plans whereby you can hire QA on hourly, weekly, monthly or long term contracts. We provide part time as well as full time QA hire services depending on the project need. Please fill in the inquiry form or email us on swatrixsoft@gmail.com to get more details on the same.'
             },
             {
                 title: 'How much does it cost to hire a QA?',
-                answer: `CMARIX offers cost-efficient QA testers for your project development. As a part of your custom software development scope, testing is an affordable and important aspect. The investment of QA testing for software depends entirely on the complexity and package that you avail for.
+                answer: `swatrixsoft offers cost-efficient QA testers for your project development. As a part of your custom software development scope, testing is an affordable and important aspect. The investment of QA testing for software depends entirely on the complexity and package that you avail for.
                 Pricing of hiring QA depends on the type of QA service required, experience level and hire duration. For more information on our packages, contact us now.`
             },
             {
@@ -6313,7 +6313,7 @@ export default [
             }
 
         ],
-        workingWith: 'Working with CMARIX means you will have high quality web or mobile application delivered within the defined time and cost.'
+        workingWith: 'Working with swatrixsoft means you will have high quality web or mobile application delivered within the defined time and cost.'
     }
 
 ];

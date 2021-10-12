@@ -1,6 +1,6 @@
 export default {
     title: "Our Digital & Technology Services Are Global",
-    description: "CMARIX provides a Hybrid model based execution whereby our customers in parts of North America, Europe, Africa, Australia and Middle-East can opt for Local Project Management in their own country along with offshore development. This is best of both approaches whereby having local project management makes it easier for you to communicate in your Timezone and having offshore development provides you with increased execution capacity with a cost-effective approach.",
+    description: "swatrixsoft provides a Hybrid model based execution whereby our customers in parts of North America, Europe, Africa, Australia and Middle-East can opt for Local Project Management in their own country along with offshore development. This is best of both approaches whereby having local project management makes it easier for you to communicate in your Timezone and having offshore development provides you with increased execution capacity with a cost-effective approach.",
 
     weProvide: [
         {
@@ -23,5 +23,5 @@ export default {
     cardLabel: "Do you want to avail the benefits of offshore development of your web or mobile platform?",
     cardTitle: "Let’s talk about it!",
     cardButton: "Hire Developer",
-    weAre: "Working with CMARIX means you do not need to worry. We make outsourcing easy with our proven methods and highly experienced team."
+    weAre: "Working with swatrixsoft means you do not need to worry. We make outsourcing easy with our proven methods and highly experienced team."
 }

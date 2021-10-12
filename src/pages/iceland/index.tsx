@@ -108,7 +108,7 @@ class Iceland extends React.Component {
                         <div className="container">
                             <div className="row">
                                 <div className="col-md-offset-1 col-md-11">
-                                    <p className="iceland_info">CMARIX has developed a highly scalable Magento Enterprise based web platform playing crucial role in
+                                    <p className="iceland_info">swatrixsoft has developed a highly scalable Magento Enterprise based web platform playing crucial role in
                                     company growth strategy. Icelandhealth.com provides one stop platform for product sale for:
                </p>
                                     <ul className="iceland_list">

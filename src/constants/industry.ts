@@ -34,7 +34,7 @@ export default [
         name: `Real Estate`,
         routeName: 'real-estate.html',
         className: 'real-estate-industry',
-        description: 'To win, you need to move faster and smarter. We attune all your technology needs with our digital services into comprehensive real-estate software that makes transaction effortless and  helps you scale new lines of business. Partner with CMARIX to bring technology driven innovation in the Real Estate industry.',
+        description: 'To win, you need to move faster and smarter. We attune all your technology needs with our digital services into comprehensive real-estate software that makes transaction effortless and  helps you scale new lines of business. Partner with swatrixsoft to bring technology driven innovation in the Real Estate industry.',
         missiionLabel: 'Custom <span>Real Estate</span> Solutions Built To Transform',
         missionTitle: 'We build 21st century SMART HOME bringing homebuyers, homesellers and agents together while employing digital innovation across the real estate ecosystem',
         missionDescription: 'We blend the power of development expertise with technology to take your brand to a new height of differentiation. We help real-estate owners to map out digital strategies that manage their spaces, attract buyers and sellers, provide agents the facility to market and bring new revenue potentials.',
@@ -90,7 +90,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -176,7 +176,7 @@ export default [
         ],
         technologyStopTitle:"All about our",
         
-        workingWith: "Working with CMARIX means your Real-estate digital solution won’t leave homebuyers, agents or homesellers hanging in between for property visit, price negotiation, or buyer-seller coordination.",
+        workingWith: "Working with swatrixsoft means your Real-estate digital solution won’t leave homebuyers, agents or homesellers hanging in between for property visit, price negotiation, or buyer-seller coordination.",
         blogsTitle:`We always <span>Write</span> about <br/>
         Our <span>Experiment’s and Learning’s</span>`,
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
@@ -193,7 +193,7 @@ export default [
         `,
         missiionLabel: "The Gems Of <span>eCommerce</span>",
         missionTitle: 'We have successfully designed, developed and delivered more than 310+ eCommerce solutions bespoken to client’s business needs. We have proven experience of 140+ API integration and 60+ payment gateway integrations.',
-        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. CMARIX fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
+        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. swatrixsoft fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
 
         expertiseDetail:'We want your product or services to reach directly to your customers and that should grow incrementally using our expertise into eCommerce. It’s our experience that helps retailers, wholesalers, distributors and manufactures to have a solid eCommerce presence with a powerful, personalized and rewarding store.',
         experties: [
@@ -248,7 +248,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -328,7 +328,7 @@ export default [
             },
         ],
         
-        workingWith: "Working with CMARIX means your amazing eCommerce tools and products to bring our business in auto-mode.",
+        workingWith: "Working with swatrixsoft means your amazing eCommerce tools and products to bring our business in auto-mode.",
         blogsTitle:`Let’s Delve Into Latest <span>Trends</span> & <span>Technologies</span>`,
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
         contactFormDetailTitle: 'Have questions about your idea? Drop in your details to discuss with our eCommerce consultants. We look forward to hearing from you.'
@@ -344,7 +344,7 @@ export default [
         `,
         missiionLabel: "The Gems Of <span>eCommerce</span>",
         missionTitle: 'We have successfully designed, developed and delivered more than 310+ eCommerce solutions bespoken to client’s business needs. We have proven experience of 140+ API integration and 60+ payment gateway integrations.',
-        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. CMARIX fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
+        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. swatrixsoft fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
 
         expertiseDetail:'We want your product or services to reach directly to your customers and that should grow incrementally using our expertise into eCommerce. It’s our experience that helps retailers, wholesalers, distributors and manufactures to have a solid eCommerce presence with a powerful, personalized and rewarding store.',
         experties: [
@@ -399,7 +399,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -479,7 +479,7 @@ export default [
             },
         ],
         
-        workingWith: "Working with CMARIX means your amazing eCommerce tools and products to bring our business in auto-mode.",
+        workingWith: "Working with swatrixsoft means your amazing eCommerce tools and products to bring our business in auto-mode.",
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
         contactFormDetailTitle: 'Have questions about your idea? Drop in your details to discuss with our eCommerce consultants. We look forward to hearing from you.'
     },
@@ -489,18 +489,18 @@ export default [
         name: `Finance and Banking`,
         routeName: 'finance-and-banking.html',
         className: 'finance-and-banking-enterprise-product-developement',
-        description: 'With Governments across the globe ensuring tighter grip on the financial supply chain, curbing down illicit money, online fraud as well as cyber crime, technology in the Fintech industry is set to reach a new benchmark in the coming days. CMARIX is a leading custom Fintech software provider.',
+        description: 'With Governments across the globe ensuring tighter grip on the financial supply chain, curbing down illicit money, online fraud as well as cyber crime, technology in the Fintech industry is set to reach a new benchmark in the coming days. swatrixsoft is a leading custom Fintech software provider.',
         missiionLabel: "Foster The Next Wave Of Transformation With Our <span>FinTech</span> & <span>Banking</span> Software Development Solution",
         missionTitle: '77% of Financial companies today are focusing on bringing innovation in order to boost customer retention. We help you unleash your potential with a groundbreaking Finance and Banking solution.',
-        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. CMARIX fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
+        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. swatrixsoft fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
         experties: [
             {
                 title: 'FinTech software development',
-                description: 'We at CMARIX provide full-cycle fintech desktop, web and mobile app development services. We build financial software from scratch and improve the deployed fintech solutions to increase their usability and value addition.'
+                description: 'We at swatrixsoft provide full-cycle fintech desktop, web and mobile app development services. We build financial software from scratch and improve the deployed fintech solutions to increase their usability and value addition.'
             },
             {
                 title: 'Custom financial solutions',
-                description: 'We create unique customer experience for financial solutions and applications. By incorporating advanced financial technologies, we at CMARIX build software products that treat every customer uniquely, using Artificial Intelligence (AI), Big Data and Internet of Things (IoT).'
+                description: 'We create unique customer experience for financial solutions and applications. By incorporating advanced financial technologies, we at swatrixsoft build software products that treat every customer uniquely, using Artificial Intelligence (AI), Big Data and Internet of Things (IoT).'
             },
             {
                 title: 'FinTech consulting',
@@ -536,7 +536,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -591,7 +591,7 @@ export default [
             },
             {
                 title: 'Digital payment services',
-                description: 'We at CMARIX also build various credit card payment solutions and electronic payment solutions including e-wallets and mobile wallets. We create wallet apps and payment gateway solutions with useful features for transactions in real life contexts.'
+                description: 'We at swatrixsoft also build various credit card payment solutions and electronic payment solutions including e-wallets and mobile wallets. We create wallet apps and payment gateway solutions with useful features for transactions in real life contexts.'
             }
         ],
         relatedLable:'We do Everything Digital',
@@ -619,7 +619,7 @@ export default [
             },
         ],
         
-        workingWith: "Working with CMARIX means your business will drive digital transformation in the Fintech industry.",
+        workingWith: "Working with swatrixsoft means your business will drive digital transformation in the Fintech industry.",
         blogsTitle:`Let’s Delve Into Latest <span>Trends</span> & <span>Technologies</span>`,
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
         contactFormDetailTitle: 'Have questions about your idea? Drop in your details to discuss with our Fintech consultants. We look forward to hearing from you.'
@@ -630,12 +630,12 @@ export default [
         name: `Healthcare`,
         routeName: 'healthcare.html',
         className: 'healthcare-platform-development',
-        description: 'Healthcare is often stressful. Thereby, with our healthcare software and app development solutions we try to make the digital experience an ease. Making the complex tasks of healthcare simple and acquiring trust from users needs great effort and knowledge. The dedicated experts at CMARIX strive to make healthcare digital experiences worthy and simple at times of anxiety.',
+        description: 'Healthcare is often stressful. Thereby, with our healthcare software and app development solutions we try to make the digital experience an ease. Making the complex tasks of healthcare simple and acquiring trust from users needs great effort and knowledge. The dedicated experts at swatrixsoft strive to make healthcare digital experiences worthy and simple at times of anxiety.',
         missiionLabel: "Delivering HealthTech Promises With <span>Desktop</span> Software, <span>Web & App</span> Development Services",
         missionTitle: `
         Current digital need of the era has dramatically brought a great transformation to the healthcare industry. Compliances, large amounts of data and the patients' instant need to get connected to experts, demands a digital platform. Let’s empower the digitally empowered hospital, doctor and patient with a technology driven innovation.
         `,
-        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. CMARIX fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
+        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. swatrixsoft fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
         experties: [
             {
                 title: 'Custom healthcare development',
@@ -679,7 +679,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -730,7 +730,7 @@ export default [
             },
             {
                 title: 'Health management software',
-                description: 'We at CMARIX build health management software solutions capable of managing patient activities, track patient\'s health progress remotely and deliver custom health care.'
+                description: 'We at swatrixsoft build health management software solutions capable of managing patient activities, track patient\'s health progress remotely and deliver custom health care.'
             },
             {
                 title: 'Patient engagement platforms',
@@ -762,7 +762,7 @@ export default [
             },
         ],
         
-        workingWith: "Working with CMARIX means all your healthcare technology challenges have solution with our expertise of software development in healthcare domain.",
+        workingWith: "Working with swatrixsoft means all your healthcare technology challenges have solution with our expertise of software development in healthcare domain.",
         blogsTitle:`Let’s Delve Into Latest <span>Trends</span> & <span>Technologies</span>`,
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
         contactFormDetailTitle: 'Have questions about your idea? Drop in your details to discuss with our HealthTech consultants. We look forward to hearing from you. '
@@ -773,10 +773,10 @@ export default [
         name: `Media and Entertainment`,
         routeName: 'media-and-entertainment.html',
         className: 'digital-technology-for-media-and-entertainment-industry',
-        description: 'CMARIX transforms technology in the media and entertainment industry with digital solutions that catalyzes audience engagement, live streaming management, online talent management, custom advertisement platforms  and more. Our full-cycle media and entertainment software & mobile app development solutions bring the power of performance with advanced analytics, great UX, content creation to omnichannel distribution.',
+        description: 'swatrixsoft transforms technology in the media and entertainment industry with digital solutions that catalyzes audience engagement, live streaming management, online talent management, custom advertisement platforms  and more. Our full-cycle media and entertainment software & mobile app development solutions bring the power of performance with advanced analytics, great UX, content creation to omnichannel distribution.',
         missiionLabel: "Reach Your Audience Effectively With <span>Media</span> & <span>Entertainment</span> Solutions",
         missionTitle: 'With increasing trends of digital platforms, more than 86% of Media & Entertainment industries are using technology alliances and digital software and app development solutions.',
-        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. CMARIX fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
+        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. swatrixsoft fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
         experties: [
             {
                 title: 'Entertainment Development Solution',
@@ -820,7 +820,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -911,7 +911,7 @@ export default [
             },
         ],
         
-        workingWith: "Working with CMARIX means your solution is built to let your audience stay engaged for hours.",
+        workingWith: "Working with swatrixsoft means your solution is built to let your audience stay engaged for hours.",
         blogsTitle:`Let’s Delve Into Latest <span>Trends</span> & <span>Technologies</span>`,
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
         contactFormDetailTitle: 'Have questions about your idea? Drop in your details to discuss with our consultants. We look forward to hearing from you.'
@@ -922,10 +922,10 @@ export default [
         name: `Insurance`,
         routeName: 'insurance.html',
         className: 'enterprise-insurance-software-development',
-        description: 'Insurance companies fall flat between revolutionary ideas and groundbreaking customer experience. The essential way to hit the competition is to embrace prominent digital solutions. CMARIX with their Insurance software and app development services help companies to solve this problem.',
+        description: 'Insurance companies fall flat between revolutionary ideas and groundbreaking customer experience. The essential way to hit the competition is to embrace prominent digital solutions. swatrixsoft with their Insurance software and app development services help companies to solve this problem.',
         missiionLabel: "Let’s Map Out Innovations With <span>Insurance</span> Software, <span>Web</span> & <span>App</span> Development Solutions",
         missionTitle: 'Insurance is now widely accepted because of increased accessibility and awareness thanks to technology. We solve all your technology problems using amazing talent and rich experience.',
-        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. CMARIX fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
+        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. swatrixsoft fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
         experties: [
             {
                 title: 'Insurance Claims Management Solution',
@@ -969,7 +969,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -1052,7 +1052,7 @@ export default [
             },
         ],
         
-        workingWith: "Working with CMARIX means the digital solutions built for your business will start gaining new prospects, encourage brokers and agents to sell more, and bring ease to management of policyholders.",
+        workingWith: "Working with swatrixsoft means the digital solutions built for your business will start gaining new prospects, encourage brokers and agents to sell more, and bring ease to management of policyholders.",
         blogsTitle:`Let’s Delve Into Latest <span>Trends</span> & <span>Technologies</span>`,
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
         contactFormDetailTitle: 'Have questions about your idea? Drop in your details to discuss with our consultants. We look forward to hearing from you.'
@@ -1063,10 +1063,10 @@ export default [
         name: `Education`,
         routeName: 'elearning.html',
         className: 'digital-technology-for-education-industry',
-        description: 'Global Technology Education Industry - EdTech industry is expected to reach $300 Billion by 2027. eLearning and training are part of everyday life now. CMARIX is armed with innovative ways of helping Universities, schools,  private tuitions, teachers and students to come together using technology for a rich knowledge industry.',
+        description: 'Global Technology Education Industry - EdTech industry is expected to reach $300 Billion by 2027. eLearning and training are part of everyday life now. swatrixsoft is armed with innovative ways of helping Universities, schools,  private tuitions, teachers and students to come together using technology for a rich knowledge industry.',
         missiionLabel: "We Are Serious About Our <span>eLearning</span> Development <span>Solutions</span> & Your Results",
         missionTitle: 'In this digital driven era, the corporate e-learning market will see a rise by $38.09 billion between 2020 and 2024. Our long-standing expertise in building custom edTech platforms will help you beat the competition.',
-        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. CMARIX fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
+        missionDescription: 'Content management websites don’t have to be impersonal, instead they should invite customers as friends. swatrixsoft fulfils that by developing dynamic WCM websites that are warm with tranquil inviting spaces. Our WordPress developers back it all with their profound technical expertise and industry best practices while delivering varied WordPress customization services, including eCommerce solutions, CMS functionality extensions, advanced web content and customer experience management applications.',
         experties: [
             {
                 title: 'Virtual Classroom',
@@ -1111,7 +1111,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -1203,7 +1203,7 @@ export default [
         ],
         title:"All about our",
         
-        workingWith: "Working with CMARIX means you are working with the best in the business of education technology (edTech).",
+        workingWith: "Working with swatrixsoft means you are working with the best in the business of education technology (edTech).",
         blogsTitle:`Let’s Delve Into Latest <span>Trends</span> & <span>Technologies</span>`,
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
         contactFormDetailTitle: 'Have questions about your idea? Drop in your details to discuss with our edTech consultants. We look forward to hearing from you.'
@@ -1263,7 +1263,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -1342,7 +1342,7 @@ export default [
             },
         ],
         
-        workingWith: "Working with CMARIX means you would never need to question the security parameters of your product.",
+        workingWith: "Working with swatrixsoft means you would never need to question the security parameters of your product.",
         blogsTitle:`Let’s Delve Into Latest <span>Trends</span> & <span>Technologies</span>`,
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
         contactFormDetailTitle: 'Have questions about your idea? Drop in your details to discuss with our security consultants. We look forward to hearing from you.'
@@ -1355,7 +1355,7 @@ export default [
         name: `Food and Beverages`,
         routeName: 'food-and-beverages.html',
         className: 'software-development-for-food-and-beverages-industry',
-        description: 'CMARIX brings innovation and expertise together to deliver top-rated food delivery, smart restaurant management and related creative products. We create difference by perfecting the conversation-centric solution and crafting commerce experiences that delight people. Let our food software empower you to scale and soar high with revenues.',
+        description: 'swatrixsoft brings innovation and expertise together to deliver top-rated food delivery, smart restaurant management and related creative products. We create difference by perfecting the conversation-centric solution and crafting commerce experiences that delight people. Let our food software empower you to scale and soar high with revenues.',
         missiionLabel: "We Serve Delight To Customers With Our <span>Food</span> Software Development Solutions",
         missionTitle: 'By 2026, the food eCommerce business will be worth $498 million and the annual growth rate will be 20.3%. It’s high time to delight customers with your food business being online.',
         missionDescription: `
@@ -1404,7 +1404,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -1487,7 +1487,7 @@ export default [
             },
         ],
         
-        workingWith: "Working with CMARIX means your business revenues are doubled up with a customer-centric food software application.",
+        workingWith: "Working with swatrixsoft means your business revenues are doubled up with a customer-centric food software application.",
         blogsTitle:`Let’s Delve Into Latest <span>Trends</span> & <span>Technologies</span>`,
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
         contactFormDetailTitle: 'Have questions about your idea? Drop in your details to discuss with our FoodTech consultants. We look forward to hearing from you. '
@@ -1499,7 +1499,7 @@ export default [
         name: `Logistics and Transportation`,
         routeName: 'logistic-and-transportation.html',
         className: 'logistic-and-transportation-product-development',
-        description: 'Modern ideas for supply chain management and transportation are complex and need advanced software engineering. CMARIX builds full-service logistics and transportation digital solutions that provide a track for resources, events and confirms performance and profitability. Our logistics and transportation web and mobile app development solutions unify supply chain, warehousing, and fleet management.',
+        description: 'Modern ideas for supply chain management and transportation are complex and need advanced software engineering. swatrixsoft builds full-service logistics and transportation digital solutions that provide a track for resources, events and confirms performance and profitability. Our logistics and transportation web and mobile app development solutions unify supply chain, warehousing, and fleet management.',
         missiionLabel: "<span>Automation</span> & Advancement With Transport & <span>Logistics</span> Solutions",
         missionTitle: '68% of transport and logistics entrepreneurs surveyed that advancement into technology solutions of their services brings efficiency to their business.',
         missionDescription: `
@@ -1556,7 +1556,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -1643,7 +1643,7 @@ export default [
             },
         ],
         
-        workingWith: "Working with CMARIX means you have already brought efficiency in your business with real-time fleet and custom transport solutions.",
+        workingWith: "Working with swatrixsoft means you have already brought efficiency in your business with real-time fleet and custom transport solutions.",
         blogsTitle:`Let’s Delve Into Latest <span>Trends</span> & <span>Technologies</span>`,
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
         contactFormDetailTitle: 'Have questions about your idea? Drop in your details to discuss with our solution consultants. We look forward to hearing from you. '
@@ -1654,7 +1654,7 @@ export default [
         name: `Agritech`,
         routeName: 'agritech.html',
         className: 'agritech',
-        description: 'CMARIX empowers different Agriculture from grassroot farmers to global enterprises with its powerful agriculture development services. With our services we empower farmers do smart farming with GPS technology, global collaboration, automating work processes and much more.',
+        description: 'swatrixsoft empowers different Agriculture from grassroot farmers to global enterprises with its powerful agriculture development services. With our services we empower farmers do smart farming with GPS technology, global collaboration, automating work processes and much more.',
         missiionLabel: "Our <span>Agriculture</span> Software <span>Development</span> Services Hold The Key To Future",
         missionTitle: 'The agriculture business is predicted to grow by 14% by 2026. Let’s ease the complex and manual operations of your business with our outstanding Agritech solutions.',
         missionDescription: `
@@ -1703,7 +1703,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -1782,7 +1782,7 @@ export default [
             },
         ],
         
-        workingWith: "Working with CMARIX means your Agritech platform is already future-ready with all features from GPS to AI automation.",
+        workingWith: "Working with swatrixsoft means your Agritech platform is already future-ready with all features from GPS to AI automation.",
         blogsTitle:`Let’s Delve Into Latest <span>Trends</span> & <span>Technologies</span>`,
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
         contactFormDetailTitle: 'Have questions about your idea? Drop in your details to discuss with our AgriTech consultants. We look forward to hearing from you. '
@@ -1793,7 +1793,7 @@ export default [
         name: `Sports`,
         routeName: 'sports.html',
         className: 'sports-industry',
-        description: 'Gain a fully-designed and featured fitness application, sports coaching platform or online sporting software which prepares you perfectly to cast into the digital era. CMARIX is a leading sports and fitness app development company to build performance driven web and mobile app products.',
+        description: 'Gain a fully-designed and featured fitness application, sports coaching platform or online sporting software which prepares you perfectly to cast into the digital era. swatrixsoft is a leading sports and fitness app development company to build performance driven web and mobile app products.',
         missiionLabel: "Unrivalled Heights Of <span>Sports</span> and <span>Fitness</span> Development Expertise",
         missionTitle: 'We are experts to bring sports enthusiasts, fitness trainers, viewers, coaches, advertisement and trending information under one digital arena with our mobile app and web platform development expertise.',
         missionDescription: `
@@ -1850,7 +1850,7 @@ export default [
                 id: '03',
                 name: 'Glitty',
                 image: glitty,
-                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at CMARIX brought this cool idea to life with excellent user interface and experience. ',
+                description: 'Glitty is a photo-editing app helping users to add a glitter to various mate based surfaces and pictures. Our expert app developers at swatrixsoft brought this cool idea to life with excellent user interface and experience. ',
                 buildFor: 'Mobile & Tablets',
                 technologies: 'iOS, PHP Yii Framework',
                 industry: 'Fashion',
@@ -1929,7 +1929,7 @@ export default [
             },
         ],
         
-        workingWith: "Working with CMARIX means you will be able to launch top notch applications for sports and fitness industry.",
+        workingWith: "Working with swatrixsoft means you will be able to launch top notch applications for sports and fitness industry.",
         blogsTitle:`Let’s Delve Into Latest <span>Trends</span> & <span>Technologies</span>`,
         contactFormLabel: "Let's Talk <br /><span>Business!</span>",
         contactFormDetailTitle: 'Have questions about your idea? Drop in your details to discuss with our sports technology consultants. We look forward to hearing from you. '

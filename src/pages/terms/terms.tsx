@@ -74,13 +74,13 @@ class Terms extends React.Component {
                                         <br /><br />
                                         It has been assumed that you have been agreeing to add terms and conditions defined here to use www.cmarix.com website.
                                         <br /><br />
-                                        This website www.cmarix.com is owned and operated by CMARIX TechnoLabs only. All content and material available on this website is the sole property of CMARIX TechnoLabs including all the graphics, images, logos, software, trademarks, video, text, audio and animation used.
+                                        This website www.cmarix.com is owned and operated by swatrixsoft TechnoLabs only. All content and material available on this website is the sole property of swatrixsoft TechnoLabs including all the graphics, images, logos, software, trademarks, video, text, audio and animation used.
                                         <br /><br />
-                                        CMARIX name, tagline and logo is the trademark of CMARIX TechnoLabs only. These trademarks and logo may not be used in any manner anywhere else. You may not copy, reproduce, republished, use, adapt, modify and alter these contents of this website without the consent and permission of CMARIX TechnoLabs. You must not use any contact information or e-mail addresses which may be found on this web site to send any unsolicited commercial or personal information.
+                                        swatrixsoft name, tagline and logo is the trademark of swatrixsoft TechnoLabs only. These trademarks and logo may not be used in any manner anywhere else. You may not copy, reproduce, republished, use, adapt, modify and alter these contents of this website without the consent and permission of swatrixsoft TechnoLabs. You must not use any contact information or e-mail addresses which may be found on this web site to send any unsolicited commercial or personal information.
                                         <br /><br />
-                                        The link of the third party web site address may found on this web sites, so we are not responsible for the contents of such sites or whole third party website at all. The Third party web site is not under control of CMARIX TechnoLabs at all. You at your own risk may access to such other sites via the links contained on this web site.
+                                        The link of the third party web site address may found on this web sites, so we are not responsible for the contents of such sites or whole third party website at all. The Third party web site is not under control of swatrixsoft TechnoLabs at all. You at your own risk may access to such other sites via the links contained on this web site.
                                         <br /><br />
-                                        CMARIX shall have no responsibility for any damage to your computer system or loss of data that results from the download of any information from this Site.
+                                        swatrixsoft shall have no responsibility for any damage to your computer system or loss of data that results from the download of any information from this Site.
                                         <br /><br />
                                         CMARIX, reserves the right to modify “Terms of Use” at any time without informing its users.
                                     </p>

@@ -28,7 +28,7 @@ import meanstackService from "../assets/images/new-graphics/mean-stack.svg";
 import awsService from "../assets/images/new-graphics/aws.svg";
 export default {
     title: 'Dedicated',
-    description: `Being a leading enterprise Development Company, we help you set up and manage remote dedicated development teams for you. CMARIX provides experienced developers, specialists, IT programmers, and experts for hire to inundate the web with brave ideas. Hire dedicated developers from CMARIX and break the mold.`,
+    description: `Being a leading enterprise Development Company, we help you set up and manage remote dedicated development teams for you. swatrixsoft provides experienced developers, specialists, IT programmers, and experts for hire to inundate the web with brave ideas. Hire dedicated developers from swatrixsoft and break the mold.`,
     image: hireDevelopersIcon,
     imageAlt:'Hire Dedicated Developers',
     assureLabel: 'We dream big for you',
@@ -276,7 +276,7 @@ export default {
         }
     ],
     benifitLabel: 'Why Hire Developers? ',
-    benifitTitle: 'Hire Agile Teams For Top Development Projects @CMARIX – On Your Terms',
+    benifitTitle: 'Hire Agile Teams For Top Development Projects @swatrixsoft – On Your Terms',
     benifits: [
         {
             title: 'High-Quality Talent Team',
@@ -381,5 +381,5 @@ export default {
     cardLabel: 'We’re friendly developers, but we know the way to speak to machines.',
     cardTitle: 'We’ll talk about your idea!',
     cardButton: 'Share Your Idea',
-    weAre: 'Working with CMARIX means you have the best dedicated team of developers expanding as your remote team.'
+    weAre: 'Working with swatrixsoft means you have the best dedicated team of developers expanding as your remote team.'
 }

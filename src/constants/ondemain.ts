@@ -34,7 +34,7 @@ export default [
         assureLabel: 'Our Food App Development Expertise',
         assureTitle: 'Enterprise grade Food Delivery Custom Platform For You',
         assureDescription: `
-        <p>Food delivery apps literally revolutionized the way busy urban populace and working people order foods for getting doorstep delivery from local restaurants, it also changed the way restaurants function. We at CMARIX with a dedicated development team having years of experience in building on-demand mobile apps and restaurant apps can develop really future-ready food delivery apps equipped with state of the art features and unique customer experience. </p>
+        <p>Food delivery apps literally revolutionized the way busy urban populace and working people order foods for getting doorstep delivery from local restaurants, it also changed the way restaurants function. We at swatrixsoft with a dedicated development team having years of experience in building on-demand mobile apps and restaurant apps can develop really future-ready food delivery apps equipped with state of the art features and unique customer experience. </p>
         <p>We develop food delivery apps fully equipped with features and user experience attributes that can address the typical customer necessities and wants in an already matured market populated by several food apps. We ensure creating a winning food delivery app by adding more value to the existing customer experience standard and reducing all ominous pitfalls and shortcomings. </p>
         `,
         detailImage: foodApp,
@@ -314,7 +314,7 @@ export default [
         benifits: [
             {
                 title: 'Tailored Approach To Consultancy',
-                description: 'CMARIX is known for offering tailor suited consultancy services for its clients to help them avail digital solutions that are more impactful and effective.',
+                description: 'swatrixsoft is known for offering tailor suited consultancy services for its clients to help them avail digital solutions that are more impactful and effective.',
                 image: benefitsOne,
                 overlay: iconoverlay
             },
@@ -357,13 +357,13 @@ export default [
         routeName: 'travel-app-development.html',
         class: 'ondemand-travel-app',
         title: "Travel App Development",
-        description: "At CMARIX we help travel businesses and brands with custom web and mobile applications that can help them stay competitive and reach out to larger audiences across global destinations. Since today's travel apps require cutting edge features, we make sure our customers get the state of the art features with their travel apps.  ",
+        description: "At swatrixsoft we help travel businesses and brands with custom web and mobile applications that can help them stay competitive and reach out to larger audiences across global destinations. Since today's travel apps require cutting edge features, we make sure our customers get the state of the art features with their travel apps.  ",
         image: travelIcon,
         assureLabel: 'Our Travel App Development Expertise',
         assureTitle: 'Enterprise grade custom Travel Apps Development ',
         assureDescription: `
         <p>As a travel business do you want to reach out to more customers by using mobile apps? Well, mobile apps have emerged as the most sophisticated means to target travellers and deliver best customer service. You can just build your own travel mobile app that can help you to market your travel services in a more effective manner and help clients with improved and more personalized services.</p>
-        <p>We at CMARIX provide superior travel app development services with a dedicated team of expert developers and marketers. Thanks to our experience in using mobile apps for targeted marketing and personalized travel services, we are sought after for travel ass development. We have a robust team of travel app experts with years of experience in building mobile apps for the travel businesses and tourism sector. </p>
+        <p>We at swatrixsoft provide superior travel app development services with a dedicated team of expert developers and marketers. Thanks to our experience in using mobile apps for targeted marketing and personalized travel services, we are sought after for travel ass development. We have a robust team of travel app experts with years of experience in building mobile apps for the travel businesses and tourism sector. </p>
         `,
         detailImage: travelApp,
         keyfeatureTitle:' <span>Key Features</span> of Travel <br /> App Development Solution',
@@ -535,7 +535,7 @@ export default [
         benifits: [
             {
                 title: 'Tailored Approach To Consultancy',
-                description: 'CMARIX is known for offering tailor suited consultancy services for its clients to help them avail digital solutions that are more impactful and effective.',
+                description: 'swatrixsoft is known for offering tailor suited consultancy services for its clients to help them avail digital solutions that are more impactful and effective.',
                 image: benefitsOne,
                 overlay: iconoverlay
             },
@@ -809,7 +809,7 @@ export default [
         benifits: [
             {
                 title: 'Tailored Approach To Consultancy',
-                description: 'CMARIX is known for offering tailor suited consultancy services for its clients to help them avail digital solutions that are more impactful and effective.',
+                description: 'swatrixsoft is known for offering tailor suited consultancy services for its clients to help them avail digital solutions that are more impactful and effective.',
                 image: benefitsOne,
                 overlay: iconoverlay
             },

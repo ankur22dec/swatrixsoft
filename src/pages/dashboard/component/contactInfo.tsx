@@ -7,27 +7,27 @@ function ContactInfo() {
             <ul data-scrollreveal="enter bottom after 1.2s over 1s">
             <li>
                 US : 
-                <a href="tel:+1-631-206-6051" data-slimstat="5">
-                +1 631-206-6051
+                <a href="tel:+1-xxx-xxx-xxxx" data-slimstat="5">
+                8118849825
                 </a>
             </li>
             <li>
                 India : 
-                <a href="tel:+91 800-005-0808" data-slimstat="5">
+                <a href="tel:+91 7073875630" data-slimstat="5">
                 {" "}
-                +91 800-005-0808
+                +91 707-387-5630
                 </a>
             </li>
             <li>
                 Email : 
-                <a href="mailto:biz@cmarix.com" data-slimstat="5">
-                biz@cmarix.com
+                <a href="mailto:swatrixsoft@gmail.com" data-slimstat="5">
+                swatrixsoft@gmail.com
                 </a>
             </li>
             <li>
                 Skype : 
-                <a href="skype:biz.cmarix" data-slimstat="5">
-                biz.cmarix
+                <a href="skype:live:.cid.4f546262482b5b90" data-slimstat="5">
+                Swatrixsoft
                 </a>
             </li>
             <li>

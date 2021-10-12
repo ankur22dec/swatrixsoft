@@ -70,18 +70,18 @@ class Privacy extends React.Component {
                             <div className="sec-description">
                                 <div className="sr-from-bottom-4">
                                     <p>
-                                        This privacy policy defines usage and protection of information that you give to CMARIX when you use our
+                                        This privacy policy defines usage and protection of information that you give to swatrixsoft when you use our
                                         website.
                                         <br /><br />
-                                        We at CMARIX are committed to make sure that your privacy is protected. Should we ask you to providecertain
+                                        We at swatrixsoft are committed to make sure that your privacy is protected. Should we ask you to providecertain
                                         information by which you can be identified when using this website, then you can be assured that it will only be
                                         used in accordance with this privacy statement.
                                         <br /><br />
-                                        CMARIX may change this policy from time to time by updating this page for betterment. This policy is effective
+                                        swatrixsoft may change this policy from time to time by updating this page for betterment. This policy is effective
                                         from 1/1/2009.
                                         <br /><br />
                                         We may collect information which includes name, job title, contact information including email address, postal
-                                        address and other information relevant to your interest in CMARIX services.
+                                        address and other information relevant to your interest in swatrixsoft services.
                                         <br /><br />
                                         We require these information to understand your needs and provide you with a better service, and in particular
                                         for the following reasons:
@@ -98,7 +98,7 @@ class Privacy extends React.Component {
                                     <p>
                                         In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
                                         <br /><br />
-                                        CMARIX periodically collects only domain information as a part of analysis process such as web site usability, performance, and effectiveness. This specific data gives us the information about which users visit our site, what parts of the site they visit often and how often they visit our site. We uses this useful information to improve its productivity, efficiency and customer satisfaction level. This information is collected automatically and requires no action from your end.
+                                        swatrixsoft periodically collects only domain information as a part of analysis process such as web site usability, performance, and effectiveness. This specific data gives us the information about which users visit our site, what parts of the site they visit often and how often they visit our site. We uses this useful information to improve its productivity, efficiency and customer satisfaction level. This information is collected automatically and requires no action from your end.
                                         <br /><br />
                                         Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
                                         <br /><br />
