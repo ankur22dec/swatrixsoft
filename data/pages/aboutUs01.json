@@ -1,0 +1,47 @@
+{
+  "aboutUsO1": [
+    {
+      "tag": "Expert Team",
+      "title": "Our Talented Leadership Team",
+      "desc": "We bring together industry experts with extensive experience in web development, digital transformation, and enterprise solutions. Our team is committed to delivering innovative, scalable technology solutions that drive measurable business impact.",
+      "body": [
+        {
+          "img": "/images/team/team-07.jpg",
+          "name": "Pushpendra Kushwaha",
+          "dep": "Lead Developer",
+          "address": "Jodhpur, India"
+        },
+        {
+          "img": "/images/team/team-08.jpg",
+          "name": "Animesh Tiwari",
+          "dep": "Technical Director",
+          "address": "Rajasthan, India"
+        },
+        {
+          "img": "/images/team/team-09.jpg",
+          "name": "Raghukul Rathi",
+          "dep": "Full Stack Developer",
+          "address": "Jodhpur, India"
+        },
+        {
+          "img": "/images/team/team-06.jpg",
+          "name": "Ankit Kumar",
+          "dep": "UI/UX Designer",
+          "address": "Jodhpur, India"
+        },
+        {
+          "img": "/images/team/team-05.jpg",
+          "name": "Priya Sharma",
+          "dep": "Project Manager",
+          "address": "Rajasthan, India"
+        },
+        {
+          "img": "/images/team/team-04.jpg",
+          "name": "Dev Patel",
+          "dep": "Backend Specialist",
+          "address": "Jodhpur, India"
+        }
+      ]
+    }
+  ]
+}

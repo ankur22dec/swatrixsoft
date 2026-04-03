@@ -1,0 +1,171 @@
+{
+  "courseFeatureBox": [
+    {
+      "title": "What You'll Learn",
+      "desc": "Discover the key capabilities that power modern digital transformation.",
+      "img": "/images/course/course-single-01.jpg",
+      "featureList": [
+        { "text": "Master advanced digital strategies." },
+        { "text": "Develop innovative web & mobile solutions." },
+        { "text": "Build scalable IT infrastructures." },
+        { "text": "Integrate cutting-edge LMS and marketing tools." },
+        { "text": "Leverage data analytics for decision making." },
+        { "text": "Implement agile project management." },
+        { "text": "Optimize user experience across platforms." },
+        { "text": "Enhance security and performance." },
+        { "text": "Create visually stunning digital interfaces." },
+        { "text": "Develop comprehensive IT portfolios." }
+      ]
+    }
+  ],
+  "certificate": [
+    {
+      "certificateOne": [
+        {
+          "img": "/images/course/single-course-02.jpg",
+          "imgTwo": "/images/course/course-feature-03.jpg",
+          "tag": "Complete IT Solutions Course",
+          "title": "Master Full-Stack Digital Transformation with Swatrixsoft",
+          "desc": "Our comprehensive course covers web and app development, LMS integration, and digital marketing—providing you with all the skills needed to drive business success.",
+          "list": [
+            { "icon": "/images/icons/card-icon-1.png", "num": 300, "text": "Projects Delivered" },
+            { "icon": "/images/icons/card-icon-4.png", "num": 10, "text": "Expert Instructors" },
+            { "icon": "/images/icons/card-icon-2.png", "num": 300, "text": "Hours of Content" }
+          ]
+        }
+      ],
+      "certificateTwo": [
+        {
+          "img": "/images/course/single-course-06.jpg",
+          "imgTwo": "/images/course/course-feature-02.jpg",
+          "title": "Earn a Professional Certification",
+          "desc": "Enroll in our advanced certification program and get recognized for your skills in digital transformation and IT solutions.",
+          "list": [
+            { "icon": "/images/icons/card-icon-11.png", "num": 5000, "text": "Successful Projects" },
+            { "icon": "/images/icons/card-icon-12.png", "num": 10, "text": "Career Growth" }
+          ]
+        }
+      ],
+      "certificateThree": [
+        {
+          "title": "Projects You Will Build",
+          "desc": "Hands-on projects that mirror real-world challenges in digital transformation and IT innovation.",
+          "list": [
+            { "text": "Ecommerce Website" },
+            { "text": "Enterprise Portal" },
+            { "text": "Custom Mobile Application" },
+            { "text": "Integrated LMS Platform" },
+            { "text": "Digital Marketing Dashboard" }
+          ]
+        }
+      ]
+    }
+  ],
+  "courseContent": [
+    {
+      "title": "Introduction to Swatrixsoft Solutions",
+      "isShow": true,
+      "list": [
+        { "text": "Overview & Strategy", "isPlay": true, "isDoc": false, "isLoc": false, "min": 30 },
+        { "text": "Product Demo", "isPlay": true, "isDoc": false, "isLoc": false, "min": 0.5 },
+        { "text": "Documentation & Resources", "isPlay": false, "isDoc": true, "isLoc": false, "min": 10 }
+      ]
+    },
+    {
+      "title": "Key Insights for Digital Transformation",
+      "isShow": false,
+      "list": [
+        { "text": "Strategy Overview", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Resource Guide", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Challenges & Solutions", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Best Practices", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Key Performance Metrics", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Actionable Strategies", "isPlay": false, "isDoc": true, "isLoc": true }
+      ]
+    },
+    {
+      "title": "Fundamentals of IT Solutions",
+      "isShow": false,
+      "list": [
+        { "text": "Solution Overview", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Implementation Guide", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Technology Best Practices", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Process Optimization", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Scalability & Security", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Resource Management", "isPlay": false, "isDoc": true, "isLoc": true }
+      ]
+    },
+    {
+      "title": "Skill Development & Setup",
+      "isShow": false,
+      "list": [
+        { "text": "Introduction to Tools", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Setup & Configuration", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Integration Techniques", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Workflow Optimization", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Best Practices for Implementation", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Maintenance & Updates", "isPlay": false, "isDoc": true, "isLoc": true }
+      ]
+    },
+    {
+      "title": "Comprehensive Service Overview",
+      "isShow": false,
+      "list": [
+        { "text": "Introduction to Services", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "In-Depth Resource Materials", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Key Advantages", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Client Success Stories", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Scalability & Flexibility", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Ongoing Support & Updates", "isPlay": false, "isDoc": true, "isLoc": true }
+      ]
+    },
+    {
+      "title": "Digital Infrastructure & Cloud",
+      "isShow": false,
+      "list": [
+        { "text": "Solution Overview", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Cloud Integration", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Optimization Strategies", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Resource Management", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Security Best Practices", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Ongoing Support", "isPlay": false, "isDoc": true, "isLoc": true }
+      ]
+    },
+    {
+      "title": "Cloud Management & Automation",
+      "isShow": false,
+      "list": [
+        { "text": "Overview of Automation", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Best Practices for Cloud", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Integration Strategies", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Process Optimization", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Scalability Factors", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Maintenance Guidelines", "isPlay": false, "isDoc": true, "isLoc": true }
+      ]
+    },
+    {
+      "title": "Advanced Cloud Automation",
+      "isShow": false,
+      "list": [
+        { "text": "Introduction to Cloud Automation", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Setup & Configuration", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Best Practices", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Integration Techniques", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Performance Optimization", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Ongoing Maintenance", "isPlay": false, "isDoc": true, "isLoc": true }
+      ]
+    },
+    {
+      "title": "Cloud Fundamentals",
+      "isShow": false,
+      "list": [
+        { "text": "Introduction to Cloud Services", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Service Setup and Configuration", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Key Concepts and Practices", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Maintenance and Support", "isPlay": false, "isDoc": true, "isLoc": true },
+        { "text": "Scalability and Cost Optimization", "isPlay": true, "isDoc": false, "isLoc": true },
+        { "text": "Continuous Improvement", "isPlay": false, "isDoc": true, "isLoc": true }
+      ]
+    }
+  ]
+}

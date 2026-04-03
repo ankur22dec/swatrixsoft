@@ -1,0 +1,781 @@
+{
+  "serviceOne": [
+    {
+      "sectionTitle": "Style One.",
+      "body": [
+        {
+          "title": "Innovative IT Consulting",
+          "desc": "Leverage our expert IT consulting to unlock digital potential and drive business transformation.",
+          "img": "/images/icons/card-icon-1.png",
+          "bgOne": true,
+          "bgTwo": false,
+          "bgThree": false,
+          "bgFour": false
+        },
+        {
+          "title": "Seamless Integration",
+          "desc": "Our seamless integration services connect your systems and streamline your digital operations.",
+          "img": "/images/icons/card-icon-2.png",
+          "bgTwo": true,
+          "bgOne": false,
+          "bgThree": false,
+          "bgFour": false
+        },
+        {
+          "title": "Custom Software Solutions",
+          "desc": "Tailored software development to meet your unique business challenges.",
+          "img": "/images/icons/card-icon-3.png",
+          "bgThree": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgFour": false
+        },
+        {
+          "title": "Real-Time Support",
+          "desc": "Access dedicated support and rapid problem resolution to keep your systems running smoothly.",
+          "img": "/images/icons/card-icon-4.png",
+          "bgFour": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgThree": false
+        }
+      ]
+    }
+  ],
+  "serviceTwo": [
+    {
+      "sectionTitle": "Style Two.",
+      "body": [
+        {
+          "title": "Web Development",
+          "desc": "Build responsive, high-performance websites tailored for your business.",
+          "img": "/images/service/service-01.png"
+        },
+        {
+          "title": "App Development",
+          "desc": "Create mobile applications that deliver seamless user experiences.",
+          "img": "/images/service/service-02.png"
+        },
+        {
+          "title": "Cloud Solutions",
+          "desc": "Implement scalable cloud architectures that drive efficiency and innovation.",
+          "img": "/images/service/service-03.png"
+        }
+      ]
+    }
+  ],
+  "serviceThree": [
+    {
+      "sectionTitle": "Style Three.",
+      "body": [
+        {
+          "title": "Full-Stack Development",
+          "desc": "Our full-stack services cover everything from front-end design to back-end functionality.",
+          "img": "/images/service/service-06.png",
+          "bgOne": true,
+          "bgTwo": false,
+          "bgThree": false,
+          "bgFour": false
+        },
+        {
+          "title": "Technical Support",
+          "desc": "Reliable technical support to ensure your systems are always optimized.",
+          "img": "/images/service/service-05.png",
+          "bgTwo": true,
+          "bgOne": false,
+          "bgThree": false,
+          "bgFour": false
+        },
+        {
+          "title": "Digital Transformation",
+          "desc": "Transform your business with modern IT strategies and innovative solutions.",
+          "img": "/images/service/service-03.png",
+          "bgThree": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgFour": false
+        },
+        {
+          "title": "User Experience Design",
+          "desc": "Craft intuitive digital experiences that engage and delight your customers.",
+          "img": "/images/service/service-04.png",
+          "bgFour": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgThree": false
+        }
+      ]
+    }
+  ],
+  "serviceFour": [
+    {
+      "sectionTitle": "Style Four.",
+      "body": [
+        {
+          "title": "Cloud Computing",
+          "course": 5,
+          "img": "/images/shape/icon-01.png"
+        },
+        {
+          "title": "Data Analytics",
+          "course": 40,
+          "img": "/images/shape/icon-02.png"
+        },
+        {
+          "title": "Project Management",
+          "course": 60,
+          "img": "/images/shape/icon-03.png"
+        },
+        {
+          "title": "UI/UX Design",
+          "course": 20,
+          "img": "/images/shape/icon-04.png"
+        },
+        {
+          "title": "Cybersecurity",
+          "course": 20,
+          "img": "/images/shape/icon-05.png"
+        },
+        {
+          "title": "Digital Marketing",
+          "course": 20,
+          "img": "/images/shape/icon-06.png"
+        },
+        {
+          "title": "Business Intelligence",
+          "course": 25,
+          "img": "/images/shape/icon-07.png"
+        },
+        {
+          "title": "Software Engineering",
+          "course": 10,
+          "img": "/images/shape/icon-08.png"
+        }
+      ]
+    }
+  ],
+  "serviceFive": [
+    {
+      "sectionTitle": "Style Five.",
+      "body": [
+        {
+          "title": "Your Consultation",
+          "desc": "Connect with our IT experts to discuss tailored solutions for your business.",
+          "img": "/images/icons/001-bulb.png"
+        },
+        {
+          "title": "We Connect",
+          "desc": "Our team collaborates with you to integrate innovative digital strategies.",
+          "img": "/images/icons/002-hat.png"
+        },
+        {
+          "title": "Project Kickoff",
+          "desc": "Get ready to launch your digital transformation journey with our expert guidance.",
+          "img": "/images/icons/003-id-card.png"
+        },
+        {
+          "title": "Modern Skills",
+          "desc": "Equip your team with the latest IT skills and best practices.",
+          "img": "/images/icons/004-pass.png"
+        }
+      ]
+    }
+  ],
+  "serviceSix": [
+    {
+      "sectionTitle": "Style Six.",
+      "body": [
+        {
+          "title": "Grow Confident",
+          "desc": "Boost your business performance with our tailored IT solutions.",
+          "img": "/images/shape/service-01.png",
+          "bgOne": true,
+          "bgTwo": false,
+          "bgThree": false,
+          "bgFour": false
+        },
+        {
+          "title": "Achieve Excellence",
+          "desc": "Our expert team ensures top-quality execution for every project.",
+          "img": "/images/shape/service-04.png",
+          "bgTwo": true,
+          "bgOne": false,
+          "bgThree": false,
+          "bgFour": false
+        },
+        {
+          "title": "Innovative Solutions",
+          "desc": "We deliver innovative IT solutions that drive growth and efficiency.",
+          "img": "/images/shape/service-03.png",
+          "bgThree": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgFour": false
+        },
+        {
+          "title": "Modern Expertise",
+          "desc": "Stay ahead with cutting-edge technologies and industry best practices.",
+          "img": "/images/shape/service-02.png",
+          "bgFour": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgThree": false
+        }
+      ]
+    }
+  ],
+  "serviceSaven": [
+    {
+      "sectionTitle": "Style Seven.",
+      "title": "What will you learn after partnering with us?",
+      "desc": "Explore the comprehensive range of digital strategies and IT best practices that our experts deliver.",
+      "body": [
+        {
+          "title": "Digital Strategy",
+          "desc": "Learn to craft forward-thinking strategies that drive digital innovation.",
+          "img": "/images/shape/service-01.png",
+          "bgOne": true,
+          "bgTwo": false,
+          "bgThree": false,
+          "bgFour": false,
+          "bgFive": false
+        },
+        {
+          "title": "Software Development",
+          "desc": "Master the art of building custom software solutions tailored to your business.",
+          "img": "/images/shape/service-04.png",
+          "bgTwo": true,
+          "bgOne": false,
+          "bgThree": false,
+          "bgFour": false,
+          "bgFive": false
+        },
+        {
+          "title": "Cloud Technologies",
+          "desc": "Understand cloud integration and migration to optimize your IT infrastructure.",
+          "img": "/images/shape/service-03.png",
+          "bgThree": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgFour": false,
+          "bgFive": false
+        },
+        {
+          "title": "Cybersecurity",
+          "desc": "Learn essential cybersecurity measures to protect your digital assets.",
+          "img": "/images/shape/service-02.png",
+          "bgFour": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgThree": false,
+          "bgFive": false
+        },
+        {
+          "title": "IT Communication",
+          "desc": "Enhance your team’s collaboration with modern communication strategies.",
+          "img": "/images/shape/service-05.png",
+          "bgFive": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgThree": false,
+          "bgFour": false
+        }
+      ]
+    }
+  ],
+  "serviceEight": [
+    {
+      "sectionTitle": "Style Eight.",
+      "body": [
+        {
+          "title": "Web Development",
+          "img": "/images/category/image/web-design.jpg"
+        },
+        {
+          "title": "Graphic Design",
+          "img": "/images/category/image/graphic-design.jpg"
+        },
+        {
+          "title": "Software Engineering",
+          "img": "/images/category/image/software.jpg"
+        },
+        {
+          "title": "Mobile Applications",
+          "img": "/images/category/image/mobile.jpg"
+        },
+        {
+          "title": "Digital Marketing",
+          "img": "/images/category/image/finance.jpg"
+        },
+        {
+          "title": "Creative Arts",
+          "img": "/images/category/image/arts.jpg"
+        }
+      ]
+    }
+  ],
+  "serviceNine": [
+    {
+      "sectionTitle": "Style Nine.",
+      "body": [
+        {
+          "title": "Advanced IT Consulting",
+          "desc": "Our expert consultants provide insights that drive digital transformation and enterprise growth.",
+          "img": "/images/icons/card-icon-1.png",
+          "bgOne": true,
+          "bgTwo": false,
+          "bgThree": false,
+          "bgFour": false,
+          "list": [
+            {
+              "text": "570+ Expert Sessions",
+              "icon": "feather-youtube"
+            },
+            {
+              "text": "35+ Industry Topics",
+              "icon": "feather-book"
+            },
+            {
+              "text": "Live Consultations",
+              "icon": "feather-video"
+            },
+            {
+              "text": "Comprehensive Strategy Guides",
+              "icon": "feather-info"
+            }
+          ]
+        },
+        {
+          "title": "Scalable Digital Strategies",
+          "desc": "Develop and implement scalable digital strategies that drive efficiency and growth.",
+          "img": "/images/icons/card-icon-2.png",
+          "bgTwo": true,
+          "bgOne": false,
+          "bgThree": false,
+          "bgFour": false,
+          "list": [
+            {
+              "text": "370+ Expert Sessions",
+              "icon": "feather-youtube"
+            },
+            {
+              "text": "120+ Topics Covered",
+              "icon": "feather-book"
+            },
+            {
+              "text": "Live Consultations",
+              "icon": "feather-video"
+            },
+            {
+              "text": "Detailed Strategy Guides",
+              "icon": "feather-info"
+            }
+          ]
+        },
+        {
+          "title": "Custom Software Development",
+          "desc": "Tailor-made software solutions built to meet your unique business requirements.",
+          "img": "/images/icons/card-icon-3.png",
+          "bgThree": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgFour": false,
+          "list": [
+            {
+              "text": "125+ Successful Projects",
+              "icon": "feather-youtube"
+            },
+            {
+              "text": "12+ Technology Stacks",
+              "icon": "feather-book"
+            },
+            {
+              "text": "Live Project Demos",
+              "icon": "feather-video"
+            },
+            {
+              "text": "End-to-End Development Guides",
+              "icon": "feather-info"
+            }
+          ]
+        },
+        {
+          "title": "24/7 Enterprise Support",
+          "desc": "Round-the-clock support to ensure your IT systems operate smoothly and reliably.",
+          "img": "/images/icons/card-icon-4.png",
+          "bgFour": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgThree": false,
+          "list": [
+            {
+              "text": "124+ Support Sessions",
+              "icon": "feather-youtube"
+            },
+            {
+              "text": "56+ Service Topics",
+              "icon": "feather-book"
+            },
+            {
+              "text": "Live Assistance",
+              "icon": "feather-video"
+            },
+            {
+              "text": "Comprehensive Support Guides",
+              "icon": "feather-info"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "serviceTen": [
+    {
+      "sectionTitle": "Style Ten.",
+      "body": [
+        {
+          "title": "Enterprise IT Solutions",
+          "desc": "Our enterprise plans offer robust IT services including custom development, cloud integration, and strategic consulting to accelerate your digital transformation.",
+          "img": "/images/service/service-01.png",
+          "listLeft": [
+            {
+              "text": "125+ Expert Sessions",
+              "icon": "feather-youtube"
+            },
+            {
+              "text": "12+ In-Depth Modules",
+              "icon": "feather-book"
+            }
+          ],
+          "listRight": [
+            {
+              "text": "Live Consultations",
+              "icon": "feather-video"
+            },
+            {
+              "text": "Detailed Implementation Guides",
+              "icon": "feather-info"
+            }
+          ]
+        },
+        {
+          "title": "Cloud Integration & Migration",
+          "desc": "Streamline your operations with our cloud integration and migration services, designed to boost efficiency and scalability.",
+          "img": "/images/service/service-02.png",
+          "listLeft": [
+            {
+              "text": "785+ Expert Sessions",
+              "icon": "feather-youtube"
+            },
+            {
+              "text": "95+ Comprehensive Modules",
+              "icon": "feather-book"
+            }
+          ],
+          "listRight": [
+            {
+              "text": "Live Demos",
+              "icon": "feather-video"
+            },
+            {
+              "text": "Step-by-Step Guides",
+              "icon": "feather-info"
+            }
+          ]
+        },
+        {
+          "title": "Digital Strategy Consulting",
+          "desc": "Receive expert consulting on digital transformation, tailored to your business needs.",
+          "img": "/images/service/service-03.png",
+          "listLeft": [
+            {
+              "text": "123+ Expert Sessions",
+              "icon": "feather-youtube"
+            },
+            {
+              "text": "85+ Strategic Modules",
+              "icon": "feather-book"
+            }
+          ],
+          "listRight": [
+            {
+              "text": "Live Consultations",
+              "icon": "feather-video"
+            },
+            {
+              "text": "Actionable Roadmaps",
+              "icon": "feather-info"
+            }
+          ]
+        },
+        {
+          "title": "IT Certification & Training",
+          "desc": "Enhance your skills with our industry-recognized IT certification and training programs.",
+          "img": "/images/service/service-03.png",
+          "listLeft": [
+            {
+              "text": "150+ Expert Sessions",
+              "icon": "feather-youtube"
+            },
+            {
+              "text": "26+ Specialized Modules",
+              "icon": "feather-book"
+            }
+          ],
+          "listRight": [
+            {
+              "text": "Live Workshops",
+              "icon": "feather-video"
+            },
+            {
+              "text": "Comprehensive Exam Prep",
+              "icon": "feather-info"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "serviceEleven": [
+    {
+      "sectionTitle": "Style Eleven.",
+      "body": [
+        {
+          "title": "Corporate IT Consulting",
+          "imgFront": "/images/flip/corporate-01-front.jpg",
+          "img": "/images/flip/corporate-01-back.jpg",
+          "desc": "Our corporate IT consulting services empower businesses with strategies to streamline operations and drive innovation.",
+          "bgOne": true,
+          "bgTwo": false,
+          "bgThree": false,
+          "bgFour": false,
+          "list": [
+            {
+              "text": "Enterprise Solutions",
+              "icon": "feather-briefcase"
+            },
+            {
+              "text": "Digital Strategy",
+              "icon": "feather-trending-up"
+            },
+            {
+              "text": "Process Optimization",
+              "icon": "feather-sliders"
+            },
+            {
+              "text": "Cloud Migration",
+              "icon": "feather-cloud"
+            },
+            {
+              "text": "Cybersecurity",
+              "icon": "feather-shield"
+            }
+          ]
+        },
+        {
+          "title": "Managed IT Services",
+          "imgFront": "/images/flip/corporate-02-front.jpg",
+          "img": "/images/flip/corporate-02-back.jpg",
+          "desc": "Our managed IT services ensure your systems remain secure, efficient, and always up-to-date.",
+          "bgTwo": true,
+          "bgOne": false,
+          "bgThree": false,
+          "bgFour": false,
+          "list": [
+            {
+              "text": "24/7 Monitoring",
+              "icon": "feather-watch"
+            },
+            {
+              "text": "Proactive Maintenance",
+              "icon": "feather-settings"
+            },
+            {
+              "text": "Expert Support",
+              "icon": "feather-headphones"
+            },
+            {
+              "text": "Scalable Solutions",
+              "icon": "feather-server"
+            },
+            {
+              "text": "Data Backup & Recovery",
+              "icon": "feather-database"
+            }
+          ]
+        },
+        {
+          "title": "Cloud & Digital Solutions",
+          "imgFront": "/images/flip/corporate-03-front.jpg",
+          "img": "/images/flip/corporate-03-back.jpg",
+          "desc": "Leverage cutting-edge cloud and digital technologies to propel your business forward with scalable, secure solutions.",
+          "bgThree": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgFour": false,
+          "list": [
+            {
+              "text": "Cloud Integration",
+              "icon": "feather-cloud"
+            },
+            {
+              "text": "Digital Transformation",
+              "icon": "feather-smartphone"
+            },
+            {
+              "text": "IT Optimization",
+              "icon": "feather-bar-chart-2"
+            },
+            {
+              "text": "Business Intelligence",
+              "icon": "feather-activity"
+            },
+            {
+              "text": "Cybersecurity Solutions",
+              "icon": "feather-lock"
+            }
+          ]
+        },
+        {
+          "title": "IT Project Management",
+          "imgFront": "/images/flip/corporate-04-front.jpg",
+          "img": "/images/flip/corporate-04-back.jpg",
+          "desc": "Our project management services ensure that your IT initiatives are delivered on time, within budget, and to the highest quality standards.",
+          "bgFour": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgThree": false,
+          "list": [
+            {
+              "text": "Agile Methodologies",
+              "icon": "feather-rotate-cw"
+            },
+            {
+              "text": "Risk Management",
+              "icon": "feather-alert-triangle"
+            },
+            {
+              "text": "Resource Allocation",
+              "icon": "feather-users"
+            },
+            {
+              "text": "Budget Optimization",
+              "icon": "feather-dollar-sign"
+            },
+            {
+              "text": "Timely Delivery",
+              "icon": "feather-clock"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "serviceTwelve": [
+    {
+      "sectionTitle": "Style Twelve.",
+      "body": [
+        {
+          "title": "Enterprise IT Solutions",
+          "desc": "Our enterprise plans offer robust IT services including custom development, cloud integration, and strategic consulting to accelerate your digital transformation.",
+          "img": "/images/service/service-01.png",
+          "listLeft": [
+            {
+              "text": "125+ Expert Sessions",
+              "icon": "feather-youtube"
+            },
+            {
+              "text": "12+ In-Depth Modules",
+              "icon": "feather-book"
+            }
+          ],
+          "listRight": [
+            {
+              "text": "Live Consultations",
+              "icon": "feather-video"
+            },
+            {
+              "text": "Detailed Implementation Guides",
+              "icon": "feather-info"
+            }
+          ]
+        },
+        {
+          "title": "Cloud Integration & Migration",
+          "desc": "Streamline your operations with our cloud integration and migration services, designed to boost efficiency and scalability.",
+          "img": "/images/service/service-02.png",
+          "listLeft": [
+            {
+              "text": "785+ Expert Sessions",
+              "icon": "feather-youtube"
+            },
+            {
+              "text": "95+ Comprehensive Modules",
+              "icon": "feather-book"
+            }
+          ],
+          "listRight": [
+            {
+              "text": "Live Demos",
+              "icon": "feather-video"
+            },
+            {
+              "text": "Step-by-Step Guides",
+              "icon": "feather-info"
+            }
+          ]
+        },
+        {
+          "title": "Digital Strategy Consulting",
+          "desc": "Receive expert consulting on digital transformation, tailored to your business needs.",
+          "img": "/images/service/service-03.png",
+          "listLeft": [
+            {
+              "text": "123+ Expert Sessions",
+              "icon": "feather-youtube"
+            },
+            {
+              "text": "85+ Strategic Modules",
+              "icon": "feather-book"
+            }
+          ],
+          "listRight": [
+            {
+              "text": "Live Consultations",
+              "icon": "feather-video"
+            },
+            {
+              "text": "Actionable Roadmaps",
+              "icon": "feather-info"
+            }
+          ]
+        },
+        {
+          "title": "IT Certification & Training",
+          "desc": "Enhance your skills with our industry-recognized IT certification and training programs.",
+          "img": "/images/service/service-03.png",
+          "listLeft": [
+            {
+              "text": "150+ Expert Sessions",
+              "icon": "feather-youtube"
+            },
+            {
+              "text": "26+ Specialized Modules",
+              "icon": "feather-book"
+            }
+          ],
+          "listRight": [
+            {
+              "text": "Live Workshops",
+              "icon": "feather-video"
+            },
+            {
+              "text": "Comprehensive Exam Prep",
+              "icon": "feather-info"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "headerTopOne": [
+    {
+      "insFollowers": 1,
+      "fbFollowers": 2,
+      "type": "Followers",
+      "phone": "7976930931, 7073875630",
+      "introPrice": "",
+      "badgeText": "Swatrixsoft",
+      "limit": "Limited Time Offer",
+      "img": "/images/icons/hand-emojji.svg",
+      "language": [
+        {
+          "defaultTitle": "English",
+          "img": "/images/icons/en-us.png",
+          "link": "#",
+          "subLng": [
+            {
+              "name": "Français",
+              "img": "/images/icons/fr.png",
+              "link": "#"
+            },
+            {
+              "name": "Deutsch",
+              "img": "/images/icons/de.png",
+              "link": "#"
+            }
+          ]
+        }
+      ],
+      "currency": [
+        {
+          "defaultCurrency": "USD",
+          "link": "#",
+          "subCurr": [
+            {
+              "currency": "EUR",
+              "link": "#"
+            },
+            {
+              "currency": "GBP",
+              "link": "#"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

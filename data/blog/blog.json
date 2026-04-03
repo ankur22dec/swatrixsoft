@@ -1,0 +1,256 @@
+{
+  "breadCrumb": [
+    {
+      "title": "Transforming Businesses with Custom Software Solutions",
+      "desc": "Discover how Swatrixsoft delivers innovative IT solutions that drive digital transformation.",
+      "img": "/images/testimonial/client-06.png",
+      "name": "Ravi Kumar",
+      "position": "CTO",
+      "date": "15 Dec 2024"
+    }
+  ],
+  "blogList": [
+    {
+      "id": 1,
+      "title": "Cloud Migration Strategies for Modern Enterprises",
+      "desc": "Essential guide to seamless cloud transformation and digital modernization.",
+      "img": "/images/blog/blog-single-03.jpg",
+      "addImg": "/images/blog/blog-bl-02.jpg",
+      "imgPoster": "/images/blog/blog-single-03.jpg",
+      "authorImg": "/images/testimonial/testimonial-7.jpg",
+      "name": "Ravi Kumar",
+      "position": "Cloud Architect",
+      "date": "15 Dec 2024"
+    },
+    {
+      "id": 2,
+      "title": "AI-Powered Business Intelligence Solutions",
+      "desc": "Leveraging artificial intelligence to unlock actionable business insights.",
+      "img": "/images/blog/blog-card-02.jpg",
+      "addImg": "/images/blog/blog-bl-02.jpg",
+      "imgPoster": "/images/blog/blog-single-01.png",
+      "authorImg": "/images/testimonial/testimonial-8.jpg",
+      "name": "Anjali Sharma",
+      "position": "AI Specialist",
+      "date": "12 Dec 2024"
+    },
+    {
+      "id": 3,
+      "title": "Cybersecurity Best Practices for Digital Transformation",
+      "desc": "Protecting your digital assets during enterprise modernization.",
+      "img": "/images/blog/blog-card-03.jpg",
+      "addImg": "/images/blog/blog-bl-02.jpg",
+      "imgPoster": "/images/blog/blog-single-02.png",
+      "authorImg": "/images/testimonial/testimonial-5.jpg",
+      "name": "Suresh Gupta",
+      "position": "Security Expert",
+      "date": "10 Dec 2024"
+    },
+    {
+      "id": 4,
+      "title": "Microservices Architecture: Building Scalable Applications",
+      "desc": "Modern approaches to creating flexible and maintainable software systems.",
+      "img": "/images/blog/blog-card-04.jpg",
+      "addImg": "/images/blog/blog-single-02.png",
+      "imgPoster": "/images/blog/blog-single-04.png",
+      "authorImg": "/images/testimonial/testimonial-4.jpg",
+      "name": "Priya Singh",
+      "position": "Software Architect",
+      "date": "08 Dec 2024"
+    },
+    {
+      "id": 5,
+      "title": "DevOps Implementation for Continuous Delivery",
+      "desc": "Streamlining development workflows with automated CI/CD pipelines.",
+      "img": "/images/blog/blog-card-05.jpg",
+      "addImg": "/images/blog/blog-single-01.png",
+      "imgPoster": "/images/blog/blog-single-02.png",
+      "authorImg": "/images/testimonial/testimonial-3.jpg",
+      "name": "Deepak Mehta",
+      "position": "DevOps Engineer",
+      "date": "05 Dec 2024"
+    },
+    {
+      "id": 6,
+      "title": "Mobile App Development Trends in 2024",
+      "desc": "Latest technologies and frameworks shaping mobile application development.",
+      "img": "/images/blog/blog-card-06.jpg",
+      "addImg": "/images/blog/blog-single-04.png",
+      "imgPoster": "/images/blog/blog-single-01.png",
+      "authorImg": "/images/testimonial/testimonial-1.jpg",
+      "name": "Neha Reddy",
+      "position": "Mobile Developer",
+      "date": "03 Dec 2024"
+    },
+    {
+      "id": 7,
+      "title": "Data Analytics and Machine Learning Integration",
+      "desc": "Transforming raw data into intelligent business decisions.",
+      "img": "/images/blog/blog-card-07.jpg",
+      "addImg": "/images/blog/blog-single-04.png",
+      "imgPoster": "/images/blog/blog-single-01.png",
+      "authorImg": "/images/testimonial/testimonial-2.jpg",
+      "name": "Amit Patel",
+      "position": "Data Scientist",
+      "date": "01 Dec 2024"
+    },
+    {
+      "id": 8,
+      "title": "API-First Development Strategies",
+      "desc": "Building robust and scalable APIs for modern applications.",
+      "img": "/images/blog/blog-single-04.png",
+      "addImg": "/images/blog/blog-single-02.png",
+      "imgPoster": "/images/blog/blog-single-01.png",
+      "authorImg": "/images/testimonial/testimonial-6.jpg",
+      "name": "Sunita Verma",
+      "position": "Backend Developer",
+      "date": "28 Nov 2024"
+    },
+    {
+      "id": 9,
+      "title": "Blockchain Technology in Enterprise Solutions",
+      "desc": "Exploring decentralized solutions for business transparency and security.",
+      "img": "/images/blog/blog-grid-01.jpg",
+      "addImg": "/images/blog/blog-single-04.png",
+      "imgPoster": "/images/blog/blog-single-01.png",
+      "authorImg": "/images/testimonial/testimonial-8.jpg",
+      "name": "Vikram Joshi",
+      "position": "Blockchain Developer",
+      "date": "25 Nov 2024"
+    },
+    {
+      "id": 10,
+      "title": "IoT Solutions for Smart Business Operations",
+      "desc": "Connecting devices and systems for intelligent automation.",
+      "img": "/images/blog/blog-grid-03.jpg",
+      "addImg": "/images/blog/blog-single-04.png",
+      "imgPoster": "/images/blog/blog-single-01.png",
+      "authorImg": "/images/testimonial/testimonial-5.jpg",
+      "name": "Kiran Desai",
+      "position": "IoT Specialist",
+      "date": "22 Nov 2024"
+    },
+    {
+      "id": 11,
+      "title": "Progressive Web Apps: The Future of Web Development",
+      "desc": "Creating app-like experiences with modern web technologies.",
+      "img": "/images/blog/blog-grid-04.jpg",
+      "addImg": "/images/blog/blog-single-04.png",
+      "imgPoster": "/images/blog/blog-single-01.png",
+      "authorImg": "/images/testimonial/testimonial-3.jpg",
+      "name": "Rajesh Mehta",
+      "position": "Frontend Developer",
+      "date": "20 Nov 2024"
+    },
+    {
+      "id": 12,
+      "title": "Digital Transformation ROI Measurement",
+      "desc": "Quantifying the business value of technology investments.",
+      "img": "/images/blog/blog-grid-05.jpg",
+      "addImg": "/images/blog/blog-bl-02.jpg",
+      "imgPoster": "/images/blog/blog-single-01.png",
+      "authorImg": "/images/testimonial/testimonial-4.jpg",
+      "name": "Neha Gupta",
+      "position": "Business Analyst",
+      "date": "18 Nov 2024"
+    },
+    {
+      "id": 13,
+      "title": "Low-Code Development Platforms Revolution",
+      "desc": "Accelerating application development with visual programming tools.",
+      "img": "/images/blog/blog-grid-06.jpg",
+      "addImg": "/images/blog/blog-single-02.png",
+      "imgPoster": "/images/blog/blog-single-04.png",
+      "authorImg": "/images/testimonial/testimonial-7.jpg",
+      "name": "Vijay Reddy",
+      "position": "Solution Architect",
+      "date": "15 Nov 2024"
+    },
+    {
+      "id": 14,
+      "title": "Enterprise Resource Planning Modernization",
+      "desc": "Upgrading legacy ERP systems for digital-first operations.",
+      "img": "/images/blog/blog-grid-07.jpg",
+      "addImg": "/images/blog/blog-single-04.png",
+      "imgPoster": "/images/blog/blog-single-01.png",
+      "authorImg": "/images/testimonial/testimonial-6.jpg",
+      "name": "Rohan Sharma",
+      "position": "ERP Consultant",
+      "date": "12 Nov 2024"
+    }
+  ],
+  "blogGrid": [
+    {
+      "id": 15,
+      "title": "Serverless Computing: Cost-Effective Scalability",
+      "desc": "Leveraging serverless architecture for efficient resource utilization.",
+      "img": "/images/blog/blog-card-01.jpg",
+      "addImg": "/images/blog/blog-bl-02.jpg",
+      "imgPoster": "/images/blog/blog-single-03.jpg",
+      "authorImg": "/images/testimonial/testimonial-1.jpg",
+      "name": "Ayesha Khan",
+      "position": "Cloud Engineer",
+      "date": "10 Nov 2024"
+    },
+    {
+      "id": 16,
+      "title": "Agile Project Management in IT",
+      "desc": "Implementing agile methodologies for successful project delivery.",
+      "img": "/images/blog/blog-card-02.jpg",
+      "addImg": "/images/blog/blog-bl-02.jpg",
+      "imgPoster": "/images/blog/blog-single-01.png",
+      "authorImg": "/images/testimonial/testimonial-2.jpg",
+      "name": "Sonia Patel",
+      "position": "Project Manager",
+      "date": "08 Nov 2024"
+    },
+    {
+      "id": 17,
+      "title": "Database Optimization for High Performance",
+      "desc": "Advanced techniques for improving database speed and efficiency.",
+      "img": "/images/blog/blog-card-03.jpg",
+      "addImg": "/images/blog/blog-bl-02.jpg",
+      "imgPoster": "/images/blog/blog-single-02.png",
+      "authorImg": "/images/testimonial/testimonial-3.jpg",
+      "name": "Christopher Lisa",
+      "position": "Database Administrator",
+      "date": "05 Nov 2024"
+    },
+    {
+      "id": 18,
+      "title": "User Experience Design for Enterprise Applications",
+      "desc": "Creating intuitive interfaces for complex business software.",
+      "img": "/images/blog/blog-card-04.jpg",
+      "addImg": "/images/blog/blog-bl-02.jpg",
+      "imgPoster": "/images/blog/blog-single-02.png",
+      "authorImg": "/images/testimonial/testimonial-4.jpg",
+      "name": "Mames Mary",
+      "position": "UX Designer",
+      "date": "03 Nov 2024"
+    },
+    {
+      "id": 19,
+      "title": "Quality Assurance in Software Development",
+      "desc": "Ensuring reliability and performance through comprehensive testing.",
+      "img": "/images/blog/blog-grid-01.jpg",
+      "addImg": "/images/blog/blog-single-01.png",
+      "imgPoster": "/images/blog/blog-single-02.png",
+      "authorImg": "/images/testimonial/testimonial-5.jpg",
+      "name": "Soseph Sara",
+      "position": "QA Engineer",
+      "date": "01 Nov 2024"
+    },
+    {
+      "id": 20,
+      "title": "IT Infrastructure Monitoring and Management",
+      "desc": "Proactive system monitoring for optimal performance and uptime.",
+      "img": "/images/blog/blog-grid-02.jpg",
+      "addImg": "/images/blog/blog-single-04.png",
+      "imgPoster": "/images/blog/blog-single-01.png",
+      "authorImg": "/images/testimonial/testimonial-6.jpg",
+      "name": "Christopher",
+      "position": "System Administrator",
+      "date": "29 Oct 2024"
+    }
+  ]
+}

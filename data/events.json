@@ -1,0 +1,393 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Swatrixsoft IT Innovation Summit 2024",
+      "category": "Digital Transformation",
+      "tag": "Swatrixsoft",
+      "img": "/images/event/grid-type-01.jpg",
+      "eventImg": "/images/course/course-01.jpg",
+      "price": 70,
+      "offPrice": 120,
+      "location": "IAC Building",
+      "time": "8:00 am - 5:00 pm",
+      "badgeDate": "11 Jan",
+      "badgeYear": "2024",
+      "desc": "Join industry leaders at the Swatrixsoft IT Innovation Summit, where cutting-edge digital solutions and transformative IT strategies are unveiled. Learn how modern enterprises are leveraging technology to drive growth and competitive advantage.",
+      "descTwo": "Explore breakthrough innovations in web and app development, robust LMS integrations, and comprehensive digital marketing strategies that empower businesses to excel in today’s digital economy.",
+      "eventContent": [
+        {
+          "listItem": "Key insights from leading IT experts."
+        },
+        {
+          "listItem": "Live demonstrations of innovative digital solutions."
+        },
+        {
+          "listItem": "Case studies on successful IT transformations."
+        },
+        {
+          "listItem": "Interactive workshops on scalable system design."
+        },
+        {
+          "listItem": "Networking opportunities with industry pioneers."
+        },
+        {
+          "listItem": "Guidance on integrating LMS and marketing platforms."
+        },
+        {
+          "listItem": "Strategies to optimize operational efficiency."
+        },
+        {
+          "listItem": "Future trends in digital transformation."
+        }
+      ],
+      "eventDescription": [
+        {
+          "listItem": "In-depth sessions covering modern IT strategies."
+        },
+        {
+          "listItem": "Hands-on workshops demonstrating full-stack solutions."
+        },
+        {
+          "listItem": "Interactive panels with industry innovators."
+        },
+        {
+          "listItem": "Actionable insights to transform your digital presence."
+        }
+      ],
+      "eventFaq": [
+        {
+          "title": "What is Swatrixsoft IT Innovation Summit?",
+          "desc": "Our annual summit gathers IT leaders and innovators to share insights on digital transformation and IT best practices. It’s a platform to learn about emerging technologies and network with experts.",
+          "collapsed": true,
+          "isShow": true,
+          "expand": true
+        },
+        {
+          "title": "Who should attend?",
+          "desc": "The event is ideal for IT professionals, business executives, and decision-makers looking to enhance their digital strategies and adopt innovative technologies.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "What topics will be covered?",
+          "desc": "Topics range from web and app development, LMS integration, and digital marketing to advanced IT infrastructure and cloud-based solutions.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "How can I register?",
+          "desc": "Registration is available online through our official event portal. Secure your spot today to join the digital revolution.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Event Details?",
+          "desc": "For full details, including the agenda and speaker lineup, please visit our event page.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        }
+      ],
+      "eventParticipants": [
+        {
+          "name": "pushpendra kushwaha",
+          "img": "/images/team/team-01.jpg",
+          "type": "IT Consultant",
+          "location": "CO Miego, AD, USA",
+          "desc": "A seasoned IT consultant with a passion for digital innovation and enterprise solutions."
+        },
+        {
+          "name": "pushpendra kushwaha",
+          "img": "/images/team/team-02.jpg",
+          "type": "Digital Strategist",
+          "location": "CO Miego, AD, USA",
+          "desc": "Expert in crafting digital strategies that drive business growth and competitive advantage."
+        }
+      ],
+      "eventSimilar": [
+        {
+          "title": "Swatrixsoft IT Innovation Summit 2024",
+          "category": "Digital Transformation",
+          "eventImg": "/images/event/grid-type-01.jpg",
+          "location": "IAC Building",
+          "time": "8:00 am - 5:00 pm",
+          "badgeDate": "11 Jan",
+          "badgeYear": "2024"
+        },
+        {
+          "title": "Swatrixsoft Tech Expo 2024",
+          "category": "Digital Transformation",
+          "eventImg": "/images/event/grid-type-02.jpg",
+          "location": "Vancouver",
+          "time": "8:00 am - 5:00 pm",
+          "badgeDate": "9 Mar",
+          "badgeYear": "2024"
+        }
+      ],
+      "roadmap": [
+        { "text": "Start Date", "desc": "25 Jan, 2024" },
+        { "text": "Start Time", "desc": "7:00 PM" },
+        { "text": "End Date", "desc": "25 Jan, 2024" },
+        { "text": "Skill Level", "desc": "Basic" },
+        { "text": "Ongoing", "desc": "1000+" },
+        { "text": "Location", "desc": "USA" },
+        { "text": "Certificate", "desc": "Yes" },
+        { "text": "Language", "desc": "English" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Elegant Digital Showcase: Interactive IT Demonstrations",
+      "category": "Mobile Application",
+      "tag": "Showcase",
+      "img": "/images/event/grid-type-04.jpg",
+      "eventImg": "/images/course/course-04.jpg",
+      "price": 60,
+      "offPrice": 90,
+      "location": "IAC Building",
+      "time": "8:00 am - 5:00 pm",
+      "badgeDate": "8 Jan",
+      "badgeYear": "2024",
+      "desc": "Experience an elegant display of digital innovation with our interactive IT demonstrations. Witness how cutting-edge technologies and modern design converge to create immersive digital experiences.",
+      "descTwo": "Discover the power of integrated solutions that combine mobile application development with advanced user interfaces and seamless functionality.",
+      "eventContent": [
+        {
+          "listItem": "Hands-on sessions on digital innovation."
+        },
+        {
+          "listItem": "Live demos of mobile and web solutions."
+        },
+        {
+          "listItem": "Insights into scalable IT infrastructures."
+        },
+        {
+          "listItem": "Interactive Q&A sessions with experts."
+        },
+        {
+          "listItem": "Workshops on integrating LMS and marketing strategies."
+        },
+        {
+          "listItem": "Real-world case studies and success stories."
+        },
+        {
+          "listItem": "Strategies for optimizing digital performance."
+        },
+        {
+          "listItem": "Emerging trends in IT and cloud solutions."
+        }
+      ],
+      "eventDescription": [
+        {
+          "listItem": "In-depth demonstrations of modern digital solutions."
+        },
+        {
+          "listItem": "Live performance metrics and success stories."
+        },
+        {
+          "listItem": "Practical insights into scalable mobile applications."
+        },
+        {
+          "listItem": "Guidance on integrating digital marketing strategies."
+        }
+      ],
+      "eventFaq": [
+        {
+          "title": "What is the focus of this showcase?",
+          "desc": "This showcase highlights our latest innovations in mobile and web application development, emphasizing interactive design and user-centric solutions.",
+          "collapsed": true,
+          "isShow": true,
+          "expand": true
+        },
+        {
+          "title": "Who should attend?",
+          "desc": "The event is designed for business leaders, IT professionals, and digital innovators seeking to leverage modern technologies for competitive advantage.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "What topics will be covered?",
+          "desc": "Topics include mobile application development, user interface design, digital transformation strategies, and integrated IT solutions.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "How do I participate?",
+          "desc": "Simply register online to secure your spot and join us for a day of immersive digital experiences.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Additional Details?",
+          "desc": "For a complete agenda and list of speakers, please visit our official event page.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        }
+      ],
+      "eventParticipants": [
+        {
+          "name": "pushpendra kushwaha",
+          "img": "/images/team/team-06.jpg",
+          "type": "Lead Developer",
+          "location": "CO Miego, AD, USA",
+          "desc": "A passionate innovator dedicated to creating immersive digital experiences."
+        },
+        {
+          "name": "pushpendra kushwaha",
+          "img": "/images/team/team-05.jpg",
+          "type": "Project Manager",
+          "location": "CO Miego, AD, USA",
+          "desc": "Ensuring every project is executed flawlessly from concept to launch."
+        }
+      ],
+      "eventSimilar": [
+        {
+          "title": "Swatrixsoft IT Innovation Summit 2024",
+          "category": "Mobile Application",
+          "eventImg": "/images/event/grid-type-04.jpg",
+          "location": "IAC Building",
+          "time": "8:00 am - 5:00 pm",
+          "badgeDate": "11 Jan",
+          "badgeYear": "2024"
+        },
+        {
+          "title": "Swatrixsoft IT Expo 2024",
+          "category": "Mobile Application",
+          "eventImg": "/images/event/grid-type-05.jpg",
+          "location": "Vancouver",
+          "time": "8:00 am - 5:00 pm",
+          "badgeDate": "9 Mar",
+          "badgeYear": "2024"
+        }
+      ],
+      "roadmap": [
+        { "text": "Start Date", "desc": "25 Jan, 2024" },
+        { "text": "Start Time", "desc": "7:00 PM" },
+        { "text": "End Date", "desc": "25 Jan, 2024" },
+        { "text": "Skill Level", "desc": "Basic" },
+        { "text": "Ongoing", "desc": "1000+" },
+        { "text": "Location", "desc": "USA" },
+        { "text": "Certificate", "desc": "Yes" },
+        { "text": "Language", "desc": "English" }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Swatrixsoft IT Expo 2024",
+      "category": "Full Stack",
+      "tag": "Innovation",
+      "img": "/images/event/grid-type-03.jpg",
+      "eventImg": "/images/course/course-03.jpg",
+      "price": 50,
+      "offPrice": 100,
+      "location": "Paris",
+      "time": "8:00 am - 5:00 pm",
+      "badgeDate": "1 Oct",
+      "badgeYear": "2024",
+      "desc": "Swatrixsoft presents its annual IT Expo, where industry pioneers share insights on digital transformation, innovative IT strategies, and full-stack development. Join us to explore practical solutions that drive business success.",
+      "descTwo": "Experience live demonstrations, interactive workshops, and keynote sessions that highlight the future of digital innovation. Our expo is designed to inspire and inform, providing you with the tools to excel in a rapidly evolving tech landscape.",
+      "eventContent": [
+        { "listItem": "Insightful sessions on digital transformation." },
+        { "listItem": "Live demos of full-stack development solutions." },
+        { "listItem": "Interactive workshops on cloud and IT strategies." },
+        { "listItem": "Networking opportunities with industry experts." }
+      ],
+      "eventDescription": [
+        { "listItem": "Learn from leading IT professionals." },
+        { "listItem": "Experience real-time innovation through live demos." },
+        { "listItem": "Discover strategies to enhance your digital presence." },
+        { "listItem": "Gain actionable insights into IT best practices." }
+      ],
+      "eventFaq": [
+        {
+          "title": "What is Swatrixsoft IT Expo?",
+          "desc": "Swatrixsoft IT Expo is an annual event that gathers digital innovators and IT leaders to discuss trends, challenges, and opportunities in the digital landscape.",
+          "collapsed": true,
+          "isShow": true,
+          "expand": true
+        },
+        {
+          "title": "Who should attend the Expo?",
+          "desc": "The expo is tailored for IT professionals, business leaders, and digital enthusiasts looking to stay ahead in the fast-evolving tech world.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "What topics will be covered?",
+          "desc": "Sessions will cover digital transformation, full-stack development, cloud integration, and future IT trends.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "How do I register?",
+          "desc": "Registration is available online via our event portal. Secure your spot today and be part of the digital revolution.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Additional Information?",
+          "desc": "For a complete agenda and speaker details, please visit our official event page.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        }
+      ],
+      "eventParticipants": [
+        {
+          "name": "pushpendra kushwaha",
+          "img": "/images/team/team-03.jpg",
+          "type": "Lead Developer",
+          "location": "CO Miego, AD, USA",
+          "desc": "A visionary leader in digital innovation, driving transformative IT solutions."
+        },
+        {
+          "name": "pushpendra kushwaha",
+          "img": "/images/team/team-02.jpg",
+          "type": "Project Manager",
+          "location": "CO Miego, AD, USA",
+          "desc": "Expert in managing complex IT projects, ensuring seamless execution and high client satisfaction."
+        }
+      ],
+      "eventSimilar": [
+        {
+          "title": "Swatrixsoft IT Innovation Summit 2024",
+          "category": "Full Stack",
+          "eventImg": "/images/event/grid-type-01.jpg",
+          "location": "IAC Building",
+          "time": "8:00 am - 5:00 pm",
+          "badgeDate": "11 Jan",
+          "badgeYear": "2024"
+        },
+        {
+          "title": "Swatrixsoft Tech Expo 2024",
+          "category": "Full Stack",
+          "eventImg": "/images/event/grid-type-02.jpg",
+          "location": "Vancouver",
+          "time": "8:00 am - 5:00 pm",
+          "badgeDate": "9 Mar",
+          "badgeYear": "2024"
+        }
+      ],
+      "roadmap": [
+        { "text": "Start Date", "desc": "15 Oct, 2024" },
+        { "text": "Start Time", "desc": "8:00 am" },
+        { "text": "End Date", "desc": "15 Oct, 2024" },
+        { "text": "Skill Level", "desc": "Intermediate" },
+        { "text": "Ongoing", "desc": "500+" },
+        { "text": "Location", "desc": "Paris" },
+        { "text": "Certificate", "desc": "Yes" },
+        { "text": "Language", "desc": "English" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "menuData": [
+    {
+      "menuTitle": "Dashboard",
+      "menuType": "default-dropdown",
+      "hasMegamenu": false,
+      "hasMenuChild": true,
+      "hasPositionStatic": false,
+      "hasDropdown": true,
+      "menuItems": [
+        {
+          "title": "Instructor Dashboard",
+          "hasSubmenu": true,
+          "submenuItems": [
+            {
+              "title": "Dashboard",
+              "link": "/instructor-dashboard"
+            },
+            {
+              "title": "Profile",
+              "link": "/instructor-profile"
+            },
+            {
+              "title": "Enrolled Courses",
+              "link": "/instructor-enrolled-course"
+            },
+            {
+              "title": "Wishlist",
+              "link": "/instructor-wishlist"
+            },
+            {
+              "title": "Reviews",
+              "link": "/dashboinstructorard/instructor-reviews"
+            },
+            {
+              "title": "My Quiz Attempts",
+              "link": "/instructor-quiz-attempts"
+            },
+            {
+              "title": "Order History",
+              "link": "/instructor-order-history"
+            },
+            {
+              "title": "My Course",
+              "link": "/instructor-personal-courses"
+            },
+            {
+              "title": "Announcements",
+              "link": "/instructor-announcements"
+            },
+            {
+              "title": "Assignments",
+              "link": "/instructor-assignments"
+            },
+            {
+              "title": "Settings",
+              "link": "/instructor-settings"
+            }
+          ]
+        },
+        {
+          "title": "Student Dashboard",
+          "hasSubmenu": true,
+          "submenuItems": [
+            {
+              "title": "Dashboard",
+              "link": "/student-dashboard"
+            },
+            {
+              "title": "Profile",
+              "link": "/student-profile"
+            },
+            {
+              "title": "Enrolled Courses",
+              "link": "/student-enrolled-course"
+            },
+            {
+              "title": "Wishlist",
+              "link": "/student-wishlist"
+            },
+            {
+              "title": "Reviews",
+              "link": "/student-reviews"
+            },
+            {
+              "title": "My Quiz Attempts",
+              "link": "/student-quiz-attempts"
+            },
+            {
+              "title": "Order History",
+              "link": "/student-order-history"
+            },
+            {
+              "title": "Settings",
+              "link": "/student-settings"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menuTitle": "Courses",
+      "menuType": "grid-item-2",
+      "hasMegamenu": true,
+      "hasMenuChild": true,
+      "hasPositionStatic": true,
+      "gridItem": 2,
+      "submenuBanner": [
+        {
+          "title": "Developer hub",
+          "description": "Start building fast, with code samples, key resources and more."
+        }
+      ],
+      "menuFooterItems": [
+        {
+          "title": "Quick Start Guide",
+          "link": "#"
+        },
+        {
+          "title": "For Open Source",
+          "link": "#"
+        },
+        {
+          "title": "API Status",
+          "link": "#"
+        },
+        {
+          "title": "Support",
+          "link": "#"
+        }
+      ],
+      "menuItems": [
+        {
+          "title": "Filter One Toggle",
+          "link": "/course-filter-one-toggle"
+        },
+        {
+          "title": "Filter One Open",
+          "link": "/course-filter-one-open"
+        },
+        {
+          "title": "Filter Two Toggle",
+          "link": "/course-filter-two-toggle"
+        },
+        {
+          "title": "Filter Two Open",
+          "link": "/course-filter-two-open"
+        },
+        {
+          "title": "Course With Tab",
+          "link": "/course-with-tab"
+        },
+        {
+          "title": "Course With Tab Two",
+          "link": "/course-with-tab-two"
+        },
+        {
+          "title": "Course Card Two",
+          "link": "/course-card-2"
+        },
+        {
+          "title": "Course Card Three",
+          "link": "/course-card-3"
+        },
+        {
+          "title": "Course Masonry",
+          "link": "/course-masonry"
+        },
+        {
+          "title": "Course With Sidebar",
+          "link": "/course-with-sidebar"
+        },
+        {
+          "title": "Course Details",
+          "link": "/course-details"
+        },
+        {
+          "title": "Course Details Two",
+          "link": "/course-details-two"
+        },
+        {
+          "title": "Course Lesson",
+          "link": "/lesson",
+          "subTitle": "New"
+        },
+        {
+          "title": "Create Course",
+          "link": "/create-course",
+          "subTitle": "New"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Pages",
+      "menuType": "grid-item-4",
+      "hasMegamenu": true,
+      "hasMenuChild": true,
+      "hasPositionStatic": true,
+      "gridMenuItems1": [
+        {
+          "title": "About Us",
+          "link": "/about-us-01"
+        },
+        {
+          "title": "About Us 02",
+          "link": "/about-us-02"
+        },
+        {
+          "title": "Event Grid",
+          "link": "/event-grid"
+        },
+        {
+          "title": "Event List",
+          "link": "/event-list"
+        },
+        {
+          "title": "Event Sidebar",
+          "link": "/event-sidebar"
+        },
+        {
+          "title": "Event Details",
+          "link": "/event-details"
+        },
+        {
+          "title": "Website Development",
+          "link": "/academy-gallery"
+        },
+        {
+          "title": "Admission Guide",
+          "link": "/admission-guide"
+        }
+      ],
+      "gridMenuItems2": [
+        {
+          "title": "Profile",
+          "link": "/profile"
+        },
+        {
+          "title": "Contact Us",
+          "link": "/contact"
+        },
+        {
+          "title": "Hire Team",
+          "link": "/hireteam"
+        },
+        {
+          "title": "Become a Teacher",
+          "link": "/become-a-teacher"
+        },
+        {
+          "title": "Instructor",
+          "link": "/elements/team"
+        },
+        {
+          "title": "FAQS",
+          "link": "/faqs"
+        },
+        {
+          "title": "Privacy Policy",
+          "link": "/privacy-policy"
+        },
+        {
+          "title": "404 Page",
+          "link": "/404"
+        },
+        {
+          "title": "Maintenance",
+          "link": "/maintenance"
+        }
+      ],
+      "gridMenuItems3": [
+        {
+          "title": "Shop",
+          "link": "/shop",
+          "badgeText": "Sale Anything"
+        },
+        {
+          "title": "Single Product",
+          "link": "/single-product"
+        },
+        {
+          "title": "Cart Page",
+          "link": "/cart"
+        },
+        {
+          "title": "Checkout",
+          "link": "/checkout"
+        },
+        {
+          "title": "Wishlist Page",
+          "link": "/wishlist"
+        },
+        {
+          "title": "My Account",
+          "link": "/my-account"
+        },
+        {
+          "title": "Login & Register",
+          "link": "/login"
+        },
+        {
+          "title": "Subscription",
+          "link": "/subscription"
+        }
+      ],
+      "gridMenuItems4": [
+        {
+          "title": "Online Education",
+          "link": "/course-filter-one-toggle",
+          "image": "/images/course/category-2.png"
+        },
+        {
+          "title": "Language Club",
+          "link": "/course-filter-one-toggle",
+          "image": "/images/course/category-1.png"
+        },
+        {
+          "title": "University Status",
+          "link": "/course-filter-one-toggle",
+          "image": "/images/course/category-4.png"
+        },
+        {
+          "title": "Course School",
+          "link": "/course-filter-one-toggle"
+        },
+        {
+          "title": "Academy",
+          "link": "/course-filter-one-toggle",
+          "image": "/images/course/category-9.png"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Elements",
+      "menuType": "grid-item-3",
+      "hasMegamenu": true,
+      "hasMenuChild": true,
+      "hasPositionStatic": true,
+      "menuItems": [
+        {
+          "id": 1,
+          "title": "Style Guide",
+          "link": "/elements/style-guide",
+          "badgeText": "Hot"
+        },
+        {
+          "id": 2,
+          "title": "Accordion",
+          "link": "/elements/accordion"
+        },
+        {
+          "id": 3,
+          "title": "Advance Tab",
+          "link": "/elements/advance-tab"
+        },
+        {
+          "id": 4,
+          "title": "About",
+          "link": "/elements/about",
+          "badgeText": "New"
+        },
+        {
+          "id": 5,
+          "title": "Brand",
+          "link": "/elements/brand"
+        },
+        {
+          "id": 6,
+          "title": "Button",
+          "link": "/elements/button"
+        },
+        {
+          "id": 7,
+          "title": "Badge",
+          "link": "/elements/badge"
+        },
+        {
+          "id": 8,
+          "title": "Card",
+          "link": "/elements/card"
+        },
+        {
+          "id": 9,
+          "title": "& More Coming",
+          "link": "#"
+        },
+        {
+          "id": 10,
+          "title": "Call To Action",
+          "link": "/elements/call-to-action"
+        },
+        {
+          "id": 11,
+          "title": "Counter",
+          "link": "/elements/counter"
+        },
+        {
+          "id": 12,
+          "title": "Categories",
+          "link": "/elements/categories"
+        },
+        {
+          "id": 13,
+          "title": "Header Style",
+          "link": "/elements/header-style"
+        },
+        {
+          "id": 14,
+          "title": "Newsletter",
+          "link": "/elements/newsletter"
+        },
+        {
+          "id": 15,
+          "title": "Team",
+          "link": "/elements/team"
+        },
+        {
+          "id": 16,
+          "title": "Social",
+          "link": "/elements/social"
+        },
+        {
+          "id": 17,
+          "title": "List Style",
+          "link": "/elements/list-style"
+        },
+        {
+          "id": 18,
+          "title": "& More Coming",
+          "link": "#"
+        },
+        {
+          "id": 19,
+          "title": "Gallery",
+          "link": "/elements/gallery"
+        },
+        {
+          "id": 20,
+          "title": "Pricing",
+          "link": "/elements/pricing"
+        },
+        {
+          "id": 21,
+          "title": "Progressbar",
+          "link": "/elements/progressbar"
+        },
+        {
+          "id": 22,
+          "title": "Testimonial",
+          "link": "/elements/testimonial"
+        },
+        {
+          "id": 22,
+          "title": "Service",
+          "link": "/elements/service"
+        },
+        {
+          "id": 23,
+          "title": "Split Area",
+          "link": "/elements/split"
+        },
+        {
+          "id": 24,
+          "title": "Search Style",
+          "link": "/elements/search"
+        },
+        {
+          "id": 25,
+          "title": "Instagram Style",
+          "link": "/elements/instagram"
+        },
+        {
+          "id": 26,
+          "title": "& More Coming",
+          "link": "#"
+        }
+      ],
+      "submenuFooterText": "Visit swatrixsoft Template"
+    },
+    {
+      "menuTitle": "Blog",
+      "menuType": "grid-item-5",
+      "hasMegamenu": true,
+      "hasMenuChild": true,
+      "hasPositionStatic": true,
+      "hasSideBanner": true,
+      "bannerImage": "/images/service/mobile-cat.jpg",
+      "menuItems": [
+        {
+          "id": 1,
+          "title": "Blog List",
+          "link": "/blog-list"
+        },
+        {
+          "id": 2,
+          "title": "Blog Grid",
+          "link": "/blog-grid"
+        },
+        {
+          "id": 3,
+          "title": "Blog Grid Minimal",
+          "link": "/blog-grid-minimal"
+        },
+        {
+          "id": 4,
+          "title": "Blog With Sidebar",
+          "link": "/blog-with-sidebar"
+        },
+        {
+          "id": 5,
+          "title": "Blog Details",
+          "link": "/blog-details"
+        },
+        {
+          "id": 6,
+          "title": "Post Format Standard",
+          "link": "/post-format-standard"
+        },
+        {
+          "id": 7,
+          "title": "Post Format Gallery",
+          "link": "/post-format-gallery"
+        },
+        {
+          "id": 8,
+          "title": "Post Format Quote",
+          "link": "/post-format-quote"
+        },
+        {
+          "id": 9,
+          "title": "Post Format Audio",
+          "link": "/post-format-audio"
+        },
+        {
+          "id": 10,
+          "title": "Post Format Video",
+          "link": "/post-format-video"
+        },
+        {
+          "id": 11,
+          "title": "Media Under Title",
+          "link": "#",
+          "coming": "Coming"
+        },
+        {
+          "id": 12,
+          "title": "Sticky Sidebar",
+          "link": "#",
+          "coming": "Coming"
+        },
+        {
+          "id": 13,
+          "title": "Auto Masonry",
+          "link": "#",
+          "coming": "Coming"
+        },
+        {
+          "id": 14,
+          "title": "Meta Overlaid",
+          "link": "#",
+          "coming": "Coming"
+        }
+      ]
+    }
+  ]
+}

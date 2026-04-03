@@ -1,0 +1,399 @@
+/* ============================================
+   CASE STUDY PAGE STYLES
+   ============================================ */
+
+.rbt-page-banner-area {
+  padding: 60px 0 40px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.banner-content {
+  padding-right: 40px;
+}
+
+.page-title {
+  font-size: 42px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 20px;
+  line-height: 1.2;
+}
+
+.subtitle-desc {
+  font-size: 18px;
+  color: #555;
+  line-height: 1.6;
+}
+
+.case-meta {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.meta-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #4a90e2 0%, #7b68ee 100%);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 25px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.banner-image {
+  position: relative;
+}
+
+.banner-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Case Study Sections */
+.rbt-case-study-section {
+  padding: 80px 0;
+}
+
+.bg-color-white {
+  background-color: #ffffff;
+}
+
+.bg-color-extra2 {
+  background-color: #f9f9ff;
+}
+
+.bg-gradient-cta {
+  background: linear-gradient(135deg, #4a90e2 0%, #7b68ee 100%);
+  color: white;
+}
+
+.section-title {
+  margin-bottom: 60px;
+}
+
+.section-title h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 15px;
+}
+
+/* Challenge List */
+.challenge-list {
+  list-style: none;
+  padding: 0;
+}
+
+.challenge-list li {
+  padding: 15px 0;
+  border-bottom: 1px solid #eee;
+  font-size: 16px;
+  line-height: 1.8;
+  color: #555;
+}
+
+.challenge-list li:first-child {
+  padding-top: 0;
+}
+
+.challenge-list li strong {
+  color: #1a1a1a;
+  font-weight: 700;
+}
+
+/* Case Content */
+.case-content {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #555;
+}
+
+.case-content p {
+  margin-bottom: 20px;
+}
+
+.subtitle-heading {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+/* Tech Stack Grid */
+.tech-stack-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.tech-item-box {
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+}
+
+.tech-item-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(74, 144, 226, 0.2);
+  border-color: #4a90e2;
+}
+
+.tech-item-box h6 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 10px;
+}
+
+.tech-item-box p {
+  font-size: 14px;
+  color: #777;
+  margin: 0;
+}
+
+/* Features List */
+.features-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.features-list li {
+  padding: 15px;
+  background: white;
+  border-radius: 8px;
+  border-left: 4px solid #4a90e2;
+  font-size: 15px;
+  color: #555;
+}
+
+/* Results Grid */
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
+.result-card {
+  background: linear-gradient(135deg, #4a90e2 0%, #7b68ee 100%);
+  color: white;
+  padding: 40px 25px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(74, 144, 226, 0.2);
+  transition: all 0.3s ease;
+}
+
+.result-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 40px rgba(74, 144, 226, 0.3);
+}
+
+.result-number {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.result-label {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.result-card p {
+  font-size: 14px;
+  opacity: 0.95;
+  margin: 0;
+}
+
+/* Benefits List */
+.benefits-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  gap: 12px;
+}
+
+.benefits-list li {
+  padding-left: 30px;
+  position: relative;
+  font-size: 15px;
+  color: #555;
+  line-height: 1.6;
+}
+
+.benefits-list li:before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #4a90e2;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+/* CTA Section */
+.rbt-cta-area {
+  padding: 80px 0;
+}
+
+.rbt-cta-content {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.cta-title {
+  font-size: 36px;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.cta-description {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.8;
+}
+
+.rbt-button-group {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.btn-white {
+  background: white !important;
+  color: #4a90e2 !important;
+  font-weight: 600;
+  padding: 14px 40px;
+  border-radius: 8px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+
+.btn-white:hover {
+  background: #f0f0f0 !important;
+  transform: translateY(-3px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .page-title {
+    font-size: 28px;
+  }
+
+  .subtitle-desc {
+    font-size: 16px;
+  }
+
+  .banner-content {
+    padding-right: 0;
+    margin-bottom: 30px;
+  }
+
+  .rbt-case-study-section {
+    padding: 50px 0;
+  }
+
+  .section-title h2 {
+    font-size: 28px;
+  }
+
+  .case-meta {
+    gap: 10px;
+  }
+
+  .meta-badge {
+    font-size: 12px;
+    padding: 6px 12px;
+  }
+
+  .results-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  .result-card {
+    padding: 30px 20px;
+  }
+
+  .result-number {
+    font-size: 36px;
+  }
+
+  .tech-stack-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .features-list {
+    grid-template-columns: 1fr;
+  }
+
+  .cta-title {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 576px) {
+  .page-title {
+    font-size: 24px;
+  }
+
+  .subtitle-desc {
+    font-size: 14px;
+  }
+
+  .rbt-case-study-section {
+    padding: 30px 0;
+  }
+
+  .section-title h2 {
+    font-size: 24px;
+  }
+
+  .results-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .result-card {
+    padding: 25px 15px;
+  }
+
+  .result-number {
+    font-size: 32px;
+  }
+
+  .tech-stack-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .case-content {
+    font-size: 14px;
+  }
+
+  .cta-title {
+    font-size: 22px;
+  }
+
+  .rbt-button-group {
+    flex-direction: column;
+  }
+
+  .btn-white {
+    width: 100%;
+    text-align: center;
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contactOne": [
+    {
+      "title": "Contact Phone Number",
+      "numOne": "+917976930931",
+      "numTwo": "+917073875630",
+      "icon": "feather-headphones",
+      "address": ""
+    },
+    {
+      "title": "Our Email Address",
+      "mailOne": "swatrixsoft@gmail.com",
+      "mailTwo": "admin@swatrixsoft.com",
+      "icon": "feather-mail",
+      "numOne": "",
+      "address": "",
+      "numTwo": ""
+    },
+    {
+      "title": "Our Location",
+      "address": "443 thegri nagar, chopasani, jodhpur",
+      "icon": "feather-map-pin",
+      "numOne": "",
+      "numTwo": ""
+    }
+  ]
+}

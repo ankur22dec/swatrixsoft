@@ -1,0 +1,144 @@
+<svg viewBox="0 0 600 700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a90e2;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#7b68ee;stop-opacity:0.1" />
+    </linearGradient>
+    <linearGradient id="deviceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7b68ee;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cloudGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff8787;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="700" fill="url(#bgGradient)"/>
+
+  <!-- Floating circles decoration -->
+  <circle cx="100" cy="150" r="80" fill="#4a90e2" opacity="0.05"/>
+  <circle cx="500" cy="600" r="100" fill="#7b68ee" opacity="0.05"/>
+
+  <!-- Laptop/Monitor -->
+  <g transform="translate(150, 200)">
+    <!-- Screen -->
+    <rect x="20" y="10" width="220" height="160" rx="8" fill="url(#deviceGrad)" stroke="#4a90e2" stroke-width="2"/>
+    
+    <!-- Screen content - code lines -->
+    <line x1="35" y1="30" x2="175" y2="30" stroke="white" stroke-width="2" opacity="0.8"/>
+    <line x1="35" y1="50" x2="230" y2="50" stroke="white" stroke-width="1.5" opacity="0.6"/>
+    <line x1="35" y1="65" x2="200" y2="65" stroke="white" stroke-width="1.5" opacity="0.6"/>
+    <line x1="35" y1="80" x2="220" y2="80" stroke="white" stroke-width="1.5" opacity="0.6"/>
+    <line x1="35" y1="95" x2="180" y2="95" stroke="white" stroke-width="1.5" opacity="0.6"/>
+    <line x1="35" y1="110" x2="210" y2="110" stroke="white" stroke-width="1.5" opacity="0.6"/>
+    <line x1="35" y1="125" x2="190" y2="125" stroke="white" stroke-width="1.5" opacity="0.6"/>
+    <line x1="35" y1="140" x2="225" y2="140" stroke="white" stroke-width="1.5" opacity="0.6"/>
+    
+    <!-- Stand -->
+    <rect x="80" y="175" width="100" height="15" rx="4" fill="#333" stroke="#4a90e2" stroke-width="1.5"/>
+    <rect x="105" y="190" width="50" height="35" fill="#444" stroke="#4a90e2" stroke-width="1.5"/>
+  </g>
+
+  <!-- Cloud with network nodes -->
+  <g transform="translate(280, 100)">
+    <!-- Cloud shape -->
+    <path d="M 40 50 Q 30 30 50 20 Q 70 10 80 25 Q 95 15 105 35 Q 115 25 125 40 Q 120 60 105 65 Q 80 75 60 70 Q 40 72 40 50 Z" 
+          fill="url(#cloudGrad)" stroke="#ff6b6b" stroke-width="2"/>
+    
+    <!-- Data points in cloud -->
+    <circle cx="55" cy="45" r="4" fill="white" opacity="0.9"/>
+    <circle cx="75" cy="50" r="4" fill="white" opacity="0.9"/>
+    <circle cx="95" cy="47" r="4" fill="white" opacity="0.9"/>
+    <circle cx="70" cy="35" r="3" fill="white" opacity="0.7"/>
+    <circle cx="85" cy="60" r="3" fill="white" opacity="0.7"/>
+  </g>
+
+  <!-- Phone/Mobile Device -->
+  <g transform="translate(50, 400)">
+    <!-- Phone body -->
+    <rect x="0" y="0" width="80" height="140" rx="6" fill="url(#deviceGrad)" stroke="#4a90e2" stroke-width="2"/>
+    
+    <!-- Screen -->
+    <rect x="8" y="12" width="64" height="110" rx="4" fill="#1a1a1a" stroke="#4a90e2" stroke-width="1"/>
+    
+    <!-- Screen content -->
+    <circle cx="40" cy="35" r="12" fill="#4a90e2" opacity="0.7"/>
+    <rect x="15" y="55" width="50" height="4" rx="2" fill="#4a90e2" opacity="0.7"/>
+    <rect x="15" y="65" width="40" height="3" rx="1.5" fill="#7b68ee" opacity="0.6"/>
+    <rect x="15" y="73" width="45" height="3" rx="1.5" fill="#7b68ee" opacity="0.6"/>
+    <rect x="15" y="81" width="35" height="3" rx="1.5" fill="#4a90e2" opacity="0.5"/>
+    <rect x="15" y="89" width="48" height="3" rx="1.5" fill="#ff6b6b" opacity="0.6"/>
+    
+    <!-- Home button -->
+    <circle cx="40" cy="128" r="4" fill="#666" stroke="#4a90e2" stroke-width="1"/>
+  </g>
+
+  <!-- AI/Brain icon -->
+  <g transform="translate(380, 380)">
+    <!-- Brain/Circuit design -->
+    <circle cx="30" cy="30" r="8" fill="#7b68ee" stroke="#7b68ee" stroke-width="2"/>
+    <circle cx="55" cy="20" r="6" fill="#7b68ee" stroke="#7b68ee" stroke-width="2"/>
+    <circle cx="60" cy="45" r="6" fill="#7b68ee" stroke="#7b68ee" stroke-width="2"/>
+    <circle cx="30" cy="55" r="8" fill="#7b68ee" stroke="#7b68ee" stroke-width="2"/>
+    <circle cx="5" cy="45" r="6" fill="#7b68ee" stroke="#7b68ee" stroke-width="2"/>
+    <circle cx="10" cy="20" r="6" fill="#7b68ee" stroke="#7b68ee" stroke-width="2"/>
+    
+    <!-- Central hub -->
+    <circle cx="30" cy="35" r="5" fill="#4a90e2" stroke="#4a90e2" stroke-width="2"/>
+    
+    <!-- Connecting lines -->
+    <line x1="30" y1="35" x2="30" y2="47" stroke="#7b68ee" stroke-width="1.5" opacity="0.6"/>
+    <line x1="30" y1="35" x2="50" y2="28" stroke="#7b68ee" stroke-width="1.5" opacity="0.6"/>
+    <line x1="30" y1="35" x2="55" y2="45" stroke="#7b68ee" stroke-width="1.5" opacity="0.6"/>
+    <line x1="30" y1="35" x2="20" y2="48" stroke="#7b68ee" stroke-width="1.5" opacity="0.6"/>
+    <line x1="30" y1="35" x2="12" y2="30" stroke="#7b68ee" stroke-width="1.5" opacity="0.6"/>
+  </g>
+
+  <!-- Servers/Database -->
+  <g transform="translate(320, 480)">
+    <!-- Server stack -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="50" height="12" rx="2" fill="#4a90e2" stroke="#4a90e2" stroke-width="1"/>
+      <circle cx="8" cy="6" r="2" fill="#00ff00" opacity="0.9"/>
+      <circle cx="18" cy="6" r="2" fill="#00ff00" opacity="0.9"/>
+      <circle cx="28" cy="6" r="2" fill="#00ff00" opacity="0.8"/>
+    </g>
+    <g transform="translate(0, 16)">
+      <rect x="0" y="0" width="50" height="12" rx="2" fill="#7b68ee" stroke="#7b68ee" stroke-width="1"/>
+      <circle cx="8" cy="6" r="2" fill="#00ff00" opacity="0.9"/>
+      <circle cx="18" cy="6" r="2" fill="#00ff00" opacity="0.9"/>
+      <circle cx="28" cy="6" r="2" fill="#ffaa00" opacity="0.7"/>
+    </g>
+    <g transform="translate(0, 32)">
+      <rect x="0" y="0" width="50" height="12" rx="2" fill="#4a90e2" stroke="#4a90e2" stroke-width="1"/>
+      <circle cx="8" cy="6" r="2" fill="#00ff00" opacity="0.9"/>
+      <circle cx="18" cy="6" r="2" fill="#ff0000" opacity="0.6"/>
+      <circle cx="28" cy="6" r="2" fill="#00ff00" opacity="0.8"/>
+    </g>
+  </g>
+
+  <!-- Lock/Security icon -->
+  <g transform="translate(450, 580)">
+    <!-- Padlock -->
+    <path d="M 20 25 L 20 15 Q 20 5 30 5 Q 40 5 40 15 L 40 25 M 18 25 L 42 25 Q 44 25 44 27 L 44 45 Q 44 47 42 47 L 18 47 Q 16 47 16 45 L 16 27 Q 16 25 18 25 Z" 
+          fill="none" stroke="#ff6b6b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Keyhole -->
+    <circle cx="30" cy="35" r="3" fill="#ff6b6b" stroke="#ff6b6b" stroke-width="1"/>
+    <path d="M 30 38 L 30 42" stroke="#ff6b6b" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Checkmark -->
+  <g transform="translate(120, 580)">
+    <circle cx="25" cy="25" r="22" fill="none" stroke="#4caf50" stroke-width="2"/>
+    <path d="M 15 25 L 22 32 L 35 18" fill="none" stroke="#4caf50" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Text labels -->
+  <text x="300" y="660" font-size="16" font-weight="600" text-anchor="middle" fill="#333">
+    Web • Mobile • Cloud • AI • Security
+  </text>
+</svg>

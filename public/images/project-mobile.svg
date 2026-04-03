@@ -1,0 +1,36 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mobileGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a90e2;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#ff6b6b;stop-opacity:0.2" />
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="400" height="300" fill="url(#mobileGrad)"/>
+  
+  <!-- Mobile Banking App -->
+  <g transform="translate(135, 50)">
+    <!-- Phone frame -->
+    <rect x="0" y="0" width="70" height="120" rx="6" fill="#333" stroke="#4a90e2" stroke-width="2"/>
+    <!-- Screen -->
+    <rect x="6" y="8" width="58" height="104" rx="4" fill="#1a1a1a"/>
+    <!-- Banking UI elements -->
+    <rect x="12" y="15" width="46" height="12" fill="#4a90e2" rx="2"/>
+    <text x="35" y="24" font-size="7" text-anchor="middle" fill="white" font-weight="bold">Balance</text>
+    
+    <circle cx="25" cy="40" r="4" fill="#4caf50" opacity="0.8"/>
+    <rect x="32" y="37" width="20" height="6" fill="#4caf50" opacity="0.6" rx="1"/>
+    
+    <circle cx="25" cy="55" r="4" fill="#ff6b6b" opacity="0.8"/>
+    <rect x="32" y="52" width="20" height="6" fill="#ff6b6b" opacity="0.6" rx="1"/>
+    
+    <!-- Security lock -->
+    <path d="M 28 75 L 28 68 Q 28 65 32 65 Q 36 65 36 68 L 36 75" fill="none" stroke="#ffb300" stroke-width="1"/>
+    <rect x="24" y="75" width="16" height="12" rx="1" fill="none" stroke="#ffb300" stroke-width="1"/>
+    <circle cx="32" cy="82" r="1.5" fill="#ffb300"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="200" y="250" font-size="16" text-anchor="middle" fill="#333" font-weight="bold">Mobile Banking App</text>
+  <text x="200" y="275" font-size="12" text-anchor="middle" fill="#666">Mobile Development</text>
+</svg>

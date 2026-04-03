@@ -1,0 +1,294 @@
+{
+  "accordion": [
+    {
+      "tag": "accordion",
+      "title": "Swatrixsoft Solutions Overview",
+      "subTitle": "Grow your business with us.",
+      "imgOne": "/images/about/about-01.jpg",
+      "imgTwo": "/images/about/about-04.jpg",
+      "accordionBody": [
+        {
+          "collapse": "collapseOne",
+          "heading": "headingOne",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "What is Swatrixsoft? How does it work?",
+          "desc": "Swatrixsoft is a comprehensive IT solutions provider offering web/app development, digital marketing, LMS platforms, and more. We tailor each project to our clients’ unique needs, ensuring scalable and secure digital solutions that drive real results."
+        },
+        {
+          "collapse": "collapseTwo",
+          "heading": "headingTwo",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I get customer support?",
+          "desc": "If you need assistance after purchasing our services or solutions, simply reach out to our support team at support@swatrixsoft.com. We’re here to help with troubleshooting, updates, and general inquiries."
+        },
+        {
+          "collapse": "collapseThree",
+          "heading": "headingThree",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Do you provide regular updates or upgrades?",
+          "desc": "Yes. We continually enhance our services to stay ahead of industry trends. You’ll receive updates, new features, and improvements at no additional cost for the duration of your service plan."
+        },
+        {
+          "collapse": "collapseFour",
+          "heading": "headingFour",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "15 Things to Know About Modern IT Solutions",
+          "desc": "Staying competitive in today’s digital landscape requires constant innovation, security, and a user-centric mindset. Our team of experts is committed to delivering best-in-class IT solutions to help your business thrive."
+        }
+      ]
+    }
+  ],
+
+  "AccordionTwo": [
+    {
+      "tag": "faq",
+      "title": "Have a Question About",
+      "subTitle": "Swatrixsoft Services?",
+      "strong": "We Provide Comprehensive IT Solutions",
+      "description": "Swatrixsoft is a leading provider of end-to-end digital services, from strategy and development to deployment and support. Below are some frequently asked questions about our offerings.",
+      "imgOne": "/images/about/about-01.jpg",
+      "imgTwo": "/images/about/about-10.jpg",
+      "faqBody": [
+        {
+          "collapse": "collapseOne2",
+          "heading": "headingOne2",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "What is Swatrixsoft? How does it work?",
+          "desc": "Swatrixsoft delivers holistic IT services—web development, app creation, digital marketing, LMS solutions—tailored to meet your business objectives. We collaborate closely with clients to ensure each project’s success."
+        },
+        {
+          "collapse": "collapseTwo2",
+          "heading": "headingTwo2",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I get customer support?",
+          "desc": "Our dedicated support team is available via email or phone. After you begin using our services, you’ll receive direct contact details to quickly address any questions or concerns."
+        },
+        {
+          "collapse": "collapseThree2",
+          "heading": "headingThree2",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Are regular updates included?",
+          "desc": "Yes, we continually improve our products and services. You’ll be notified of any updates or enhancements as they become available, ensuring your solution remains current."
+        },
+        {
+          "collapse": "collapseFour2",
+          "heading": "headingFour2",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "15 Things to Know About Digital Solutions",
+          "desc": "Digital solutions can help streamline operations, increase customer engagement, and boost overall efficiency. Our team is dedicated to delivering the highest quality in each of these areas."
+        }
+      ]
+    }
+  ],
+
+  "AccordionThree": [
+    {
+      "tag": "faq",
+      "title": "Have a Question About",
+      "subTitle": "Swatrixsoft Solutions?",
+      "strong": "Empowering Businesses with Technology",
+      "description": "We specialize in delivering scalable, secure, and user-friendly digital products. Below are some of our most common FAQs.",
+      "faqBody": [
+        {
+          "collapse": "collapseOne3",
+          "heading": "headingOne3",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "What is Swatrixsoft? How does it work?",
+          "desc": "Swatrixsoft merges cutting-edge technology with industry best practices to create high-performance solutions. We handle everything from design to deployment, ensuring seamless integration into your existing workflow."
+        },
+        {
+          "collapse": "collapseTwo3",
+          "heading": "headingTwo3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I get the customer support?",
+          "desc": "Our support channels include email, phone, and live chat. Whether you need a quick fix or have a complex query, our support team is always ready to assist."
+        },
+        {
+          "collapse": "collapseThree3",
+          "heading": "headingThree3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Do you provide updates regularly?",
+          "desc": "Absolutely. We regularly refine our solutions to keep them relevant and secure. All updates are communicated to clients in a timely manner."
+        },
+        {
+          "collapse": "collapseFour3",
+          "heading": "headingFour3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "15 Things to Know About Modern IT Services",
+          "desc": "Embracing the latest tech trends is crucial for sustained growth. Our services cover everything from architecture design to post-launch optimization, ensuring your project’s long-term success."
+        }
+      ],
+      "faqBody2": [
+        {
+          "collapse": "collapseOne4",
+          "heading": "headingOne4",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "What is Swatrixsoft? How does it work?",
+          "desc": "Swatrixsoft provides full-stack solutions for businesses of all sizes. Our flexible approach lets you choose the services you need, from web dev to digital marketing."
+        },
+        {
+          "collapse": "collapseTwo4",
+          "heading": "headingTwo4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "10 Brilliant Ways To Promote Your Digital Presence",
+          "desc": "Our marketing experts can guide you through strategies that include SEO, social media outreach, and paid campaigns—ensuring your brand stands out in a crowded marketplace."
+        },
+        {
+          "collapse": "collapseThree4",
+          "heading": "headingThree4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "7 Facts About Tech Innovation That Will Surprise You",
+          "desc": "Staying ahead in tech means continuous learning and adaptation. Our team constantly researches emerging trends, so we can offer cutting-edge solutions to our clients."
+        },
+        {
+          "collapse": "collapseFour4",
+          "heading": "headingFour4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "15 Things to Know About Future-Ready Solutions",
+          "desc": "Whether it’s adopting AI, implementing advanced security protocols, or optimizing for performance, our approach ensures your solutions remain relevant well into the future."
+        }
+      ]
+    }
+  ],
+
+  "AccordionFour": [
+    {
+      "tag": "faq",
+      "title": "Have a Question About",
+      "subTitle": "Swatrixsoft Solutions?",
+      "strong": "We Drive Digital Innovation",
+      "description": "Swatrixsoft focuses on creating reliable, scalable, and user-friendly applications. Below are some frequently asked questions about our process and offerings.",
+      "imgOne": "/images/about/about-03.jpg",
+      "imgTwo": "/images/about/about-11.jpg",
+      "faqBody": [
+        {
+          "collapse": "collapseOne4",
+          "heading": "headingOne4",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "What is Swatrixsoft? How does it work?",
+          "desc": "Swatrixsoft provides integrated solutions for web, mobile, and digital marketing. We design, develop, and deploy projects, ensuring smooth functionality and exceptional user experiences."
+        },
+        {
+          "collapse": "collapseTwo4",
+          "heading": "headingTwo4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I get customer support?",
+          "desc": "Our dedicated support team is available around the clock. Contact us via email or phone, and we’ll promptly address any issue or question you have."
+        },
+        {
+          "collapse": "collapseThree4",
+          "heading": "headingThree4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Are updates included? How often do they occur?",
+          "desc": "Yes. We regularly release updates to improve performance, security, and features. The frequency depends on project requirements and emerging industry standards."
+        },
+        {
+          "collapse": "collapseFour4",
+          "heading": "headingFour4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I implement Swatrixsoft solutions?",
+          "desc": "Our setup is straightforward. We’ll guide you through the initial requirements, environment setup, and deployment steps to ensure a seamless integration."
+        }
+      ]
+    }
+  ],
+  "course": [
+    {
+      "tag": "SERVICE PRICING",
+      "title": "Packages & Fees",
+      "img": "/images/about/about-07.png",
+      "courseBody": [
+        {
+          "collapse": "tutioncollapseOne",
+          "heading": "tutionheadingOne",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "subTitle": "Basic Web Development Package",
+          "text": "Cost Breakdown for 2024",
+          "cost": 500
+        },
+        {
+          "collapse": "tutioncollapseTwo",
+          "heading": "tutionheadingTwo",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "subTitle": "Advanced Mobile App Package",
+          "text": "Eligibility & Cost Breakdown 2024",
+          "cost": 4589
+        },
+        {
+          "collapse": "tutioncollapseThe",
+          "heading": "tutionheadingThree",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "subTitle": "UI/UX Design & Branding",
+          "text": "Service Details & Cost Breakdown 2024",
+          "cost": 1400
+        },
+        {
+          "collapse": "tutioncollapseFour",
+          "heading": "tutionheadingFour",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "subTitle": "Enterprise LMS Solution",
+          "text": "Cost & Feature Breakdown 2024",
+          "cost": 4589
+        },
+        {
+          "collapse": "tutioncollapseFive",
+          "heading": "tutionheadingFive",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "subTitle": "Comprehensive Digital Marketing Suite",
+          "text": "Total Cost Breakdown 2024",
+          "cost": 5000
+        }
+      ]
+    }
+  ]
+}

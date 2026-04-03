@@ -1,0 +1,92 @@
+<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="600" fill="#f8f9fc"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="80" cy="80" r="60" fill="#4a90e2" opacity="0.08"/>
+  <circle cx="520" cy="520" r="80" fill="#7b68ee" opacity="0.08"/>
+  
+  <!-- Benefit 1: Support/Help -->
+  <g transform="translate(60, 80)">
+    <!-- Headset -->
+    <circle cx="40" cy="30" r="18" fill="none" stroke="#4a90e2" stroke-width="2"/>
+    <path d="M 30 45 L 30 55 M 50 45 L 50 55" stroke="#4a90e2" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="30" cy="55" r="5" fill="#4a90e2"/>
+    <circle cx="50" cy="55" r="5" fill="#4a90e2"/>
+    <!-- Icon circle -->
+    <circle cx="40" cy="30" r="28" fill="none" stroke="#4a90e2" stroke-width="1" opacity="0.3"/>
+    <text x="40" y="90" font-size="14" text-anchor="middle" fill="#333" font-weight="600">24/7 Support</text>
+  </g>
+  
+  <!-- Benefit 2: Speed/Rocket -->
+  <g transform="translate(260, 60)">
+    <!-- Rocket -->
+    <path d="M 30 10 L 35 30 L 45 30 L 50 10 Z" fill="#7b68ee"/>
+    <circle cx="40" cy="35" r="6" fill="#ff6b6b"/>
+    <path d="M 30 40 L 25 50 M 50 40 L 55 50" stroke="#ff6b6b" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <!-- Stars (speed) -->
+    <text x="15" y="25" font-size="16" fill="#ffb300">✦</text>
+    <text x="65" y="20" font-size="16" fill="#ffb300">✦</text>
+    <text x="25" y="50" font-size="14" fill="#ffb300">✦</text>
+    <text x="40" y="90" font-size="14" text-anchor="middle" fill="#333" font-weight="600">Fast Delivery</text>
+  </g>
+  
+  <!-- Benefit 3: Quality Check -->
+  <g transform="translate(460, 80)">
+    <!-- Checkmark in circle -->
+    <circle cx="40" cy="30" r="22" fill="none" stroke="#4caf50" stroke-width="2"/>
+    <path d="M 30 32 L 37 40 L 50 25" fill="none" stroke="#4caf50" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Quality indicator -->
+    <circle cx="40" cy="30" r="28" fill="none" stroke="#4caf50" stroke-width="1" opacity="0.3"/>
+    <text x="40" y="90" font-size="14" text-anchor="middle" fill="#333" font-weight="600">Quality Assured</text>
+  </g>
+  
+  <!-- Benefit 4: Innovation -->
+  <g transform="translate(60, 280)">
+    <!-- Light bulb -->
+    <circle cx="40" cy="20" r="12" fill="#ffb300" stroke="#ffa500" stroke-width="1.5"/>
+    <path d="M 32 32 L 32 38 L 48 38 L 48 32" stroke="#ffa500" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <rect x="36" y="38" width="8" height="4" fill="#ffa500"/>
+    <!-- Bulb details -->
+    <path d="M 35 20 Q 30 15 35 10" stroke="#ffb300" stroke-width="1" fill="none" opacity="0.6"/>
+    <text x="40" y="75" font-size="14" text-anchor="middle" fill="#333" font-weight="600">Innovation</text>
+  </g>
+  
+  <!-- Benefit 5: Flexibility -->
+  <g transform="translate(260, 280)">
+    <!-- Flexible curves -->
+    <path d="M 20 40 Q 40 15 60 40" fill="none" stroke="#7b68ee" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 25 50 Q 40 30 55 50" fill="none" stroke="#4a90e2" stroke-width="2" stroke-linecap="round"/>
+    <!-- Flexibility symbol -->
+    <text x="40" y="75" font-size="14" text-anchor="middle" fill="#333" font-weight="600">Flexible</text>
+  </g>
+  
+  <!-- Benefit 6: Trust/Shield -->
+  <g transform="translate(460, 280)">
+    <!-- Shield -->
+    <path d="M 30 15 L 30 35 Q 30 48 40 55 Q 50 48 50 35 L 50 15 Z" 
+          fill="none" stroke="#ff6b6b" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Checkmark inside -->
+    <path d="M 36 35 L 40 40 L 46 30" fill="none" stroke="#ff6b6b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="40" y="75" font-size="14" text-anchor="middle" fill="#333" font-weight="600">Trustworthy</text>
+  </g>
+  
+  <!-- Bottom stat boxes -->
+  <g transform="translate(80, 450)">
+    <rect x="0" y="0" width="80" height="80" rx="8" fill="#4a90e2" opacity="0.1" stroke="#4a90e2" stroke-width="1"/>
+    <text x="40" y="30" font-size="24" text-anchor="middle" fill="#4a90e2" font-weight="bold">500+</text>
+    <text x="40" y="55" font-size="12" text-anchor="middle" fill="#333">Projects</text>
+  </g>
+  
+  <g transform="translate(260, 450)">
+    <rect x="0" y="0" width="80" height="80" rx="8" fill="#7b68ee" opacity="0.1" stroke="#7b68ee" stroke-width="1"/>
+    <text x="40" y="30" font-size="24" text-anchor="middle" fill="#7b68ee" font-weight="bold">98%</text>
+    <text x="40" y="55" font-size="12" text-anchor="middle" fill="#333">Satisfaction</text>
+  </g>
+  
+  <g transform="translate(440, 450)">
+    <rect x="0" y="0" width="80" height="80" rx="8" fill="#ff6b6b" opacity="0.1" stroke="#ff6b6b" stroke-width="1"/>
+    <text x="40" y="30" font-size="20" text-anchor="middle" fill="#ff6b6b" font-weight="bold">10yrs</text>
+    <text x="40" y="55" font-size="12" text-anchor="middle" fill="#333">Experience</text>
+  </g>
+</svg>

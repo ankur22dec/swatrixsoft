@@ -1,0 +1,99 @@
+{
+  "footerOne": [
+    {
+      "description": "Swatrixsoft is your trusted partner in digital transformation. Connect with us for innovative IT solutions that drive business growth.",
+      "phone": "+91-7976930931, 7073875630",
+      "mail": "contact@swatrixsoft.com",
+      "address": "Jodhpur, India",
+      "ourCompany": [
+        {
+          "text": "Home",
+          "link": "/"
+        },
+        {
+          "text": "About Us",
+          "link": "/about-us-01"
+        },
+        {
+          "text": "Portfolio",
+          "link": "/service"
+        },
+        {
+          "text": "Blog/Insights",
+          "link": "/blog-list"
+        },
+        {
+          "text": "Contact",
+          "link": "/contact"
+        }
+      ],
+      "socialLink": [
+        {
+          "icon": "feather-facebook",
+          "link": "https://www.facebook.com/"
+        },
+        {
+          "icon": "feather-twitter",
+          "link": "https://www.twitter.com"
+        },
+        {
+          "icon": "feather-instagram",
+          "link": "https://www.instagram.com/"
+        },
+        {
+          "icon": "feather-linkedin",
+          "link": "https://www.linkedin.com/"
+        }
+      ]
+    }
+  ],
+  "footerTwo": [
+    {
+      "description": "Swatrixsoft empowers enterprises with cutting-edge IT solutions—ranging from digital transformation and cloud integration to bespoke software development.",
+      "descriptionTwo": "Join thousands of clients across India and worldwide who trust Swatrixsoft to drive innovation and optimize digital performance.",
+      "phone": "+91-7976930931, 7073875630",
+      "mail": "support@swatrixsoft.com",
+      "address": "Mumbai, India",
+      "ourCompany": [
+        {
+          "text": "Home",
+          "link": "/"
+        },
+        {
+          "text": "About Us",
+          "link": "/about-us-01"
+        },
+        {
+          "text": "Portfolio",
+          "link": "/service"
+        },
+        {
+          "text": "Blog/Insights",
+          "link": "/blog-list"
+        },
+        {
+          "text": "Contact",
+          "link": "/contact"
+        }
+      ],
+      "socialLink": [
+        {
+          "icon": "feather-facebook",
+          "link": "https://www.facebook.com/"
+        },
+        {
+          "icon": "feather-twitter",
+          "link": "https://www.twitter.com"
+        },
+        {
+          "icon": "feather-instagram",
+          "link": "https://www.instagram.com/"
+        },
+        {
+          "icon": "feather-linkedin",
+          "link": "https://www.linkedin.com/"
+        }
+      ]
+    }
+  ]
+}

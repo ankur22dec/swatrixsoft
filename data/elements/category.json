@@ -1,0 +1,58 @@
+{
+  "categoryItemOne": [
+    { "text": "Enterprise Software",                "link": "/enterprise-software" },
+    { "text": "Web Development",                    "link": "/web-development" },
+    { "text": "Software Product Development",       "link": "/software-product-development" },
+    { "text": "UI/UX Design Services",              "link": "/ui-ux-design-services" },
+    { "text": "DevOps",                             "link": "/devops" },
+    { "text": "Internet of Things (IoT)",           "link": "/internet-of-things" },
+    { "text": "Machine Learning",                   "link": "/machine-learning" }
+  ],
+  "categoryItemTwo": [
+    { "text": "Mobile App Development",             "link": "/mobile-app-development" },
+    { "text": "MVP Development",                    "link": "/mvp-development" },
+    { "text": "eCommerce Development",              "link": "/ecommerce-development" },
+    { "text": "App Modernization Services",         "link": "/app-modernization-services" },
+    { "text": "Blockchain",                         "link": "/blockchain" },
+    { "text": "Business Intelligence",              "link": "/business-intelligence" }
+  ],
+  "categoryItemThree": [
+    { "text": "Artificial Intelligence",            "link": "/artificial-intelligence" },
+    { "text": "AI Consulting",                      "link": "/ai-consulting" },
+    { "text": "AI Model Fine‑Tuning",                "link": "/ai-model-fine-tuning" },
+    { "text": "AI Proof‑of‑Concept (POC)",           "link": "/ai-poc" },
+    { "text": "AI‑Powered MVPs",                    "link": "/ai-powered-mvps" },
+    { "text": "RPA Development",                    "link": "/rpa-development" },
+    { "text": "Generative AI",                      "link": "/generative-ai" }
+  ],
+  "categoryItemFour": [
+    { "text": "On‑Demand App Development",          "link": "/on-demand-app-development" },
+    { "text": "OTT Platform Development",           "link": "/ott-platform-development" },
+    { "text": "Food Delivery App",                  "link": "/food-delivery-app" },
+    { "text": "Travel App Development",             "link": "/travel-app-development" },
+    { "text": "Taxi App Development",               "link": "/taxi-app-development" },
+    { "text": "Custom‑Algo Solutions",              "link": "/custom-algo-solutions" }
+  ],
+  "categoryItemFive": [
+    { "text": "Automated Testing Services",         "link": "/automated-testing-services" },
+    { "text": "Software Testing",                   "link": "/software-testing" },
+    { "text": "Mobile Testing",                     "link": "/mobile-testing" },
+    { "text": "Support & Maintenance",              "link": "/support-maintenance" }
+  ],
+  "categoryItemSix": [
+    { "text": "Shipping API Integration",           "link": "/shipping-api-integration" },
+    { "text": "Payment API Integration",            "link": "/payment-api-integration" },
+    { "text": "Social Networking API Integration",  "link": "/social-networking-api-integration" }
+  ],
+  "categoryItemSeven": [
+    { "text": "IT Consulting",                      "link": "/it-consulting" },
+    { "text": "Product Auditing",                   "link": "/product-auditing" },
+    { "text": "Startup Consulting",                 "link": "/startup-consulting" },
+    { "text": "Software Outsourcing",               "link": "/software-outsourcing" }
+  ],
+  "categoryItemEight": [
+    { "text": "SEO Services",                       "link": "/seo-services" },
+    { "text": "SMO Services",                       "link": "/smo-services" },
+    { "text": "Content Marketing",                  "link": "/content-marketing" }
+  ]
+}
